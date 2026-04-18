@@ -8,11 +8,11 @@ hero:
 
 By the end of the third day he had learned, or begun to learn, that a ship at sea is a clock made of men. The watches turned over every four hours, the bells every half, the meals three times, and into that rhythm the brig lived as an animal lives in its pasture: she grazed the wind, she was turned and scrubbed, she was fed small corrections at the wheel, and in return she went on going.
 
-Oliver was on the mate's watch. Solvaag did not call his watchmen by name. He called them *you* and *the one at the pin* and *the new man*, which turned out, for the first week, to mean Oliver exclusively. Oliver learned to listen for the pitch of the mate's voice rather than the content of it. The content was always the same: a verb, an object, nothing else. *Trim that. Coil that. Move.* Oliver moved.
+Olav was on the mate's watch. Solvaag did not call his watchmen by name. He called them *you* and *the one at the pin* and *the new man*, which turned out, for the first week, to mean Olav exclusively. Olav learned to listen for the pitch of the mate's voice rather than the content of it. The content was always the same: a verb, an object, nothing else. *Trim that. Coil that. Move.* Olav moved.
 
 The wind held fair. The sea, after the North Sea chop of the first night, lay down into a steady green-grey and stayed there. The brig made seven knots with her royals set and the wind just abaft the beam, and the mate, when he was not giving orders, stood at the weather rail with his hands behind his back and watched the horizon with the expression of a man settling a score in his head.
 
-Captain Gjermund came up at eight bells of the morning watch, always. He came up clean. His beard was combed. His coat was brushed. He stood on the quarterdeck and inspected the deck as if he had not walked across it the day before, and when his eye fell on Oliver he smiled.
+Captain Gjermund came up at eight bells of the morning watch, always. He came up clean. His beard was combed. His coat was brushed. He stood on the quarterdeck and inspected the deck as if he had not walked across it the day before, and when his eye fell on Olav he smiled.
 
 "Mr. Hestby."
 
@@ -32,15 +32,15 @@ Captain Gjermund came up at eight bells of the morning watch, always. He came up
 
 "I believe he has the hands for it."
 
-The captain looked back at Oliver. The smile had not changed. Oliver felt, for the first of what would be many times, the specific quality of that smile — the way it rested on his face like a coat carefully hung. It was not unpleasant. It was a smile such as a schoolmaster gives a child he is about to correct. It was not a lie, exactly. It was only that it did not touch the eyes.
+The captain looked back at Olav. The smile had not changed. Olav felt, for the first of what would be many times, the specific quality of that smile — the way it rested on his face like a coat carefully hung. It was not unpleasant. It was a smile such as a schoolmaster gives a child he is about to correct. It was not a lie, exactly. It was only that it did not touch the eyes.
 
-"Very good, sir," Oliver said.
+"Very good, sir," Olav said.
 
 ---
 
-Breakfast that morning was coffee and herring on dry biscuit. The coffee was excellent. Captain Gjermund, Oliver gathered, would not sail without decent coffee aboard; it was one of his particularities, remarked upon by the crew as evidence of his consideration. The herring was from a keg the steward had broken open the previous afternoon. It was salted and heavy but it was fish. The biscuit was hard but it was not yet old.
+Breakfast that morning was coffee and herring on dry biscuit. The coffee was excellent. Captain Gjermund, Olav gathered, would not sail without decent coffee aboard; it was one of his particularities, remarked upon by the crew as evidence of his consideration. The herring was from a keg the steward had broken open the previous afternoon. It was salted and heavy but it was fish. The biscuit was hard but it was not yet old.
 
-Oliver ate standing up, on the lee side of the deckhouse, with Tolvsen the steward passing among the watch with a tin bucket of coffee and a ladle. Tolvsen was forty years old and as wide as he was tall; he moved around a ship the way a bread-loaf might, if bread could walk. He filled Oliver's cup and looked at him closely.
+Olav ate standing up, on the lee side of the deckhouse, with Tolvsen the steward passing among the watch with a tin bucket of coffee and a ladle. Tolvsen was forty years old and as wide as he was tall; he moved around a ship the way a bread-loaf might, if bread could walk. He filled Olav's cup and looked at him closely.
 
 "You the boy from Finnøy," he said.
 
@@ -52,7 +52,7 @@ Oliver ate standing up, on the lee side of the deckhouse, with Tolvsen the stewa
 
 "I sailed with your father once. On the *Aase*. Coal out of Newcastle, summer of '58."
 
-Oliver said nothing. He had not known this. His father had not mentioned it.
+Olav said nothing. He had not known this. His father had not mentioned it.
 
 "He was a good hand," Tolvsen said. "He went back to the land." There was nothing in the voice; no verdict.
 
@@ -60,7 +60,7 @@ Oliver said nothing. He had not known this. His father had not mentioned it.
 
 "Eat your herring," Tolvsen said, and moved on.
 
-Oliver ate his herring. He thought about his father on a ship, about his father's hand on the back of his neck, about the *Aase* and coal out of Newcastle in the summer of '58, and what it might have meant for a man to come home from a voyage and decide not to make another one. He could not, at eighteen, imagine it. The life of the ship was already in his hands and his back and his mouth; he could not imagine choosing not to have it. But his father had chosen.
+Olav ate his herring. He thought about his father on a ship, about his father's hand on the back of his neck, about the *Aase* and coal out of Newcastle in the summer of '58, and what it might have meant for a man to come home from a voyage and decide not to make another one. He could not, at eighteen, imagine it. The life of the ship was already in his hands and his back and his mouth; he could not imagine choosing not to have it. But his father had chosen.
 
 ---
 
@@ -68,7 +68,7 @@ On the third day out, the bread began to turn.
 
 It did not turn all at once. The biscuit for the forecastle mess came up in a canvas bag from the dry-stores, and when the steward split a loaf down the middle of it a seam of green ran through the center of it like ink through paper. Tolvsen cut the green out with his deck knife, wordlessly, and passed the two halves on. The forecastle ate them without comment.
 
-At the next meal a weevil crossed Oliver's plate. He watched it cross, set down his spoon, picked up the weevil between thumb and forefinger, and flicked it into the scuppers. The man to his left — Kristoffersen, the second mate, a quiet solid man of thirty — watched him do it.
+At the next meal a weevil crossed Olav's plate. He watched it cross, set down his spoon, picked up the weevil between thumb and forefinger, and flicked it into the scuppers. The man to his left — Kristoffersen, the second mate, a quiet solid man of thirty — watched him do it.
 
 "First time?" he said.
 
@@ -76,9 +76,9 @@ At the next meal a weevil crossed Oliver's plate. He watched it cross, set down 
 
 "There will be more."
 
-Oliver went back to his plate. He found the next weevil in his third mouthful of gruel. He crushed it against the roof of his mouth without thinking about it and swallowed it with the rest. He did not tell his stomach what he had done; his stomach found out without him.
+Olav went back to his plate. He found the next weevil in his third mouthful of gruel. He crushed it against the roof of his mouth without thinking about it and swallowed it with the rest. He did not tell his stomach what he had done; his stomach found out without him.
 
-He did not complain. He noticed that nobody complained. Complaint was a thing you did not do in the forecastle of a brig three days out of Stavanger; it marked you as a man who had not yet earned the right to eat. Oliver had not earned the right to anything yet.
+He did not complain. He noticed that nobody complained. Complaint was a thing you did not do in the forecastle of a brig three days out of Stavanger; it marked you as a man who had not yet earned the right to eat. Olav had not earned the right to anything yet.
 
 ---
 
@@ -94,9 +94,9 @@ Tolvsen, who was serving, did not look up. "A little, sir."
 
 "Cut out the green. A sailor's stomach is the best stomach." He smiled at the forecastle at large. "I have eaten worse. My first voyage, gentlemen, was on a Danish bark out of Svendborg, and the biscuit on that ship had more in it than flour. I did not die. You will not die."
 
-The mess made the kind of small sounds of acknowledgment that men make when they are being addressed by a man whose good humor is dangerous. Oliver watched the captain's face. The smile was set where it had been at eight bells that morning. It had not moved. But the eyes, now, were doing a thing Oliver had not seen at eight bells: they were counting.
+The mess made the kind of small sounds of acknowledgment that men make when they are being addressed by a man whose good humor is dangerous. Olav watched the captain's face. The smile was set where it had been at eight bells that morning. It had not moved. But the eyes, now, were doing a thing Olav had not seen at eight bells: they were counting.
 
-The captain's gaze moved from face to face. It rested on each man for a measured beat. When it reached Oliver it did not linger; it passed on. When it reached the galley boy at the far end of the mess — the boy Oliver had seen on the first day, the one with the bell-clear voice who had started the opsang — it stopped.
+The captain's gaze moved from face to face. It rested on each man for a measured beat. When it reached Olav it did not linger; it passed on. When it reached the galley boy at the far end of the mess — the boy Olav had seen on the first day, the one with the bell-clear voice who had started the opsang — it stopped.
 
 "Mathis," the captain said. "You are eating the biscuit."
 
@@ -126,31 +126,31 @@ The captain went back up the hatch. The mess held its breath for a full second a
 
 "He is in a good mood today," Kristoffersen said.
 
-"Is he," Oliver said.
+"Is he," Olav said.
 
 "He is." The second mate spoke without emphasis. "When he is not in a good mood he does not come down."
 
 ---
 
-That afternoon Oliver went aloft for the second time. Solvaag sent him. Haakon was not on the watch; he was below, sleeping. Oliver went up alone.
+That afternoon Olav went aloft for the second time. Solvaag sent him. Haakon was not on the watch; he was below, sleeping. Olav went up alone.
 
 The foretop was familiar now — only the second climb, but already the hands knew the sequence. He stood on the platform and looked down at the deck. The captain was at the quarterdeck. His coat was bright against the grey.
 
-Oliver thought about the galley boy's voice saying *because to complain is not seamanlike, sir*, and the captain's smile resting on that voice like a hand, and the boy keeping his eyes on the plate so that he would not have to meet the smile. He thought: *the smile is a piece of rigging. The captain has spent forty years splicing it. He keeps it in repair.* He thought: *if the smile is the rigging, the eyes are the wind.*
+Olav thought about the galley boy's voice saying *because to complain is not seamanlike, sir*, and the captain's smile resting on that voice like a hand, and the boy keeping his eyes on the plate so that he would not have to meet the smile. He thought: *the smile is a piece of rigging. The captain has spent forty years splicing it. He keeps it in repair.* He thought: *if the smile is the rigging, the eyes are the wind.*
 
 He did not, at eighteen, know what to do with this thought. He filed it the way he had filed Haakon's thumb on his wrist the day before. He stored these small knowings in a place he had not yet given a name.
 
-Solvaag shouted something from the deck that meant *come down.* Oliver came down.
+Solvaag shouted something from the deck that meant *come down.* Olav came down.
 
 ---
 
-Haakon came on deck at six bells of the afternoon watch, scrubbed and bleary, his hair still flat at the back from the hammock. He took a mug of coffee from the steward and came to stand at the weather rail where Oliver was coiling. He did not speak for some time. The wind had steadied; the brig was making her seven knots like a thing that had forgotten she could do otherwise.
+Haakon came on deck at six bells of the afternoon watch, scrubbed and bleary, his hair still flat at the back from the hammock. He took a mug of coffee from the steward and came to stand at the weather rail where Olav was coiling. He did not speak for some time. The wind had steadied; the brig was making her seven knots like a thing that had forgotten she could do otherwise.
 
 "How was your first meal with him," Haakon said.
 
-Oliver looked up. Haakon was watching the horizon, not Oliver.
+Olav looked up. Haakon was watching the horizon, not Olav.
 
-"He was in a good mood," Oliver said.
+"He was in a good mood," Olav said.
 
 Haakon's mouth moved. It was not a smile; it was the shape a mouth makes when something is understood and not spoken. "Yes."
 
@@ -166,7 +166,7 @@ Haakon's mouth moved. It was not a smile; it was the shape a mouth makes when so
 
 "Favorites turn."
 
-Oliver coiled. The rope came through his hands warm; it had been in the sun. He thought about Mathis's answer — *a sailor eats what is put in front of him* — and about the captain's *Your father was correct*. He thought about the distance between those two phrases, and the rope he was coiling was the wrong shape for that distance.
+Olav coiled. The rope came through his hands warm; it had been in the sun. He thought about Mathis's answer — *a sailor eats what is put in front of him* — and about the captain's *Your father was correct*. He thought about the distance between those two phrases, and the rope he was coiling was the wrong shape for that distance.
 
 "Haakon," he said.
 
@@ -192,7 +192,7 @@ Haakon looked at him then, briefly, the way he had looked at him at the warping 
 
 "I was not the man taking the beating," he said.
 
-He tipped the last of the coffee into the sea, handed the mug off, and went forward. Oliver coiled.
+He tipped the last of the coffee into the sea, handed the mug off, and went forward. Olav coiled.
 
 ---
 

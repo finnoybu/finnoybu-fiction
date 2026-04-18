@@ -10,8 +10,8 @@ Tracking names that appear in the novel and may need to change before publicatio
 
 | Real Name | Novel Name | Role | Status |
 |---|---|---|---|
-| Olavus Vullum Bjørnson Vestbø | **Oliver Hestby** | Protagonist | **Locked** — *Hestby is a real church on Finnøy. Oliver's surname is literally carved into the island he is leaving; when the crew shouts "Hestby!" on a brig in the Atlantic, they are calling the name of a stone church two weeks back. His body is mobile; his name is stationary.* |
-| Olava Roalsøy | **Olivia Roalsøy** | Wife / central heterosexual love | **Locked** |
+| Olavus Vullum Bjørnson Vestbø | **Olav Hestby** | Protagonist | **Locked** — *Hestby is a real church on Finnøy. Olav's surname is literally carved into the island he is leaving; when the crew shouts "Hestby!" on a brig in the Atlantic, they are calling the name of a stone church two weeks back. His body is mobile; his name is stationary.* |
+| Olava Roalsøy | **Olava Lindøy** | Wife / central heterosexual love | **Locked** — *First name preserves the memoir's matched-pair name (Olav/Olava — medieval Norse romance convention). Surname changed for legal/privacy: Lindøy = "linden-island," Norse symbolism of peace and shelter, paired symmetry with Olav-of-Finnøy. He is Hestby of Finnøy; she is Lindøy of Lindøy. Two children of two islands.* |
 
 ---
 

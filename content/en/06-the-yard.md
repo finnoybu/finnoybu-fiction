@@ -10,7 +10,7 @@ The wind came in. By the second dog-watch the brig was making nine knots and a d
 
 "We will have weather by morning," the carpenter said. He was in the deck-house with his tools, dust still on his hands from the spar.
 
-"How dirty," Oliver said.
+"How dirty," Olav said.
 
 "Not very. A summer blow, perhaps. The captain will not shorten sail."
 
@@ -18,7 +18,7 @@ The wind came in. By the second dog-watch the brig was making nine knots and a d
 
 "Because he is making up a day he lost in Lisbon and because he is pleased with himself for catching the wind, and because he thinks the brig is his and not the sea's."
 
-The carpenter bent over a chisel he was sharpening. He did not look at Oliver. He had not looked at Oliver since the salt-hold; nobody had. The carpenter's not-looking was a particular kind of not-looking that Oliver had begun to recognize on the brig as a form of communication. It said: *I see what is happening to you. I cannot help you. I will not pretend I do not see.*
+The carpenter bent over a chisel he was sharpening. He did not look at Olav. He had not looked at Olav since the salt-hold; nobody had. The carpenter's not-looking was a particular kind of not-looking that Olav had begun to recognize on the brig as a form of communication. It said: *I see what is happening to you. I cannot help you. I will not pretend I do not see.*
 
 "He will send someone aloft tonight," the carpenter said, to his chisel.
 
@@ -32,13 +32,13 @@ The carpenter ran his thumb along the chisel-edge.
 
 "Whichever man told him in Lisbon how he should stow salt."
 
-Oliver thought about this.
+Olav thought about this.
 
 "The captain has a long memory," he said.
 
 "Captains have long memories," the carpenter said. "Especially the ones whose hands are not as good as they think."
 
-He set the chisel down. He turned, finally, and looked at Oliver. His face was not unkind; it was not a face capable of unkindness. It was old in the way faces become old when a man has spent forty years inside other men's tempers and has learned to keep his own.
+He set the chisel down. He turned, finally, and looked at Olav. His face was not unkind; it was not a face capable of unkindness. It was old in the way faces become old when a man has spent forty years inside other men's tempers and has learned to keep his own.
 
 "Mr. Hestby."
 
@@ -68,7 +68,7 @@ The carpenter nodded once.
 
 "Good."
 
-The carpenter turned back to his chisel. He did not say anything else. After a moment Oliver understood that the conversation was over, and he went out on deck.
+The carpenter turned back to his chisel. He did not say anything else. After a moment Olav understood that the conversation was over, and he went out on deck.
 
 The grey was darker in the southwest now. The brig was carrying everything she had aloft. The captain was at the quarter, smiling. The first stars were out, very small, on the eastern horizon.
 
@@ -80,9 +80,9 @@ The order came at four bells of the first watch.
 
 "Yes, sir."
 
-The royal yard was the highest yard on a brig — above the topgallant, just below the truck where the rotten wood had been. It was not a yard one cleared a footrope on alone in the dark in a building wind. It was a yard that wanted two men in daylight and one man only in necessity. Oliver took the order as it had been intended and went forward.
+The royal yard was the highest yard on a brig — above the topgallant, just below the truck where the rotten wood had been. It was not a yard one cleared a footrope on alone in the dark in a building wind. It was a yard that wanted two men in daylight and one man only in necessity. Olav took the order as it had been intended and went forward.
 
-Haakon was at the foot of the foremast. He had come on watch at four bells; he had heard the order. He looked at Oliver, and Oliver looked at him.
+Haakon was at the foot of the foremast. He had come on watch at four bells; he had heard the order. He looked at Olav, and Olav looked at him.
 
 "I will go," Haakon said.
 
@@ -94,7 +94,7 @@ Haakon was at the foot of the foremast. He had come on watch at four bells; he h
 
 "Then I will be on deck. Below the yard. If you fall I will catch you."
 
-Oliver looked at him.
+Olav looked at him.
 
 "You cannot catch a man who falls from the royal yard."
 
@@ -104,11 +104,11 @@ Oliver looked at him.
 
 "It is not for you," Haakon said. "It is for me."
 
-Oliver did not have an answer for this. He started up the shrouds. Haakon stayed at the foot of the foremast.
+Olav did not have an answer for this. He started up the shrouds. Haakon stayed at the foot of the foremast.
 
 ---
 
-Going aloft in a building wind on a brig running under full canvas is a thing that men spend years learning and that no one, ever, finds easy. Oliver climbed slowly. The wind was beam-on and rising. The shrouds drummed under his hands. The foretopmast — the new spar, freshly stepped — flexed a little as he climbed past the topgallant crosstrees. He thought, in passing: *the carpenter's spar is sound, but it has not been at sea before. We do not know what it will do.* He kept climbing.
+Going aloft in a building wind on a brig running under full canvas is a thing that men spend years learning and that no one, ever, finds easy. Olav climbed slowly. The wind was beam-on and rising. The shrouds drummed under his hands. The foretopmast — the new spar, freshly stepped — flexed a little as he climbed past the topgallant crosstrees. He thought, in passing: *the carpenter's spar is sound, but it has not been at sea before. We do not know what it will do.* He kept climbing.
 
 He reached the royal yard.
 
@@ -130,15 +130,15 @@ He came down faster than he had gone up. The wind pressed him into the rigging, 
 
 Haakon was at the foot of the foremast. He had not moved. He was looking up.
 
-Oliver came down to him.
+Olav came down to him.
 
-When his feet touched the deck Haakon turned, without speaking, and walked aft. Oliver followed him with his eyes for a moment, then looked away. He went to the lee of the mast and bent his head down to his knees and stood there, just so, for the count of perhaps ten breaths.
+When his feet touched the deck Haakon turned, without speaking, and walked aft. Olav followed him with his eyes for a moment, then looked away. He went to the lee of the mast and bent his head down to his knees and stood there, just so, for the count of perhaps ten breaths.
 
-When he straightened up the captain was at the quarter. The smile was on him. He did not, this time, say *good lad.* He did not, this time, say anything at all. He looked at Oliver. He took out his pipe and tapped it against the rail. The wind took the spent ash and rolled it forward along the deck and over the side.
+When he straightened up the captain was at the quarter. The smile was on him. He did not, this time, say *good lad.* He did not, this time, say anything at all. He looked at Olav. He took out his pipe and tapped it against the rail. The wind took the spent ash and rolled it forward along the deck and over the side.
 
-That was, Oliver understood, the end of the conversation. The captain had asked his question — *will the boy fall* — and the boy had not fallen, and so the captain would think of something else.
+That was, Olav understood, the end of the conversation. The captain had asked his question — *will the boy fall* — and the boy had not fallen, and so the captain would think of something else.
 
-Oliver went forward.
+Olav went forward.
 
 ---
 
@@ -148,9 +148,9 @@ He listened for Haakon's hammock. He could not, at first, locate it; the forecas
 
 Then Haakon stopped moving.
 
-Then Haakon did not move for so long that Oliver understood he had not gone to sleep but had only made himself still, the way a man does who is listening.
+Then Haakon did not move for so long that Olav understood he had not gone to sleep but had only made himself still, the way a man does who is listening.
 
-Oliver, in his hammock, made himself still also. He did not know what they were listening to. He knew only that they were listening together.
+Olav, in his hammock, made himself still also. He did not know what they were listening to. He knew only that they were listening together.
 
 He was very tired. He let his eyes close.
 

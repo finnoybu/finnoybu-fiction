@@ -3,11 +3,11 @@
 ## What this repo is
 A Next.js 14 reader site for **Finnoybu** — a queer period historical romance trilogy by pseudonymous author **E. A. Westbo** (Kenneth Tannenbaum). Lives at `fiction.finnoybu.com`. Cloned from [sea-reader](../sea-reader/) infrastructure; intentionally lean on governance (no charter, no master index, no docs/ stack).
 
-**Reimagines** the memoir of Oliver Vullum Bjørnson Vestbø (Ken's great-great-grandfather, published in sea-reader) as commercial historical romance in the Outlander / Fourth Wing / Song of Achilles crossover tier.
+**Reimagines** the memoir of Olav Vullum Bjørnson Vestbø (Ken's great-great-grandfather, published in sea-reader) as commercial historical romance in the Outlander / Fourth Wing / Song of Achilles crossover tier.
 
 ## What the book is
-- **Protagonist:** Oliver Hestby (surname carries inland-farm resonance — thematic dissonance with the sea; see [docs/private/names-index.md](docs/private/names-index.md)), multisexual young Norwegian sailor. Story opens at **age 18** on his second voyage — the first that takes him past the horizon.
-- **Central tension:** A girl at home (Olivia; becomes his wife) *and* awakening encounters with men at sea and in ports. Genuinely loves her. Genuinely loves men. In an era with no language for it.
+- **Protagonist:** Olav Hestby (surname carries inland-farm resonance — thematic dissonance with the sea; see [docs/private/names-index.md](docs/private/names-index.md)), multisexual young Norwegian sailor. Story opens at **age 18** on his second voyage — the first that takes him past the horizon.
+- **Central tension:** A girl at home (Olava; becomes his wife) *and* awakening encounters with men at sea and in ports. Genuinely loves her. Genuinely loves men. In an era with no language for it.
 - **Trilogy:**
   - **Finnoybu: Salt and Silence** — Book I (WIP): ages 18–20, first major voyage through navigation school. Ends with departure for East India voyage.
   - **Finnoybu: *[TBD]*** — Book II (ages 20–21): East India voyage; a Swedish man's passionate love letter; the burial of desire.
