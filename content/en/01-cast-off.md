@@ -36,7 +36,7 @@ Oliver lifted the chest again. It was heavier than it had been at the house. He 
 
 ---
 
-"Vestbo! Move!"
+"Hestby! Move!"
 
 The mate was on the deck, a short red-bearded man whose name was Solvaag and who had a habit, Oliver would learn, of speaking only in imperatives, as if verbs with no subject were the only verbs a ship required. Oliver hoisted the chest onto the rail and swung over it, dropped onto the deck, and straightened. The sound of his boots on the planking was the first real sound he had made that morning, and it surprised him.
 
