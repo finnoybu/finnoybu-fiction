@@ -31,16 +31,25 @@ Series brand name: **Finnoybu** (ties to Ken's author/publisher brand). Each boo
 
 ---
 
-## Hestby church — a motif to weave
+## Hestby — the thematic keystone
 
-**Hestby is a real church on Finnøy.** Oliver's surname is the name of the stone where his people were baptized, married, and buried. Every time his surname is spoken aboard ship, it is calling a piece of an island he is not on. This is the keystone metaphor — work it in at natural points, do not over-use it:
+**Hestby is the parish church of Oliver's baptism on Finnøy.** In 19th-century Lutheran Norway, that is not a surname in the modern sense — it is **baptismal identity**. The name *is* the church *is* the island *is* the family *is* the faith. For a man of his time, it is close to the center of what "self" means.
+
+**Architectural consequence:** Oliver is, in his own name, *of the church*. The church is the institution that had no word for how he loved. **The name he carries is the name of the silence that built him.** Every time someone calls "Hestby!" across a deck — every time he signs it at the bottom of a letter — the name carries the weight of the thing that kept him quiet.
+
+**The dedication doubles.** "For those who loved in times that had no word for it, / and for the ones they could not say." A Hestby could not say. The name of the church is in the name of the man, and the man cannot speak, because the church cannot hear him. This was not deliberate when the dedication was written — it was an accident the theme granted us. Keep the dedication as-is.
+
+**Spelling:** modern form "Hestby" used for Oliver in-prose (clean, Anglophone-readable, what he would sign on a modern letter). Period form (likely **Hestbø** or **Hestbye** — confirm with parish records) reserved for scenes involving actual church documents, carved stones, or the churchyard itself. The divergence is itself a motif: Oliver has modernized; the church has not.
+
+**How to weave (accretive, not announced):**
 
 - **Book I, Act I departure:** one brief glimpse of the church as the brig clears the roads — a white shape on Finnøy's hills, visible for maybe twenty minutes before it drops below the horizon. Oliver does not name it for the reader; the reader will catch it later.
 - **Book I, Act II homecoming:** when Oliver walks up from the Roalsøy landing with Olivia, they pass Hestby churchyard. Silent weight of lineage. His grandparents' stones.
 - **Book II:** in Rangoon or Copenhagen, when Oliver is farthest from home, someone mispronounces his name. The correction is its own small grief. *(Possible scene.)*
 - **Book III wedding:** Oliver and Olivia are married AT Hestby. The name closes around the life. This is where the homeward arc lands.
+- **Late-book churchyard beat** *(Ken's suggested ending, Book III or epilogue)*: old Oliver stands in the Hestby churchyard — possibly alone, possibly after a death — and has a moment with his own name. The name carved in stone in the spelling the church has kept. The whole accumulated weight of the trilogy in one encounter. *Do not write this early. Let the accretion do its work first; the reader will arrive at the stone knowing why it matters without being told.*
 
-Use the church as a motif of **rootedness that he cannot outrun and cannot fully inhabit**. Do not belabor it. One sentence where a paragraph would be tempting.
+Use the church as a motif of **rootedness that he cannot outrun and cannot fully inhabit**. Do not belabor it. One sentence where a paragraph would be tempting. The name itself carries the theme — the prose does not need to.
 
 ---
 
