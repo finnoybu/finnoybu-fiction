@@ -24,7 +24,7 @@ Olav set the sea-chest down on the granite and looked up at the masts. They were
 
 "Do the thing you agreed to do. Do not be clever. You are not clever enough yet."
 
-Olav nodded. His father laid a hand on the back of his neck, briefly, the way a man might set a mark on an animal he was releasing, and then stepped back.
+Olav nodded. His father — Jens — laid a hand on the back of his neck, briefly, the way a man might set a mark on an animal he was releasing, and then stepped back.
 
 "Your mother sends her bread."
 
@@ -57,6 +57,8 @@ Olav looked. He had lived within sight of those hills since the day he was born.
 ---
 
 They unmoored at a quarter past six. Olav was at the warping line with the man he had seen at the windlass, who turned out to be the boatswain, and who turned out to be twenty-five years old and to have come from a farm at Hogganvik and to be named Haakon Berg.
+
+The brig was named *Sigrid*. Olav had signed her articles three weeks before in the captain's parlor, and he had been saying her name in his head, in the small careful way a man tries on a thing that does not yet belong to him, ever since. The first time he said it aloud after they cast off — *Sigrid,* under his breath at the warping line, no one to hear it — he understood that he was saying her name now the way a man says the name of a place he is going to live.
 
 Olav did not catch all of this at once. He caught it in pieces, over the next hour, in the way a man catches the shape of a coast through fog — first a darkness, then the line of it, then at last the headlands. What he caught first, at the rope, was the set of the other man's hands.
 
@@ -194,4 +196,4 @@ Olav opened his eyes in the dark. He could see nothing. He could hear the ship, 
 
 Then the bell rang again, and he must have slept, because when he woke the forecastle was grey with the first of the morning watch and his hammock was unfamiliar around him, and he had to remember, for a full and dizzying second, where he was and who he was and what he had signed himself to.
 
-He was Olav Hestby. He was on a brig bound for Lisbon. He was eighteen years old. He was going to the sea.
+He was Olav Hestby. He was on the *Sigrid,* bound for Lisbon. He was eighteen years old. He was going to the sea.

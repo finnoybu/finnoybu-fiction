@@ -80,12 +80,13 @@ export default function Home() {
             <Arrowhead />
           </div>
           <p className="font-serif text-lg md:text-xl leading-relaxed text-ink-muted">
-            Olavus Vestbo is eighteen when he signs his second voyage &mdash; the first
-            that will take him past the horizon. He leaves a girl waiting on the island
-            of his birth, a promise half-spoken between them. What he does not yet know is
-            that the men he sails with will teach him a grammar for feelings he has no
-            words for, and that by the time he comes home, the silence between what he
-            knows and what he says will be its own country.
+            Olav Hestby is eighteen when he signs his second voyage &mdash; the first
+            that will take him past the horizon. He leaves the island of his birth on a
+            brig called the &lsquo;Sigrid,&rsquo; under a captain whose softness is not the
+            kind to trust. What he does not yet know is that the men he sails with will
+            teach him a grammar for feelings he has no words for, and that by the time he
+            comes home, the silence between what he knows and what he says will be its
+            own country.
           </p>
         </div>
       </section>

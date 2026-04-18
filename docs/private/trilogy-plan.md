@@ -44,7 +44,7 @@ Series brand name: **Finnoybu** (ties to Ken's author/publisher brand). Each boo
 **How to weave (accretive, not announced):**
 
 - **Book I, Act I departure:** one brief glimpse of the church as the brig clears the roads — a white shape on Finnøy's hills, visible for maybe twenty minutes before it drops below the horizon. Olav does not name it for the reader; the reader will catch it later.
-- **Book I, Act II homecoming:** when Olav walks up from the Roalsøy landing with Olava, they pass Hestby churchyard. Silent weight of lineage. His grandparents' stones.
+- **Book I, Act II homecoming:** when Olav walks up from the Lindøy landing with Olava, they pass Hestby churchyard. Silent weight of lineage. His grandparents' stones.
 - **Book II:** in Rangoon or Copenhagen, when Olav is farthest from home, someone mispronounces his name. The correction is its own small grief. *(Possible scene.)*
 - **Book III wedding:** Olav and Olava are married AT Hestby. The name closes around the life. This is where the homeward arc lands.
 - **Late-book churchyard beat** *(Ken's suggested ending, Book III or epilogue)*: old Olav stands in the Hestby churchyard — possibly alone, possibly after a death — and has a moment with his own name. The name carved in stone in the spelling the church has kept. The whole accumulated weight of the trilogy in one encounter. *Do not write this early. Let the accretion do its work first; the reader will arrive at the stone knowing why it matters without being told.*
@@ -81,12 +81,12 @@ The opening voyage is **expanded with invented detail** per Ken's note ("he didn
 - **Ch. 12 — "Cured"** — The cough stops. Olav never knows when. He returns to Bergen whole.
 - **Ch. 13 — "Landa"** — Summer on Finnøy. Reunion with his family. Restless.
 - **Ch. 14 — "The Tag Game"** — He meets Olava. Age 19. She hands him the tag repeatedly, runs and grabs his arm. *Hit by the arrows of Amor.* She is luminous. She knows he is a sailor. Her brother died of TB; she nursed him. She understands.
-- **Ch. 15 — "Roalsøy"** — He visits her island. Her family. Her cooking. Silent understanding. They are never alone but they are always together. He has not told her about H——; he would not know how. (End Act II.)
+- **Ch. 15 — "Lindøy"** — He visits her island. Her family. Her cooking. Silent understanding. They are never alone but they are always together. He has not told her about H——; he would not know how. (End Act II.)
 
 #### Act III — The Sea Again (Chapters 16–25)
 
 - **Ch. 16 — "The School"** — Navigation school, Stavanger. 120 students. Prof. Nilson. Olava visits often. Distraction.
-- **Ch. 17 — "The Bed in Her Parents' House"** — Staying at Roalsøy between terms. Olava brings him breakfast in bed. Wordless intimacy.
+- **Ch. 17 — "The Bed in Her Parents' House"** — Staying at Lindøy between terms. Olava brings him breakfast in bed. Wordless intimacy.
 - **Ch. 18 — "The Cough Returns"** — Exam time. His body betrays him. Despair.
 - **Ch. 19 — "Hamre"** — Exam day. Navigation school classmate Hamre, struggling. Olav helps him. Hamre thanks him heartily. They part and never see each other again. The scene codes the queer subtext: two young men, a kindness, an unspoken recognition, a farewell.
 - **Ch. 20 — "Certificate"** — Olav passes. Useless certificate — too sick, too poor to use it. Olava understands without him saying.

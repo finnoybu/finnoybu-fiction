@@ -32,13 +32,13 @@ Captain Gjermund came up at eight bells of the morning watch, always. He came up
 
 "I believe he has the hands for it."
 
-The captain looked back at Olav. The smile had not changed. Olav felt, for the first of what would be many times, the specific quality of that smile — the way it rested on his face like a coat carefully hung. It was not unpleasant. It was a smile such as a schoolmaster gives a child he is about to correct. It was not a lie, exactly. It was only that it did not touch the eyes.
+The captain looked back at Olav. The smile had not changed. Olav noticed — and would always remember he had noticed it on this morning, with his mouth still tasting of bad coffee — the specific quality of that smile: the way it rested on the captain's face like a coat carefully hung. It was not unpleasant. It was a smile such as a schoolmaster gives a child he is about to correct. It was not a lie, exactly. It was only that it did not touch the eyes.
 
 "Very good, sir," Olav said.
 
 ---
 
-Breakfast that morning was coffee and herring on dry biscuit. The coffee was excellent. Captain Gjermund, Olav gathered, would not sail without decent coffee aboard; it was one of his particularities, remarked upon by the crew as evidence of his consideration. The herring was from a keg the steward had broken open the previous afternoon. It was salted and heavy but it was fish. The biscuit was hard but it was not yet old.
+Breakfast that morning was coffee and herring on dry biscuit. The coffee was excellent. Captain Gjermund, Olav gathered, would not sail without decent coffee aboard; it was one of his particularities, and the crew were grateful for it. The herring was from a keg the steward had broken open the previous afternoon. It was salted and heavy but it was fish. The biscuit was hard but it was not yet old.
 
 Olav ate standing up, on the lee side of the deckhouse, with Tolvsen the steward passing among the watch with a tin bucket of coffee and a ladle. Tolvsen was forty years old and as wide as he was tall; he moved around a ship the way a bread-loaf might, if bread could walk. He filled Olav's cup and looked at him closely.
 
@@ -198,11 +198,15 @@ He tipped the last of the coffee into the sea, handed the mug off, and went forw
 
 That night he lay in his hammock and thought about the captain's smile and about Haakon's *I was not the man taking the beating* and about what it would mean, on this voyage, to be the man the beating fell on. He thought about Mathis the galley boy with his small wrists, and he thought about himself. He was taller than Mathis. He was stronger. He was not a favorite yet, but he could become one; he had seen how. He understood, lying there in the dark, that a man on this ship had three options: to be the favorite, to be the one who took the beating, or to be the one like Haakon who had seen the beating and kept his bunk.
 
+He was taller than Mathis. He was stronger. He was not a favorite yet, but he could become one; he had seen how.
+
+He held very still under the thought. He did not, at eighteen, know what it cost a man to have entertained a thought like that even once. He suspected it cost something. He suspected he had just paid a small instalment.
+
 He did not yet know which he would be.
 
-He turned his face into the canvas and, for the first time since Stavanger, he felt something very like fear.
+He turned his face into the canvas and, for the first time since Stavanger, he felt something like fear.
 
-It was not a pure fear. It was cross-grained — fear for his body, fear for the boy Mathis, fear that he himself might become the kind of man who stood by while a smaller man was beaten and was grateful it was not him. It was cross-grained, also, with something else. It had in it the memory of Haakon's hand on his forearm, and the thought that he would, if Haakon asked, climb up any mast on any voyage under any captain, because he had felt that hand and knew now what it meant to be warm where a hand had been.
+It was not a pure fear. It was cross-grained — fear for his body, fear for the boy Mathis, fear that he himself might become the kind of man who stood by while a smaller man was beaten and was grateful it was not him. It was tangled, also, with something else. It had in it the memory of Haakon's hand on his forearm, and the thought that he would, if Haakon asked, climb up any mast on any voyage under any captain, because he had felt that hand and knew now what it meant to be warm where a hand had been.
 
 This was not, he thought, the thing his father had warned him about.
 

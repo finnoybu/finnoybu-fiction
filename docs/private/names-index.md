@@ -27,7 +27,7 @@ Tracking names that appear in the novel and may need to change before publicatio
 
 | Real Name | Novel Name | Role | Proposed |
 |---|---|---|---|
-| Olava's father | — | Aging former fisherman, Roalsøy | Rename |
+| Olava's father | — | Aging former fisherman of Lindøy | Rename |
 | Olava's mother (from Rossøy) | — | Warm matriarch, friend of Olavus's mother | Rename |
 | Gustav (Olava's brother) | Gustav | Sailor, teasing, warm | Could keep or rename |
 
