@@ -1,0 +1,42 @@
+# CLAUDE.md — finnoybu-fantasy
+
+## What this repo is
+A Next.js 14 reader site for **The Westbo Voyages** — a queer period historical romance trilogy by pseudonymous author **E. A. Westbo** (Kenneth Tannenbaum). Lives at `fiction.finnoybu.com`. Cloned from [sea-reader](../sea-reader/) infrastructure; intentionally lean on governance (no charter, no master index, no docs/ stack).
+
+**Reimagines** the memoir of Oliver Vullum Bjørnson Vestbø (Ken's great-great-grandfather, published in sea-reader) as commercial historical romance in the Outlander / Fourth Wing / Song of Achilles crossover tier.
+
+## What the book is
+- **Protagonist:** Oliver Vestbo (working name; see [docs/private/names-index.md](docs/private/names-index.md)), multisexual young Norwegian sailor. Story opens at **age 18** on his second voyage — the first that takes him past the horizon.
+- **Central tension:** A girl at home (Olivia; becomes his wife) *and* awakening encounters with men at sea and in ports. Genuinely loves her. Genuinely loves men. In an era with no language for it.
+- **Trilogy:**
+  - **Book I — *Salt and Silence*** (WIP): ages 18–20, first major voyage through navigation school. Ends with departure for East India voyage.
+  - **Book II — *[TBD]*** (ages 20–21): East India voyage; a Swedish man's passionate love letter; the burial of desire.
+  - **Book III — *[TBD]*** (ages 21–22): first mate, marriage, reckoning.
+- **Narration:** dual-POV third-person limited (romantasy convention).
+- **Heat level:** Outlander tier at emotional peaks; Song-of-Achilles restraint between.
+
+## Hard rules for Claude working here
+- **The manuscript is fiction I write.** Unlike sea-reader, automated prose generation is the product — write freely into [content/](content/).
+- **The ancestor's memoir is sacred source, not a script.** Use it as scaffolding for plot, geography, period detail. Do not lift sea-reader's manuscript body text verbatim into this project.
+- **Working names vs. final names:** All named human characters track in [docs/private/names-index.md](docs/private/names-index.md). When uncertain about a name, use the memoir's real name and flag it there.
+- **docs/private/** holds plan-of-record documents. Read [docs/private/trilogy-plan.md](docs/private/trilogy-plan.md) before writing new chapters — it's the structural contract.
+- **Behavioral discipline** (inherited from AEGIS principles, not the repo's own governance): conventional commits, feature branches, PR flow, signed commits, squash merge, linear history, no force-push.
+
+## Layout
+- [app/](app/) — Next.js routes (cloned from sea-reader; auth/shop/legal intact but latent without env vars).
+- [components/](components/) — reader shell, chapter UI, auth modals, etc.
+- [lib/chapters.ts](lib/chapters.ts) — loads markdown from `content/en/`, sorts by frontmatter `id`.
+- [content/en/](content/en/) — the novel. Each file is a chapter with frontmatter `id` (numeric, sort key), `title`, `slug`, `hero.image`.
+- [docs/private/](docs/private/) — plan-of-record (not user-facing).
+- [schemas/](schemas/) — frontmatter schema (inherited from sea-reader).
+
+## Commands
+- `pnpm dev` — local Next dev server
+- `pnpm build` / `pnpm start`
+- `pnpm lint` / `pnpm typecheck`
+
+Node 24.x, pnpm 9.
+
+## Related
+- Sibling project: [sea-reader](../sea-reader/) — the ancestor's actual memoir, non-fiction, protected manuscript.
+- Owner: Finnoybu (Kenneth Tannenbaum).
