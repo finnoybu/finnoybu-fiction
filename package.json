@@ -2,7 +2,7 @@
   "name": "finnoybu-fantasy",
   "private": true,
   "version": "0.1.0",
-  "description": "The Westbo Voyages — a queer period historical romance trilogy by E. A. Westbo. Next.js reader site, derived from sea-reader infrastructure.",
+  "description": "Finnoybu — a queer period historical romance trilogy by E. A. Westbo. Next.js reader site, derived from sea-reader infrastructure.",
   "packageManager": "pnpm@9.0.0",
   "engines": {
     "node": ">=24 <25"

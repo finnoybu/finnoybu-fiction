@@ -37,7 +37,7 @@ export default function Home() {
 
         <div className="max-w-shell mx-auto px-6 py-24 md:py-32 lg:py-40">
           <div className="max-w-3xl">
-            <p className="eyebrow mb-6">The Westbo Voyages &middot; Book I</p>
+            <p className="eyebrow mb-6">Finnoybu &middot; Book I</p>
             <h1
               className="font-display text-4xl md:text-5xl lg:text-6xl leading-[1.08] text-ink"
               style={{ fontFeatureSettings: "'ss01'" }}

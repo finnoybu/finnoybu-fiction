@@ -1,4 +1,6 @@
-# The Westbo Voyages — Trilogy Plan of Record
+# Finnoybu — Trilogy Plan of Record
+
+Series brand name: **Finnoybu** (ties to Ken's author/publisher brand). Each book carries its own subtitle.
 
 **Working author:** E. A. Westbo (pseud. Kenneth Tannenbaum)
 **Source scaffolding:** memoir of Oliver Vullum Bjørnson Vestbø, *A Sailor's Reminiscences from the Days of the Sailships*
@@ -29,7 +31,20 @@
 
 ---
 
-## Book I — *Salt and Silence*
+## Hestby church — a motif to weave
+
+**Hestby is a real church on Finnøy.** Oliver's surname is the name of the stone where his people were baptized, married, and buried. Every time his surname is spoken aboard ship, it is calling a piece of an island he is not on. This is the keystone metaphor — work it in at natural points, do not over-use it:
+
+- **Book I, Act I departure:** one brief glimpse of the church as the brig clears the roads — a white shape on Finnøy's hills, visible for maybe twenty minutes before it drops below the horizon. Oliver does not name it for the reader; the reader will catch it later.
+- **Book I, Act II homecoming:** when Oliver walks up from the Roalsøy landing with Olivia, they pass Hestby churchyard. Silent weight of lineage. His grandparents' stones.
+- **Book II:** in Rangoon or Copenhagen, when Oliver is farthest from home, someone mispronounces his name. The correction is its own small grief. *(Possible scene.)*
+- **Book III wedding:** Oliver and Olivia are married AT Hestby. The name closes around the life. This is where the homeward arc lands.
+
+Use the church as a motif of **rootedness that he cannot outrun and cannot fully inhabit**. Do not belabor it. One sentence where a paragraph would be tempting.
+
+---
+
+## Book I — *Finnoybu: Salt and Silence*
 
 **Arc:** Ages 18–20. First major voyage → desertion → sickness → healing → home → meets Olivia → navigation school → departure for East India. Ends on gut-punch: Oliver leaves Olivia (and a man from the first voyage who is out there somewhere) to ship for two years.
 
@@ -76,7 +91,7 @@ The opening voyage is **expanded with invented detail** per Ken's note ("he didn
 
 ---
 
-## Book II — *[Working title: The Monsoon Letter]*
+## Book II — *Finnoybu: [Working subtitle: The Monsoon Letter]*
 
 **Arc:** Ages 20–21. East India voyage on the *Semiramis*. The Swedish man in Copenhagen. The passionate letter that forces a choice.
 
@@ -95,7 +110,7 @@ The opening voyage is **expanded with invented detail** per Ken's note ("he didn
 
 ---
 
-## Book III — *[Working title: The Captain's Burden]*
+## Book III — *Finnoybu: [Working subtitle: The Captain's Burden]*
 
 **Arc:** Ages 21–22. First mate on the *President Daae*. New York, Brooklyn, petroleum runs. Steward who attacks him and becomes devoted. Marriage to Olivia. The convergence.
 

@@ -1,14 +1,14 @@
 # finnoybu-fantasy
 
-**The Westbo Voyages** — a queer period historical romance trilogy by E. A. Westbo.
+**Finnoybu** — a queer period historical romance trilogy by E. A. Westbo.
 
 Lives at [fiction.finnoybu.com](https://fiction.finnoybu.com). Private repo.
 
 ## Books
 
-- **Book I — *Salt and Silence*** — in progress
-- **Book II** — planned
-- **Book III** — planned
+- **Finnoybu: Salt and Silence** — Book I, in progress
+- **Finnoybu: [TBD]** — Book II, planned
+- **Finnoybu: [TBD]** — Book III, planned
 
 ## Stack
 

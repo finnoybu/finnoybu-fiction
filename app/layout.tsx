@@ -38,11 +38,11 @@ const caveat = Caveat({
 
 export const metadata: Metadata = {
   title: {
-    default: "Salt and Silence — The Westbo Voyages, Book I",
-    template: "%s · The Westbo Voyages",
+    default: "Finnoybu: Salt and Silence — Book I",
+    template: "%s · Finnoybu",
   },
   description:
-    "Salt and Silence — Book I of The Westbo Voyages. A young Norwegian sailor in the age of sail, torn between the woman he has promised himself to and the men who share his watches. A period historical romance by E. A. Westbo.",
+    "Finnoybu: Salt and Silence — Book I. A young Norwegian sailor in the age of sail, torn between the woman he has promised himself to and the men who share his watches. A period historical romance by E. A. Westbo.",
   icons: {
     icon: '/images/blue-arrowhead.svg',
   },
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
 
 const themeScript = `
   try {
-    var stored = JSON.parse(localStorage.getItem('westbo-reader-preferences') || '{}');
+    var stored = JSON.parse(localStorage.getItem('hestby-reader-preferences') || '{}');
     var theme = stored.theme || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
     document.documentElement.classList.add(theme);
   } catch (e) {}

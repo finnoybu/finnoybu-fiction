@@ -6,7 +6,7 @@ hero:
   image: /images/coming-home.png
 ---
 
-The brig lay at the quay like a promise already half broken, and Oliver Vestbo was eighteen years old and still young enough to believe a ship could keep a man's word for him.
+The brig lay at the quay like a promise already half broken, and Oliver Hestby was eighteen years old and still young enough to believe a ship could keep a man's word for him.
 
 He had come down before the sun, his sea-chest on his shoulder and his father walking a pace behind him like a man who had done this once already and had not been convinced then either. The Stavanger harbor was the color of iron. Above the rooflines the gulls were up but not yet talking; the water made no sound except where the brig's hull shifted against the fenders, a low reluctant knocking like a question being repeated.
 
@@ -68,11 +68,11 @@ Oliver's hands, by contrast, looked new.
 
 Oliver held. The rope came in. His shoulders burned, not unpleasantly. He understood, for perhaps the first time in his life, that there was a kind of labor that could be shared between two men without a word passing between them, and that the sharing was itself a language.
 
-"You are Vestbo?" Haakon said.
+"You are Hestby?" Haakon said.
 
 "Oliver."
 
-"Oliver Vestbo."
+"Oliver Hestby."
 
 "Yes."
 
@@ -194,4 +194,4 @@ Oliver opened his eyes in the dark. He could see nothing. He could hear the ship
 
 Then the bell rang again, and he must have slept, because when he woke the forecastle was grey with the first of the morning watch and his hammock was unfamiliar around him, and he had to remember, for a full and dizzying second, where he was and who he was and what he had signed himself to.
 
-He was Oliver Vestbo. He was on a brig bound for Lisbon. He was eighteen years old. He was going to the sea.
+He was Oliver Hestby. He was on a brig bound for Lisbon. He was eighteen years old. He was going to the sea.
