@@ -78,9 +78,11 @@ Haakon sat down on the deck with his back against the galley wall and gestured t
 
 Olav put his shoulder to Haakon's. Through two layers of wool — one wet, one dry — and the space under the blanket where their knees were, he could feel the other man's body as a warm shape beside him. He understood, almost at once, that he was not going to sleep that night even after the watch ended.
 
-He understood, also, that this was a thing Haakon had done before — this sharing of warmth in a lee, this practical use of one body against another — and that Haakon did not think anything of it. It was what you did when a man's wool was wet. It was what Kristoffersen would have done, or Solvaag, or Tolvsen. It was seamanship.
+He decided, almost at once, that this was a thing Haakon had done before — this sharing of warmth in a lee, this practical use of one body against another — and that Haakon did not think anything of it. He had to decide it. There was no other way to sit beside Haakon under the blanket without going under, and he was not, tonight, going under. He held to the decision the way he had held to the rope at the wheel, with both hands and his whole attention. He did not let go.
 
-Olav made himself understand this. He made himself breathe slowly.
+It was what you did when a man's wool was wet. It was what Kristoffersen would have done, or Solvaag, or Tolvsen. It was seamanship.
+
+Olav made himself believe it. He made himself breathe slowly.
 
 "You are from Hogganvik," he said.
 
