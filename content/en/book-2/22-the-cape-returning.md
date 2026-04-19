@@ -87,29 +87,53 @@ He thought: *she will read the sheet. She will not ask for more. She will put th
 
 He thought: *I am writing the letter I promised, in the winter of '79, I would write when the voyage required it. The voyage required it. I am writing it.*
 
-He picked up the pen.
+He sat for perhaps three minutes at the chart-table without moving.
 
-He wrote a short closing to the third sheet:
+He read the third sheet a second time.
 
-> *I will not write his name into any future letter after this one. I am writing it once. This is the writing.*
->
-> *His name is Haugen. Sven Haugen of Sandviken.*
->
-> *That is the name.*
+He read it a third.
 
-He set the pen down a second time.
+At the third reading he understood, with the small flat clarity his interior used for the thoughts it had already half-arrived at, that the sheet was not a sheet he was going to send.
 
-He blotted the sheet.
+He understood this not because the sheet was untrue. The sheet was true. He understood it because the sheet was a unilateral revision of an agreement he had made, with Olava, at her bedroom at Lindøy in the Christmas week of '79 and had reaffirmed at the back garden bench in the autumn of '80 and had stood up at the Stavanger quay under the year before. The agreement had been that she would not ask, and that he would carry, and that the silence between them about the piece of him she had named and he had not would be the shape of the marriage.
+
+The sheet was, in the clearest possible terms, the breaking of that silence — or the beginning of the breaking. It was him telling her the name. She had not asked for the name. The agreement was that she would not ask. His giving it to her without her asking was, he understood at the chart-table, as much a violation of the agreement as his denying it would have been had she asked.
+
+The agreement worked in both directions.
+
+He had understood this, at some level, at the writing; but he had written the sheet anyway, because the writing of it had been a piece of the hour's thinking, and because some part of him had wanted — for a short hour at a chart-table at the Cape — to imagine the letter he might send if the agreement had been different.
+
+It was not different.
+
+He took the third sheet in both hands. He folded it once. He folded it again. He tore it into four pieces along the folds. He tore the four pieces into eight. He got up from the chart-table and he crossed to the small stove the steward kept going in the captain's cabin in port, and he opened the stove-door, and he fed the eight pieces into the low flame one at a time.
+
+He watched them burn.
+
+He closed the stove-door.
+
+He went back to the chart-table.
 
 ---
 
-He sat for perhaps five minutes at the chart-table without moving.
+He sat down.
 
-Then he folded the three sheets together. He put them in an envelope. He sealed the envelope with the red wafer. He wrote on the cover, in the small neat hand a navigator wrote addresses in, *Miss Olava Lindøy, Lindøy by Stavanger, Norway.* He wrote, in the upper left: *Bark Semiramis, Cape Town, May 1882.*
+He took a new third sheet from his writing case.
+
+He wrote, in a hand that was steadier than the hand of the first third sheet:
+
+> *Olava, the homeward Atlantic from here is about forty-nine days by Brun's count. The South Atlantic trade is the fair one. We may sight Saint Helena in the middle of June; if so, I will try to put a short letter aboard a mail-ship passing, or leave one at a pilot if the bark makes the pilot cutter at all. Then the English Channel in the middle of August, and Copenhagen for orders in September, and Bergen at the end.*
+>
+> *I think of you at the kitchen table at Lindøy when I write. I do not need to say so in every letter. I am saying so in this one because the voyage is turning home and the Cape is the turning, and the sentence has been in me since the morning I came down off the topgallant on the sixty-third day and saw the mountain for the second time.*
+>
+> *Yours, Olav.*
+
+He blotted it.
+
+He folded the three sheets — the first, the second, the new third — together. He put them in an envelope. He sealed the envelope with the red wafer. He wrote on the cover *Miss Olava Lindøy, Lindøy by Stavanger, Norway.* He wrote in the upper left *Bark Semiramis, Cape Town, May 1882.*
 
 He put the letter in the inside pocket of his coat.
 
-He blew out the lamp over the chart-table.
+He blew out the lamp.
 
 He went out of the cabin.
 
@@ -153,7 +177,7 @@ The consul was a different consul from the one in July — Dahl's office was not
 
 "Three sheets."
 
-"A long letter."
+"A fair letter."
 
 "A letter the voyage needed."
 
@@ -169,7 +193,7 @@ The consul nodded, briefly, in the way a clerk nodded at a remark he understood 
 
 He went out.
 
-On the walk back to the customhouse stairs he did not hurry. He stopped at the top of Wale Street, where there was a view down to the harbour, and he looked at the bark and at the mountain behind the bark and at the small busy business of the Cape Town working day around him. He thought: *I have done the hardest thing the homeward required of me. I have done it with my own hand, at a chart-table of my own captain's cabin, at a port of my own choosing to do it at. I have done it. I do not, for the rest of this voyage, need to do it again.*
+On the walk back to the customhouse stairs he did not hurry. He stopped at the top of Wale Street, where there was a view down to the harbour, and he looked at the bark and at the mountain behind the bark and at the small busy business of the Cape Town working day around him. He thought: *I have done the hardest piece of the homeward's interior work, which was not the writing of the letter I sent but the burning of the letter I did not. The burning was the keeping of the agreement. I will, at the next hardest piece at Saint Helena in a month, do the burning again if the hour at the chart-table produces another third sheet. The burning is, from here to Bergen, a skill I am going to practise.*
 
 He went down to the stairs.
 
