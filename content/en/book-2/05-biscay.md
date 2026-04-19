@@ -145,7 +145,7 @@ That evening at the windward rail, at the hour he had begun to think of as his e
 
 "Ask."
 
-"Are you going to take the mate's berth on the next *Semiramis* voyage when Brun offers it to you at Bergen in thirteen months."
+"Are you going to take the mate's berth on the next *Semiramis* voyage when Brun offers it to you at Bergen in a year and a half."
 
 Olav looked out at the sea.
 

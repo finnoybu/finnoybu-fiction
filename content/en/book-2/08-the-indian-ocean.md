@@ -159,7 +159,7 @@ The Ålesund boy was one of the places to spend it.
 
 Sven — Sven was also a place, but a different kind of place, and Olav did not, at the bitt, allow himself to work out what kind — was going to be one of them before the voyage was out.
 
-He understood, at the bitt on the twenty-eighth day out of Cape Town with the trades steady on the starboard quarter and the Southern Cross low on the horizon off the bow, that the voyage was going to be a voyage of giving away the things he had been given. He had not known this at the Stavanger quay. He had not known it at Cape Town. He knew it now.
+He understood, at the bitt on the twenty-eighth day out of Cape Town with the trades steady on the starboard quarter and the Southern Cross low on the horizon off the starboard quarter, that the voyage was going to be a voyage of giving away the things he had been given. He had not known this at the Stavanger quay. He had not known it at Cape Town. He knew it now.
 
 The knowing was not sad. It was the small private clarity a man got when he understood a shape of his own life he had not previously understood.
 

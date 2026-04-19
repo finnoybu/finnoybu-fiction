@@ -61,10 +61,10 @@ Tracking names that appear in the novel and may need to change before publicatio
 |---|---|---|---|
 | Dr. Due (Stavanger) | Dr. Due | TB-evasive physician | Keep — generic |
 | Rev. Lars Oftedal | Rev. Oftedal | Chaplain, singer, Bethania Chapel | Keep — real public figure |
-| Prof. Nilson (nav school) | Prof. Nilson | Kindly teacher | Keep |
+| Prof. Nilson (nav school) | Prof. Halvdan Nilson | Kindly teacher | Keep — first name revealed Book II Ch 5 |
 | Hamre (nav school classmate) | Hamre | Classmate Olavus helps | Keep |
 | Peder Gjesdal (Brooklyn runner, criminal) | Peder Gjesdal | Notorious sailor-runner in NY | **Change — real person, criminal portrayal risk** |
-| The Swedish woman (Copenhagen) | **→ Swedish MAN (new)** | **Book II's passionate male love interest.** In memoir, she writes Olavus a glowing love letter he refuses to answer. Gender-swapping to a Swedish man = the queer catalyst. Likely name: **Linus** or **Viktor**. | Invent fully — no real-world ties |
+| The Swedish woman (Copenhagen) | **Anders Lindqvist** | Stockholm marine-insurance clerk, ~28 in Sept 1882. Meets Olav at a Copenhagen quay corner; single supper, no bed, one-letter-each correspondence afterward. Parallel-echo to Haakon's three-line Shields letter (not the memoir's passionate-plea shape). | Used in Bk II Ch 25 (Copenhagen) and Ch 28 (Two Letters) |
 
 ## Ships
 

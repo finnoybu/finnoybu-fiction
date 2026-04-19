@@ -149,7 +149,7 @@ At eight bells the sun was still an hour above the horizon; they were south enou
 
 He stood for some minutes at the forward rail. The coast that was not the Norwegian coast — the low dim shape of the Dutch-German bank, he thought, though he would not have sworn to it — was a long way off the port beam. The water ran past the stem in a kind of quiet he had not yet, on the *Semiramis*, learned the particular name for. On the *Sigrid* a quiet like this had been called the *good-boy quiet* by a Danish hand Olav had forgotten the name of; on the small coasters at home he had never been far enough off land for the sea to make this kind of quiet at all.
 
-The quiet was the quiet of a bark in open water, on a fair wind, at dusk. A man who could name the kinds of quiet a ship made was, he thought, a man who was going to be a navigator whether he carried a certificate or not. He had been carrying the certificate now for fourteen months. He was, on the deck of a deep-water bark bound for Calcutta, being asked by the quiet itself whether he had earned it.
+The quiet was the quiet of a bark in open water, on a fair wind, at dusk. A man who could name the kinds of quiet a ship made was, he thought, a man who was going to be a navigator whether he carried a certificate or not. He had been carrying the certificate now for twelve months. He was, on the deck of a deep-water bark bound for Calcutta, being asked by the quiet itself whether he had earned it.
 
 He did not, at the forward rail, answer the question.
 
