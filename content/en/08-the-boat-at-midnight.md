@@ -70,7 +70,7 @@ They did not speak.
 
 Halfway up the half-mile Olav let his eyes go back, once, over his shoulder, to the brig.
 
-She was a darker shape against the dark water. Her masts made a sketch against the stars; the foretopmast was a line of perhaps forty feet, bare of sail, and Olav thought: *the new spar. The carpenter's spar. It will be at sea tomorrow without me.* He thought: *I climbed that spar a week ago. I came down off it because Haakon told me to come down.*
+She was a darker shape against the dark water. Her masts made a sketch against the stars. Olav thought: *I climbed that royal yard a week ago. I came down off it because Haakon told me to come down.*
 
 He thought: *Haakon is in his hammock. He does not yet know.*
 
@@ -146,7 +146,7 @@ He thought: *Haakon will know that I did not say goodbye.*
 
 He thought: *That is what I have done.*
 
-He turned his face into the pillow. The pillow smelled of straw and lye and the long faint sweetness of an unfamiliar house. He pressed his face into it. He did not weep. What came was not weeping; what came was the cold trembling that had come in the salt-hold and at the foot of the foremast after the rotten truck. He let it come. He let it pass through him. He let it pass.
+He turned his face into the pillow. The pillow smelled of straw and lye and the long faint sweetness of an unfamiliar house. He pressed his face into it. He did not weep. What came was not weeping; what came was the cold trembling that had come in the salt-hold and at the foot of the foremast after the royal yard. He let it come. He let it pass through him. He let it pass.
 
 When it was gone he turned onto his back again and opened his eyes.
 
@@ -156,6 +156,6 @@ He looked at the masts for a long time.
 
 He fell asleep.
 
-When he woke at dawn, the masts were gone.
+When he woke at dawn, the masts were still there.
 
-He looked at the place where the masts had been.
+He looked at them.

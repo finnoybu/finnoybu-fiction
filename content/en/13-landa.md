@@ -46,7 +46,7 @@ He went in his father's small boat, with his sister Aagot at the tiller and his 
 
 "Yes."
 
-Aagot was eight years younger than him. She was twelve. She had been four when he had sailed the first time. She was, in the small boat with her hand on the tiller, a person Olav had not, until this morning, properly met. She had his mother's eyes and his father's mouth and a freckle at the side of her nose that had not been there when he had left.
+Aagot was eight years younger than him. She was twelve. She had been four when he had first gone out on a coast-smack. She was, in the small boat with her hand on the tiller, a person Olav had not, until this morning, properly met. She had his mother's eyes and his father's mouth and a freckle at the side of her nose that had not been there when he had left.
 
 "What is the school like."
 

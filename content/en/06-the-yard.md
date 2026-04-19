@@ -4,9 +4,7 @@ id: 6
 slug: the-yard
 ---
 
-The new foretopmast went up the next morning. The carpenter shaped a fresh spar from the spare in the deck-house, lashed it to the lower mast with the standing rigging, and by noon the brig had her full rig back. The foretop flag, when Mathis the galley boy went up to bend it on a fresh halyard, snapped out cleanly in the southwesterly that had at last picked up. The captain came on deck and watched it snap. He smiled.
-
-The wind came in. By the second dog-watch the brig was making nine knots and a dirty grey was building in the southwest behind them.
+The wind came in the next morning. By the second dog-watch the brig was making nine knots and a dirty grey was building in the southwest behind them.
 
 "We will have weather by morning," the carpenter said. He was in the deck-house with his tools, dust still on his hands from the spar.
 
@@ -108,7 +106,7 @@ Olav did not have an answer for this. He started up the shrouds. Haakon stayed a
 
 ---
 
-Going aloft in a building wind on a brig running under full canvas is a thing that men spend years learning and that no one, ever, finds easy. Olav climbed slowly. The wind was beam-on and rising. The shrouds drummed under his hands. The foretopmast — the new spar, freshly stepped — flexed a little as he climbed past the topgallant crosstrees. He thought, in passing: *the carpenter's spar is sound, but it has not been at sea before. We do not know what it will do.* He kept climbing.
+Going aloft in a building wind on a brig running under full canvas is a thing that men spend years learning and that no one, ever, finds easy. Olav climbed slowly. The wind was beam-on and rising. The shrouds drummed under his hands. He kept climbing.
 
 He reached the royal yard.
 

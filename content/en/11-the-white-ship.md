@@ -105,5 +105,3 @@ The captain was looking out at the coast. He did not look at Olav.
 He patted the rail once with his old hand and walked away.
 
 Olav stood at the rail for some time.
-
-The older narrator, looking back at this evening sixty years later, has thought that there are perhaps six conversations in a man's life that determine the shape of the rest of it, and that this was one of his six.

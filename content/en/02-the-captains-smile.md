@@ -200,8 +200,6 @@ He tipped the last of the coffee into the sea, handed the mug off, and went forw
 
 That night he lay in his hammock and thought about the captain's smile and about Haakon's *I was not the man taking the beating* and about what it would mean, on this voyage, to be the man the beating fell on. He thought about Mathis the galley boy with his small wrists, and he thought about himself. He was taller than Mathis. He was stronger. He was not a favorite yet, but he could become one; he had seen how. He understood, lying there in the dark, that a man on this ship had three options: to be the favorite, to be the one who took the beating, or to be the one like Haakon who had seen the beating and kept his bunk.
 
-He was taller than Mathis. He was stronger. He was not a favorite yet, but he could become one; he had seen how.
-
 He held very still under the thought. He did not, at eighteen, know what it cost a man to have entertained a thought like that even once. He suspected it cost something. He suspected he had just paid a small instalment.
 
 He did not yet know which he would be.
