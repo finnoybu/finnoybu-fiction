@@ -12,7 +12,7 @@ The coaster south to Stavanger had taken three days. Olav had paid his fare from
 
 He had not coughed, by the time the coaster made Stavanger, for three days in a row.
 
-He was not yet allowing himself to know what this meant.
+He noticed. He did not yet count the noticing for anything.
 
 ---
 
