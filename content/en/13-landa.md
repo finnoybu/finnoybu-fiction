@@ -6,7 +6,11 @@ slug: landa
 
 Olav made it to the next summer the way men in his country had made it to the next summer for a thousand years before him: by getting the firewood in, by mending what was broken, by eating his mother's food, and by waiting.
 
-The autumn was an autumn. The winter was a winter. The spring was the kind of spring his father had always called *the spring that does not believe in itself,* grey until April and then sudden. He helped his father at the boats. He read the Stavanger newspaper when it came. He wrote to the Stavanger navigation school in March, enclosing the letter Captain Sars had given him at the Bergen wharf, and the school wrote back in May to say he had been accepted for the autumn course, beginning the first week of October. The letter was a piece of paper of a kind he had never received before. He showed it to his father at the kitchen table. His father read it twice and put it on the shelf above the kitchen window and did not, that night, say anything about it.
+The autumn was an autumn. The winter was a winter. The spring was the kind of spring his father had always called *the spring that does not believe in itself,* grey until April and then sudden. He helped his father at the boats. He read the Stavanger newspaper when it came.
+
+In November he sat on an overturned tub at the boat-shed one afternoon, with his father at the workbench across from him, coiling a length of warp in his lap. His hands did the coil the brig way — over-and-under, two-and-two, against the lay — instead of the small-boat way they had been making coils since he was nine. He noticed it after the coil was done. He looked at it. He set it down. He did not, looking at it, think of any particular man. The body had remembered a thing the mind had not been asked. He coiled the next rope the small-boat way, deliberately. The brig's coil he hung on the peg above the workbench, neat and wrong, where he could see it from the door whenever he came in for a tool.
+
+He wrote to the Stavanger navigation school in March, enclosing the letter Captain Sars had given him at the Bergen wharf, and the school wrote back in May to say he had been accepted for the autumn course, beginning the first week of October. The letter was a piece of paper of a kind he had never received before. He showed it to his father at the kitchen table. His father read it twice and put it on the shelf above the kitchen window and did not, that night, say anything about it.
 
 The cough did not come back.
 
