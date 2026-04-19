@@ -279,7 +279,7 @@ Pastor Kleven was at the altar-end at a small desk with the parish register open
 
 "Yes."
 
-Kleven turned the register toward him. On the page was a clean entry written in Kleven's old hand, dated October of 1882, stating that the banns of marriage would be read for three consecutive Sundays in Advent between *Olav Hestbye of Finnøy, parish of Hestbye, age twenty-three years and seven months, navigator,* and *Olava Lindøye of Lindøy, parish of Lindøy, age twenty-one years and ten months,* with the marriage to be solemnized at the Hestbye church on the fourteenth of March, 1883.
+Kleven turned the register toward him. On the page was a clean entry written in Kleven's old hand, dated October of 1882, stating that the banns of marriage would be read for three consecutive Sundays in Advent between *Olav Hestbye of Finnøy, parish of Hestbye, age twenty-four years and seven months, navigator,* and *Olava Lindøye of Lindøy, parish of Lindøy, age twenty-two years and seven months,* with the marriage to be solemnized at the Hestbye church on the fourteenth of March, 1883.
 
 Olav looked at his name in the old spelling.
 

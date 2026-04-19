@@ -157,7 +157,7 @@ She did not, for a beat, speak.
 
 Then:
 
-"I know there is more in you than there was in June of last year when you went away. I know it the way a woman who has lived with a man's letters for seventeen months knows it. I am not asking what the more is. I am noting that I know. I am noting it to you because I do not want you to carry, on top of the more, the additional small weight of supposing that I do not know. I know. The carrying is yours. The knowing is mine. We are each of us carrying our own side of what the voyage made."
+"I know there is more in you than there was in June of last year when you went away. I know it the way a woman who has lived with a man's letters for sixteen months knows it. I am not asking what the more is. I am noting that I know. I am noting it to you because I do not want you to carry, on top of the more, the additional small weight of supposing that I do not know. I know. The carrying is yours. The knowing is mine. We are each of us carrying our own side of what the voyage made."
 
 She stopped.
 
@@ -233,7 +233,7 @@ He did not, at the ceiling, allow the thought to expand into anything the ceilin
 
 He closed his eyes.
 
-Downstairs the house was quiet. The bench in the garden was empty. The channel outside the kitchen window ran its small cold December tide. The stars — the stars Olav had looked up at for seventeen months at varying latitudes — were the stars over Lindøy at Christmas in the arrangement his head had been holding for them.
+Downstairs the house was quiet. The bench in the garden was empty. The channel outside the kitchen window ran its small cold December tide. The stars — the stars Olav had looked up at for sixteen months at varying latitudes — were the stars over Lindøy at Christmas in the arrangement his head had been holding for them.
 
 He slept.
 
