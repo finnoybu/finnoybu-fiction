@@ -10,7 +10,7 @@ This was the day Thomas had picked. The brig was due to finish loading Friday an
 
 Olav had calculated nothing, because he had nothing to calculate. He had only to do what Thomas told him to do, when Thomas told him to do it, and to be ready.
 
-He had been ready since Sunday. He had spent Monday and Tuesday and Wednesday tarring rigging with hands that were not quite his hands anymore — he could see them at the ends of his arms, doing the work, but they had begun to feel borrowed. The borrowed hands suited a borrowed name. He had been Olav Vaageland in his head, in private, since Sunday afternoon. He was practicing.
+He had been ready since Sunday. He had spent Monday and Tuesday and Wednesday tarring rigging with hands that were not quite his hands anymore — he could see them at the ends of his arms, doing the work, but they had begun to feel borrowed. He had been Olav Vaageland in his head, in private, since Sunday afternoon. He was practicing.
 
 On Thursday afternoon he came down from the foretop for the last time. He set the tar-pail at the foot of the foremast. The brushes in it would dry stiff overnight; that was someone else's problem now. He stood for a moment in the shadow of the mast and looked at the brig the way he had not let himself look at her since Stavanger.
 
@@ -158,8 +158,4 @@ He fell asleep.
 
 When he woke at dawn, the masts were gone.
 
-The brig had dropped down the river on the early tide, hours ahead of schedule.
-
-Haakon had gone with her.
-
-I have never been sure, in the sixty years since, whether we were kinder.
+He looked at the place where the masts had been.
