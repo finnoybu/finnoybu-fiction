@@ -32,6 +32,16 @@ Olav's father had read the letter twice and put it on the shelf above the kitche
 
 ---
 
+On the Wednesday before the Monday a letter came from Olava. The letter was the same length as her letters always were. Olav read it twice. It was, in its first half, the weather and the late kale and a small piece of news about Marit's schoolmaster's son. In its second half it said:
+
+> *My father has been polishing the leather wallet you will see on Monday. He has been polishing it on his desk in his bedroom for three weeks. I have looked at it every time I have brought him his tea. He believes he is preparing for an arrangement. The arrangement is the arrangement we made at Christmas. He believes he is making it. We will let him believe so. The leather wallet is, in my opinion, more polished than it needs to be.*
+>
+> *Yours, Olava.*
+
+Olav read the second half three times. He did not, in any of the three times, smile. He understood, on the third reading, that he had agreed to marry a woman who was capable of describing her father's three weeks of polishing a leather wallet with neither cruelty nor sentiment, and that this capacity of hers was going to be one of the rooms of the house they were going to live in for the rest of their lives.
+
+---
+
 On the Monday Olav was at the boats with his uncle from sunrise until a quarter to twelve. The boats were a small project — the re-stepping of a mast on a smack his uncle had bought at auction the previous spring — and the work was steady. Olav did not, at the boats, allow himself to think about what was happening at the kitchen at the same hour. He worked the mast. He held the lines. His uncle, who had been told what was happening at the kitchen, did not mention it.
 
 At a quarter to twelve Olav washed his hands at the boat-shed pump and walked up to the house.
@@ -77,6 +87,22 @@ After lunch Captain Lindøy went down to the jetty to wait for the evening tide.
 "Sir."
 
 "My daughter has chosen well. You will not, in your married life, have my daughter's choosing tested. Is that understood."
+
+"Yes, sir."
+
+"Good. There is one more thing."
+
+He waited for Olav to be still.
+
+"I know about Wilmington."
+
+Olav did not, for some time, speak.
+
+"I have known since August. I made inquiries at the consulate. Your year of '62 to '63 has no entries on any Norwegian articles I have been able to find. I have asked the consulate, on your behalf, to record that you sailed coastwise out of Liverpool under your own name across that year. The consulate has accepted my representation. The marriage will not be questioned. I am telling you this so you know what is on the official record about you, and so that, in your married life, you do not contradict it."
+
+He paused.
+
+"My daughter does not know. My daughter will not know unless you tell her. I am telling you this also so that you know that there is a thing I have done for you that you owe me. The owing is small. The owing is real. I am collecting it now: do not be the kind of husband who makes my daughter wonder, in twenty years, why she chose you. That is the entirety of what I am collecting. Is that understood."
 
 "Yes, sir."
 
