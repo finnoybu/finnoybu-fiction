@@ -60,6 +60,16 @@ Solvaag stood looking up at him for a long minute. Then he walked away. He did n
 
 That was, Olav thought, the first piece of information he had had in some time that was unambiguously good news.
 
+He tarred for ten days. The skin came off his palms in patches, the way bark comes off a willow in spring, and he learned to wrap them in strips of his own shirt at the end of each day so that the tar would not, by the morning, have welded the openings shut. His shoulders, by the fourth day, were a thing he could not, in his hammock, lie on without the small involuntary catch of breath that meant a man was younger than his shoulders had become.
+
+The tar got in his hair. The tar got in the seams of his beard, which was just enough of a beard now to have seams. The tar got in places he did not, at the end of any of the ten days, have the energy to wash. He went to sleep in his clothes on the fifth night, and he woke in the same clothes the next morning, and he did not, until the second Sunday, take them off.
+
+The captain watched. The captain watched without speaking. The captain — Olav noticed by the third day, with the small flat clarity that came to a man who was learning what a captain looked like when he was waiting — was watching to see whether Olav would, at the foot of the foremast at the end of any of the days, ask to be relieved.
+
+Olav did not ask to be relieved. He understood, with the same clarity that had come to him in the salt-hold a week earlier, that the day he asked to be relieved was the day the captain would have him.
+
+He did not ask.
+
 ---
 
 The man Olav came to know, in the second week at Wilmington, was a deckhand named Thomas Engelstad.
@@ -187,6 +197,24 @@ Olav understood, much later, that Thomas had been wrong about Haakon — that Ha
 "He will know. After."
 
 "He will know after. He will not know before. We do not put it on him. If we put it on him he will have to choose between telling the captain and lying to the captain, and either choice will hurt him. We are kinder if we leave him with no choice."
+
+Olav, hearing this, remembered the eighth day.
+
+It had been the eighth day of the tarring, in the early afternoon of the second Wednesday. He had been coming down the shrouds with his tar-pail empty, on his way to Thomas at the deck stages, when Haakon — who had been forward at the windlass on some piece of work — had crossed his path.
+
+They had been perhaps three feet apart. Haakon had paused. Haakon had looked at Olav. The looking had been the look of a man who had spent eight days watching another man being killed slowly, and who had, in the eight days, said nothing to the man being killed because there was nothing to say that was not either the offer of a hand the offerer could not extend or the small false comfort that a brig at sea allowed to be passed between watchmates and that was not, between Olav and Haakon, false enough to be exchanged.
+
+The look had taken, by Olav's count, perhaps four seconds.
+
+Then Haakon had nodded, once. He had nodded with the small dignified nod of a boatswain acknowledging a hand who had done a piece of work satisfactorily; and Olav, who had been carrying an empty tar-pail and a back of shoulders that were no longer his and a decision to leave the ship in some week he had not yet named, had returned the nod with the same small dignity.
+
+They had passed each other.
+
+Neither had spoken.
+
+Olav had taken his tar-pail to Thomas.
+
+That had been, he understood now in the dog-watch with the river dark and the fiddle from the town in the air, the goodbye. The actual goodbye. The one Haakon had given him without permitting it to be a goodbye. The one Olav had received without permitting it to be received.
 
 Olav thought about this for a long time.
 
