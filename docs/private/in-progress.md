@@ -8,9 +8,20 @@ Both Claude sessions write here before touching any file. Read it before startin
 
 ## Active
 
-- **2026-04-19 — session: continuity-tier-1 — Ch 18, 20, 21, 22, 23 — Path B chronology sweep per the spec below + Ch 21 wedding-venue softening + four date refs not in the ledger spec but needed for internal consistency (Ch 21 "tavern in 1849", Ch 21 "year of '62 to '63", Ch 23 "since 1859", Ch 23 "deck of a brig in 1862"). Commit window: next ~30 min.**
+(none — Tier-1 sweep complete; forward-writing session quiet)
 
 ## Recently completed
+
+- **2026-04-19 — session: continuity-tier-1 — Path B chronology sweep across Ch 18, 20, 21, 22, 23 — bundled into commit 6a56cf3 by the forward-writing session's `git commit -a` (their commit message describes their Ch 24/25 edits only; the Tier-1 file changes in that same commit are this sweep).** Specific changes:
+  - Ch 18: "in '64" → "in '78" (twice), "in '65" → "in '79"
+  - Ch 20: "8 June 1866" → "8 June 1880"
+  - Ch 21: "autumn of 1866" → "1880" (twice); "tavern in 1849" → "1863"; "year of '62 to '63" → "'76 to '77"; "Monday in November of 1866" → "1880"; "Bergen wharf in 1830" → "1855"; wedding venue softened from "Lindøy church by the minister of that parish" to "the parish church the parties choose, on a date to be determined"
+  - Ch 22: "(in 1869)" → "(in 1883)"; "end of 1868 or beginning of 1869" → "end of 1882 or beginning of 1883"; "since September of 1864" → "since that evening three summers before" (year-implicit; tightened from the ledger spec's "rail of the *Diana* three summers before" to avoid same-sentence repetition with the prior "rail of the *Diana*")
+  - Ch 23: 1 May 1867 → 1881; "May of 1864" → "the autumn he had come home with the cough"; "in 1866...in 1860" → "in 1881...in 1876"; "summer of 1858" → "summer of 1876"; "in 1906" → "in 1921" (twice); "Christmas morning of 1864" → "Christmas morning of 1879" (twice); "since 1859" (tobacco drawer) → "since 1870" (Olav's twelfth year per born 1858); "deck of a brig in 1862" → "in 1876"; "November of 1868" → "1882"; "spring of 1869" → "1883"
+
+  **Residual conflict noted (creative, for forward-writing to consider):** Ch 23 line 73 still has Haakon "at thirty-three" with "in eight years" gap, but the swept years (1876→1881) span only 5 years. The ledger acknowledged this: chose to preserve "thirty-three" as a stylistic anchor. If forward-writing wants to reconcile, options are (a) "at thirty" + "in five years" or (b) "in 1873" instead of "in 1876."
+
+  **Coordination note for the future:** if both sessions are touching files in the same window, prefer `git add <files>` over `git commit -a`. Commit `6a56cf3` accidentally bundled the Tier-1 sweep under a forward-writing commit message. No data lost; just slightly muddled history.
 
 - **2026-04-19 — session: forward-writing — content/en/25-sails-set.md — Ch 25 (closes Book I), ~1,800 words, year-implicit prose, hook close: "The eighteen months were under way."**
 
