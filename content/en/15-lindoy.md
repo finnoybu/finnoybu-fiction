@@ -6,7 +6,19 @@ slug: lindoy
 
 He went to Lindøy in late August, two months after Landa, on a small boat his father lent him for a week. The wind was light from the southwest. The crossing took three hours. Olava had written him a letter at the end of July — short, four lines, in a hand that was firmer than he had expected from a girl her size — saying that her family would be at home for the last week of August and that her father had said it was time he met them. Olav had answered the letter the same evening. He had told her the day he would come.
 
-The letter had been the seventh letter between them since midsummer. They had written, the two of them, every Wednesday and every Sunday, in the order: he wrote on Wednesday, she answered on Sunday, the answers reaching each other on the following Tuesday and Saturday. The exchange had a rhythm now. Neither of them had said, in the letters, the thing the rhythm implied. They wrote about the weather, the boats, what they had read, what their mothers were doing. They wrote in the formal Norwegian that two young people from different islands with marriageable intentions would have written in 1865, with their parents reading the letters before the letters were sent, and the parents had nothing to object to in the letters because there was nothing in the letters to object to. The thing was in the rhythm. The parents knew this. They sent the letters.
+The letter had been the seventh letter between them since midsummer. They had written, the two of them, every Wednesday and every Sunday — he on Wednesday, she on Sunday — and their parents had read each letter before posting. The letters were in the formal Norwegian that two young people from different islands with marriageable intentions would have written in 1865, in which there was nothing to object to.
+
+Olava's third letter, from August, had ended:
+
+> *The northwest has held nine days. Father is at the boats. Mother says to your mother that her potatoes have done what mine have done, which is nothing.*
+>
+> *I read your fourth letter twice. The second time was for me, the first time was for the form.*
+>
+> *The dog at the door is well.*
+>
+> *Yours, Olava.*
+
+Olav had read the line about the second time twice himself, and had understood, on the second reading, that the rhythm was the thing the rhythm meant.
 
 ---
 
@@ -68,7 +80,11 @@ The captain set himself on a stool. He pointed to another stool. Olav sat.
 
 He held up his wooden hand. He set it down again.
 
-"I lost this at Brest in fifty-seven. I came home, and I did not, after I came home, go back to sea. It was not the hand. It was the year I had at home with the hand. The year was the thing I had not had in twenty years, and I found, when I had it, that I did not want to give it back. I am telling you this because my daughter is going to be your wife, if she chooses to be, and you are going to be a sailor, and the years she has with you are going to be the years she has with you, and the years she has without you are going to be the years she has without you. I do not give advice to young men. I am telling you what the arithmetic looks like from where I sit. Marit will marry the schoolmaster's son next year and she will not, after that, leave Lindøy. Olava will marry you, if she does, and she will leave Lindøy with you, and the Lindøy she comes home to when you are at sea will be the Lindøy of her father with one hand and her mother going through the strawberry letter for the third time. I am not telling you this against you. I am telling you what the daughter you may marry will live."
+"I lost this at Brest in fifty-seven. I came home, and I did not, after I came home, go back to sea. It was not the hand. It was the year I had at home with the hand. The year was the thing I had not had in twenty years, and I found, when I had it, that I did not want —"
+
+He stopped. He looked at the wooden hand on the bench beside him for a long moment. When he resumed it was not, Olav understood, the sentence he had been about to finish.
+
+"My daughter is going to be your wife, if she chooses to be, and you are going to be a sailor, and the years she has with you are going to be the years she has with you, and the years she has without you are going to be the years she has without you. I do not give advice to young men. I am telling you what the arithmetic looks like from where I sit. Marit will marry the schoolmaster's son next year and she will not, after that, leave Lindøy. Olava will marry you, if she does, and she will leave Lindøy with you, and the Lindøy she comes home to when you are at sea will be the Lindøy of her father with one hand and her mother going through the strawberry letter for the third time. I am not telling you this against you. I am telling you what the daughter you may marry will live."
 
 Olav did not, for some time, answer. The captain did not seem to expect an answer immediately.
 
@@ -130,7 +146,7 @@ She went up the stair to the room she shared with Marit.
 
 Olav sat at the kitchen table for some time after she had gone. He listened to her footsteps overhead. From the parlor came the small steady sound of the captain's carving knife. The dog at the door sighed once and was silent.
 
-He did not, sitting at the table, allow himself to think about what he had not told Olava — about Haakon in the lee of the galley, about the night of the squall, about the thing his face had done in Captain Sars's saloon when he had been spoken to kindly by a stranger after a year of not being. He did not think about the not-telling either. The not-telling, he understood, was a country he was going to have to live in for the rest of his life with this woman if the rest of his life with this woman was the thing they were arranging by letter on Wednesdays and Sundays. The not-telling had a shape. He was not ready to learn the shape tonight.
+He did not, sitting at the table, allow himself to think about what he had not told Olava. He did not think about the not-telling either. The not-telling, he understood, was a country he was going to have to live in for the rest of his life with this woman if the rest of his life with this woman was the thing they were arranging by letter on Wednesdays and Sundays. The not-telling had a shape. He was not ready to learn the shape tonight.
 
 He went up to the back room over the kitchen. The bed was a narrow one with a quilted coverlet. The window faced the water. He undressed and lay down and watched the channel for some time. The Finnøy hills were across it; he could see, in the dusk, the small dark mass of his own island. He thought of his father standing at the gate, then of his mother in the kitchen.
 

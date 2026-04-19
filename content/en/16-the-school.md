@@ -63,7 +63,3 @@ He let his hand drop. He did not, looking at the line, think of any particular m
 He rolled the chart. He took it to the classroom. He set it on Prof. Nilson's desk. He went back to his seat in the second row by the window and opened his book to the page they had been working from before the chart had been wanted.
 
 He did not, that night at Mrs. Kindingstad's, write to Olava the letter he had been intending to write. He sat at the desk in the room at the back with the pen in his hand and he wrote, instead, three pages on the dead-reckoning exercise for the next morning, in handwriting that came out a little faster and a little smaller than his handwriting usually came out. He went to bed at half past ten. He was up at six. He went to school. He attended Prof. Nilson's lecture. The exercise on the dead-reckoning was the first of the term in which Olav got the answer, the first time, by feel, before he had completed the work on paper.
-
-He did not, in the days after, go back to the chart room for that particular chart. He went to other shelves. The other shelves had charts of waters he had not sailed.
-
-He wrote to Olava that Sunday. He wrote about the school, the haversine, the Stavanger weather. He did not write about the chart room. The not-writing was, by then, a thing he had learned how to do without thinking about it, the way a sailor coils a rope without thinking about which way the lay of it goes.
