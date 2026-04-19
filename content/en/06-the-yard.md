@@ -132,7 +132,7 @@ Haakon was at the foot of the foremast. He had not moved. He was looking up.
 
 Olav came down to him.
 
-When his feet touched the deck Haakon turned, without speaking, and walked aft. Olav followed him with his eyes for a moment, then looked away. He went to the lee of the mast and bent his head down to his knees and stood there, just so, for the count of perhaps ten breaths.
+When his feet touched the deck Haakon turned. He set his hand, very briefly, at the small of Olav's back where the wool was wet from the spray. He did not press. He did not speak. He took his hand away. He walked aft. Olav followed him with his eyes for a moment, then looked away. He went to the lee of the mast and bent his head down to his knees and stood there, just so, for the count of perhaps ten breaths.
 
 When he straightened up the captain was at the quarter. The smile was on him. He did not, this time, say *good lad.* He did not, this time, say anything at all. He looked at Olav. He took out his pipe and tapped it against the rail. The wind took the spent ash and rolled it forward along the deck and over the side.
 

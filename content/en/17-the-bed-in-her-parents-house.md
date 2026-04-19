@@ -142,7 +142,7 @@ Olav did not, for some time, speak.
 
 "Yes."
 
-She stood up from the edge of the bed. She did not, in standing, lose any of the formality with which she had sat. She straightened the coverlet at the foot of the bed where her sitting had wrinkled it. She looked at the tray.
+She stood up from the edge of the bed. She did not, in standing, lose any of the formality with which she had sat. She straightened the coverlet at the foot of the bed where her sitting had wrinkled it. Her hand brushed the line of his foot through the wool. Olav held very still. She did not, in the straightening, comment on the touching, and she did not take her hand away faster than the work required. Then she looked at the tray.
 
 "You are not eating the cloudberries."
 

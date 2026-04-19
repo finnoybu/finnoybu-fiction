@@ -26,9 +26,7 @@ He held the disk for the minute.
 
 He did not give it to the older boy at the water's edge.
 
-He gave it back to her.
-
-She looked at the disk in her hand. Then she looked at him. Her eyes were the kind of grey that under different light would have been blue, and under the meadow's afternoon light were the grey of the channel at four o'clock. She did not smile. She tilted her head, very slightly, to one side, the way a person does who has just been spoken to in a language they had not known the other person spoke.
+He held the disk out to her. He held it out perhaps a second longer than the game required. She, in reaching for it, did not quite catch it. The disk fell into the grass between them. They both reached for it. Their hands met at the disk. Olava picked it up. She did not, in picking it up, look away from him. Her eyes were the kind of grey that under different light would have been blue, and under the meadow's afternoon light were the grey of the channel at four o'clock. She did not smile. She tilted her head, very slightly, to one side, the way a person does who has just been spoken to in a language they had not known the other person spoke.
 
 She held the disk for the minute.
 
@@ -94,13 +92,13 @@ Olav walked up to the boat. He did not know what he was going to say.
 
 She set the hamper down. She turned to face him. The grey-channel eyes again. She was perhaps a foot shorter than him; she did not, in being shorter, give the impression of being smaller. The smallness was a fact about her body. The other thing — the thing that had reorganized the meadow — was not a fact about her body. He could not have said what it was a fact about.
 
-"My brother Asbjørn was at Stjernerøy with the Engelstads when your friend Thomas left," she said. "Thomas left in a small boat at midnight from Wilmington. Asbjørn knew the man who lent the boat. The man wrote to Asbjørn afterwards. Asbjørn told me about it the next year, when he came home for Christmas. I have known the name *Olav Hestby of Finnøy* for two years."
+"My brother Asbjørn was at Stjernerøy with the Engelstads when your friend Thomas left," she said. "Thomas left in a small boat at midnight from Wilmington. Asbjørn knew the man who lent the boat. The man wrote to Asbjørn afterwards. Asbjørn told me about it the next year, when he came home for Christmas. I have known the name *Olav Hestby of Finnøy* for — eighteen months. Not two years. I am being generous to my own certainty. Eighteen months."
 
 Olav did not, for some time, speak.
 
 "You knew my name."
 
-"For two years."
+"For eighteen months."
 
 "And not the rest of the story."
 

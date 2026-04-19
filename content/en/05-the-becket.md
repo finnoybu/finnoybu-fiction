@@ -132,7 +132,7 @@ Haakon was at the foot of the foremast as Olav came down the ladder. He had a ti
 
 Olav drank. The coffee was hot. His hands shook around the mug.
 
-Haakon watched the shake. He did not comment on it. After a moment he reached out and took the mug back, held it himself while Olav got his hands steady, and gave it back. Olav drank the rest.
+Haakon watched the shake. He did not comment on it. After a moment he reached out and took the mug back. His fingers were warm against Olav's at the rim. He held the mug himself while Olav got his hands steady. He gave it back. Olav drank the rest.
 
 "How far out," Haakon said.
 
