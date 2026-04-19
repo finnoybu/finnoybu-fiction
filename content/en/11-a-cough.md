@@ -4,7 +4,7 @@ id: 11
 slug: a-cough
 ---
 
-He came home in late summer, on a coastal smack out of Stavanger that made Finnøy at low water and put him off at the small dock at Tau where his father had once mended nets. He had not, in the year and a quarter since the Wilmington dawn, told his family he was coming, and so there was no one at the dock to meet him. He stood for a long moment with his sea-chest at his feet and his head down. The smack was already underway again, working out into the channel; he could hear the steam-engine shifting through her below-deck.
+He came home in early November, on a coastal smack out of Stavanger that made Finnøy at low water and put him off at the small dock at Tau where his father had once mended nets. He had not, in the thirteen months since the Wilmington dawn, told his family he was coming, and so there was no one at the dock to meet him. He stood for a long moment with his sea-chest at his feet and his head down. The smack was already underway again, working out into the channel; he could hear the steam-engine shifting through her below-deck.
 
 He had practiced, on the long passage back, what he would say. None of the sentences he had practiced felt like sentences he could say.
 
@@ -56,7 +56,7 @@ Olav went in.
 
 ---
 
-His mother was at the table, with a bowl of summer beans in her lap, snapping the ends off them with her thumbnail. She looked up when the door opened and she did not, for the count of two breaths, recognize the man at the door. Then she did. She put the bowl down on the table and she stood up and she crossed the kitchen and she put both her hands on his face, on his cheekbones, and she said his name once, very quietly — *Olav* — and then she said it again, *Olav,* and then she pulled his head down to her shoulder and she did not weep, because they were not, his family, a family that wept. She held him against her shoulder for some time, with her hands tight on the back of his head, until she felt his shoulders shake against her, and then — only then, because she was a mother and she knew the difference — she let him go.
+His mother was at the table, with a bowl of the last of the late beans in her lap, snapping the ends off them with her thumbnail. She looked up when the door opened and she did not, for the count of two breaths, recognize the man at the door. Then she did. She put the bowl down on the table and she stood up and she crossed the kitchen and she put both her hands on his face, on his cheekbones, and she said his name once, very quietly — *Olav* — and then she said it again, *Olav,* and then she pulled his head down to her shoulder and she did not weep, because they were not, his family, a family that wept. She held him against her shoulder for some time, with her hands tight on the back of his head, until she felt his shoulders shake against her, and then — only then, because she was a mother and she knew the difference — she let him go.
 
 "Sit down."
 
@@ -80,7 +80,7 @@ He did not answer. She was looking at his face. She was looking at the small dar
 
 His father came in. His father did not look at Olav's face the way his mother had looked at it. His father looked at Olav's hands and at the way his ribs lifted his shirt when he breathed, and he made his calculation and he kept it to himself.
 
-They ate. The beans were good. Olav had not eaten green vegetables in nine months, and the taste of summer through them was a thing his mouth did not know what to do with. He ate slowly. He ate everything. Then he sat with his hands in his lap and he watched the light move across the kitchen wall and he listened to his father pour coffee and he understood that he was at home and that being at home was a thing he had not allowed himself to want.
+They ate. The beans were good. Olav had not eaten green vegetables in nine months, and the taste of his mother's garden through them was a thing his mouth did not know what to do with. He ate slowly. He ate everything. Then he sat with his hands in his lap and he watched the light move across the kitchen wall and he listened to his father pour coffee and he understood that he was at home and that being at home was a thing he had not allowed himself to want.
 
 ---
 

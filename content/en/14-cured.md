@@ -22,7 +22,7 @@ Olav stood for a moment with the chest. The afternoon was warm. The road from th
 
 He did not, this time, stop at the wall. He walked past the church without slowing.
 
-He understood, walking past, that the not-stopping was as much a decision as the stopping had been. He had come past this wall in May with a wet sleeve and a cough and a question he could not answer. He was coming past it now in August with a clear chest and the dollar-a-day money in his pocket and a letter from a Bergen captain in his coat. The wall was the same wall. The boy was a different boy. There was nothing to say at the wall today that would not be said better at the woodpile.
+He understood, walking past, that the not-stopping was as much a decision as the stopping had been. He had come past this wall in the autumn with a wet sleeve and a cough and a question he could not answer. He was coming past it now in August with a clear chest and the dollar-a-day money in his pocket and a letter from a Bergen captain in his coat. The wall was the same wall. The boy was a different boy. There was nothing to say at the wall today that would not be said better at the woodpile.
 
 He went up the road to the house.
 

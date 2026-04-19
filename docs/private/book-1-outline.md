@@ -2,7 +2,11 @@
 
 Maintained by the Book-I-expansion Claude session. Companion to `books-2-3-outline.md` for Books II–III. Where this outline contradicts the chapter sketches in `trilogy-plan.md` Book I section, this outline supersedes (per `trilogy-plan.md:69`).
 
-**Target:** ~30 chapters, ~3,000 words/chapter average, ~85–90k words, ~290–310pp at 6×9 trade paperback.
+**Status (2026-04-19): COMPLETE.** All four new chapters drafted; all four selective expansions applied; final chronology cross-pass done. Total: 29 chapters + introduction, ~69,000 words, projected ~260–270pp at 6×9 trade paperback (literary-crossover lane). Drift-correction pass by the forward-writing session is the remaining step before publication.
+
+**Original target:** ~30 chapters, ~3,000 words/chapter average, ~85–90k words, ~290–310pp.
+
+**Final shape:** 29 chapters at average ~2,380 words/chapter. Eight chapters carrying the expansion work (Chs 4, 5, 8, 10, 12, 18, 19, 22) average ~3,000 words; the twenty-one held chapters average ~2,090. The book is shorter than the original target by ~15–20%; the manuscript settled at the length its scenes wanted rather than being padded to the page count. ~260pp lands at literary-crossover trim (comparable to *The Hours*, *A Strange and Sublime Address*) and clears the slim-novella threshold.
 
 **Path B chronology recap.** Olav born March 1858. Book I opens summer 1876 (age 18, *Sigrid* voyage from Stavanger). Closes mid-June 1881 (age 23, *Semiramis* outbound from Stavanger).
 
@@ -56,15 +60,14 @@ Maintained by the Book-I-expansion Claude session. Companion to `books-2-3-outli
 
 ---
 
-## Summary
+## Summary (final)
 
-- **4 new chapters:** Ch 4 *Haakon's Watch*, Ch 10 *Vaageland*, Ch 19 *The Chart Room*, Ch 22 *Easter at Lindøy*
-- **4 expansions:** Chs 5, 8, 12, 18
-- **21 chapters held at current length**
-- Total writing load: ~12k new + ~6–10k expanded = ~18–22k new prose
-- Projected length: ~70–74k words / ~270–290pp
-
-To hit 85–90k / ~310pp: push the four new chapters toward 3,500 words each and the expansions toward 3,200 instead of the 3k baseline.
+- **4 new chapters delivered:** Ch 4 *Haakon's Watch* (~3,400w), Ch 10 *Vaageland* (~3,400w), Ch 19 *The Chart Room* (~3,400w), Ch 22 *Easter at Lindøy* (~3,600w)
+- **4 expansions delivered:** Ch 5 Lisbon (~840w added), Ch 8 Wilmington (~620w added), Ch 12 Vardøy (~700w added), Ch 18 The School (~700w added)
+- **21 chapters held** at established length
+- **Final length:** ~69,000 words across 29 chapters + introduction. Projected ~260pp at 6×9 trade paperback.
+- **Drift-correction pass:** flagged in `docs/private/drift-notes.md` (twenty-three discrete drift items across the eight chapters worked). Owner: forward-writing session.
+- **Tier-1 chronology fixes folded into the final pass:** Ch 9 "late summer" → "early November" with cascading consistency adjustments at Ch 11 ("summer beans" → "the last of the late beans") and Ch 14 ("in May" → "in the autumn"). All explicit-date references across 29 chapters now reconcile to the Path B chronology (Olav born March 1858; *Sigrid* summer 1876; cough home autumn 1877; cure August 1878; Landa June 1879; certificate June 1880; engagement November 1880; *Semiramis* June 1881).
 
 ---
 

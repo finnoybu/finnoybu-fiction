@@ -34,7 +34,73 @@ For self-comparison while reviewing my own drafts, the cleanest established-voic
 
 ## Drift findings
 
-### Ch 22 Easter at Lindøy — drafted 2026-04-19, [pending commit]
+### Ch 18 The School — expanded 2026-04-19, committed 386f7c4
+
+~700 words added (~1,940 → ~2,640). Two insertions: first-lesson scene + walking-alone in October.
+
+#### What I think landed
+
+- **The first-lesson scene** anchors the school as a real place rather than a montage. Olav doing the calculation in his head while listening to the next lesson establishes his competence ahead of the chapter's "By the end of the first morning he understood..." reflection.
+- **Hamre noticing Olav at the first lesson** ("a quarter-inch to look at Olav") reverses the established noticing arc (Olav noticed Hamre at the end of the first month). Now Hamre saw Olav first, but Olav doesn't catch the look until much later. Adds depth to the Hamre arc without overstating it.
+- **The walking-alone scene** does work the established voice has been deferring: the small new piece of Olav's life that is being-alone-in-a-Norwegian-city. Names the drawer's relation to solitude (the kind of solitude in which Haakon would be the next thing to come into his head if he allowed it) without opening the drawer.
+
+#### What I flag as possible drift
+
+- **content/en/18-the-school.md (the walking-alone "He thought, on these walks, mostly of the work" passage)** echoes Ch 4 Haakon's "He thought of him without permitting the thought to turn into anything" / Ch 10 Vaageland's "He thought of him at the rate his body wanted to think of Haakon." Three near-identical constructions across three new/expanded chapters. The forward-writing session may want to vary one to break the pattern.
+- **"south sixty-four west"** as the haversine answer — I removed "two hundred and three minutes" from the original draft for cleanliness, but a careful navigator-reader will notice that "south sixty-four west" without the minutes is a coarser bearing than the chapter's setup ("degrees and minutes") asks for. Possible correction: restore the minutes, or change Prof. Nilson's request to "by the end of the lesson, work out the bearing to a degree."
+
+---
+
+### Ch 12 Vardøy — expanded 2026-04-19, committed 24a5e37
+
+~700 words added (~2,109 → ~2,685). Two insertions: the perpetual light + the re-coppering scene.
+
+#### What I think landed
+
+- **The perpetual light** as the chapter's named central wrongness — "harder than the salt and harder than the cough and harder than Brennevin and the chronometer." Reframes Vardøy from a series of cruelties into a single environmental fact. The "Vardøy did not put bodies back together" line is the load-bearing thesis.
+- **The re-coppering rendered as scene** rather than the one-line summary it was. Olav on the bo'sun's chair under the hull, the chill going down "the way a stone goes into a pond — straight, slow, without a sound the man containing the pond could hear" — voice-match.
+- **The boatswain peeling Olav's fingers off the rope one by one** — small physical detail that does the work of showing the body's exhaustion without naming it.
+
+#### What I flag as possible drift
+
+- **content/en/12-vardoy.md (the perpetual-light meditation)** runs to about 250 words of interior reflection on the Finnøy winter's mercy in retrospect. The established voice is more compressed at meditation-of-place; the closest comparable beat (Ch 11 The White Ship's Sars-on-the-rail) uses about 100 words of similar reflection. Possible correction: trim the perpetual-light section by a paragraph (cut the "He thought, often, about the dark of the Finnøy winter" passage; let the practical observations carry the thesis).
+
+---
+
+### Ch 8 Wilmington — expanded 2026-04-19, committed 412894d
+
+~620 words added (~2,235 → ~2,853). Two insertions: tarring days texture + eighth-day Haakon goodbye-without-being-one.
+
+#### What I think landed
+
+- **The tarring days as physical work** — palms coming off in patches like willow bark, wool-strip wrapping, the captain watching for Olav to ask to be relieved. The "He did not ask" close on the new section earns the "He did the work" line that follows.
+- **The eighth-day Haakon moment** is the chapter's load-bearing addition. Haakon's nod as the goodbye — given without permitting it to be a goodbye, returned in kind — re-frames the chapter's later "if I did not say goodbye to Haakon I would hear that fiddle in his head for the rest of his life" line. The actual goodbye has already happened; the dog-watch reflection is now the awareness of having received it.
+
+#### What I flag as possible drift
+
+- **content/en/08-wilmington.md (the eighth-day insertion)** uses past-perfect throughout ("He had been coming down the shrouds...") in a long sequence — about 200 words. The established voice uses past-perfect for memory but tends to break it with simple past for emphasis. Possible correction: shift the central sentence ("Then Haakon had nodded, once") to simple past ("Then Haakon nodded, once") to break the past-perfect rhythm at the chapter's gesture-moment.
+- **The boatswain's name is not given in the eighth-day scene** — Haakon is named, but the men around him are not. Acceptable since the scene is from Olav's POV and his attention is on Haakon, but a careful reader may want a small grounding detail (e.g., "Haakon — who had been forward at the windlass with Bertel on some piece of work").
+
+---
+
+### Ch 5 Lisbon — expanded 2026-04-19, committed 05f01b0
+
+~840 words added (~2,470 → ~3,309). Three insertions: customhouse-stairs wait, the moment of not-moving, the night sitting with Nils.
+
+#### What I think landed
+
+- **The customhouse-stairs wait** texture (lamps in fog, Nils's not-stammering as the most he had shown Olav, the small Portuguese boat passing) gives the scene the slow build the beating it precedes deserves.
+- **The moment of not-moving** — Olav counting back the half-second after the captain lifts the rope-end, the body deciding without consulting him. Lands the chapter's moral weight at the prose-level: "the body did not, when it came to it, always do what a man wanted it to do."
+- **The night sitting with Nils** — the reckoning that Nils knew the beating was coming the way Olav knows a tide; the cold permanent piece in the chest of men who learned by watching. Carries the load the original prose deferred.
+
+#### What I flag as possible drift
+
+- **content/en/05-lisbon.md (the not-moving insertion)** has "Olav, who would for the rest of his life carry the small cold weight of this fact against his ribs" — narrator-knowing-the-future, slight POV-slip toward the same older-narrator move I flagged in Ch 11 (which the forward-writing session has already corrected). Possible correction: "Olav, who carried the small cold weight of this fact against his ribs from this night on" — keeps the weight without the narrator-from-the-future construction.
+- **The "by Olav's count" phrasing** in the not-moving section ("perhaps a half-second between the lifting and the first blow") — voice-match but used twice in close proximity in the chapter. Watch for repetition when the forward-writing session reads.
+
+---
+
+### Ch 22 Easter at Lindøy — drafted 2026-04-19, committed via 3b2ceb0 + bundling at c0ea7fd
 
 ~3,200 words. New chapter; the Easter visit (April 1880) promised in Ch 21 The Cough Returns but never delivered, slotted between Ch 21 and Ch 23 (was 21, Hamre).
 

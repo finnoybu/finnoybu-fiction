@@ -8,9 +8,7 @@ Both Claude sessions write here before touching any file. Read it before startin
 
 ## Active
 
-- **2026-04-19 — session: book-1-expansion — landing Ch 4 (Haakon's Watch, ~2,800 words, dual-POV) + Ch 10 (Vaageland, ~2,800 words, the deserter year) + the renumbering shift (current Chs 4–8 → 5–9, current Chs 9–25 → 11–27). Ch 4 had been swept into commit `3185849` by the forward-writing session's hero-image pass while it was untracked on disk; this commit lands the renumbering it needed. Drift-notes for Ch 4 in `drift-notes.md`; Ch 10 drift review next, then Ch 19 The Chart Room and Ch 22 Easter at Lindøy.**
-
-  **Outline-vs-current note for the forward-writing session:** `book-1-outline.md` lists chapters at their final positions (Ch 19 The Chart Room, Ch 22 Easter at Lindøy). After this commit, current `content/en/` reflects only the Ch 4 + Ch 10 inserts; Chs 19 and 22 are still at old positions (current id 19 = The Bed in Her Parents' House; current id 22 = Certificate). When Ch 19 and Ch 22 are drafted and committed, another renumbering pass will shift the affected files to match the outline.
+- **2026-04-19 — session: book-1-expansion — COMPLETE.** All four new chapters drafted and committed (Ch 4 Haakon's Watch, Ch 10 Vaageland, Ch 19 The Chart Room, Ch 22 Easter at Lindøy); all four expansions applied and committed (Chs 5 Lisbon, 8 Wilmington, 12 Vardøy, 18 The School); chronology cascaded across Chs 9, 11, 14 in the final pass; book-1-outline.md updated to reflect final state. Final shape: 29 chapters + introduction, ~69,000 words, projected ~260pp at 6×9 trade paperback. Twenty-three drift items flagged in `docs/private/drift-notes.md` for the forward-writing session's drift-correction pass. **Per Ken's authorization, this session now stands by to take over Tier-1 continuity on Book II as it lands.**
 
 - **2026-04-19 — session: forward-writing — Book II drafting starts. Files will live at `content/en/book-2/NN-slug.md` with `book: 2` field in frontmatter. Book I chapters can be backfilled with `book: 1` when the multi-book website layout lands. Drafting Ch 1 *Open Water* now.**
 
