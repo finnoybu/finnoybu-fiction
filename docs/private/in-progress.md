@@ -8,9 +8,13 @@ Both Claude sessions write here before touching any file. Read it before startin
 
 ## Active
 
-(none — Tier-1 session is idle after the 2026-04-19 continuity pass)
+(none — forward-writing session idle; Ch 25 committed; Book I complete; awaiting Ken's call on chronology and Book II greenlight)
 
 ## Recently completed
+
+- **2026-04-19 — session: forward-writing — content/en/25-sails-set.md — Ch 25 (closes Book I), ~1,800 words, year-implicit prose, hook close: "The eighteen months were under way."**
+
+- **2026-04-19 — session: forward-writing — content/en/24-the-goodbye.md — committed e53fa69 — Ch 24, ~1,400 words, hook close on the gangway**
 
 - **2026-04-19 — session: continuity-tier-1 — content/en/02, 06, 08, 11, 13, 19 — six mechanical fixes:**
   - Ch 02: removed duplicate "He was taller than Mathis" sentence (editing artifact)
@@ -24,6 +28,14 @@ Both Claude sessions write here before touching any file. Read it before startin
 
 - **Ch 23 internal date conflicts.** After the recent fix(ch23) commit, two date schemes are still in tension within the chapter: Haakon's age math (25→33 = 8 years gap, implying Sigrid 1859) vs. Olav's age math established elsewhere (21 at Nov 1866 engagement, implying Sigrid 1862). Specific lines: 73 ("in 1866, ...in 1860, only older"), 85 ("summer of 1858"), 93 ("in 1906... Christmas morning of 1864"), 95 ("in 1906"), 43 ("May of 1864"). Letter dated May 1867. Tier-1 left these alone — they're creative reconciliation, not mechanical.
 - **Wedding venue.** Ch 21 line 67 contractually locks the wedding at Lindøy church, contradicting the Hestby thematic spine in trilogy-plan.md:49. Forward-writing needs to know whether to honor Lindøy (engagement document) or Hestby (plan) before reaching the wedding scene.
+
+## Open author calls (Ken)
+
+- **Chronology Path A vs. Path B** (gates the Ch 23 reconciliation, the trilogy-plan.md update, and any Tier-1 date sweep):
+  - **Path A** — Keep chapters in 1862–1869 timeline as written. Update `trilogy-plan.md` to acknowledge. One-paragraph plan edit. Wilmington 1862–63 silently overlaps the early American Civil War (Confederate blockade-running port). Ch 23 fix: Haakon's age 33 → 30 (or "in his thirtieth year").
+  - **Path B** — Shift chapters to 1878–1881 per the original plan. Tier-1 date sweep across Ch 18, 20, 21, 22, 23. Forward-writing chapters (Ch 24, 25 onward) update their year references too. Matches memoir era; preserves Halvar Sars's 1868 lithograph timing.
+  - Forward-writing recommendation: **Path A** (lower mechanical cost, the Civil War overlap is a real piece of accidental resonance, the chapters' internal momentum is here already).
+- **Wedding venue: Hestby** (already confirmed by Ken 2026-04-19). Ch 21 one-clause softening is mechanical once Path A/B is decided around it.
 
 ---
 
