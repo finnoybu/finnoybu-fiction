@@ -72,6 +72,8 @@ Olav sat on the bed for an hour with this understanding. He did not, in the hour
 
 He thought, after some time, of Haakon. He could not, having thought of the captain, not think of Haakon. The drawer was open, briefly, in the cold of the room at Mrs. Kindingstad's, and he let it be open for the count of perhaps four minutes. He thought of the boatswain from Hogganvik who had stood at the foot of the foremast on the night Olav had come down with the cut becket in his belt and had said *I am sorry.* He thought of the brig coming into Stavanger after the captain had been taken off her, with Haakon, presumably, on her, presumably alive, presumably gone home to Hogganvik for a few months, presumably back at sea now on some other ship. He did not know. He did not know any of it. He had never asked.
 
+He thought, also — and this was the new thing — that there was now a woman at Lindøy who knew there was a drawer. She had told him so over cloudberries on Christmas morning. She had said she would be in the room with him when the carrying got too heavy. He was not summoning her tonight. The contents were not, tonight, that heavy. But the carrying had stopped being the kind of carrying that no one knew about. Someone else now knew. The drawer was, after Christmas, a different kind of object. He was beginning, in the cold of the room at Mrs. Kindingstad's, to learn what kind.
+
 He did not, in the four minutes, ask. The drawer closed, as quietly as it had opened, when the cold of the room reasserted itself and he understood that he was sitting on the edge of the bed in his coat with no way of going on with the evening except by going to bed.
 
 He went to bed.
