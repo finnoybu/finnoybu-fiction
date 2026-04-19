@@ -12,6 +12,11 @@ Both Claude sessions write here before touching any file. Read it before startin
 
 ## Recently completed
 
+- **2026-04-19 — session: forward-writing — Ch 21-23 editorial pass per Ken's review.**
+  - Ch 21: fractured Captain Lindøy's Wilmington speech mid-paragraph with a wooden-hand beat (he stops, looks at his right hand on the tiller, then his wooden left hand on his knee, before resuming). Added a silence beat for Olav before his closing "Yes, sir" — he looks at the wooden hand, then the captain's face, then the channel.
+  - Ch 22: cut the "He understood, walking back from the post-house..." paragraph entirely. Chapter now ends on "He felt, instead, that he had begun the marriage."
+  - Ch 23: added an interior beat at the workbench registering the keep-vs-burn choice ("He had walked down, he thought, to burn it. He understood ... that he had not walked down to burn it. He had walked down to put it somewhere that was not his coat pocket and was not his hand and was not the loft."). Cut the residual 1921-Olava reasoning paragraph that was vestigial from the burning version.
+
 - **2026-04-19 — session: continuity-tier-1 — Path B chronology sweep across Ch 18, 20, 21, 22, 23 — bundled into commit 6a56cf3 by the forward-writing session's `git commit -a` (their commit message describes their Ch 24/25 edits only; the Tier-1 file changes in that same commit are this sweep).** Specific changes:
   - Ch 18: "in '64" → "in '78" (twice), "in '65" → "in '79"
   - Ch 20: "8 June 1866" → "8 June 1880"

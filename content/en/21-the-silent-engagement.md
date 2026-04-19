@@ -98,11 +98,17 @@ He waited for Olav to be still.
 
 Olav did not, for some time, speak.
 
-"I have known since August. I made inquiries at the consulate. Your year of '76 to '77 has no entries on any Norwegian articles I have been able to find. I have asked the consulate, on your behalf, to record that you sailed coastwise out of Liverpool under your own name across that year. The consulate has accepted my representation. The marriage will not be questioned. I am telling you this so you know what is on the official record about you, and so that, in your married life, you do not contradict it."
+"I have known since August. I made inquiries at the consulate. Your year of '76 to '77 has no entries on any Norwegian articles I have been able to find. I have asked the consulate, on your behalf, to record that you sailed coastwise out of Liverpool under your own name across that year. The consulate has accepted my representation. The marriage will not be questioned."
+
+He stopped. He had been speaking, until then, without looking at Olav; he had been looking instead at the gunwale of the boat. He looked now, briefly, at his right hand on the tiller, and then at his left hand — the wooden one — resting on his knee. He looked at the wooden hand for a moment longer than he had needed to.
+
+"I am telling you this," he said, "so you know what is on the official record about you, and so that, in your married life, you do not contradict it."
 
 He paused.
 
 "My daughter does not know. My daughter will not know unless you tell her. I am telling you this also so that you know that there is a thing I have done for you that you owe me. The owing is small. The owing is real. I am collecting it now: do not be the kind of husband who makes my daughter wonder, in twenty years, why she chose you. That is the entirety of what I am collecting. Is that understood."
+
+Olav did not, for some seconds, answer. He looked at the wooden hand on the captain's knee. He looked at the captain's face. He looked at the channel.
 
 "Yes, sir."
 

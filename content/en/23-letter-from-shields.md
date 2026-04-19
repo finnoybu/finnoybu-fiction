@@ -90,10 +90,6 @@ He sat on the bed for a long time with the letter on his lap.
 
 He thought of Olava at the Lindøy jetty in the November dusk receiving the engagement paper from her father. He had not been at Lindøy that evening, but his mind had constructed her face from what he knew of her face, and the face he had constructed was a face of quiet receiving. She had been waiting since August for the signing. The signing had been the news she had been waiting for. The face had received the news without surprise.
 
-He thought of her face if he were to bring her this letter, in some autumn forty years from now, and tell her what was in the drawer. The face was the same face, the older version of it — quiet, receiving, not surprised. She would not, in 1921, be surprised. She had told him on Christmas morning of 1879 that she knew there was a piece. The letter would only be the piece given a name and a sender and a postmark from a Tyne coal port.
-
-She would not, he understood, in 1921, be surprised. She would also not be hurt. She had agreed, in advance, to the carrying. She had agreed in advance to the eventual disclosure. She had agreed in advance to the silence between them about it. The letter would, if he kept it, become the artifact of the silence. The letter would, if he burned it, become a piece of his interior that no one outside him had ever seen.
-
 He sat with the letter for another hour.
 
 Then he went down to the kitchen. His mother was at the stove. He told her he was going down to the boat-shed for a tool. He took the letter with him.
@@ -101,6 +97,8 @@ Then he went down to the kitchen. His mother was at the stove. He told her he wa
 ---
 
 In the boat-shed he stood for some time at his father's workbench in the failing afternoon light.
+
+He had walked down, he thought, to burn it. He understood, standing at the workbench in the failing light, that he had not walked down to burn it. He had walked down to put it somewhere that was not his coat pocket and was not his hand and was not the loft.
 
 The workbench had a small drawer in it on the underside — a drawer his father had used, when Olav was a boy, for the strong tobacco he had given up in Olav's twelfth year and that Olav's mother had not, in the years since, asked her husband whether he had truly given up. The drawer had been empty since 1870. Olav had known about it since he was nine, had used it himself, as a boy, to hide a particular pocket-knife his uncle had given him that his mother had told him to return.
 

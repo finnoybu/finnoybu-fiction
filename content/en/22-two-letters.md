@@ -102,8 +102,6 @@ He wrote to his father (who was, that evening, at Mosterøy with his uncle on a 
 
 He took the three letters to the post in the morning.
 
-He understood, walking back from the post-house, that he was now the kind of man who had told three different parties, in writing, on the same evening, that he had chosen the harder voyage; and that he had, by writing Olava first, made his fiancée the recipient of the news before his father; and that the order of writing was a thing he had not known himself capable of until he had done it; and that the order would, in his married life, become one of the small permanent facts about him that he had decided in a single evening at a desk in a loft.
-
 He did not, walking back, feel particularly proud.
 
 He felt, instead, that he had begun the marriage.
