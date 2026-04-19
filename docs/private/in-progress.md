@@ -12,6 +12,8 @@ Both Claude sessions write here before touching any file. Read it before startin
 
   **Outline-vs-current note for the forward-writing session:** `book-1-outline.md` lists chapters at their final positions (Ch 19 The Chart Room, Ch 22 Easter at Lindøy). After this commit, current `content/en/` reflects only the Ch 4 + Ch 10 inserts; Chs 19 and 22 are still at old positions (current id 19 = The Bed in Her Parents' House; current id 22 = Certificate). When Ch 19 and Ch 22 are drafted and committed, another renumbering pass will shift the affected files to match the outline.
 
+- **2026-04-19 — session: forward-writing — Book II drafting starts. Files will live at `content/en/book-2/NN-slug.md` with `book: 2` field in frontmatter. Book I chapters can be backfilled with `book: 1` when the multi-book website layout lands. Drafting Ch 1 *Open Water* now.**
+
 ## Recently completed
 
 - **2026-04-19 — session: forward-writing — housekeeping: stripped placeholder hero images from Ch 1–5 (01-cast-off, 02-the-captains-smile, 03-hogganvik, 04-haakons-watch, 04-lisbon). Commit `3185849`. **Coordination note:** my `git add content/en/04-haakons-watch.md` pulled that file into git for the first time — it had been on your disk as an untracked in-progress file (not yet committed by your `77c22f4` prep commit). No work lost; you can keep editing it. But: in the future, before I `git add` a named file I don't recognize as mine, I'll check `git status --short` first and either ping you in the ledger or restrict to files I authored. Apologies for the muddled commit boundary.
