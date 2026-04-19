@@ -29,13 +29,37 @@ Both Claude sessions write here before touching any file. Read it before startin
 - **Ch 23 internal date conflicts.** After the recent fix(ch23) commit, two date schemes are still in tension within the chapter: Haakon's age math (25→33 = 8 years gap, implying Sigrid 1859) vs. Olav's age math established elsewhere (21 at Nov 1866 engagement, implying Sigrid 1862). Specific lines: 73 ("in 1866, ...in 1860, only older"), 85 ("summer of 1858"), 93 ("in 1906... Christmas morning of 1864"), 95 ("in 1906"), 43 ("May of 1864"). Letter dated May 1867. Tier-1 left these alone — they're creative reconciliation, not mechanical.
 - **Wedding venue.** Ch 21 line 67 contractually locks the wedding at Lindøy church, contradicting the Hestby thematic spine in trilogy-plan.md:49. Forward-writing needs to know whether to honor Lindøy (engagement document) or Hestby (plan) before reaching the wedding scene.
 
-## Open author calls (Ken)
+## Author calls — DECIDED
 
-- **Chronology Path A vs. Path B** (gates the Ch 23 reconciliation, the trilogy-plan.md update, and any Tier-1 date sweep):
-  - **Path A** — Keep chapters in 1862–1869 timeline as written. Update `trilogy-plan.md` to acknowledge. One-paragraph plan edit. Wilmington 1862–63 silently overlaps the early American Civil War (Confederate blockade-running port). Ch 23 fix: Haakon's age 33 → 30 (or "in his thirtieth year").
-  - **Path B** — Shift chapters to 1878–1881 per the original plan. Tier-1 date sweep across Ch 18, 20, 21, 22, 23. Forward-writing chapters (Ch 24, 25 onward) update their year references too. Matches memoir era; preserves Halvar Sars's 1868 lithograph timing.
-  - Forward-writing recommendation: **Path A** (lower mechanical cost, the Civil War overlap is a real piece of accidental resonance, the chapters' internal momentum is here already).
-- **Wedding venue: Hestby** (already confirmed by Ken 2026-04-19). Ch 21 one-clause softening is mechanical once Path A/B is decided around it.
+- **Chronology: Path B** (Ken 2026-04-19). Rationale: Wilmington Civil War overlap is a liability not an asset (would require writing into Confederate conscription / blockade-running context the prose doesn't carry); the 1868 Sars lithograph in Ch 11 line 33 is internally broken under Path A; CLAUDE.md and trilogy-plan.md:6 both name the memoir as scaffolding (1878–82 era) and Path A severs that.
+
+  **Tier-1 session authorized to sweep dates** across Ch 18, 20, 21, 22, 23 to match.
+
+  **Target anchor chronology** (reconcile to taste; these are landing zones, not exact):
+  - Ch 1 Sigrid voyage starts: summer 1876 (Olav age 18, born March 1858; Ch 4 captain's "You are eighteen years old" is load-bearing)
+  - Ch 8 Wilmington desertion: autumn 1876
+  - Ch 9 year-and-quarter later home: late autumn 1877 (Ch 9 opening "late summer" may need to shift to "autumn" for the math to close)
+  - Ch 10 Vardøy / Ch 11 Diana: spring–early summer 1878; Ch 11 Sars lithograph "1868" now works as a ten-year-prior earlier ship
+  - Ch 12 home cured: late summer 1878
+  - Ch 13 Landa midsummer: June 1879 (Olav turns 20 in March 1879)
+  - Ch 16 school starts October 1879
+  - Ch 17 Christmas at Lindøy 1879
+  - Ch 18 cough returns February 1880
+  - Ch 19–20 graduation June 1880
+  - Ch 21 engagement November 1880
+  - Ch 22 Two Letters late January 1881
+  - Ch 23 Letter from Shields early May 1881
+  - Ch 24–25 departure mid-June 1881
+  - Expected East India return November 1882; marriage spring 1883
+
+  **Specific date-string swaps** (Tier-1 mechanical):
+  - **Ch 18** sailor's account: "Hamburg in '64" → "Hamburg in '78"; "asylum at Eg in '65" → "asylum at Eg in '79"; "died there last year" stays (Ch 18 set Feb 1880, Gjermund died 1879)
+  - **Ch 19** no year strings; Hjemmet phantom already fixed
+  - **Ch 20** "the eighth day of June 1866" → "the eighth day of June 1880"
+  - **Ch 21** "the autumn of 1866" → "the autumn of 1880"; "in November of 1866" → "in November of 1880"; "Bergen wharf in 1830" → "Bergen wharf in 1855"
+  - **Ch 22** "the end of 1868 or the beginning of 1869" → "the end of 1882 or the beginning of 1883"; "since September of 1864" → "since the evening on the rail of the *Diana* three summers before" (keep year-implicit so it compounds with the existing text)
+  - **Ch 23** "1 May 1867" → "1 May 1881"; "May of 1864" → "the autumn he came home with the cough" (Ch 9 timing, year-implicit); "Christmas morning of 1864" → "Christmas morning of 1879"; "summer of 1858" → "summer of 1876"; "in 1906" → "in 1921"; "November of 1868" → "November of 1882"; "spring of 1869" → "spring of 1883"; Haakon's age "at thirty-three" stays (8-year gap from 25 in 1876 works)
+- **Wedding venue: Hestby** (Ken 2026-04-19). Ch 21 line 67 one-clause softening authorized as Tier-1: change "the Lindøy church by the minister of that parish" to "the parish church the parties choose, on a date to be determined."
 
 ---
 
