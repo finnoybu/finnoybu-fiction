@@ -74,7 +74,7 @@ The first person whose presence in a room had reorganized the room had been on a
 
 He had decided, that spring, not to think of the man on the brig at gatherings.
 
-He kept the decision now. He did not, looking across the meadow at Olava Lindøy at the alder, allow himself to compare. Comparison was a country the drawer did not yet have a wall for, and he was not, today, going to give the drawer the work of building one. He let the recognition be its own thing. He let it be, for the moment, the only thing.
+He kept the decision now. He did not, looking across the meadow at Olava Lindøy at the alder, allow himself to compare. He let the recognition be its own thing. He let it be, for the moment, the only thing.
 
 ---
 
@@ -156,6 +156,6 @@ He did the small private thing he had taught himself not to do at gatherings.
 
 He thought of Haakon.
 
-He thought of Haakon and of Olava in the same minute. He did not, in the thinking, find that they competed.
+He thought of Haakon and of Olava in the same minute.
 
 The wind held steady from the south-east. Aagot, at the tiller, was singing something quietly to herself. The Finnøy hills in the long evening light were the color they had been in his head across an ocean, and they were also, for the first time in five years, the color they actually were.
