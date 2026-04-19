@@ -1,6 +1,6 @@
 ---
 title: "The Goodbye"
-id: 24
+id: 26
 slug: the-goodbye
 ---
 

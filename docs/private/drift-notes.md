@@ -34,4 +34,23 @@ For self-comparison while reviewing my own drafts, the cleanest established-voic
 
 ## Drift findings
 
-(none yet — entries land here after each chapter commit)
+### Ch 4 Haakon's Watch — drafted 2026-04-19, [pending commit]
+
+~2,800 words. New chapter; Haakon POV of the squall night Ch 3 renders from Olav's side.
+
+#### What I think landed
+
+- **Voice differentiation from Olav's.** Haakon-voice carries the dry economy the trilogy plan calls for ("warmer syntax, more humor, but guarded"): "Solvaag was a man who, in twenty years, would either be a captain or a dead man, and he had chosen the path that made the second more likely than the first. Haakon had served under three of him already." The "three of him already" is the kind of veteran-economy Olav's voice does not have access to.
+- **The drawer extends naturally to Haakon's side**, with new specifics that don't contradict the established device: his drawer is older (since age 15, the boy at the parish school), has more in it (Erik in Lübeck), and is consciously labeled "seamanship" as a known false-label-by-which-to-live.
+- **The hand-under-blanket beat from Haakon's side** renders as deliberate choice with measured breath-counting ("Haakon counted them; they were the slow breaths of a man who has decided not to do the thing he is most afraid of") rather than gesture. This pairs with Ch 3's Olav-side rendering without repeating it.
+- **Closing thesis lands:** "That was the part of seamanship that had no name in any of the books." Earns the chapter's title and frames Haakon's whole project.
+- **Period-specific details** (the cask the captain didn't know about, the polders, the '74 Solvaag crossing, Lübeck) carry the voice's sensory precision without modern idiom.
+
+#### What I flag as possible drift
+
+- **content/en/04-haakons-watch.md:78,93 — "doing what teeth do" used twice in close proximity** (lines 78, 93). The established voice does use deliberate refrain ("the drawer was where it had always been," "the drawer in the workbench was a real drawer"), but two uses of the same phrasing within ~150 words may read as accidental rather than chosen. Possible correction: vary the second to "his teeth still on him" or similar — Olav-Ch-3 used "His teeth started on him." which would echo Ch 3 nicely.
+- **content/en/04-haakons-watch.md:23 — "in '74"** is a hard date for a Haakon retrospective. Path B compatible (Haakon 23 in 1874, sailing on a North Atlantic voyage with Solvaag). But the established voice prefers year-implicit ("two years ago," "the winter of his twenty-third year"). Possible correction: "in his twenty-third year" or "two summers ago."
+- **content/en/04-haakons-watch.md:37 — "He had a place. The place was older than the boy was."** Introduces the drawer device by the word "place" first, then later switches to "drawer." Olav's voice in the established corpus uses "drawer" from Ch 3 onward as the consistent metaphor. Haakon, who has been carrying his drawer for ten years, would not reach for "place" first — he would have a settled name for it. Possible correction: replace "He had a place. The place was older than the boy was." with "The drawer was where the drawer always was. The drawer was older than the boy was."
+- **content/en/04-haakons-watch.md:84 — "the not-doing-more had been the right not-doing"** has a triple-negative-ish quality that's voice-stretchy. Possible correction: "had been certain afterward that he had stopped at the right place" — flatter but cleaner.
+- **content/en/04-haakons-watch.md:82-86 — the Erik-in-Lübeck backstory** is invented detail that gives Haakon's drawer specific contents. The other instance may want this kept (it deepens Haakon for Books II and III where his POV recurs) or may want it left vague (one of many men, the specifics held in reserve). No fix from inside; flag for a creative call.
+- **content/en/04-haakons-watch.md:11 — "the wool coat his mother had buttoned for him"** — Haakon noticing this detail is plausible (he can see the recently-from-mother quality), but it's voice-adjacent to Olav's noticing-pattern. Possible correction: replace "the wool coat his mother had buttoned for him" with "the wool coat that still smelled, faintly, of a mother's house" — keeps the noticing in Haakon's voice (smell is sailor-precise) rather than Olav's (visual cataloguing).

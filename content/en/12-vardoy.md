@@ -1,6 +1,6 @@
 ---
 title: "Vardøy"
-id: 10
+id: 12
 slug: vardoy
 ---
 
