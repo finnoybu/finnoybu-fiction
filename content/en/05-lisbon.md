@@ -60,6 +60,12 @@ Nils looked at him. The fog had wet his hair flat against his head. He looked ve
 
 They waited.
 
+The lamps along the customhouse stairs were oil-lamps in iron brackets, and the fog took the light from them and made of each lamp a small dim haloed thing that did not so much illuminate the stairs as confirm that the stairs were there. Olav could not, after the first half-hour, see the top of the stairs from the boat. He could see the lowest two steps and the iron ring and the painter, and he could see Nils's hand on the painter, and he could see the water sliding past the boat with the small dark slap of a tide that was about to turn.
+
+Nils did not stammer at the boat. Nils stammered when Solvaag startled him, or when the captain looked at him, or when a question came to him faster than he could turn it; Nils did not stammer on a boat in a fog at midnight beside a Norwegian boy he had spoken to perhaps three times. Olav understood, sitting beside him, that the not-stammering was the most Nils had ever shown him. He noted it. He did not, then, know what to do with the noting.
+
+Once, at perhaps half past eleven, a small boat passed them on its way out of the harbor, with a single oar working at the stern and a Portuguese voice talking quietly to itself. The boat went past without seeing them. Olav watched it go. Nils watched it go. Neither of them said anything about it.
+
 At one o'clock the captain came down the customhouse stairs. He was supported on each side by a man whose face Olav did not see clearly in the lamplight. They were both Portuguese. They poured him into the boat with the practiced courtesy of men who had done this for him before. The Portuguese laughed. The captain, settling onto the stern thwart, did not laugh. He looked at Olav and Nils with the dead-still smile that Olav had first seen at noon in the mess, and he said, in Norwegian, very quietly:
 
 "Take me home."
@@ -94,6 +100,16 @@ The captain stood breathing for a long second. Then he stepped over Nils and wen
 
 Olav, on the deck, did not move.
 
+He had counted the steps without meaning to count them. The captain had taken three from the gangway to where Nils was. The captain had taken two seconds to lift the rope-end. The captain had taken — Olav would later count this back, again and again, in the years that followed — perhaps a half-second between the lifting and the first blow, in which Olav, who was eighteen years old and had hands and feet and a coat over a wool shirt, could have moved.
+
+He did not move.
+
+He did not know, at the moment of the not-moving, why. He had not, that morning, decided he would not move; he had not, ever, decided such a thing in advance. The not-moving was not a decision. It was a thing his body did without consulting him, the way the body does the breathing when a man is asleep.
+
+The body had decided. The body had decided that the man in front of it with the rope-end in his hand was a thing the body did not interpose itself between, and the body had held the place it stood in, and the body had not asked Olav whether the holding was the holding he wanted.
+
+Olav, who would for the rest of his life carry the small cold weight of this fact against his ribs, learned in the half-second of the captain's lift that the body did not, when it came to it, always do what a man wanted it to do.
+
 ---
 
 He moved when the deck-watch moved. The watch came across slowly, knelt by Nils, and turned him onto his back. Nils was breathing. There was blood on the planking from his ear and a great deal of blood from the broken skin at his temple, and his eyes were open and not seeing, but he was breathing.
@@ -120,9 +136,19 @@ Olav sat with him for some time. He had been told to do nothing else. He did not
 
 He thought about the moment he had not moved.
 
-He did not yet know what the thought meant.
+He thought about it for the count of perhaps ten breaths. Then he thought about Nils sitting in the boat beside him at the customhouse stairs in the fog, not stammering. He thought about Nils's hand on the painter at the iron ring, and about Nils's *I know* in the boat at twelve o'clock, and about Nils's *I knew* on the steward's bunk three minutes before. He thought about how Nils, who had been the slowest man in the forecastle since they had cleared the Skagerrak, had been, in the matter of the captain, faster than Olav by every measure that counted.
 
-He sat with Nils for the rest of the night.
+Nils had known the beating was coming.
+
+Nils had known it the way a man knows a thing he has been around all his life. He had known it the way Olav, who had grown up beside salt water, knew when the tide was about to turn without looking at the water. The knowing was a knowing of the kind one did not learn at any school.
+
+Olav, who had been at the school the captain ran since the morning of the cast-off, had not yet learned the knowing. He had learned, this night, that the knowing was a thing he was going to have to learn. He had learned, also, that the knowing was a thing some men in this trade learned by being beaten and some men learned by watching beatings; and that the men who learned by watching had a small permanent piece of cold in their chest that the men who learned by being beaten did not have.
+
+Nils, in the steward's bunk, breathed his slow breath.
+
+Olav sat beside him with his hands on his knees. He did not, in the rest of the night, weep. He did not, in the rest of the night, sleep. He sat with Nils because the steward had told him to and because the not-sitting would have required him to go up on deck, and the deck was the place where the captain was, and Olav was not, that night, willing to be on a deck the captain might walk onto.
+
+He sat with Nils until the morning watch.
 
 ---
 
