@@ -182,11 +182,19 @@ Thomas did not answer for a moment. He looked at his hands.
 
 "Haakon Berg is a sailor who has decided not to leave," he said. "We are sailors who have decided to leave. We do not tell Haakon."
 
+Olav understood, much later, that Thomas had been wrong about Haakon — that Haakon had not so much *decided* not to leave as understood, under a weight Thomas could not see, that he could not. But on Sunday in the dog-watch with the river at his back, Olav accepted Thomas's framing, because Thomas's framing was the framing under which leaving was bearable.
+
 "He will know. After."
 
 "He will know after. He will not know before. We do not put it on him. If we put it on him he will have to choose between telling the captain and lying to the captain, and either choice will hurt him. We are kinder if we leave him with no choice."
 
 Olav thought about this for a long time.
+
+The river was very dark. The fiddle from the town was still going — a slow turn, a phrase he thought he half-recognized. He thought about Haakon in the forecastle. He thought about Haakon's hammock three down from his. He thought about the small white scar at Haakon's temple, which he had seen only once, in the binnacle-light of the squall night, and which he had been carrying inside him for two months without knowing he was carrying it. He thought about a man waking at six bells of the morning watch and counting hammocks.
+
+He has thought about all of these things, with very small variations, every week of his life since.
+
+He thought, with no idea where the thought came from, that if he did not say goodbye to Haakon he would hear that fiddle in his head for the rest of his life. He did not, even thinking it, allow himself to know whether the thought was true.
 
 "Yes," he said at last. "We are kinder."
 

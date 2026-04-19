@@ -161,3 +161,5 @@ When he woke at dawn, the masts were gone.
 The brig had dropped down the river on the early tide, hours ahead of schedule.
 
 Haakon had gone with her.
+
+I have never been sure, in the sixty years since, whether we were kinder.

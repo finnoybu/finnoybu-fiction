@@ -8,7 +8,9 @@ hero:
 
 By the end of the third day he had learned, or begun to learn, that a ship at sea is a clock made of men. The watches turned over every four hours, the bells every half, the meals three times, and into that rhythm the brig lived as an animal lives in its pasture: she grazed the wind, she was turned and scrubbed, she was fed small corrections at the wheel, and in return she went on going.
 
-Olav was on the mate's watch. Solvaag did not call his watchmen by name. He called them *you* and *the one at the pin* and *the new man*, which turned out, for the first week, to mean Olav exclusively. Olav learned to listen for the pitch of the mate's voice rather than the content of it. The content was always the same: a verb, an object, nothing else. *Trim that. Coil that. Move.* Olav moved.
+Olav was on the mate's watch. The opposite watch was Kristoffersen's — quieter, slightly slower, including the carpenter and a tall deckhand named Thomas Engelstad who was from Stjernerøy and who, in the first week, said nothing to him.
+
+Solvaag did not call his watchmen by name. He called them *you* and *the one at the pin* and *the new man*, which turned out, for the first week, to mean Olav exclusively. Olav learned to listen for the pitch of the mate's voice rather than the content of it. The content was always the same: a verb, an object, nothing else. *Trim that. Coil that. Move.* Olav moved.
 
 The wind held fair. The sea, after the North Sea chop of the first night, lay down into a steady green-grey and stayed there. The brig made seven knots with her royals set and the wind just abaft the beam, and the mate, when he was not giving orders, stood at the weather rail with his hands behind his back and watched the horizon with the expression of a man settling a score in his head.
 
