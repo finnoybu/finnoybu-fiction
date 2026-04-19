@@ -34,7 +34,52 @@ For self-comparison while reviewing my own drafts, the cleanest established-voic
 
 ## Drift findings
 
-### Ch 4 Haakon's Watch — drafted 2026-04-19, [pending commit]
+### Ch 19 The Chart Room — drafted 2026-04-19, [pending commit]
+
+~3,300 words. New chapter; the school term's deepening between current Ch 18 (The School) and current Ch 20 (was 19, The Bed in Her Parents' House).
+
+#### What I think landed
+
+- **Mrs. Kindingstad's boarding-house texture** at supper renders the household as a household, not just a setting — Knut and Anton the gymnasium boys, Lønningen the precision-fork clerk, the rhythm of one question per lodger per meal as "the rent." Voice-match.
+- **Anton noticing-Olav-as-older-man** beat — Olav for the first time being looked at the way younger men look at older men "they hope, in some particular not-yet-named way, to become." Plays into the dual-love architecture without naming it: the queer charge has begun to be a thing Olav is on the receiving end of, not just the having end of. Subtle.
+- **Olava's letter rendered in full** — the chapter's longest dialogue equivalent. Her voice (established in Chs 15, 17) deepens: kale for Mrs. Kindingstad, Marit's secret about not marrying, Asbjørn at Bergen with the *President Daae* in refit (early Book III seed), and the load-bearing line about reading the Hamre mention. The letter braids three threads (family, future ship, the line he did not know he had written) the way the established Olava does.
+- **The chart room scene as recurring habit** rather than the single November moment Ch 18 already has. Olav's hand drawing courses (Lisbon, Vardøy, Wilmington-river) repeatedly across the term, not just once. The shift from "He had stared at the line. He had wiped it." to "He let the lines stay" gives the chapter its arc — Olav consenting to inventory.
+- **Hamre's first crack** — the marlinspike exchange. Small. Low-stakes. The right size for the chapter: Hamre's stillness has been observed for eleven weeks; Hamre asks one question; Olav gives one piece of himself; both go back to work. Sets up Ch 22 (was 19) Hamre exam-day naturally.
+
+#### What I flag as possible drift
+
+- **content/en/19-the-chart-room.md (Hamre dialogue line) — "a captain who would have hit me with a marlinspike if I had stopped to refer to the tables"** — Olav conflates Captain Gjermund (who used a salt-shovel in Ch 5 Lisbon) with Solvaag the mate (who threw a marlinspike at the foremast in Ch 8 Wilmington). Defensible as character speech (Olav simplifies for a stranger), but a careful reader will catch it. Possible correction: "a mate who would have hit me with a marlinspike" — accurate to Solvaag and lower-stakes for Hamre to hear.
+- **Asbjørn / *President Daae* mention in Olava's letter** — early seed for Book III. Very early — Olav doesn't sail on the *Daae* until Book III. May read as too-explicit foreshadowing if a careful reader connects it to Asbjørn potentially recommending the berth later. The forward-writing session may want to keep this for the seeding effect or remove it as too-on-the-nose.
+- **Italicized interior thoughts at the chapter close** — *Olava will note this when I write it to her.* / *I am going to write it to her anyway.* Two italicized thoughts in close proximity. Established voice uses italics sparingly. Possible correction: italicize only the second; render the first as plain "He thought, on the walk, that Olava would note this when he wrote it to her."
+- **content/en/19-the-chart-room.md (Anton-quoted-on-slate beat)** — the slate-by-the-bed detail with "*the difference is what a man does with the fear*" being written down — risks being sentimental in a way the established voice is not. Possible correction: cut the slate detail entirely; let the conversation stand without the boy memorializing Olav's line.
+- **"the bell of the domkirke rang ten as he closed his eyes, and he was asleep before the eleventh stroke"** — voice-match (sensory + clean closing rhythm) but it's the third chapter in a row I've written that closes on a sleep beat. The established voice's closes are more varied. Possible correction: cut "as he closed his eyes" and let the bell stand alone — "The bell of the domkirke rang ten. He was asleep before the eleventh stroke."
+
+---
+
+### Ch 10 Vaageland — drafted 2026-04-19, committed 9bfa8db
+
+~2,800 words. New chapter; the deserter year between current Ch 9 (Boat at Midnight) and current Ch 11 (A Cough).
+
+#### What I think landed
+
+- **Mrs. Hovland's voice deepened** without contradicting Ch 9's brief introduction of her. Her teaching method (questions until the answers stop being effortful; the small grey notebook of parish names; the slip of paper in the kitchen stove) reads as the practiced economy of a woman who has done this work for thirty years. Her dialogue lines stay short and verbless where the established voice prefers them.
+- **The borrowed-name device** is rendered through the body's flinch rather than through interior labeling: "The flinch had been there on the second day; on the eighth day it was small; on the fifteenth day it was not there at all." Voice-match with the established showing-not-telling pattern.
+- **The cough's onset at Halifax** is structurally important — it bridges the Wilmington desertion (Ch 9) and the homecoming (Ch 11). The reference to Per (older brother dead at eleven) ties back to Ch 11's *"His older brother — Per, who had died of the cough when Olav was eleven — was buried behind it."* The chapter does not quote that line but the recognition-by-sound moment ("He had been eleven. He remembered the sound exactly.") plants the same emotional anchor.
+- **Captain Thorstad of the *Magnhild*** carries an echo to Ch 2 (Tolvsen sailed with Jens on the *Aase*; Thorstad sailed under Olav's father's onetime master). This braids Olav's father's old sea-life into the homecoming chapter and gives the *Magnhild* berth small thematic weight.
+- **Year-implicit handling of time passing** — "He was Vaageland on the *Anna Maria* for three coastwise runs" / "He was Vaageland on a Boston packet called the *Champion* through the winter of 1876" — uses the established voice's catalogue cadence.
+
+#### What I flag as possible drift
+
+- **content/en/10-vaageland.md:19 — the Vaageland exposition paragraph** is information-heavy and explanatory ("Vaageland was a farm on the south side of Finnøy. Olav's mother had been born there in 1830...") in a way the established voice usually avoids — it tends to render facts through scenes rather than narrator-summary. The information is necessary; the form is voice-adjacent. Possible correction: thread the exposition through Mrs. Hovland's dialogue ("Where was your mother born, Olav?" / "Vaageland." / "Tell me about Vaageland.") so the reader gets the same information through the teaching scene rather than narrator hand-off.
+- **content/en/10-vaageland.md:21 — "since 1851"** is a hard date for Mrs. Hovland's notebook origin. Established voice prefers year-implicit. Possible correction: "since the war" (American Civil War would put her starting in the 1860s, but Path B is 1876 setting — "since the war" reads natural to a contemporary character without being pinned).
+- **content/en/10-vaageland.md:35 — the Dane lodger** is introduced and then disappears from the chapter without consequence. Established voice does not introduce a named-but-unnamed character without using him. Possible correction: drop the Dane reference and replace with "another lodger" generic, OR give the Dane a brief line that pays off the introduction (e.g., a goodbye when Olav ships out).
+- **content/en/10-vaageland.md:88 — "I am Olav Hestby of Finnøy" in italics** as the chapter's load-bearing closing thought. The established voice uses italicized interior thought sparingly (Ch 1's *"I am going. I am gone."*; Ch 3's *"I will learn to put my words in drawers too."*). Three italicized variants of the same sentence near the end may be one too many. Possible correction: keep the first italicized; un-italicize the second and third to render them as the body trying-on-a-truth rather than declaring it.
+- **content/en/10-vaageland.md:64 — "He thought of him without permitting the thinking to turn into anything"** echoes Ch 4's nearly-identical Haakon-side construction ("He thought of him without permitting the thought to turn into anything"). The echo is intentional — both are doing the same restraint — but they may read as one of them lifted from the other if not flagged. The forward-writing session can decide whether to preserve the parallel (Olav now thinking like Haakon as he matures) or distinguish them slightly.
+- **content/en/10-vaageland.md:50 — Mrs. Hovland's slip-of-paper gift** ("Mrs. Tjaere, Boston, North Square / Mrs. Iversen, Quebec, lower town") sets up boarding houses that get used (Tjaere appears later in the chapter) and not-used (Iversen does not appear). The Iversen reference is hanging. Possible correction: drop Iversen, OR have Olav consider going to Iversen at Quebec and decide against it (which gives the reference small payoff).
+
+---
+
+### Ch 4 Haakon's Watch — drafted 2026-04-19, committed 3185849 (via forward-writing session bundling)
 
 ~2,800 words. New chapter; Haakon POV of the squall night Ch 3 renders from Olav's side.
 
