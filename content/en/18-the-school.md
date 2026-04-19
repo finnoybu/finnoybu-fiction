@@ -28,6 +28,24 @@ Prof. Nilson was forty-eight years old and had been a master mariner before he h
 
 Olav opened his book.
 
+The first hour was on the meridian and the parallel.
+
+Prof. Nilson did not lecture. He drew. He drew the meridian, then the parallel, then a small cross at their intersection, and he labelled the cross *here.* Then he drew a second cross above and to the right of the first, and he labelled the second *Lisbon,* and he drew a line from *here* to *Lisbon* and asked the class, without turning around, what bearing the line described.
+
+Three students answered at once, in three slightly different versions of *south-southwest.* Prof. Nilson, still without turning, said *yes; if any of you cared to be more precise, please, by the end of the lesson, work out the small angle in degrees and minutes and bring it to me.*
+
+Olav, with the chalk-cross of *here* on the blackboard and the chalk-cross of *Lisbon* on the blackboard above and to the right of it, did the calculation in his head while Prof. Nilson moved on to the next lesson. He did not write the answer down. He held it in the back of his head where the answer was the answer, and he listened to the next lesson, and at the end of the morning, when Prof. Nilson asked whether any of the students had brought him the small angle, he raised his hand from the second row by the window, and Prof. Nilson nodded at him and Olav said *south sixty-four west,* and Prof. Nilson said *Good,* and turned back to the blackboard.
+
+Olav sat for a moment with his hand still half-raised.
+
+The thirty students in the room had all looked at him. He did not, in the moment of being looked at, do anything with his face. He had spent five months on a brig under Captain Gjermund learning how not to let his face do anything his face did not need to do, and the lesson held now, in the second row by the window, in front of thirty other young men of his country.
+
+The student two seats over from him in the third row — a long pale Hardanger man who would, by the end of the term, be a man Olav knew by name — turned his head a quarter-inch to look at Olav. The look was brief. The look did not, in the brief, contain envy. The look contained the kind of recognition one navigator gives another at a chart table: *I know what you did.*
+
+Olav, who had not yet noticed Hamre and would not, for a month, learn to notice him, did not catch the look.
+
+He bent over his slate.
+
 By the end of the first morning he understood that the school was not, as he had feared, going to be a place at which he would feel that he had wasted three years on the brig and the *Diana* and the year between them. The school was going to be the place at which the three years became, at last, legible. He had been doing navigation by hand and by feel since he was eighteen. The school was the place where the doing was given names. The names were not the doing, but they were what allowed a man to teach the doing to someone else, and Olav understood — by noon of the first morning — that he had come to the school in part because he had been a man who would, eventually, want to teach.
 
 ---
@@ -35,6 +53,16 @@ By the end of the first morning he understood that the school was not, as he had
 He took rooms on Bredalmendingen, in a house run by a Mrs. Kindingstad whose husband had been at sea for thirty-one years and was now retired to a chair by the front window where he read the Stavanger newspaper and did not, in any year, take a meal in the kitchen with the lodgers. The room was on the second floor at the back. It had a small window that faced the church spire of the domkirke. It had a desk, a bed, a wash-stand, a wardrobe, and a small iron stove in the corner that Olav fed, that first month, with two scuttles of coal a day until he learned the rhythm of feeding it with one. Mrs. Kindingstad served breakfast at half past six and supper at half past five. Lodgers were expected to be at the table on time or to find their own meals. Olav, after the first week, was always at the table on time.
 
 There were three other lodgers. Two were schoolboys at the gymnasium, fifteen and seventeen, brothers, who spoke to Olav with the small careful courtesy that gymnasium boys extend to a man who has been to sea. The third was a clerk at one of the Stavanger shipping firms, a man of thirty named Lønningen, who was thin and quiet and had a habit, when he was eating, of holding his fork very precisely in the same position until he had finished chewing the bite already in his mouth. He did not speak much. When he did speak it was to ask a question of fact — *Is the Tau smack on time today, Mr. Hestby?* — and to receive the answer with a small nod and a return to his fork. Olav came, after a fortnight, to like Lønningen for the precision. He had learned at sea to like men who did not move their hands more than they needed to.
+
+---
+
+The Stavanger streets in late October were the colour of brick that had been wet for eleven days, which is to say a darker brick than they were in any other month. Olav walked them, twice a day, between Mrs. Kindingstad's house and the school, and he had begun, by the second week, to know the streets the way a sailor knows a piece of coast — by the small landmarks of them rather than by their names. The bakery at the corner where the smell came out at six in the evening. The cobbler's window with the one boot in it that had been the same boot since he had arrived. The narrow alley between two warehouses where, on the wettest evenings, the rain came down a single channel from the slate roofs and sluiced into a drain in a way he could hear from forty feet away.
+
+He walked the streets alone. He had not, in three years at sea, walked anywhere alone for as long as twenty minutes; the deck of a brig was the deck of a brig, and a man on it was always with other men, and the few hours ashore in any port were always with shipmates because no Norwegian sailor went into a foreign town alone if he could help it. Stavanger was not a foreign town. Stavanger was the town of his country, and a man in it could walk it alone.
+
+The walking-alone was, for the first fortnight, a thing Olav noticed every day. It was a small new piece of his life. He understood, by the end of October, that the school was not the only thing the school was giving him; the school was also giving him, by the simple structural fact of being a place he walked between twice a day, the experience of being a young man alone in a city for the first time in his life.
+
+He thought, on these walks, mostly of the work. He thought sometimes of Olava. He did not, on these walks, think of Haakon; the walking-alone was, he understood without naming the understanding, the kind of solitude in which Haakon would have been the next thing to come into his head if he allowed it, and so he did not allow it. He thought instead about the haversine, or about Mrs. Kindingstad's stove, or about a question Lønningen had asked at supper. The drawer was where it was. The walks did not, by their nature, open it.
 
 ---
 
