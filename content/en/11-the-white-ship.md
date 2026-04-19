@@ -70,7 +70,7 @@ The loading of the stockfish took three days. It was harder work than the salt-b
 
 Olav ate everything Ekeland put in front of him. He ate eggs. He ate the white meat of fish. He ate butter on bread until he could not look at butter on bread. He coughed less. By the third day he noticed, with a small private surprise, that he could climb the companionway without stopping at the half-step.
 
-The *Diana* lifted on the afternoon of the fourth day. They cleared the sound with a fair wind off the starboard quarter, and the engineer (a Scotsman named Couper who was the only man aboard who did not speak Norwegian and who had been on the *Diana* for eleven years) took the engine to half-ahead and held it there, and the steamer settled into her cruise like a woman settling into a chair she had been standing in front of.
+The *Diana* lifted on the afternoon of the fourth day. They cleared the sound with a fair wind off the starboard quarter, and the engineer (a Scotsman who had no Norwegian) took the engine to half-ahead and held it there, and the steamer settled into her cruise like a woman settling into a chair she had been standing in front of.
 
 ---
 
@@ -106,6 +106,4 @@ He patted the rail once with his old hand and walked away.
 
 Olav stood at the rail for some time.
 
-The older narrator, looking back at this evening sixty years later, has thought that there are perhaps six conversations in a man's life that determine the shape of the rest of it, and that this was one of his six. He has also thought, with a quietness he does not extend to many of his own thoughts, that the kindness Captain Sars gave him on the rail of the *Diana* was a kindness he did not know how to return to Sars in his lifetime, and that he did not know, then or now, whether the kindness he had withheld from Haakon at Wilmington was kinder or less than the kindness Sars was giving him on the deck of a steamer making twelve knots southward in the long Norwegian summer.
-
-He has never been sure, in the sixty years since, whether we were kinder.
+The older narrator, looking back at this evening sixty years later, has thought that there are perhaps six conversations in a man's life that determine the shape of the rest of it, and that this was one of his six.
