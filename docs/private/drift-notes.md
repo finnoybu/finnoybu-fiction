@@ -34,7 +34,34 @@ For self-comparison while reviewing my own drafts, the cleanest established-voic
 
 ## Drift findings
 
-### Ch 19 The Chart Room — drafted 2026-04-19, [pending commit]
+### Ch 22 Easter at Lindøy — drafted 2026-04-19, [pending commit]
+
+~3,200 words. New chapter; the Easter visit (April 1880) promised in Ch 21 The Cough Returns but never delivered, slotted between Ch 21 and Ch 23 (was 21, Hamre).
+
+#### What I think landed
+
+- **Physical-proximity escalation from Christmas's tray-formality**, exactly as the outline called for, without crossing the line that's reserved for Ch 28 The Goodbye:
+  - Olava at the jetty (resumption of the August gesture)
+  - Hand on his sleeve at the byre (count of five breaths)
+  - Hand in his hand at the spring on the climb to the high pasture
+  - The high-pasture beat where she names the not-touching for the next two years as the form of the marriage being built between them
+  - Total: three escalating physical contacts, all initiated by Olava, all ending by her decision
+- **Olava's high-pasture speech** — the load-bearing scene of the chapter. Her "you will not, at the end of the walk, ask me to do anything I cannot do without being married to you" is the kind of declaration the established Olava-voice can carry: small flat speech, asking for trust without explanation, then asking him not to ask why. Voice-match.
+- **The mother's "good. You will do."** at the kitchen table — earns the established mother-voice from Ch 17 (the August visit) without repeating it.
+- **The not-touching as form** rather than withholding — the chapter's thematic argument. The line "the not-touching was a promise — the promise that, when the touching came, it would come in a country where the touching belonged" is the load-bearing thematic sentence.
+- **Closing on the boat departing** with three thoughts about the rise above the high pasture (one quarter of an hour with her hand in his / two years before the next time / the rest of their lives after) — strong rhythm, voice-match, lands the chapter without repeating Ch 28's gangway architecture.
+
+#### What I flag as possible drift
+
+- **content/en/22-easter-at-lindoy.md (the high-pasture vow scene)** — Olava's speech runs to about 100 words of declarative-imperative dialogue ("You will not... You will not... You will, when..."). The established Olava-voice does run long when she has decided something (Ch 20 cloudberries Christmas is comparable), but this passage leans more sermon than the cloudberries one. Possible correction: trim by one of the four "You will not" clauses (e.g., remove "You will not, at the end of the walk, do anything that requires me to do something I cannot do." which is a paraphrase of the prior clause).
+- **"this was not the kind of romance the men in his school books would have recognised as romance"** — voice-stretch. The chapter naming itself as "romance" in narrator voice is meta in a way the established voice avoids. Olav would not, at twenty-two in 1880, label the thing he was inside as "romance"; he would have a different word, or no word. Possible correction: "this was not the courtship the men in his school books would have recognised as courtship" — keeps the meta but in a more period-appropriate register.
+- **content/en/22-easter-at-lindoy.md (the closing three thoughts)** — *I have been on that rise with her hand in mine for one quarter of an hour. I will not be on that rise with her hand in mine again for two years. I will be on that rise with her hand in mine for the rest of our lives after.* These are italicized interior thoughts, three in a row, each variation on the same image. The established voice uses italicized triplets sparingly; Ch 1's *"I am going. I am gone."* is the closest. Three may be one too many. Possible correction: render the third as plain narration ("He thought, after the second, that he would be on that rise with her hand in his for the rest of their lives after.") to break the italicized rhythm.
+- **The Easter Sunday church scene compresses** — "they walked from the house to the church on Easter Sunday with the rest of the family, and she did not, on the icy patch on the road, take his arm." This is the chapter's single explicit church reference and it's offhand. Hestby motif could play here (the Lindøy parish church, mirror of Hestby) but the prose passes by. The forward-writing session may want to expand this beat slightly to carry the church motif weight, or may want to leave it as the deliberate compression it is.
+- **Marit's secret about not marrying the schoolmaster's son** (mentioned in Ch 19 Olava's letter) is not paid off here. Marit is "at the schoolmaster's" on the day of arrival and not seen the rest of the visit. The forward-writing session may want a beat where Marit is on the page once during the nine days, or may want to leave her absent (which itself signals that her wedding plans are unraveling).
+
+---
+
+### Ch 19 The Chart Room — drafted 2026-04-19, committed 88cca9f
 
 ~3,300 words. New chapter; the school term's deepening between current Ch 18 (The School) and current Ch 20 (was 19, The Bed in Her Parents' House).
 
