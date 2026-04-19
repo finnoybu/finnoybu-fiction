@@ -8,7 +8,9 @@ Both Claude sessions write here before touching any file. Read it before startin
 
 ## Active
 
-(none — Tier-1 sweep complete; forward-writing session quiet)
+- **2026-04-19 — session: book-1-expansion (was continuity-tier-1) — Ken authorized role swap. This session now owns Book I expansion: 4 new chapters (Ch 4 Haakon's Watch, Ch 10 Vaageland, Ch 19 The Chart Room, Ch 22 Easter at Lindøy) + 4 selective expansions (Chs 5, 8, 12, 18). Self-review-for-drift after each commit; flags written to `drift-notes.md`. After Book I expansion is complete, the forward-writing session does the drift-correction pass and this session takes over Tier-1 on Book II as it lands.**
+
+  Currently drafting: prep commit (book-1-outline.md, drift-notes.md, ledger update, Ch 13 age fix). Next: Ch 4 Haakon's Watch.
 
 ## Recently completed
 
@@ -48,6 +50,10 @@ Both Claude sessions write here before touching any file. Read it before startin
   - Ch 11: removed older-narrator POV slip ("looking back at this evening sixty years later")
   - Ch 13: clarified Aagot age math — "the first time" → "first gone out on a coast-smack" (the backstory coastal apprenticeship per trilogy-plan, not the Sigrid voyage)
   - Ch 19: dropped phantom *Hjemmet* from exam-day ship list (Hjemmet has not appeared in any chapter)
+
+## Flags for the Book-I-expansion session (Tier-1 chronology residual)
+
+- ~~**Ch 13 age arithmetic.**~~ Resolved 2026-04-19. "He turned twenty in March" → "He turned twenty-one in March"; "He felt twenty" → "He felt twenty-one". Folded into prep commit.
 
 ## Flags for forward-writing session (not Tier-1, needs your read)
 
@@ -90,7 +96,10 @@ Both Claude sessions write here before touching any file. Read it before startin
 
 ## Conventions
 
-- Forward-writing session (Ch 24+) and Tier-1 continuity session (Chs 1–23) must not overlap on the same file.
-- Plan-of-record (`trilogy-plan.md`) and `names-index.md` are read-only for both sessions unless Ken authorizes a change.
-- Tier-1 session does not touch prose-as-prose — only mechanical fixes: dates, ship names, dawn beats, duplicate sentences, phantom references, narrator slips.
-- Tier-2 (creative restructure) is owned by the forward-writing session per voice-consistency decision.
+- **Current role split (Ken authorized 2026-04-19 role swap):**
+  - **Forward-writing session:** Books II and III drafting per `books-2-3-outline.md`.
+  - **Book-I-expansion session:** the 4 new chapters (Ch 4, 10, 19, 22) + 4 expansions (Chs 5, 8, 12, 18) per `book-1-outline.md`. After each commit, self-review for voice drift against the established voice; log to `drift-notes.md`. After Book I expansion is complete, swap: forward-writing does the drift-correction pass against the notes; Book-I-expansion takes over Tier-1 continuity on Book II as it lands.
+- Files in flight should be claimed in **Active** above before editing. Prefer `git add <files>` over `git commit -a` when both sessions are touching files in the same window.
+- Plan-of-record (`trilogy-plan.md`), `names-index.md`, `book-1-outline.md`, and `books-2-3-outline.md` are read-only for the *other* session — each session maintains its own outline.
+- New chapters are clean files with no overlap risk. Expansion of existing Book I chapters by the Book-I-expansion session: forward-writing should not touch the same file in the same window.
+- The drift-notes.md file is append-only by the Book-I-expansion session; the forward-writing session reads it during the drift-correction pass.

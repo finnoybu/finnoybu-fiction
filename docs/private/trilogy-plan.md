@@ -11,6 +11,13 @@ Series brand name: **Finnoybu** (ties to Ken's author/publisher brand). Each boo
 
 ---
 
+## Revision history
+
+- **2026-04-19 — Path B reconciliation pass.** Updated parameters to reflect post-draft state of Book I. Path B chronology (memoir era, 1876–1883) replaces the original 1862–1869 "Path A" sketch. Captain of the *Semiramis* corrected from Hamre to Brun (Hamre is the navigation school classmate; the conflict was an early-draft naming collision). Book lengths revised from 25 ch / ~100–110k to 30 ch / ~85–90k per the expanded outlines. Wedding venue and date updated to Hestby / spring 1883. The architectural spirit of the plan is unchanged; only factual parameters and a few specific dates/names have shifted to match the prose.
+- **Detailed chapter outlines** (current spec, supersede the chapter sketches in the per-book sections below): see `docs/private/books-2-3-outline.md` for Books II and III; the other Claude session maintains the revised Book I outline (30-chapter expansion).
+
+---
+
 ## Commercial positioning
 
 - TikTok/BookTok compatible (#romantasy, #historicalromance, #queerromance)
@@ -25,9 +32,9 @@ Series brand name: **Finnoybu** (ties to Ken's author/publisher brand). Each boo
 
 **Memoir's Olav:** first voyage at 15 (cook on *Nanna*). Meets Olava at 16. Dies/survives TB around 17. Navigation school 18–19. East India voyage 20–21. Marriage at 22 (Jan 1882).
 
-**Novel's Olav:** opens at 18, on his second voyage — first deep-sea. Has one short coastal training voyage in backstory (referenced, not shown). Meets Olava at 19 during summer ashore. Navigation school 20. East India voyage 21–22. Marriage at 22–23.
+**Novel's Olav (Path B chronology, born March 1858):** opens at 18 on the *Sigrid* (summer 1876) — second voyage, first deep-sea. Has one short coastal training voyage in backstory (referenced, not shown). Wilmington desertion autumn 1876. Home with cough late 1877. Vardøy and the *Diana* spring–summer 1878 (age 20). Cured late summer 1878. Meets Olava at Landa midsummer June 1879 (age 21). Navigation school October 1879 – June 1880. Engagement November 1880 (age 22). *Semiramis* East India voyage mid-1881 to late 1882 (ages 23–24). Marriage at Hestby spring 1883 (age 25).
 
-**Rationale:** Ken's explicit direction — protagonist must be 18+ throughout for adult romance content. Compressing the teen memoir years into backstory preserves the arc without shifting the source geography/chronology meaningfully.
+**Rationale:** Ken's explicit direction — protagonist must be 18+ throughout for adult romance content. Path B (memoir-era chronology) keeps the geography and the source's small dated landmarks (Sars's *Diana*, the *Semiramis* East India voyage, the parish wedding) load-bearing in the novel.
 
 ---
 
@@ -55,16 +62,18 @@ Use the church as a motif of **rootedness that he cannot outrun and cannot fully
 
 ## Book I — *Finnoybu: Salt and Silence*
 
-**Arc:** Ages 18–20. First major voyage → desertion → sickness → healing → home → meets Olava → navigation school → departure for East India. Ends on gut-punch: Olav leaves Olava (and a man from the first voyage who is out there somewhere) to ship for two years.
+**Arc:** Ages 18–23 (Path B). First major voyage → desertion → sickness → healing → home → meets Olava → navigation school → departure for East India. Ends on gut-punch: Olav leaves Olava (and a man from the first voyage who is out there somewhere) to ship for eighteen months.
 
-**Target length:** 25 chapters, ~100–110k words
+**Target length:** 30 chapters, ~85–90k words
+
+**Detailed chapter outline:** maintained by the Book-I-expansion Claude session (the 30-chapter revised outline supersedes the chapter sketches in the per-act sections below; those sketches are kept as the original scaffold).
 
 ### Three-act structure
 
 #### Act I — The First Voyage (Chapters 1–8)
 The opening voyage is **expanded with invented detail** per Ken's note ("he didn't cover much detail, we can fill it in"). Full male-world immersion; the queer awakening happens here.
 
-- **Ch. 1 — "Cast Off"** — Stavanger, summer 1878. Olav, 18, boards the schoonerbrig. Crew boarding: mates, boatswain, carpenter, fellow hands. First notice of ***H——*** (the boatswain from Hogganvik; named in the novel, unnamed in memoir). Departure, opsang, tears on dock, the promise of adventure.
+- **Ch. 1 — "Cast Off"** — Stavanger, summer 1876. Olav, 18, boards the schoonerbrig. Crew boarding: mates, boatswain, carpenter, fellow hands. First notice of ***H——*** (the boatswain from Hogganvik; named in the novel, unnamed in memoir). Departure, opsang, tears on dock, the promise of adventure.
 - **Ch. 2 — "The Captain's Smile"** — First days at sea. Captain appears warm. Food turns bad. Captain's true nature begins to emerge.
 - **Ch. 3 — "Hogganvik"** — First close scene between Olav and H——. Shared watch, cold night, shared blanket. Nothing happens. Everything happens.
 - **Ch. 4 — "Lisbon"** — Discharge of coal. Drunken captain abandons Olav and Nils ashore. Olav watches the captain beat Nils unconscious from the rigging. First trauma bond. Captain attempts to kill Olav with a salt-shovel.
@@ -100,40 +109,46 @@ The opening voyage is **expanded with invented detail** per Ken's note ("he didn
 
 ---
 
-## Book II — *Finnoybu: [Working subtitle: The Monsoon Letter]*
+## Book II — *Finnoybu: The Monsoon Letter* (working subtitle)
 
-**Arc:** Ages 20–21. East India voyage on the *Semiramis*. The Swedish man in Copenhagen. The passionate letter that forces a choice.
+**Arc:** Ages 23–24 (Path B). East India voyage on the *Semiramis* (mid-1881 to late 1882). The queer-charged crewmate Sven on the outbound and Indian legs. The Swedish man Anders in Copenhagen on the homeward leg. The doubling of letters in the workbench drawer at Finnøy after return.
 
-**Central inversion:** In the memoir, a *Swedish woman* writes Olav a passionate love letter offering unconditional devotion; he refuses her by ghosting her. In the novel, this is a **Swedish man** — a ship's mate or merchant's son — met briefly in Copenhagen during the homeward leg, who sees Olav unguarded once and recognizes him. His letter arrives on the same day as Olava's. Olav chooses duty; he buries the letter, and the self it represents, unread after the first reading.
+**Central inversion:** In the memoir, a *Swedish woman* writes Olav a passionate love letter offering unconditional devotion; he refuses her by ghosting her. In the novel, this is a **Swedish man** — Anders, a Stockholm-bound steamer officer or merchant's son — met briefly in Copenhagen during the homeward leg, who sees Olav unguarded once and recognizes him. His letter arrives at Finnøy on the same morning as one of Olava's. Olav chooses duty; he adds the letter, folded once, to the workbench drawer where Haakon's already lies. **Per the revised Book II outline, Anders is restrained**: his letter is parallel-echo to Haakon's three-line Shields letter, not a passionate plea. The book's heat is carried by the Sven scene at the Calcutta lodging-house. The doubling-in-the-drawer is the architectural beat, not a second heat payoff.
 
 **Key beats drawn from memoir:**
 - Rangoon, the Shwedagon Pagoda, the river swim (near-drowning)
-- Wilhelm Jacobson and Sven — crewmates. Sven's bunk-fight with Olav becomes a charged intimacy.
-- Teaching navigation to other sailors on the homeward leg — Olav as mentor
+- Wilhelm Jacobson and Sven — crewmates. Sven's bunk-fight with Olav becomes a charged intimacy; the Calcutta lodging-house is the heat scene.
+- Teaching navigation to other sailors on the homeward leg — Olav as mentor (the steward, paid in tobacco)
 - The apes caught by sugar in coconuts — metaphor for trapped desire
-- Captain Hamre (*Semiramis*) — proud, demanding; sees something in Olav he cannot name
-- Arrival in Copenhagen on return — the meeting with the Swedish man
-- The two letters arriving together after marriage
+- Captain **Brun** of the *Semiramis* — sixty, iron-grey, forty years a master mariner; promised in Book I Ch 22 to take Olav as a common seaman with the chart-work also his (the Hamre confusion in earlier drafts of this plan was an early-draft naming collision; Hamre is the navigation school classmate)
+- Arrival in Copenhagen on return — the meeting with Anders
+- The two letters arriving together after Olav's return — pre-wedding, December 1882
 
-**Target length:** 25 chapters, ~100–110k words
+**Target length:** 30 chapters, ~85–90k words
+
+**Detailed chapter outline:** `docs/private/books-2-3-outline.md` (revision 2 of 2026-04-19).
 
 ---
 
-## Book III — *Finnoybu: [Working subtitle: The Captain's Burden]*
+## Book III — *Finnoybu: The Captain's Burden* (working subtitle)
 
-**Arc:** Ages 21–22. First mate on the *President Daae*. New York, Brooklyn, petroleum runs. Steward who attacks him and becomes devoted. Marriage to Olava. The convergence.
+**Arc:** Ages 25 onward (Path B). Wedding at Hestby spring 1883. Brief settled period; first mate on the *President Daae* for the petroleum run to New York/Brooklyn. The Brooklyn drama. Return; Olav comes ashore for good. Telescoped late beat covers the years to a middle-age churchyard encounter at Hestby. Bittersweet, not triumphal.
 
 **Key beats drawn from memoir:**
-- Brooklyn dives and gangsters (Peder Gjesdal)
-- Lost on Manhattan Island in the Bowery — near-murder
+- Brooklyn dives and the gangster Peder Gjesdal (folded into the Bowery near-murder chapter)
+- Lost on Manhattan Island in the Bowery — near-murder; rescued by a Norwegian-American who recognizes the accent
 - Captain Thoresen's transformation from cruel to kind
 - The steward-fight that ends in the steward's devotion (the masochistic inversion of Book I's captain-violence)
-- Wedding at Finnøy, January 22, 1882 (keep the date)
-- Captain's drunkenness at the homecoming dinner — Olav's outburst ("you tried to murder men") — his discharge
-- The Swedish man resurfaces? Or is dead? Or Olav learns he died at sea — the queer self extinguished by circumstance, not by Olav's choice
-- Ending: Olav settled at Finnøy with Olava. Children possibly. The sea behind him. But something in him still looks at the horizon. **Bittersweet — not triumphal.**
+- **Wedding at Hestby, spring 1883** (Path B; the original "January 22, 1882" date is the memoir's, superseded by the novel's compressed-into-adulthood chronology — Hestby as the wedding venue is the locked thematic keystone)
+- Captain's drunkenness at the homecoming dinner — Olav's outburst (*you tried to murder men*) — his discharge
+- The Anders thread closes — Olav reads a Stockholm shipping notice in a Bergen paper years later: Anders died on a Baltic steamer that went down in November
+- Haakon's death notice in a Bergen paper years after Anders's
+- **Heat scene placement:** at Ch 21 (homecoming after the *Daae* voyage), not at Ch 2 (wedding night). The marriage proves itself in the body at the moment it has earned the right to. Wedding night is tender and present but not the peak.
+- Ending: Olav settled at Finnøy with Olava. Children. The sea behind him. The drawer in the workbench is opened twice in his life after marriage (Anders's clipping; Haakon's notice). Olava never asks. Olav never tells. The not-asking is the marriage. Late-life: Hestby churchyard with his own name in the period spelling on family stones. **Bittersweet — not triumphal.**
 
-**Target length:** 25 chapters, ~100–110k words
+**Target length:** 30 chapters, ~85–90k words
+
+**Detailed chapter outline:** `docs/private/books-2-3-outline.md` (revision 2 of 2026-04-19).
 
 ---
 
