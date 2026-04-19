@@ -1,10 +1,10 @@
 ---
 title: "Letter from Shields"
-id: 22
+id: 23
 slug: letter-from-shields
 ---
 
-The letter came to Finnøy on the afternoon mail in mid-December.
+The letter came to Finnøy on the afternoon mail in early May, three weeks before he was due to sail for the East India voyage.
 
 Olav was at the boat-shed when the postman came up the road to the house. He saw the postman from the shed door and knew, without thinking about it, that the postman was bringing a letter; the postman did not, at this season, walk up the road to the house unless there was a letter to deliver. Olav set down the chisel he had been working with and walked up to the house.
 
@@ -26,7 +26,7 @@ In the upper left of the cover, in the same hand:
 
 > *H. Berg*
 > *Shields, England*
-> *9 December 1866*
+> *1 May 1867*
 
 He held the letter for a long moment.
 
@@ -40,7 +40,7 @@ His mother, who had not, in his life, seen him hold a letter for a long moment w
 
 "Yes."
 
-He was not all right. He was, in the kitchen doorway with the letter in his hand, more not-all-right than he had been at any time since the cold of the room at Mrs. Kindingstad's the previous February. But he had spent five months on the *Sigrid* learning how not to let his face do anything his face did not need to do, and the lesson held now, in the kitchen doorway, in front of his mother, who was watching his face and looking for what she had looked for in May of 1864.
+He was not all right. He was, in the kitchen doorway with the letter in his hand, more not-all-right than he had been at any time since the cold of the room at Mrs. Kindingstad's the February before last. But he had spent five months on the *Sigrid* learning how not to let his face do anything his face did not need to do, and the lesson held now, in the kitchen doorway, in front of his mother, who was watching his face and looking for what she had looked for in May of 1864.
 
 He went up to the loft with the letter.
 
@@ -96,23 +96,19 @@ She would not, he understood, in 1906, be surprised. She would also not be hurt.
 
 He sat with the letter for another hour.
 
-Then he went down to the kitchen. His mother was at the stove. He told her he was going to walk up to the church wall before supper. He took the letter with him. He took the small box of matches his father kept by the back door for the lamp.
+Then he went down to the kitchen. His mother was at the stove. He told her he was going down to the boat-shed for a tool. He took the letter with him.
 
 ---
 
-At the church wall he stood for some time with the letter in one hand and the matches in the other. The wall was the wall he had stopped at on the May afternoon four and a half years before, with a wet sleeve and a cough and a question he had not been able to answer. He had stopped at the wall again, in August of the same year, with the cough off and the certificate-future in his head. He had not stopped at the wall a third time, in the years since.
+In the boat-shed he stood for some time at his father's workbench in the failing afternoon light.
 
-He stopped now.
+The workbench had a small drawer in it on the underside — a drawer his father had used, when Olav was a boy, for the strong tobacco he had given up in Olav's twelfth year and that Olav's mother had not, in the years since, asked her husband whether he had truly given up. The drawer had been empty since 1859. Olav had known about it since he was nine, had used it himself, as a boy, to hide a particular pocket-knife his uncle had given him that his mother had told him to return.
 
-He read the letter once more. The eighth time.
+He pulled the drawer open. He folded the letter once, the way Haakon had folded it. He laid it inside. He pushed the drawer closed.
 
-He took a match from the box. He struck it against the small flat stone at the top of the wall. The match took. He held the lighted match to the corner of the letter. The letter took. He held the burning letter at arm's length over the inside of the wall. The letter burned in three of the four corners and curled inward toward the seal in the middle, and the seal was the last part to take, and it took with a small dark sound and a smell of burnt wax that did not, he thought, come up to him on the wind.
+He stood at the workbench for another minute.
 
-The letter became ash.
-
-The ash fell into the grass between the wall and the road.
-
-He watched the ash for some time. Then he turned. He walked back to the house. He went into the kitchen. His mother was setting the table for supper.
+Then he walked back up to the house. His mother was setting the table for supper.
 
 "Did you walk well."
 
@@ -122,6 +118,14 @@ He watched the ash for some time. Then he turned. He walked back to the house. H
 
 "Good."
 
-He sat at the table. They had supper. He did not, that evening, mention the letter to anyone. He would not, in the next forty-three years of his life, mention the letter to anyone.
+He sat at the table. They had supper. He did not, that evening, mention the letter to anyone.
 
-The drawer was in him. The drawer would stay.
+He would, in the years afterward, go down to the boat-shed at intervals he did not announce to himself, and pull the small drawer open under the workbench, and look at the folded paper, and not take it out, and push the drawer closed again. He would do this perhaps twice a year for as long as he lived in his father's house. He would not, in the doing, ever decide whether to take the letter out of the drawer permanently or to burn it. The deciding was the kind of decision he had learned, on the deck of a brig in 1862, to put off for one more day.
+
+The letter would be in the drawer when he sailed for the East India voyage in June. The letter would be in the drawer when he came home in November of 1868. The letter would be in the drawer when he married Olava in the spring of 1869.
+
+The drawer in the workbench was a real drawer. The drawer in him — the one Olava had named on Christmas morning of 1864 — was the larger drawer the smaller drawer was an instance of.
+
+The smaller drawer held one letter.
+
+The larger drawer held everything the smaller drawer was about.
