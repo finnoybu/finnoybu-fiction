@@ -8,7 +8,7 @@ hero:
 
 The brig made Lisbon on the eleventh day. The wind, which had carried them down the Bay of Biscay with a steadiness Olav had begun to take for granted, gave them a final favor at the mouth of the Tagus and let them in on a quartering breeze that the pilot — a small dark man with a Portuguese hat and English of a kind — said was the best he had seen in a fortnight.
 
-Olav was at the larboard rail. The city came at him through a haze of heat and dust and a kind of smell he had not encountered before — a great composite smell of olives, rotting fish, citrus, smoke, animal, ocean-mud, baking stone, and underneath all of it a sweetness like wine spilled in a warm room and not cleaned up. The buildings climbed the hills in pale terraces. The roofs were red. The light was the color of a coin held up to a candle.
+Olav was at the larboard rail. The city came at him through a haze of heat and dust and a kind of smell he had not encountered before — a great composite smell, olives and citrus and baking stone and rotting fish, and underneath all of it a sweetness like wine spilled in a warm room and not cleaned up. The buildings climbed the hills in pale terraces. The roofs were red. The light was the color of a coin held up to a candle.
 
 "Portugal," Haakon said, beside him. He had come to the rail without Olav noticing.
 
@@ -26,7 +26,7 @@ He looked at the city.
 
 The discharge of coal took five days.
 
-This is one sentence to write and a thousand sentences to live. The coal came up out of the holds in canvas slings, hauled by hand, swung over the side, lowered to the lighters, dumped, and the slings hauled back up. The coal was wet. The coal was sharp. The coal got in the seams of the planking, the seams of the gunwales, the seams of a man's clothes, the seams of his teeth. By the second day the brig and her crew were the same color: a uniform soft black that did not so much darken a thing as redefine its surface.
+The coal came up out of the holds in canvas slings, hauled by hand, swung over the side, lowered to the lighters, dumped, and the slings hauled back up. The coal was wet. The coal was sharp. The coal got in the seams of the planking, the seams of the gunwales, the seams of a man's clothes, the seams of his teeth. By the second day the brig and her crew were the same color: a uniform soft black that did not so much darken a thing as redefine its surface.
 
 Captain Gjermund did not work the coal. Captain Gjermund went ashore in a shore-boat at eight bells of the morning watch and was, the carpenter said with a face that admitted nothing, *negotiating with the agent.* He was negotiating with the agent until midnight. He was negotiating with the agent again the next day, and the day after that. The negotiations, evidently, required brandy in considerable quantity. They also required that nothing else aboard the brig be brought to him for decision.
 
@@ -120,11 +120,9 @@ Then he closed his eyes, and his breathing settled into a kind of deeper rhythm 
 
 Olav sat with him for some time. He had been told to do nothing else. He did nothing else.
 
-He thought, with a clarity he had not had before:
+He thought about the moment he had not moved.
 
-*If I had moved when I had the moment to move, the captain would have hit me too. Maybe instead. Maybe also. I do not know which, and I will never know, because I did not move.*
-
-He thought: *I have just learned what I would do.*
+He did not yet know what the thought meant.
 
 He sat with Nils for the rest of the night.
 
@@ -176,7 +174,9 @@ Olav stayed in the hold with the broken shovel and the salt and the swinging lam
 
 When he was sure the captain was gone he sat down on the salt and put his head on his knees, and he did not weep, because weeping was not the thing that came; what came was a kind of cold trembling that started in his thighs and worked its way up through his ribs into his teeth, and stayed there for a quarter of an hour before it let him stand up.
 
-When he stood up he understood three things, in this order:
+When he stood up he thought of Nils. He had not moved that night. He had bent today. The man he was becoming on this ship was not the man he wanted to be.
+
+He understood three things, in this order:
 
 One — that he was not going to die on this voyage by his own hand or by accident.
 

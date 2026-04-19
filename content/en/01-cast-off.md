@@ -8,7 +8,7 @@ hero:
 
 The brig lay at the quay like a promise already half broken, and Olav Hestby was eighteen years old and still young enough to believe a ship could keep a man's word for him.
 
-He had come down before the sun, his sea-chest on his shoulder and his father walking a pace behind him like a man who had done this once already and had not been convinced then either. The Stavanger harbor was the color of iron. Above the rooflines the gulls were up but not yet talking; the water made no sound except where the brig's hull shifted against the fenders, a low reluctant knocking like a question being repeated.
+He had come down before the sun, his sea-chest on his shoulder and his father walking a pace behind him like a man who had done this once already and had not been convinced then either. The Stavanger harbor was the color of iron. Above the roofs the gulls were up but not yet talking; the water made no sound except where the brig's hull shifted against the fenders, a low reluctant knocking like a question being repeated.
 
 "Mind your mouth," his father said, not for the first time. "The captain has a softness in his face, but that is not the same as a softness in him."
 
@@ -94,7 +94,7 @@ The brig cast off on the slack of the tide. The mate gave the orders; the captai
 
 They warped out of the inner harbor. The brig's head came round. The sails dropped — topsails first, then courses, then jibs — and took the light wind, and for a long moment the ship hung there as if weighing whether she would go. Then she went.
 
-Olav stood at the windward rail and watched Stavanger thin out. The steeple of the domkirke cleared the warehouse rooves. The green came up behind the town. Beyond the green, very far off, the low blue shape that was Finnøy, with the hills he had known from his cradle. His father was somewhere on the quay. He had not looked back to see him there. He did not look now.
+Olav stood at the windward rail and watched Stavanger thin out. The steeple of the domkirke cleared the warehouse roofs. The green came up behind the town. Beyond the green, very far off, the low blue shape that was Finnøy, with the hills he had known from his cradle. His father was somewhere on the quay. He had not looked back to see him there. He did not look now.
 
 He thought: *I am going.*
 
