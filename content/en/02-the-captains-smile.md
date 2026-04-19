@@ -42,7 +42,11 @@ The captain looked back at Olav. The smile had not changed. Olav noticed — and
 
 Breakfast that morning was coffee and herring on dry biscuit. The coffee was excellent. Captain Gjermund, Olav gathered, would not sail without decent coffee aboard; it was one of his particularities, and the crew were grateful for it. The herring was from a keg the steward had broken open the previous afternoon. It was salted and heavy but it was fish. The biscuit was hard but it was not yet old.
 
-Olav ate standing up, on the lee side of the deckhouse, with Tolvsen the steward passing among the watch with a tin bucket of coffee and a ladle. Tolvsen was forty years old and as wide as he was tall; he moved around a ship the way a bread-loaf might, if bread could walk. He filled Olav's cup and looked at him closely.
+Olav ate standing up, on the lee side of the deckhouse, with Tolvsen the steward passing among the watch with a tin bucket of coffee and a ladle. Tolvsen was forty years old and as wide as he was tall; he moved around a ship the way a bread-loaf might, if bread could walk. He filled Olav's cup.
+
+"Drink the coffee," he said. "It is the captain's vanity. We are grateful for it. We would be more grateful if he had two."
+
+He looked at Olav closely.
 
 "You the boy from Finnøy," he said.
 

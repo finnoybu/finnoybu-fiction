@@ -150,6 +150,26 @@ He did not tell his mother yet.
 
 On the boat home, with Aagot at the tiller and the wind off the south-east holding steady and the long Finnøy summer evening spreading out over the channel ahead of them, he sat in the middle of the boat with his hands on his knees. He looked at Lindøy across the channel, and at the smoke from the small fire at the Lindøy boats where the Lindøy family was eating its supper before lifting for home.
 
+"Olav."
+
+"Yes."
+
+"You looked at her."
+
+"Yes."
+
+"You looked at her for a long time."
+
+"Yes."
+
+"Mother saw you looking. Father did not see, but Mother saw. Mother is going to want to know what we tell her tonight."
+
+"Tell her she gave me the disk twice."
+
+"That is not what Mother is going to want to know."
+
+She turned the tiller a quarter-point to bring the boat onto its course for Finnøy. She did not, for the rest of the crossing, mention Olava again. She had said the thing she had been holding all afternoon. She was twelve. She had used it once and was satisfied.
+
 He did the small private thing he had taught himself not to do at gatherings.
 
 He thought of Haakon.

@@ -12,6 +12,15 @@ Both Claude sessions write here before touching any file. Read it before startin
 
 ## Recently completed
 
+- **2026-04-19 — session: forward-writing — five surgical Tier-1.5 additions (Ken's romance-floor pass).**
+  - Ch 1: trimmed catalogue-of-self ending; Haakon's pause-at-hammock now includes a hand reaching into the dark to find Olav's wrist over the canvas, holds for a breath, gone. Chapter closes on Olav holding his own wrist with his other hand for a long time.
+  - Ch 2: added a Tolvsen wry beat at the breakfast — "It is the captain's vanity. We are grateful for it. We would be more grateful if he had two."
+  - Ch 3: at the watch-change in the lee-of-galley, Haakon's hand finds Olav's under the blanket, closes for the count of three breaths, withdraws as the bell rings. Both pretend it did not happen. Adjusted the existing "Haakon went to the wheel at four bells" line to remove the duplicate.
+  - Ch 7: Haakon's town-warning now carries a wry sailor-joke beat about the order in which Wilmington's four offerings arrive ("the four are not, in practice, offered in that order...").
+  - Ch 14: Aagot teases Olav about Olava on the boat-ride home from Landa — "You looked at her for a long time" / "Mother saw you looking" / "That is not what Mother is going to want to know." Twelve-year-old register, used once.
+  - Ch 24: REPLACED the looking-back-toward-Lindøy ending with a kiss on the Stavanger quay. Bridge: Olava came on a fisherman's boat from Mosterøy an hour after the morning steamer, having decided after the Lindøy jetty that she had not yet said the thing she had meant to say. Third hand-on-face hold, then the first kiss of either of their lives. Brief, on the mouth, count of three. Forehead-against-forehead one breath. He looks back from the foot of the gangway at the four standing in a line at the head of the quay, raises his hand, she raises hers, he goes up.
+  - Ch 25: added ~75 words to the closing — Olav also thinks of the small drawer in the workbench, and of looking forward to ports he has not yet named. Plants Books II/III seed without naming Shields; the *Semiramis* will not see the Tyne but will see ports of a different list, and the dual-love architecture is therefore not foreclosed.
+
 - **2026-04-19 — session: forward-writing — Ch 21-23 editorial pass per Ken's review.**
   - Ch 21: fractured Captain Lindøy's Wilmington speech mid-paragraph with a wooden-hand beat (he stops, looks at his right hand on the tiller, then his wooden left hand on his knee, before resuming). Added a silence beat for Olav before his closing "Yes, sir" — he looks at the wooden hand, then the captain's face, then the channel.
   - Ch 22: cut the "He understood, walking back from the post-house..." paragraph entirely. Chapter now ends on "He felt, instead, that he had begun the marriage."

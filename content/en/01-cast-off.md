@@ -186,14 +186,12 @@ The ship heeled. His hammock swung. Somewhere in the forecastle a man snored, ca
 
 He closed his eyes. He did not sleep. He waited.
 
-At the next bell the watch changed; he heard Haakon get up. The weight of a man sliding out of his hammock, the soft thud of feet on the decking, the grunt of a body stretching. Olav kept his eyes closed. Haakon passed through the forecastle toward the hatch. For a moment — Olav felt it, did not imagine it — the man paused at the foot of Olav's hammock, and stood there, and then went on.
+At the next bell the watch changed; he heard Haakon get up. The weight of a man sliding out of his hammock, the soft thud of feet on the decking, the grunt of a body stretching. Olav kept his eyes closed. Haakon passed through the forecastle toward the hatch.
+
+For a moment — Olav felt it, did not imagine it — the man paused at the foot of Olav's hammock and stood there. Then a hand reached into the dark and found Olav's wrist where it had fallen over the edge of the canvas. The hand closed around it for the count of a breath. Then it was gone.
 
 The hatch opened. The hatch shut.
 
 Olav opened his eyes in the dark. He could see nothing. He could hear the ship, and the sea, and his own breathing, which had quickened without his permission.
 
-*I am eighteen,* he thought, *and I do not know what is happening to me.*
-
-Then the bell rang again, and he must have slept, because when he woke the forecastle was grey with the first of the morning watch and his hammock was unfamiliar around him, and he had to remember, for a full and dizzying second, where he was and who he was and what he had signed himself to.
-
-He was Olav Hestby. He was on the *Sigrid,* bound for Lisbon. He was eighteen years old. He was going to the sea.
+He held his wrist with his other hand. He held it for a long time.

@@ -144,9 +144,17 @@ Then Haakon looked away. He looked at the sea. He did not take his shoulder from
 
 Olav drank. He drank slowly. He made the mug last.
 
+Toward the end of the hour, when the rim of the cup had gone cold against his thumb and the bell had not yet rung, he felt, under the blanket, Haakon's hand find his.
+
+It was not a fumble. It was the deliberate movement of a man who had known exactly where the other hand was. The fingers closed. The bare thumb — the one without the nail — pressed against the back of Olav's hand, where the bone ran from wrist to knuckle. The hold was firm. It was the hold of a man who had decided, for the length of three breaths, to do a thing he did not, in the rest of his life, do.
+
+Olav counted. One. Two. Three.
+
+At the third breath the bell rang. Haakon let go. He stood. He went forward to relieve the man at the wheel.
+
 ---
 
-They did not speak again for the rest of the watch. Haakon went to the wheel at four bells; Olav was sent to the main braces at six. At eight bells — four in the morning — the mate of the watch relieved them and they went below.
+They did not speak again for the rest of the watch. Olav was sent to the main braces at six bells. At eight bells — four in the morning — the mate of the watch relieved them and they went below.
 
 In the forecastle Olav took off his wet shirt and hung it on the foremast stringer. He climbed into his hammock. He did not sleep. He lay there and watched the grey of the morning come up through the forescuttle, and he heard Haakon three hammocks down stop moving — that particular stillness of a man going out — and knew, without being told, that Haakon was asleep.
 

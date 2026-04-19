@@ -20,7 +20,7 @@ Beside him, Haakon was also at the rail. They had not spoken alone since the nig
 
 "Yes."
 
-"The town is —" Haakon paused, considering. "It is a town for sailors. There are houses. There is whiskey. There are women. There is the law, which is kind to white sailors and is not kind to any other kind. Stay clear of the lower streets after dark. Stay with one of the older men if you go ashore at all. Do not go alone."
+"The town is —" Haakon paused, considering. "It is a town for sailors. There are houses. There is whiskey. There are women. There is the law, which is kind to white sailors and is not kind to any other kind. The four are not, in practice, offered to you in that order. You will be offered three of them in the first hour ashore. The fourth finds you on its own time. Stay clear of the lower streets after dark. Stay with one of the older men if you go ashore at all. Do not go alone."
 
 "I will not."
 

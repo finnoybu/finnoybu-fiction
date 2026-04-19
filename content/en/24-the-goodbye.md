@@ -108,8 +108,26 @@ His mother put her hand on the back of his neck.
 
 He hoisted the sea-chest onto his shoulder. He turned to walk down the quay toward the third wharf, where the *Semiramis* lay.
 
-He had not meant to look back. He had decided, at the Lindøy jetty that morning, that not-looking-back was the form he would use for this departure. He had held to it on the boat across, and on the smack from Tau, and at the place his parents had been standing when he had stepped off.
+He took four steps before his mother's hand closed on his arm.
 
-He looked back now. He could not, afterward, say why. He did not look back at his parents. He looked north across the harbor toward the channel he had come down on the morning's smack — toward the place where, four hours behind him at Lindøy, a girl in a wool coat had put her hand on the cuff of his coat and had said *go.*
+"Olav."
 
-He could not, from the Stavanger quay, see Lindøy. Lindøy was over the horizon. He knew it was there.
+He turned.
+
+Olava was at the head of the quay. She was in the wool coat. Marit was a step behind her. They had come on a fisherman's boat from Mosterøy that had crossed an hour after the morning steamer — Olava had decided, after the Lindøy jetty, that she had not yet said the thing she had meant to say.
+
+She crossed the quay to him. She did not speak as she crossed. The half-dozen dockworkers at the third wharf paused at their work. His father set down the sea-chest he had picked up and looked aside at the harbor. His mother let go of his arm.
+
+Olava stopped in front of him. She put both her hands on his face on the cheekbones, the third time. Then she kissed him.
+
+The kiss was brief. It was on the mouth. It was the first kiss of their engagement, and it was also the first kiss of either of their lives. She did not pull back fast. She did not pull back slow. She pulled back on the count, perhaps, of three.
+
+She put her forehead against his for the space of one breath. Then she stepped back. She did not speak. He did not speak. She walked back to Marit at the head of the quay.
+
+Olav picked up the sea-chest. He walked down to the third wharf, set it at the foot of the gangway, and looked back.
+
+His mother and father and Olava and Marit stood in a line at the head of the quay. Olava had not moved since she had stepped back from him. The wool coat in the noon light was the same wool coat it had been in the November dusk when the engagement paper had come into her father's pocket.
+
+He raised his hand once. She raised hers.
+
+He went up the gangway.

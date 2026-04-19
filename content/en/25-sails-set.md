@@ -151,3 +151,5 @@ He worked the gasket. He shook the sail down. He came back to the deck.
 That night in the forecastle he listened to the bark settle into the long roll of the open sea. He thought of the work he had done that afternoon at the royal yard. He thought it had been good work.
 
 He thought, also, that the work the next morning would be different work, and that there would be work like it for the next eighteen months, and that he was — for the first time he could remember — looking forward to it.
+
+He thought, also, of the small drawer in the workbench at Finnøy, and of the folded sheet inside it. He was not bound for the Tyne. The *Semiramis* would call at other ports — Calcutta and her sisters, ports of a different list. But the world she was going to had every kind of port in it, and a deep-water man saw what a coaster did not. He understood that he was looking forward, also, to ports he had not yet named.
