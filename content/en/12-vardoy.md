@@ -84,7 +84,21 @@ Olav filled bushels. He filled bushels for sixteen hours a day for the first wee
 
 He did not sing. He had sung at the tarring in Wilmington because singing was a way of being unbroken in the captain's hearing. He had no breath now for that kind of unbrokenness. The Finnøy songs were in the drawer with the rest.
 
-In the second week he caught a chill on the ship's bottom — Brennevin had decided, since they were moored, that the *Allegro* could be re-coppered, and Olav had been the man with the strength left for the job — and the chill went down into his chest the way a stone goes into a pond. He was, that night, hot to the touch. He did not tell Brennevin. He continued, in the morning, to fill bushels.
+The hardest thing at Vardøy, harder than the salt and harder than the cough and harder than Brennevin and the chronometer, was the light.
+
+The sun did not set. He had heard about this; he had not, until he was inside it, understood what it meant. It meant that the body, which had spent eighteen years learning to organize its sleep around the dark, had no anchor for its tiredness. He went to his hammock at the end of the work and the light came in through the porthole at the same grey-yellow it had been at noon, and the hammock did not feel like a place to sleep but like a piece of canvas under a window in the middle of the kitchen, and he lay in it with his arm across his eyes and tried to make a darkness for himself in the bend of his elbow, and the darkness was thin and unconvincing and it did not, on most nights, hold him under for more than two hours at a stretch.
+
+He learned, in the second week, to sleep in shifts. Two hours after the work. Two hours before the next watch. An hour, sometimes, against the bulkhead in the deck-house when no one was looking. The shifts did not add up to the sleep he needed. He understood, by the end of the second week, that the body could not be tricked into rest by clever arithmetic, and that the not-resting was eating into the small reserve a body kept against a cough that wanted in.
+
+He thought, often, about the dark of the Finnøy winter. He had, as a boy, thought of the long dark as the country's particular cruelty. He understood now that the long dark was the country's mercy. The dark was the place a body went to be put back together. A country with no dark was a country in which a body did not get put back together. Vardøy had no dark. Vardøy did not put bodies back together. Vardøy used them up under a sun that did not move.
+
+In the second week he caught a chill on the ship's bottom.
+
+Brennevin had decided, since the *Allegro* was moored and the salt was selling slow on a Tuesday, that the bark's copper sheathing — which had been pitted by the spring's ice work in the channels — could be inspected and patched. Olav was lowered on a small bo'sun's chair under the curve of the hull, with a wet wool cap pulled down over his ears and a small hammer at his belt, and he hung there at the waterline tapping the copper sheets to find the pitting and marking the bad ones with a piece of red chalk. The water lapped against the hull at his thighs. The water was the colour of the air, which is to say no colour. The wet went through his trousers in the first quarter-hour and into his bones in the half-hour, and the chill went down into his chest the way a stone goes into a pond — straight, slow, without a sound the man containing the pond could hear.
+
+He was on the chair for four hours. He marked, in the four hours, perhaps thirty bad sheets. When they hauled him up at last he could not, for the length of two breaths, let go of the rope; his hands had decided, on his behalf, that the rope was the only solid thing in the world and that letting go was a thing that could not be undertaken without consultation. The boatswain, who was a Hardanger man Olav had not spoken twenty words to in three weeks, peeled Olav's fingers off the rope one by one and did not, in the peeling, comment.
+
+He was, that night, hot to the touch. He did not tell Brennevin. He continued, in the morning, to fill bushels.
 
 There was a doctor in Vardøy. He was a Finnish man of perhaps sixty who had married a Norwegian woman thirty years before and had stayed. Olav saw him on a Sunday afternoon, in a small consulting-room above the post office, with a window that looked out at the unending grey light over the sound.
 
