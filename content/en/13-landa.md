@@ -16,11 +16,11 @@ The cough did not come back.
 
 He grew. He had not, when he had come home in August, finished growing; the cough and the year on the brig and the year of rooming-houses had stalled the body. In the winter and the spring the body resumed. He gained two inches. He gained twenty pounds, then ten more, then five. By the time the summer came he was, at last, the height his father had been at thirty, and the breadth.
 
-He turned twenty in March.
+He turned twenty-one in March.
 
-His father, on that day, did not mark it. His mother brought a small honey-cake to the table at supper. She did not put a candle on it because they were not, his family, a family that put candles on cakes. They ate the cake. His father said *twenty,* once, the way a man says *twenty* when he is verifying that a number he has been carrying for some years is the correct number. That was the whole of the celebration.
+His father, on that day, did not mark it. His mother brought a small honey-cake to the table at supper. She did not put a candle on it because they were not, his family, a family that put candles on cakes. They ate the cake. His father said *twenty-one,* once, the way a man says a number when he is verifying that a number he has been carrying for some years is the correct number. That was the whole of the celebration.
 
-He felt the year. He had not felt the previous year, because the previous year had been the cough and the recovering and there had been no room to feel a number alongside those. This year there was room. He felt twenty.
+He felt the year. He had not felt the previous year, because the previous year had been the cough and the recovering and there had been no room to feel a number alongside those. This year there was room. He felt twenty-one.
 
 He felt, also, restless.
 
