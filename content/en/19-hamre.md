@@ -98,7 +98,7 @@ Hamre found Olav outside the school at the bottom of the steps.
 
 "You do not."
 
-"I do. I will not — I do not know how to — Hestby. If I had failed today I would have had to go home to my mother and tell her she had paid for the school year and her son had failed because he had reversed a minus sign at the chronometer correction. I do not know what would have happened to her on the day I told her this. I am not telling you this because I want you to feel responsible for not telling me. I am telling you because I owe you the knowledge of what your help purchased. You purchased a thing for me that I cannot, in the form of money or in the form of any other return I can think of, repay. I will not, in our lifetimes, find a way to repay it. I am telling you this, also, because I am leaving for Bergen tomorrow morning to apprentice at a shipping firm and I do not, after tomorrow morning, expect to see you again. I wanted you to know that I knew."
+"I do. I will not — I do not know how to — Hestby. I owe you a thing I cannot, in the form of money or in the form of any other return I can think of, repay. I will not, in our lifetimes, find a way to repay it. I am telling you, also, because I am leaving for Bergen tomorrow morning to apprentice at a shipping firm and I do not, after tomorrow morning, expect to see you again. I wanted you to know that I knew."
 
 Olav looked at him.
 
@@ -114,7 +114,7 @@ Olav looked at him.
 
 Hamre did not, for a moment, answer.
 
-"It has been a thing that is not yours to know," he said. "I am not telling you, not because I do not trust you. I am telling you not because you have spent the year not asking a man at the school what was happening to him, and you have done him the courtesy of letting him manage what he was managing without your help, and I have — by your courtesy — managed it. Do not ask me at the bottom of the school steps what it was that I have managed. I am asking you to extend the courtesy one more day."
+"It has been a thing that is not yours to know," he said. "Do not ask me at the bottom of the school steps. I am asking you to extend the courtesy one more day."
 
 "All right."
 
@@ -128,7 +128,7 @@ Hamre did not, for a moment, answer.
 
 "Yes."
 
-"When you reach Bergen, find a small grey-bearded man named Sars who is the master of a steamer called the *Diana.* Tell him Hestby of Finnøy says hello. Tell him Hestby is sitting his certificate this June. Tell him you are the first man Hestby has helped at the school. He will know what you mean."
+"When you reach Bergen, find a small grey-bearded man named Sars who is the master of a steamer called the *Diana.* Tell him Hestby of Finnøy sends his regards. Tell him I sat my certificate this June."
 
 "I will."
 

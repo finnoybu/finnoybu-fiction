@@ -107,3 +107,5 @@ He stayed at Lindøy for the rest of the day. They had supper with her family. T
 Olav sailed home in the long June evening light. He thought, on the boat, about the certificate on the shelf above the kitchen window, and about Olava's hand on the paper at the back garden bench, and about the next problem.
 
 The next problem was a berth.
+
+In late June a postcard came from Bergen. It was from Hamre. It said: *I have found Sars. He keeps eggs. He sends his regards.* Olav put the postcard in the leather folder beside the certificate.
