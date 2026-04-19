@@ -4,7 +4,7 @@ id: 10
 slug: vardoy
 ---
 
-The doctor at Stavanger was Dr. Due. He was a small man with a tobacco-colored beard and spectacles that he took off, polished, and put on three times during the appointment. He listened to Olav's chest with a small wooden tube. He listened for a long time. He took the tube away. He put it on the table beside him. He took his spectacles off and polished them.
+The doctor at Stavanger was Dr. Due. He was a small man with a tobacco-colored beard. He listened to Olav's chest with a small wooden tube. He listened for a long time. He took the tube away. He put it on the table beside him. He took his spectacles off and polished them slowly with a corner of his coat.
 
 "Mr. Hestby."
 
@@ -14,7 +14,7 @@ The doctor at Stavanger was Dr. Due. He was a small man with a tobacco-colored b
 
 "Sir."
 
-"Three months from now I will be able to tell you. Six months from now I will be certain. You are eighteen. Your father is your father. Your brother died of it. These are facts I cannot do anything about. The fact I can do something about is your stomach. You will eat. You will eat butter and you will eat fat meat and you will eat the white of eggs. You will not work below in damp holds. You will rest when you can rest. You will sleep with your window open even in winter. These things are not a cure. There is no cure. These things are the things that, in some men, make the difference."
+"Three months from now I will be able to tell you. Six months from now I will be certain. You are nineteen. Your father is your father. Your brother died of it. These are facts I cannot do anything about. The fact I can do something about is your stomach. You will eat. You will eat butter and you will eat fat meat and you will eat the white of eggs. You will not work below in damp holds. You will rest when you can rest. You will sleep with your window open even in winter. These things are not a cure. There is no cure. These things are the things that, in some men, make the difference."
 
 "Yes."
 
@@ -81,6 +81,8 @@ The work was salt.
 The Russian fishermen at Vardøy bought salt to cure their cod, and they bought it day and night because they fished day and night, because there was no night, and because their season was short. The *Allegro* had come north with a hundred and twenty tons of it. The captain — Brennevin, who in Vardøy had managed to acquire a watch fob he wore over his waistcoat in addition to the chronometer in his cabin — sold the salt by the bushel to whichever Russian boat tied up at the *Allegro*'s side, and the bushel was Olav's to fill.
 
 Olav filled bushels. He filled bushels for sixteen hours a day for the first week. The salt was wet and heavy and it cracked the skin at the corners of his hands. The cough, which had quieted on the passage north, came back on the second day at Vardøy and stayed. He worked through it. He had nowhere to go.
+
+He did not sing. He had sung at the tarring in Wilmington because singing was a way of being unbroken in the captain's hearing. He had no breath now for that kind of unbrokenness. The Finnøy songs were in the drawer with the rest.
 
 In the second week he caught a chill on the ship's bottom — Brennevin had decided, since they were moored, that the *Allegro* could be re-coppered, and Olav had been the man with the strength left for the job — and the chill went down into his chest the way a stone goes into a pond. He was, that night, hot to the touch. He did not tell Brennevin. He continued, in the morning, to fill bushels.
 
