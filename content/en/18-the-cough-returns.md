@@ -82,14 +82,8 @@ He went to bed.
 
 He wrote to Olava the next morning. He wrote the letter he had not, in three weeks, been able to write. He did not tell her about the cough. He did not tell her about the captain. He told her, instead, that he had been thinking of the cloudberries she had jarred for him at Christmas, and that he hoped her family was well, and that he was looking forward, with some impatience, to the end of the term and to seeing her in Lindøy at Easter.
 
-He sealed the letter.
+He sealed the letter. He addressed it the way she had told him to, at the jetty in August: *Olava Lindøy, the captain's daughter, Lindøy, by Stavanger.* He took it down Bredalmendingen to the post-house and gave it to the postmaster and watched the postmaster put it in the Tuesday sack.
 
-He took it to the post.
+It would reach her on Tuesday evening. She would read it that night by the kitchen lamp. She would know, when she had read it, what was not in it. She had told him as much, on Christmas morning, in the back room above her mother's kitchen, with a dish of cloudberries on the tray between them.
 
-That evening, at supper at Mrs. Kindingstad's, the brothers from the gymnasium were arguing about a teacher and Lønningen was eating with his customary precision and Mrs. Kindingstad was passing the bread, and Olav, eating with them, understood that he was, in the room at the back upstairs, going to be all right for a while. The cough had not come back. The captain had been dead for a year. The drawer was where he had left it. Spring was perhaps six weeks off.
-
-He went to bed at his usual time.
-
-He did not, that night, hear the cough.
-
-He slept.
+He walked back to Mrs. Kindingstad's by a different street.
