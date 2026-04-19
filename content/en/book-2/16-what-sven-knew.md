@@ -7,15 +7,15 @@ book: 2
 
 Sven had known since the second day.
 
-He had known since the second day and he had been honest about the knowing, with himself, in the small dry register in which he was honest about most things, for the ninety-four days since. It was not a knowledge he was proud of having and it was not a knowledge he was ashamed of having. It was a knowledge, like the knowledge he had of his own unwell swimming and of his small uneven left eye and of his father's opinions about Lutheran ministers, that he carried with him because it was a fact about him that he had not been given the option of not knowing.
+He had known since the second day and he had been honest about the knowing, with himself, in the small dry register in which he was honest about most things, for the four months since. It was not a knowledge he was proud of having and it was not a knowledge he was ashamed of having. It was a knowledge, like the knowledge he had of his own unwell swimming and of his small uneven left eye and of his father's opinions about Lutheran ministers, that he carried with him because it was a fact about him that he had not been given the option of not knowing.
 
 The knowledge was this: that at the second coil of brace-fall on the second day out of Stavanger, when the new hand from Finnøy had coiled the brig way beside him and the small thing that happened in Sven's chest at the sight of the brig coil had not been the small thing that happened in his chest when Reuss coiled the brig way beside him or when Kinn from Stjernerøy coiled the brig way beside him, he had understood that the voyage was going to be a voyage in which he was going to have to keep a particular discipline he had kept twice before in his life and had, on the basis of the previous keepings, understood the shape of.
 
 He had kept it twice.
 
-The first time he had kept it had been at twenty, on a brig out of Bergen to Antwerp in the summer of '76, when a Dutch second mate had spent three weeks looking at him across a deck the way the Dutch second mate had looked at him, and Sven — twenty, newly married to Hanne, his first child not yet even a possibility in his wife's body — had kept the discipline by the crude means of not going ashore with the Dutch second mate at Antwerp and of not, after the voyage, going aboard any Dutch ship again. The Dutch second mate had not, he was sure, been particularly taken with him. The Dutch second mate had been particularly taken with a version of himself he could not find on his own ship. Sven had been an opportunity. Sven had declined to be one.
+The first time he had kept it had been at nineteen, on a brig out of Bergen to Antwerp in the summer of '76, when a Dutch second mate had spent three weeks looking at him across a deck the way the Dutch second mate had looked at him, and Sven — twenty, newly married to Hanne, his first child not yet even a possibility in his wife's body — had kept the discipline by the crude means of not going ashore with the Dutch second mate at Antwerp and of not, after the voyage, going aboard any Dutch ship again. The Dutch second mate had not, he was sure, been particularly taken with him. The Dutch second mate had been particularly taken with a version of himself he could not find on his own ship. Sven had been an opportunity. Sven had declined to be one.
 
-The second time he had kept it had been at twenty-two, on a bark out of Bergen to Buenos Aires in the spring of '78, when an Irish carpenter four years older than Sven had, at a gale in the South Atlantic, dropped a hammer down a companionway that had nearly taken Sven's head off at the base of the ladder, and Sven — bending to pick up the hammer — had looked up the companionway into the Irish carpenter's face and had understood in the count of one breath that the Irish carpenter had been, in some small way he himself had perhaps not understood at the time of the dropping, relieved that the hammer had not taken Sven's head off. The Irish carpenter's relief had, for the rest of the voyage, been a weight Sven had been aware of and had, at Buenos Aires and back, not engaged. The carpenter had gone back to Cork at the end of the voyage. Sven had written him a letter of good wishes that he had never sent, because sending it would have been engaging, and had burned the letter at the galley fire at Bergen on the morning he had signed off the bark.
+The second time he had kept it had been at twenty-one, on a bark out of Bergen to Buenos Aires in the spring of '78, when an Irish carpenter four years older than Sven had, at a gale in the South Atlantic, dropped a hammer down a companionway that had nearly taken Sven's head off at the base of the ladder, and Sven — bending to pick up the hammer — had looked up the companionway into the Irish carpenter's face and had understood in the count of one breath that the Irish carpenter had been, in some small way he himself had perhaps not understood at the time of the dropping, relieved that the hammer had not taken Sven's head off. The Irish carpenter's relief had, for the rest of the voyage, been a weight Sven had been aware of and had, at Buenos Aires and back, not engaged. The carpenter had gone back to Cork at the end of the voyage. Sven had written him a letter of good wishes that he had never sent, because sending it would have been engaging, and had burned the letter at the galley fire at Bergen on the morning he had signed off the bark.
 
 The discipline had, on both occasions, worked.
 
@@ -79,7 +79,7 @@ Odegaard had, at eight bells of the forenoon, opened his chest and found the kni
 
 Hestby had come to Sven at the fife rail two hours later.
 
-Sven had asked him the question he had planned to ask. The question had been the wrong question, in the sense that Hestby had refused the question's premise and had turned the question back on Sven the way Hestby, on ninety-four days, had turned several of Sven's questions back; but the question had served its purpose, because Hestby had said *the thought has been there* and Sven had been able, truthfully, to say *then the answer is yes.*
+Sven had asked him the question he had planned to ask. The question had been the wrong question, in the sense that Hestby had refused the question's premise and had turned the question back on Sven the way Hestby, over the four months, had turned several of Sven's questions back; but the question had served its purpose, because Hestby had said *the thought has been there* and Sven had been able, truthfully, to say *then the answer is yes.*
 
 He had pushed Hestby's shoulder.
 
@@ -99,7 +99,7 @@ At supper he sat on the windlass bitts and ate alone, and Hestby sat on the coil
 
 He had not, he registered at the windlass with his bread at his mouth, felt particularly good about the fight.
 
-He had felt — he registered, chewing — that he had done a thing he had to do, and that the doing had cost him the small particular pleasure of Hestby's company at the coil of rope, and that the cost was the cost the discipline required him to pay if he was going to, at Bergen in November of next year, walk back off the bark to Sandviken to Hanne and the boy and not be the man he had been in Lübeck nine years ago or in Buenos Aires seven years ago — a man, that is, who had kept the discipline and had still come home half-unmade by the keeping.
+He had felt — he registered, chewing — that he had done a thing he had to do, and that the doing had cost him the small particular pleasure of Hestby's company at the coil of rope, and that the cost was the cost the discipline required him to pay if he was going to, at Bergen in November of next year, walk back off the bark to Sandviken to Hanne and the boy and not be the man he had been at Antwerp five years ago or at Buenos Aires three years ago — a man, that is, who had kept the discipline and had still come home half-unmade by the keeping.
 
 The half-unmaking was what he was trying to avoid.
 
@@ -107,11 +107,11 @@ The half-unmaking was what came when the discipline held against all the bed-par
 
 Sven had the stone in the boot from the Irish carpenter.
 
-He had not, on three or four occasions in the nine years since Buenos Aires, been able to entirely forget that he had the stone.
+He had not, on three or four occasions in the three years since Buenos Aires, been able to entirely forget that he had the stone.
 
 He did not want a second stone.
 
-The fight, he had understood three days ago, was the one intervention that could prevent a second stone. The six feet of deck at supper on the evening of the fight was the fight's dividend. The six feet would become three feet again at some point in the next six months — he could not, at thirty, hold six feet on a bark for six months — but the three feet would never, from this evening onward, become the hand's width it had been at Biscay. That was the discipline's guarantee to him, and the fight's cost.
+The fight, he had understood three days ago, was the one intervention that could prevent a second stone. The six feet of deck at supper on the evening of the fight was the fight's dividend. The six feet would become three feet again at some point in the next six months — he could not, at twenty-four, hold six feet on a bark for six months — but the three feet would never, from this evening onward, become the hand's width it had been at Biscay. That was the discipline's guarantee to him, and the fight's cost.
 
 He was paying the cost.
 

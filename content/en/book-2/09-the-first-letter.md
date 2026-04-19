@@ -157,7 +157,7 @@ The letter she wrote was a shorter letter than his — she had decided, in June,
 >
 > *Look at the mountain when you lift. I will take the looking gladly.*
 >
-> *Marit is engaged to the schoolmaster's son in all but the paper. The paper will come in the spring, I think. She sends her regards. My father sends his. My mother does not send anything in particular, because she is my mother, but she heated the porridge the morning your letter came at a particular temperature she does not heat it at every Tuesday, and I noted it.*
+> *The Marit matter I wrote to you about in the school-year autumn sorted itself in the spring; she and the schoolmaster's son reversed the reversal I had reported, and they are now engaged in all but the paper. The paper will come in the spring, I think. She sends her regards. My father sends his. My mother does not send anything in particular, because she is my mother, but she heated the porridge the morning your letter came at a particular temperature she does not heat it at every Tuesday, and I noted it.*
 >
 > *The cough not coming is the sentence I read four times. Keep eating the tea.*
 >

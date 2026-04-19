@@ -135,7 +135,7 @@ Torgerson the steward had been cleaning the small bench where he gutted fish for
 
 Olav took the knife. He looked at it. The boy's initials — *S.O.* — were on the handle.
 
-He understood, with the flat clarity of a man who had been on the bark for ninety days, that the knife had not been mis-placed. The knife had been taken out of Odegaard's chest and placed under the galley bench. The taking and the placing had been a deliberate act by someone on board, done in the hour between the muster being called and the muster being held. The purpose of the placing had been to have the knife found — after the muster had declared the knife not in any chest — in a place that put the knife in an ambiguous position, a position that would force a second muster or a second investigation, a position that was the kind of small petty trouble a bored crew in port could produce if one of its members was sufficiently sour and sufficiently clever.
+He understood, with the flat clarity of a man who had been on the bark for four months, that the knife had not been mis-placed. The knife had been taken out of Odegaard's chest and placed under the galley bench. The taking and the placing had been a deliberate act by someone on board, done in the hour between the muster being called and the muster being held. The purpose of the placing had been to have the knife found — after the muster had declared the knife not in any chest — in a place that put the knife in an ambiguous position, a position that would force a second muster or a second investigation, a position that was the kind of small petty trouble a bored crew in port could produce if one of its members was sufficiently sour and sufficiently clever.
 
 Olav did not know which of the eighteen men had done it.
 
@@ -199,7 +199,7 @@ Sven did not answer at once. He looked out across the deck at the empty mid-afte
 
 Olav did not, for a moment, speak.
 
-He had not let himself think that it had been Sven. He had registered, during the muster, that Sundberg had looked into Sven's chest for a moment longer than the others, and he had registered, in the two hours since, that some part of him had stayed at Sundberg's two-seconds longer and had not moved on from them. He had not, however, decided that Sven had taken the knife. He had decided that he was not going to decide. The not-deciding was the discipline of a man who had been on the bark ninety days and had made a drawer of his not-deciding.
+He had not let himself think that it had been Sven. He had registered, during the muster, that Sundberg had looked into Sven's chest for a moment longer than the others, and he had registered, in the two hours since, that some part of him had stayed at Sundberg's two-seconds longer and had not moved on from them. He had not, however, decided that Sven had taken the knife. He had decided that he was not going to decide. The not-deciding was the discipline of a man who had been on the bark four months and had made a drawer of his not-deciding.
 
 Sven was asking him to open the drawer.
 
@@ -227,7 +227,7 @@ Sven was asking him to open the drawer.
 
 Sven did not move.
 
-He was standing at the fife rail perhaps a hand's width from Olav. The hand's width was the hand's width Sven had held since Biscay at the supper coil — the hand's width that was the public measure of two men who had decided, for reasons the watch-list could not describe, that they were going to be to each other what they were going to be to each other at a public distance only. The hand's width had, on ninety days, become a shape they both held to.
+He was standing at the fife rail perhaps a hand's width from Olav. The hand's width was the hand's width Sven had held since Biscay at the supper coil — the hand's width that was the public measure of two men who had decided, for reasons the watch-list could not describe, that they were going to be to each other what they were going to be to each other at a public distance only. The hand's width had, across the four months, become a shape they both held to.
 
 The fight started at that hand's width.
 
@@ -237,7 +237,7 @@ Olav understood it as a question.
 
 He pushed back.
 
-He pushed back because the fight was, at that hand's width, the fight he had been, without knowing it, waiting to have with Sven since the earing on the royal yard in the Indian Ocean — not a fight about the knife, which both men knew had not been Sven's, but a fight about what neither man had been able, in ninety days, to put into a sentence.
+He pushed back because the fight was, at that hand's width, the fight he had been, without knowing it, waiting to have with Sven since the earing on the royal yard in the Indian Ocean — not a fight about the knife, which both men knew had not been Sven's, but a fight about what neither man had been able, in four months, to put into a sentence.
 
 The push went to a grapple. The grapple went to a short hard flurry of three or four blows that were not aimed and that came, from Olav, from the shoulder Sven had pushed, and that came, from Sven, from the elbow Olav had caught. They were on the deck for perhaps thirty seconds. Olav's knuckle was split at the second joint. Sven's lip was open. They came apart, both of them half against the foremast and half against each other, and they stood at arm's length breathing hard.
 
@@ -295,4 +295,4 @@ Late that night, in the forecastle, in the dark, Sven was already asleep when Ol
 
 He slept.
 
-The bark lay at her creek mooring in the Burmese dark, the rice going aboard by lantern light, ninety-two days now since Stavanger, and the two men five hammocks apart slept the unmatched broken sleep of men who had that afternoon, at the foot of the foremast of a bark at Rangoon, had a fight neither of them would speak of again and both of them would, for the rest of their lives, remember the feel of.
+The bark lay at her creek mooring in the Burmese dark, the rice going aboard by lantern light, four months now since Stavanger, and the two men five hammocks apart slept the unmatched broken sleep of men who had that afternoon, at the foot of the foremast of a bark at Rangoon, had a fight neither of them would speak of again and both of them would, for the rest of their lives, remember the feel of.

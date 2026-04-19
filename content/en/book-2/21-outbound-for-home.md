@@ -5,27 +5,33 @@ slug: outbound-for-home
 book: 2
 ---
 
-The Indian Ocean homeward run was sixty-four days in which the bark did not, for sixty-three of them, see any land.
+The homeward Indian Ocean run was six months, of which perhaps a hundred and four days were at sea and the balance at Port Louis.
 
-They came up on Mauritius at the thirty-eighth day — a grey stripe on the horizon at first light on a Sunday morning that was not put on the chart as a port of call — and Brun did not, as a matter of the schedule, put in; the bark ran past the island at a range of perhaps twelve miles and the island fell behind by noon and was, from then until the Cape rose out of the haze on the sixty-second day, the only evidence the crew had that the world still had land in it.
+Brun had not, at the Calcutta lift, intended to put in at Mauritius. He had, as he had told Olav at the chart-table on the Friday before, intended to run the southern Indian Ocean the way the outbound had run it — a single long leg, no port of call between Calcutta and the Cape. He had, by the thirty-eighth day out of Calcutta, changed his mind. The reason was the season. The season was the southern-hemisphere cyclone season, which in the Indian Ocean ran December to March and which had, by the second week of December, put two cyclones onto the bark's chart — one that had passed a hundred miles to the south of the bark's position and one that had gone through a zone the bark had cleared six days earlier — and which had, at the thirty-eighth day, put a third onto the horizon from the northeast that Brun had decided he was not, with a bark of the *Semiramis*'s windage at the cargo she was carrying, going to run south through. He put into Port Louis on the fortieth day.
 
-The days ran to a pattern.
+They lay at Port Louis for eleven weeks.
 
-At four bells of the morning watch the changing bell went; at eight bells the forenoon began. At six bells the steward served the coffee. At eight bells Brun came up in his clean coat and took his noon sight at twelve. At four bells of the afternoon the mate did the afternoon sight. At eight bells the watches changed. At four bells of the first dog the supper was served on the foredeck. At six bells the first dog went down; at eight the first night began. At four bells of the first night the middle watch called. At eight bells of the middle watch the morning came, and the pattern — which had run, by the end of the run, for sixty-four days, in the same order, without a single deviation — began again.
+The eleven weeks were weeks of refit — the carpenter took the opportunity to go through the rigging and the iron-work with the particular care a ship at an unscheduled port permitted — and of weather-watch; the cyclone that had turned Brun toward Port Louis hit Mauritius on the third day of the stay, passed directly over the island for six hours, and tore the roof off the Customs House a quarter-mile from where the bark lay sheltered in the inner harbour. The bark herself took only minor damage. Three further cyclones passed the island over the eleven weeks, each at a greater distance than the first. By the last week of February the season had begun to ease; by the middle of March Brun had declared the season over. They lifted Port Louis on the twenty-third of March.
 
-Olav kept the six feet of deck from Sven through the sixty-four days.
-
-Sven kept the six feet of deck from him.
-
-On four Sunday evenings — the second, the fourth, the seventh, the ninth week — the five feet at the rail at the first dog-watch happened. The five feet consisted of Olav going to the cap-rail where Sven was already leaning, standing at five feet from Sven's elbow, neither man looking at the other, both men looking at the wake, for perhaps four minutes. Neither man, at any of the four Sundays, spoke. At the bell Sven went aft to his watch; Olav stayed another minute at the rail. The five feet, on the Sundays on which it happened, was the whole of the acknowledgment. It was enough.
-
-On the Sunday evenings when the weather was bad, or when Sundberg had Sven aloft for some small work, or when Sven simply did not come to the cap-rail, the five feet did not happen. Olav did not — on the Sundays it did not happen — wait for it to happen. He went about his own evening. He had understood, from Sven's own construction of the architecture, that the five feet was a gift Sven gave when he was able to give it, not an appointment. Sven was giving what Sven had; Olav was accepting what Sven gave.
-
-This was, by the ninth week of the homeward run, the ordinary operation of the thing they had built.
+The rest of the homeward Indian Ocean — Port Louis to the Cape — was thirty-eight days of steady running on the southeast trade that had, by the end of March, re-established itself as the ordinary weather of that latitude. The bark made the Cape on the twenty-ninth of April, which was in Brun's reckoning about forty days later than the best-case homeward schedule he had drawn at Calcutta and about right by the schedule an honest master kept in his head against the best case.
 
 ---
 
-Bassein became, in the sixty-four days, a personality on the bark.
+The discipline between Olav and Sven held across the six months.
+
+At sea, the six feet of deck stayed the six feet. At Port Louis, with the bark at her mooring and the crew given the usual shore-rations for a long stop, the two of them arranged — by the small Mauritius-wide diffusion a dozen men could make of their shore-leaves across a small port — not to be at any of the same sailors' lodgings at the same nights. Olav kept a room at a Methodist Scandinavian mission on Pope Hennessy Street for two of the eleven weeks, and slept in the forecastle the rest. Sven kept a room with a Bergen carpenter's widow two streets over from Olav's mission for the same two weeks, and slept in the forecastle the rest. The two weeks did not overlap. That was the arrangement.
+
+Sundberg, Olav understood, had seen to the arrangement without either man having asked him to. The bosun had, on the morning of the second day at Port Louis, pulled Olav aside at the foredeck and said: *Hestby. Your room is at the mission. Haugen's is at the widow's. Your fortnights do not intersect. The bosun will handle the rota. Is that understood.* Olav had said *Yes, bosun,* and the bosun had gone forward, and the arrangement had been made. Olav had not, in the six weeks of Port Louis since that morning, spoken of it to Sven. Sven had not spoken of it to him. Both of them had understood that Sundberg was — at a Mauritius port in a cyclone season — the third man carrying the architecture, and that the carrying was, for the eleven weeks, partly his.
+
+On four Sunday evenings across the homeward — two at sea before Port Louis, two at sea after — the five feet at the rail at the first dog-watch happened. The five feet consisted of Olav going to the cap-rail where Sven was already leaning, standing at five feet from Sven's elbow, neither man looking at the other, both men looking at the wake, for perhaps four minutes. Neither man, at any of the four Sundays, spoke. At the bell Sven went aft to his watch; Olav stayed another minute at the rail. The five feet, on the Sundays on which it happened, was the whole of the acknowledgment. It was enough.
+
+On the Sunday evenings when the weather was bad, or when Sundberg had Sven aloft for some small work, or when Sven simply did not come to the cap-rail, the five feet did not happen. Olav did not — on the Sundays it did not happen — wait for it to happen. He went about his own evening. He had understood, from Sven's own construction of the architecture, that the five feet was a gift Sven gave when he was able to give it, not an appointment. Sven was giving what Sven had; Olav was accepting what Sven gave.
+
+This was, by the end of the homeward, the ordinary operation of the thing they had built.
+
+---
+
+Bassein became, in the six months, a personality on the bark.
 
 He learned, in the first two weeks of the homeward, the names of three of the crew — Olav (*Hestby*), Torgerson (*T'gson,* a slurred approximation that the ape produced in a small repeated throat-noise whenever the steward came past the crate), and Odegaard (*Ode,* a clearer two-syllable Bassein seemed to have picked up from hearing the Ålesund boy called at the mess). He learned the bell. He learned the position of the sun in the sky at the times he would be fed and the times he would not. He learned not to reach for the rigging when the bark heeled; he had reached for it twice in the first fortnight and had, both times, fallen short of the shroud and had to be rescued from the deck by the carpenter. The third time he had felt the bark heel he had simply sat on his crate and wrapped his tail around the ring-bolt and waited.
 
@@ -41,17 +47,17 @@ He did not, at the main fife rail, voice the thought.
 
 ---
 
-On the sixty-first night, with the Cape perhaps forty hours off the bow and a wind that had begun to smell of the southern African land that was coming up out of the dark, Olav took his small bound book out of his sea-chest at the end of his watch and wrote, at a new page he had turned to — he had not written anything in the book since the paragraph about the forest people — a short entry.
+On the night before the sighting of the Cape, with a wind that had begun to smell of the southern African land that was coming up out of the dark, Olav took his small bound book out of his sea-chest at the end of his watch and wrote, at a new page he had turned to — he had not written anything in the book since the paragraph about the forest people — a short entry.
 
 He wrote:
 
-> *We are a day and a half off the Cape. The homeward Indian Ocean is done. The crossing is one of the longest single pieces of seamanship most men will do in their lives. I have not, in the sixty-two days, felt that it has been longer than it needed to be. The sixty-two days have been the sixty-two days a man who has closed his hand around the voyage will have in his life, and I have been the man with the closed hand, and the crossing has been the ape's long patient afternoon in the jungle.*
+> *We are a day and a half off the Cape. The homeward Indian Ocean is done. The crossing — counting the eleven weeks at Port Louis — is one of the longest single pieces of seamanship most men will do in their lives. I have not, in the six months, felt that it has been longer than it needed to be. The six months have been the six months a man who has closed his hand around the voyage will have in his life, and I have been the man with the closed hand, and the crossing has been the ape's long patient afternoon in the jungle.*
 >
 > *It has not been a bad afternoon.*
 >
 > *I will be forty-nine days off Bergen when we clear the Cape. Forty-nine days. Thirty-five of those will be the Atlantic. Fourteen will be the Channel and the North Sea. I will be in a wool coat at the Lindøy jetty in early November. I will be in a Hestby church at my wedding in March.*
 >
-> *Between here and there is the forty-nine. Between here and there is the part of the voyage for which the architecture of the homeward exists. The architecture will hold. I am, at twenty-three, able to say that it will hold, because I have kept it through the sixty-two days of the longest patience I have been asked for, and the architecture has the strength of what I have, without any ceremony, put into it.*
+> *Between here and there is the forty-nine. Between here and there is the part of the voyage for which the architecture of the homeward exists. The architecture will hold. I am, at twenty-three, able to say that it will hold, because I have kept it through the six months of the longest patience I have been asked for, and the architecture has the strength of what I have, without any ceremony, put into it.*
 >
 > *I do not, tonight, write down what I have put into it.*
 >
@@ -65,7 +71,7 @@ The bark ran on into the last night before the Cape.
 
 ---
 
-On the sixty-third day the mountain came up.
+On the twenty-ninth of April the mountain came up.
 
 Olav was aloft when the cry went from the foretop — he had gone up to tighten a gasket that had slipped a little on the main topgallant — and he was in the best place on the bark to see the mountain rise out of the morning haze. He saw it first as a line. Then as a shape. Then as the shape the handbook at Stavanger had not described, and that he himself had looked at from the rail in July.
 
@@ -81,7 +87,7 @@ It was the landmark that told him — from a hundred feet above the deck, at the
 
 The curve was the turn home.
 
-He had been on the curve since Thursday, the day of the Hooghly descent, but the curve had been a long curve and the angle of it small, and the curve had not, through sixty-three days, made itself visible. At the mountain it made itself visible.
+He had been on the curve since Thursday, the day of the Hooghly descent, but the curve had been a long curve and the angle of it small, and the curve had not, through six months of open water and port, made itself visible. At the mountain it made itself visible.
 
 He came down from the topgallant.
 
@@ -111,7 +117,7 @@ He finished the coil. He hung it on the pin. He went to his work.
 
 ---
 
-The bark made Cape Town at six bells of the first dog-watch. She was taken by a tug into the inner harbour on the last of the light, and by eight bells she was at a mooring and the pilot had gone ashore, and Captain Brun had given the watch the first quiet evening in sixty-two days. Olav stood at the cap-rail with Table Mountain catching the last sun at its western face, and he looked at the mountain for a second minute — the first since July — and he felt, looking, the particular small calm a man got at the first port of the homeward from the first deep-water voyage of his life.
+The bark made Cape Town at six bells of the first dog-watch. She was taken by a tug into the inner harbour on the last of the light, and by eight bells she was at a mooring and the pilot had gone ashore, and Captain Brun had given the watch the first quiet evening since Port Louis. Olav stood at the cap-rail with Table Mountain catching the last sun at its western face, and he looked at the mountain for a second minute — the first since July — and he felt, looking, the particular small calm a man got at the first port of the homeward from the first deep-water voyage of his life.
 
 He had done the Indian Ocean.
 

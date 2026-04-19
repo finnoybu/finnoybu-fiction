@@ -113,7 +113,7 @@ The lamp was lit. Her mother was at the stove. Her father was at the table with 
 
 "A small Burmese monkey that came aboard from a coconut-boat. He is keeping it. He has named it Bassein."
 
-Marit at the window made the small particular laugh Marit made when a piece of news was the kind she would, at sixteen, take into her head and turn over for an afternoon. She had, Olava registered, already decided that the monkey was going to be the news of this letter as far as Marit was concerned, and Olava was not going to take the monkey from her.
+Marit at the window made the small particular laugh Marit made when a piece of news was the kind she would, at eighteen, take into her head and turn over for an afternoon. She had, Olava registered, already decided that the monkey was going to be the news of this letter as far as Marit was concerned, and Olava was not going to take the monkey from her.
 
 "An ape," Marit said. "He is keeping an ape."
 

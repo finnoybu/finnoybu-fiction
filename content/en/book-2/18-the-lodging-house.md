@@ -19,7 +19,7 @@ He would not stay at the sailors' lodgings on Bowbazar Road that the forecastle 
 
 He had not told Sven.
 
-He had not, on ninety-eight days since the fight, told Sven anything. The six feet of deck between them had held. The ordinary business of the watches had gone on. The wordless sharing of the main topsail yard on the morning they had made the Andaman banks had been the extent of their contact. Sven, Olav understood, would be at Bowbazar Road with the forecastle. The forecastle was where a married Bergen man with a wife in Sandviken went ashore on his two nights, because Bowbazar Road was the kind of ashore that a married Bergen man could tell his wife, if the wife asked, that he had been to — it was the ordinary ashore, the cheap ashore, the ashore that had no story in it.
+He had not, on three weeks since the fight, told Sven anything. The six feet of deck between them had held. The ordinary business of the watches had gone on. The wordless sharing of the main topsail yard on the morning they had made the Andaman banks had been the extent of their contact. Sven, Olav understood, would be at Bowbazar Road with the forecastle. The forecastle was where a married Bergen man with a wife in Sandviken went ashore on his two nights, because Bowbazar Road was the kind of ashore that a married Bergen man could tell his wife, if the wife asked, that he had been to — it was the ordinary ashore, the cheap ashore, the ashore that had no story in it.
 
 Olav went to Mrs. Lauritsen's on the Tuesday evening.
 
@@ -67,7 +67,7 @@ He was still in his shore coat, the canvas bag over his shoulder that held his a
 
 Sven did not move.
 
-The corridor was, in the second Olav stood at his own doorway looking at him, full of the small particular pressure that had been absent from the deck for ninety-eight days. The six feet of deck had been a distance arranged in the open air among eighteen men. It had been public. It had been maintained by the public nature of the deck. The corridor was private. There were three other lodgers in the house; none of them was on this floor except the Danish clerk, whose room was at the far end past the fourth. The corridor, at eight in the evening of a Tuesday in November, was two men and an oil-lamp and a closed shutter at each end of it.
+The corridor was, in the second Olav stood at his own doorway looking at him, full of the small particular pressure that had been absent from the deck for three weeks. The six feet of deck had been a distance arranged in the open air among eighteen men. It had been public. It had been maintained by the public nature of the deck. The corridor was private. There were three other lodgers in the house; none of them was on this floor except the Danish clerk, whose room was at the far end past the fourth. The corridor, at eight in the evening of a Tuesday in November, was two men and an oil-lamp and a closed shutter at each end of it.
 
 "Sven."
 
@@ -93,7 +93,7 @@ He looked past Olav into the room. He looked at the bed and at the desk and at t
 
 Sven looked at him for a beat that was not a beat.
 
-"Because I am tired, Hestby. I am tired of the six feet. The six feet was my piece. I paid for it at the fight. I have kept it. It has been held. But at Mrs. Lauritsen's at eight in the evening on the second week of November after ninety-eight days of it I am tired of it, and I have come up the stairs, and I am standing at your door, and if you close the door I will go to the fourth room and sleep and go back to the bark on Thursday and the six feet will stand for six more months. I will not mention that I was here. I will not, tomorrow on the bark, have come up the stairs. That is what will happen if you close the door."
+"Because I am tired, Hestby. I am tired of the six feet. The six feet was my piece. I paid for it at the fight. I have kept it. It has been held. But at Mrs. Lauritsen's at eight in the evening on the second week of November after three weeks of it I am tired of it, and I have come up the stairs, and I am standing at your door, and if you close the door I will go to the fourth room and sleep and go back to the bark on Thursday and the six feet will stand for six more months. I will not mention that I was here. I will not, tomorrow on the bark, have come up the stairs. That is what will happen if you close the door."
 
 "And if I do not close the door."
 
@@ -121,7 +121,7 @@ He had understood, at Sven's voice, that he had closed on Olava. That was one fi
 
 He had understood also, at Sven's voice in the corridor, that he had closed, in a different hand, on the man standing at his door.
 
-He had been telling himself, for ninety-eight days, that he had kept the hand open.
+He had been telling himself, for three weeks, that he had kept the hand open.
 
 He had not kept it open.
 
@@ -129,7 +129,7 @@ The hand had been closed since Biscay. The hand had been closed since the brace-
 
 He stepped back from the door.
 
-He said, in the register he had not used on the bark in ninety-eight days:
+He said, in the register he had not used on the bark in three weeks:
 
 "Come in."
 
