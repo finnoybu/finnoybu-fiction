@@ -36,7 +36,7 @@ He did not, in the hour, write the acceptance letter.
 
 The second letter came on the next morning's mail.
 
-It came from Stavanger, from the office of a shipping agent named Lønningen — not the clerk Olav had lodged with at Mrs. Kindingstad's, but Lønningen's older brother, who was the agent for an East India bark called the *Semiramis* of Bergen. The *Semiramis* was preparing for a voyage to Calcutta with a cargo of Norwegian timber, returning with rice and indigo. The voyage was eighteen months. The captain was a man named Brun, a master mariner of forty years, who was looking for a strong, healthy, certified man for an able seaman's berth — not an officer's berth — at common seaman's wages, with the understanding that the voyage would put a young navigator into deep-sea conditions a coaster would not, and that the next voyage of the *Semiramis* (in 1869) would have an officer's berth available for a man who had distinguished himself in the able seaman's role on the present voyage.
+It came from Stavanger, from the office of a shipping agent named Lønningen — not the clerk Olav had lodged with at Mrs. Kindingstad's, but Lønningen's older brother, who was the agent for an East India bark called the *Semiramis* of Bergen. The *Semiramis* was preparing for a voyage to Calcutta with a cargo of Norwegian timber, returning with rice and indigo. The voyage was eighteen months. The captain was a man named Brun, a master mariner of forty years, who was looking for a strong, healthy, certified man for an able seaman's berth — not an officer's berth — at common seaman's wages, with the understanding that the voyage would put a young navigator into deep-sea conditions a coaster would not, and that the next voyage of the *Semiramis* (in 1883) would have an officer's berth available for a man who had distinguished himself in the able seaman's role on the present voyage.
 
 The letter ended: *Captain Brun would prefer to interview the candidate at Stavanger. He sails in the second week of June. We require your decision by the third Monday of February.*
 
@@ -48,7 +48,7 @@ He took it to the loft. He sat at the small table at the end of the bed. He laid
 
 The Houlder offer was the offer his father wanted him to take and the offer Olava would, if she had been told, want him to take. Six months. Bergen-Hamburg. Home in autumn. A second mate's berth that would pay enough for him to see her three times before the autumn. The certificate would be earning. The marriage would be possible by the next year.
 
-The Brun offer was the demotion. Eighteen months. India. Common seaman's wages. Home, if he survived it, at the end of 1868 or the beginning of 1869. The certificate would not be earning. The marriage would have to wait two years. And the *Semiramis* would put him into the kind of voyage Sars had described on the rail of the *Diana,* in the speech about the next three things, that Olav had been carrying the shape of in his head since September of 1864.
+The Brun offer was the demotion. Eighteen months. India. Common seaman's wages. Home, if he survived it, at the end of 1882 or the beginning of 1883. The certificate would not be earning. The marriage would have to wait two years. And the *Semiramis* would put him into the kind of voyage Sars had described on the rail of the *Diana,* in the speech about the next three things, that Olav had been carrying the shape of in his head since that evening three summers before.
 
 He sat with the two letters for the rest of the afternoon.
 

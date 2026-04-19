@@ -4,13 +4,13 @@ id: 21
 slug: the-silent-engagement
 ---
 
-The autumn after his certificate was the autumn Olav had been told to expect by his father at the woodpile in May of the year before, in the speech about the arithmetic of the years. He had thought, when his father had given him the speech, that the speech was about a future not yet immediate. The future, when it came, was the autumn of 1866. He was at home with a certificate on the shelf above the kitchen window and no ship.
+The autumn after his certificate was the autumn Olav had been told to expect by his father at the woodpile in May of the year before, in the speech about the arithmetic of the years. He had thought, when his father had given him the speech, that the speech was about a future not yet immediate. The future, when it came, was the autumn of 1880. He was at home with a certificate on the shelf above the kitchen window and no ship.
 
-He wrote letters. He wrote to two Stavanger shipping firms. He wrote to a man in Bergen Captain Sars had told him to write to. He wrote to a man in Trondheim his father had met once in a tavern in 1849. He wrote, in October, to a man in Hamburg whose name he had been given by a sailor at the Wagtail. The letters went out. Replies came back. The replies were polite. The replies said *we have no berth presently, perhaps in the spring,* or *you are young for a navigator, and we prefer for our first berths a man who has rounded the Horn,* or — most often — *we have no need of additional officers at this time.*
+He wrote letters. He wrote to two Stavanger shipping firms. He wrote to a man in Bergen Captain Sars had told him to write to. He wrote to a man in Trondheim his father had met once in a tavern in 1863. He wrote, in October, to a man in Hamburg whose name he had been given by a sailor at the Wagtail. The letters went out. Replies came back. The replies were polite. The replies said *we have no berth presently, perhaps in the spring,* or *you are young for a navigator, and we prefer for our first berths a man who has rounded the Horn,* or — most often — *we have no need of additional officers at this time.*
 
 He did not, that autumn, have a berth.
 
-He worked at the boats with his father. He helped his father's brother with the haymaking on Mosterøy in late September. He went to Stavanger twice on small errands. He went to Lindøy four times: in late September, in mid-October, in early November, and at the end of November. On each visit Olava walked with him from the jetty to the house, and on each visit they sat at the kitchen table with her mother, and on each visit they had an hour after supper at the back garden bench. They did not, on any of the four visits, speak of the engagement that had been arranged in the back room above the kitchen on Christmas morning. They did not need to. The arrangement was, by the autumn of 1866, the floor on which they walked at Lindøy.
+He worked at the boats with his father. He helped his father's brother with the haymaking on Mosterøy in late September. He went to Stavanger twice on small errands. He went to Lindøy four times: in late September, in mid-October, in early November, and at the end of November. On each visit Olava walked with him from the jetty to the house, and on each visit they sat at the kitchen table with her mother, and on each visit they had an hour after supper at the back garden bench. They did not, on any of the four visits, speak of the engagement that had been arranged in the back room above the kitchen on Christmas morning. They did not need to. The arrangement was, by the autumn of 1880, the floor on which they walked at Lindøy.
 
 ---
 
@@ -64,7 +64,7 @@ He sat down. The two old men looked at him for a moment. They looked at each oth
 
 Olav read the bottom three lines.
 
-The bottom three lines specified the engagement of Olav Hestby of Finnøy and Olava Lindøy of Lindøy, the proposed marriage to take place at a date to be determined by the parties when the prospective husband had a berth and a wage, the marriage to be solemnized at the Lindøy church by the minister of that parish.
+The bottom three lines specified the engagement of Olav Hestby of Finnøy and Olava Lindøy of Lindøy, the proposed marriage to take place at a date to be determined by the parties when the prospective husband had a berth and a wage, the marriage to be solemnized at the parish church the parties choose, on a date to be determined.
 
 Olav looked up.
 
@@ -98,7 +98,7 @@ He waited for Olav to be still.
 
 Olav did not, for some time, speak.
 
-"I have known since August. I made inquiries at the consulate. Your year of '62 to '63 has no entries on any Norwegian articles I have been able to find. I have asked the consulate, on your behalf, to record that you sailed coastwise out of Liverpool under your own name across that year. The consulate has accepted my representation. The marriage will not be questioned. I am telling you this so you know what is on the official record about you, and so that, in your married life, you do not contradict it."
+"I have known since August. I made inquiries at the consulate. Your year of '76 to '77 has no entries on any Norwegian articles I have been able to find. I have asked the consulate, on your behalf, to record that you sailed coastwise out of Liverpool under your own name across that year. The consulate has accepted my representation. The marriage will not be questioned. I am telling you this so you know what is on the official record about you, and so that, in your married life, you do not contradict it."
 
 He paused.
 
@@ -128,6 +128,6 @@ That evening at supper his mother brought a small honey-cake to the table. There
 
 His mother said nothing. She got up to clear the cake plate. As she passed behind Olav's chair she put her hand, briefly, on the back of his neck — the same hand-place his father had used at the Stavanger quay nearly four years before — and squeezed once, and went on to the basin.
 
-The engagement was, in the eyes of the two families, real on the Monday in November of 1866. There had been no announcement. There had been no party. There had been no kiss between Olav and Olava, because Olava had not been at Finnøy that day. There had been a piece of pickled herring and a folded paper and a hand on the back of a young man's neck in a kitchen in the early dark.
+The engagement was, in the eyes of the two families, real on the Monday in November of 1880. There had been no announcement. There had been no party. There had been no kiss between Olav and Olava, because Olava had not been at Finnøy that day. There had been a piece of pickled herring and a folded paper and a hand on the back of a young man's neck in a kitchen in the early dark.
 
-He sailed to Lindøy two weeks later, properly, for the first time since the signing. She was at the jetty when he tied up. He stepped onto the boards. She stood for a moment in front of him in her wool coat with her hair coming out from under her cap. Then she crossed the small distance between them and put both her hands on his face — on his cheekbones, the way her mother had put her hands on her father once at a Bergen wharf in 1830, the way the women of these islands had been holding the faces of the men they had been waiting for since long before either of them was born. She held his face. She did not kiss him. She held his face for the count of perhaps four breaths. Then she let go and said *come up to the house.*
+He sailed to Lindøy two weeks later, properly, for the first time since the signing. She was at the jetty when he tied up. He stepped onto the boards. She stood for a moment in front of him in her wool coat with her hair coming out from under her cap. Then she crossed the small distance between them and put both her hands on his face — on his cheekbones, the way her mother had put her hands on her father once at a Bergen wharf in 1855, the way the women of these islands had been holding the faces of the men they had been waiting for since long before either of them was born. She held his face. She did not kiss him. She held his face for the count of perhaps four breaths. Then she let go and said *come up to the house.*

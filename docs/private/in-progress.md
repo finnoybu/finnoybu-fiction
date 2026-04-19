@@ -8,7 +8,7 @@ Both Claude sessions write here before touching any file. Read it before startin
 
 ## Active
 
-(none — forward-writing session idle; Ch 25 committed; Book I complete; awaiting Ken's call on chronology and Book II greenlight)
+- **2026-04-19 — session: continuity-tier-1 — Ch 18, 20, 21, 22, 23 — Path B chronology sweep per the spec below + Ch 21 wedding-venue softening + four date refs not in the ledger spec but needed for internal consistency (Ch 21 "tavern in 1849", Ch 21 "year of '62 to '63", Ch 23 "since 1859", Ch 23 "deck of a brig in 1862"). Commit window: next ~30 min.**
 
 ## Recently completed
 

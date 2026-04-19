@@ -26,7 +26,7 @@ In the upper left of the cover, in the same hand:
 
 > *H. Berg*
 > *Shields, England*
-> *1 May 1867*
+> *1 May 1881*
 
 He held the letter for a long moment.
 
@@ -40,7 +40,7 @@ His mother, who had not, in his life, seen him hold a letter for a long moment w
 
 "Yes."
 
-He was not all right. He was, in the kitchen doorway with the letter in his hand, more not-all-right than he had been at any time since the cold of the room at Mrs. Kindingstad's the February before last. But he had spent five months on the *Sigrid* learning how not to let his face do anything his face did not need to do, and the lesson held now, in the kitchen doorway, in front of his mother, who was watching his face and looking for what she had looked for in May of 1864.
+He was not all right. He was, in the kitchen doorway with the letter in his hand, more not-all-right than he had been at any time since the cold of the room at Mrs. Kindingstad's the February before last. But he had spent five months on the *Sigrid* learning how not to let his face do anything his face did not need to do, and the lesson held now, in the kitchen doorway, in front of his mother, who was watching his face and looking for what she had looked for in the autumn he had come home with the cough.
 
 He went up to the loft with the letter.
 
@@ -70,7 +70,7 @@ He thought, in the order in which he thought the things:
 
 That Haakon was alive. He had not, until the letter, been able to say that he had known this. He had assumed it, in the four-minute opening of the drawer in February. He had not known it. He knew it now.
 
-That Haakon was a man who, at thirty-three, was on a coal-coaster between the Tyne and Bergen. That this was a small step down from the brig of his twenty-fifth year. That Haakon had not, in eight years, become a captain or a first mate or a man with a berth on a deep-sea ship. That Haakon was, in 1866, more or less the same kind of sailor he had been in 1860, only older.
+That Haakon was a man who, at thirty-three, was on a coal-coaster between the Tyne and Bergen. That this was a small step down from the brig of his twenty-fifth year. That Haakon had not, in eight years, become a captain or a first mate or a man with a berth on a deep-sea ship. That Haakon was, in 1881, more or less the same kind of sailor he had been in 1876, only older.
 
 That Haakon had heard Olav was engaged, and that the hearing had moved him to write a letter. That the letter said *I send my best to you both,* which was the formal sentence a man of his class and time would have written to a man he had once known and had not seen in eight years and would not, presumably, see again. That the formal sentence was the whole letter, and that the formal sentence was, also, not the whole letter — that the letter was, in the writing of it, the act of a man who had not had to write it.
 
@@ -82,7 +82,7 @@ That he had now, in his hand, a letter from Haakon Berg, of Shields, on the *Nor
 
 That he had a choice now.
 
-He could keep the letter. He could put it in the leather folder Mrs. Kindingstad's husband had given him in May, beside the certificate, and the folder would contain, then, both the qualifying paper of the navigator he had become and the small brief sentence of the man who had been, in the lee of the galley of a brig in the Atlantic in the summer of 1858, the first man to put his hand on Olav's wrist with intention. The folder would, if he put the letter in it, become the inventory of his life as he had actually lived it. The certificate would be the official inventory. The letter would be the unofficial one. He could keep the letter for forty years. He could, at the moment Olava had named on Christmas morning — at the moment when the carrying got too heavy to carry alone — bring the letter to her and say *here is what was in the drawer.* The letter would be the proof. The letter would be the artifact.
+He could keep the letter. He could put it in the leather folder Mrs. Kindingstad's husband had given him in May, beside the certificate, and the folder would contain, then, both the qualifying paper of the navigator he had become and the small brief sentence of the man who had been, in the lee of the galley of a brig in the Atlantic in the summer of 1876, the first man to put his hand on Olav's wrist with intention. The folder would, if he put the letter in it, become the inventory of his life as he had actually lived it. The certificate would be the official inventory. The letter would be the unofficial one. He could keep the letter for forty years. He could, at the moment Olava had named on Christmas morning — at the moment when the carrying got too heavy to carry alone — bring the letter to her and say *here is what was in the drawer.* The letter would be the proof. The letter would be the artifact.
 
 Or he could burn the letter.
 
@@ -90,9 +90,9 @@ He sat on the bed for a long time with the letter on his lap.
 
 He thought of Olava at the Lindøy jetty in the November dusk receiving the engagement paper from her father. He had not been at Lindøy that evening, but his mind had constructed her face from what he knew of her face, and the face he had constructed was a face of quiet receiving. She had been waiting since August for the signing. The signing had been the news she had been waiting for. The face had received the news without surprise.
 
-He thought of her face if he were to bring her this letter, in some autumn forty years from now, and tell her what was in the drawer. The face was the same face, the older version of it — quiet, receiving, not surprised. She would not, in 1906, be surprised. She had told him on Christmas morning of 1864 that she knew there was a piece. The letter would only be the piece given a name and a sender and a postmark from a Tyne coal port.
+He thought of her face if he were to bring her this letter, in some autumn forty years from now, and tell her what was in the drawer. The face was the same face, the older version of it — quiet, receiving, not surprised. She would not, in 1921, be surprised. She had told him on Christmas morning of 1879 that she knew there was a piece. The letter would only be the piece given a name and a sender and a postmark from a Tyne coal port.
 
-She would not, he understood, in 1906, be surprised. She would also not be hurt. She had agreed, in advance, to the carrying. She had agreed in advance to the eventual disclosure. She had agreed in advance to the silence between them about it. The letter would, if he kept it, become the artifact of the silence. The letter would, if he burned it, become a piece of his interior that no one outside him had ever seen.
+She would not, he understood, in 1921, be surprised. She would also not be hurt. She had agreed, in advance, to the carrying. She had agreed in advance to the eventual disclosure. She had agreed in advance to the silence between them about it. The letter would, if he kept it, become the artifact of the silence. The letter would, if he burned it, become a piece of his interior that no one outside him had ever seen.
 
 He sat with the letter for another hour.
 
@@ -102,7 +102,7 @@ Then he went down to the kitchen. His mother was at the stove. He told her he wa
 
 In the boat-shed he stood for some time at his father's workbench in the failing afternoon light.
 
-The workbench had a small drawer in it on the underside — a drawer his father had used, when Olav was a boy, for the strong tobacco he had given up in Olav's twelfth year and that Olav's mother had not, in the years since, asked her husband whether he had truly given up. The drawer had been empty since 1859. Olav had known about it since he was nine, had used it himself, as a boy, to hide a particular pocket-knife his uncle had given him that his mother had told him to return.
+The workbench had a small drawer in it on the underside — a drawer his father had used, when Olav was a boy, for the strong tobacco he had given up in Olav's twelfth year and that Olav's mother had not, in the years since, asked her husband whether he had truly given up. The drawer had been empty since 1870. Olav had known about it since he was nine, had used it himself, as a boy, to hide a particular pocket-knife his uncle had given him that his mother had told him to return.
 
 He pulled the drawer open. He folded the letter once, the way Haakon had folded it. He laid it inside. He pushed the drawer closed.
 
@@ -120,11 +120,11 @@ Then he walked back up to the house. His mother was setting the table for supper
 
 He sat at the table. They had supper. He did not, that evening, mention the letter to anyone.
 
-He would, in the years afterward, go down to the boat-shed at intervals he did not announce to himself, and pull the small drawer open under the workbench, and look at the folded paper, and not take it out, and push the drawer closed again. He would do this perhaps twice a year for as long as he lived in his father's house. He would not, in the doing, ever decide whether to take the letter out of the drawer permanently or to burn it. The deciding was the kind of decision he had learned, on the deck of a brig in 1862, to put off for one more day.
+He would, in the years afterward, go down to the boat-shed at intervals he did not announce to himself, and pull the small drawer open under the workbench, and look at the folded paper, and not take it out, and push the drawer closed again. He would do this perhaps twice a year for as long as he lived in his father's house. He would not, in the doing, ever decide whether to take the letter out of the drawer permanently or to burn it. The deciding was the kind of decision he had learned, on the deck of a brig in 1876, to put off for one more day.
 
-The letter would be in the drawer when he sailed for the East India voyage in June. The letter would be in the drawer when he came home in November of 1868. The letter would be in the drawer when he married Olava in the spring of 1869.
+The letter would be in the drawer when he sailed for the East India voyage in June. The letter would be in the drawer when he came home in November of 1882. The letter would be in the drawer when he married Olava in the spring of 1883.
 
-The drawer in the workbench was a real drawer. The drawer in him — the one Olava had named on Christmas morning of 1864 — was the larger drawer the smaller drawer was an instance of.
+The drawer in the workbench was a real drawer. The drawer in him — the one Olava had named on Christmas morning of 1879 — was the larger drawer the smaller drawer was an instance of.
 
 The smaller drawer held one letter.
 

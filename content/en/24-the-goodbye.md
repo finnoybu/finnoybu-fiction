@@ -50,7 +50,29 @@ They sat at the bench in the long June evening light. The bench was the bench th
 
 "Good."
 
-They sat without speaking after that for some time. The light fell. The dog came down from the door of the house and lay at Olava's feet and looked at Olav with the kind of look that an old dog gives a man it has decided not to outlive. Olav did not, when Olava reached down and put her hand on the back of the dog's head, look at her hand or her face. He looked at the channel. The channel was the same channel.
+She was quiet for a moment. Then she said:
+
+"Olav."
+
+"Yes."
+
+"Tell me one thing about the *Sigrid* you have not told me."
+
+He did not, for a moment, answer. The *Sigrid* was not the territory of the conditions. The *Sigrid* was the country she had agreed at Christmas not to ask him about. He understood that she was not asking him about that country now. She was asking him for one piece of the smaller country that surrounded it — the country of weather and rope and the small sounds of a ship at sea. She was asking him, before the eighteen months, for an instalment of the kind of small thing a husband tells his wife when she asks.
+
+He thought.
+
+"There was a galley boy," he said. "A boy of fifteen named Mathis. He had a voice clean as a bell. The opsang at the cast-off in Stavanger was his — he started it and the rest of the crew picked it up. I have not, since the morning we cast off, heard a voice like that. I do not know what became of him. He would, by now, be twenty-four."
+
+She did not, for a long moment, say anything. Then she put her hand, briefly, on his forearm where it rested on the bench beside her. She did not, in putting her hand there, look at him. She looked at the channel.
+
+"Thank you, Olav."
+
+"Yes."
+
+She took her hand away.
+
+They sat without speaking after that for some time. The light fell. The dog came down from the door of the house and lay at Olava's feet and looked at Olav with the kind of look an old dog gives a man it has decided not to outlive. Olav did not, when Olava reached down and put her hand on the back of the dog's head, look at her hand or her face. He looked at the channel. The channel was the same channel.
 
 When the lamp went on in the kitchen behind them Olava stood up. She did not, in standing, look at him. She walked back to the house. He sat on the bench for another quarter-hour. Then he too got up and went in.
 
@@ -84,8 +106,10 @@ His father said *Olav.*
 
 His mother put her hand on the back of his neck.
 
-He went to find the *Semiramis.*
+He hoisted the sea-chest onto his shoulder. He turned to walk down the quay toward the third wharf, where the *Semiramis* lay.
 
-He found her at the third wharf down — larger than he had expected, newer than he had expected, with the look of a ship that had been built for the kind of voyage Olav had not yet been on. He stood on the quay for some time looking at her.
+He had not meant to look back. He had decided, at the Lindøy jetty that morning, that not-looking-back was the form he would use for this departure. He had held to it on the boat across, and on the smack from Tau, and at the place his parents had been standing when he had stepped off.
 
-Then he hoisted the sea-chest onto his shoulder and walked the gangway.
+He looked back now. He could not, afterward, say why. He did not look back at his parents. He looked north across the harbor toward the channel he had come down on the morning's smack — toward the place where, four hours behind him at Lindøy, a girl in a wool coat had put her hand on the cuff of his coat and had said *go.*
+
+He could not, from the Stavanger quay, see Lindøy. Lindøy was over the horizon. He knew it was there.

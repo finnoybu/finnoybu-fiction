@@ -38,7 +38,7 @@ In the third week, on a Thursday evening, he went to a small tavern at the botto
 
 At the next table over were three sailors of perhaps thirty, in heavy coats, with the look of men who had been at the Wagtail since five o'clock. They were not loud. They were drunk in the particular subdued way Norwegian sailors get drunk, which is to say that the drink slowed them rather than accelerated them. They were talking about ports. The middle one — a man with a black beard and a missing front tooth — was telling a story about Hamburg. Olav, half listening, sipped his beer.
 
-The man with the black beard finished the Hamburg story. The man on his left — older, grey-bearded, with a long scar at the side of his face — said *I was in Hamburg in '64, on the* Sigrid *out of Stavanger.*
+The man with the black beard finished the Hamburg story. The man on his left — older, grey-bearded, with a long scar at the side of his face — said *I was in Hamburg in '78, on the* Sigrid *out of Stavanger.*
 
 Olav set down his beer.
 
@@ -50,7 +50,7 @@ He did not, in the setting down, do it loudly. He did it the way a man sets down
 
 "What happened to him."
 
-"Gjermund? He was at Hamburg with us in '64. He was master then. He went mad on the way home. He drove the brig onto a sandbar at the mouth of the Elbe and stood at the wheel and laughed. The mate took the wheel from him. They got her off the bar with the next tide. The mate brought her into Stavanger. The owners put Gjermund in the asylum at Eg in '65. He died there last year."
+"Gjermund? He was at Hamburg with us in '78. He was master then. He went mad on the way home. He drove the brig onto a sandbar at the mouth of the Elbe and stood at the wheel and laughed. The mate took the wheel from him. They got her off the bar with the next tide. The mate brought her into Stavanger. The owners put Gjermund in the asylum at Eg in '79. He died there last year."
 
 "He died."
 

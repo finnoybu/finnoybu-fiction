@@ -148,10 +148,6 @@ By six bells of the afternoon watch she was past the Skudesnes, and the Norwegia
 
 He worked the gasket. He shook the sail down. He came back to the deck.
 
-That night in the forecastle he listened to the bark settle into the long roll of the open sea. He did not, in the listening, think of Olava at Lindøy or of the small drawer under the workbench in the boat-shed or of the letter that was in it.
+That night in the forecastle he listened to the bark settle into the long roll of the open sea. He thought of the work he had done that afternoon at the royal yard. He thought it had been good work.
 
-He thought instead of the work he had done that afternoon at the royal yard.
-
-He thought it had been good work.
-
-The *Semiramis* ran south-southwest under fair canvas. The eighteen months were under way.
+He thought, also, that the work the next morning would be different work, and that there would be work like it for the next eighteen months, and that he was — for the first time he could remember — looking forward to it.

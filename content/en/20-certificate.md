@@ -8,7 +8,7 @@ He was given the certificate in a ceremony at the school on the eighth of June. 
 
 That afternoon at Mrs. Kindingstad's he sat at the desk with the certificate in front of him.
 
-*Olav Hestby, of Finnøy, had on the eighth day of June 1866 been examined and found qualified to serve as a navigator on a vessel of any tonnage in the merchant marine of His Majesty the King of Sweden and Norway.*
+*Olav Hestby, of Finnøy, had on the eighth day of June 1880 been examined and found qualified to serve as a navigator on a vessel of any tonnage in the merchant marine of His Majesty the King of Sweden and Norway.*
 
 He read the sentence twice. He put the certificate in the leather folder Mrs. Kindingstad's husband had given him as a leaving gift, with the small dry observation that *a man's papers are a man's papers and they should be carried like papers.* The folder was empty before. The folder was no longer empty. The qualified paper was for a vessel he did not yet have.
 
