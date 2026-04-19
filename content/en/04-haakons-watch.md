@@ -170,7 +170,7 @@ That this was the first time in five years he had done such a thing, and the fir
 
 That he was not going to do anything else this voyage.
 
-That he had told himself this same sentence at twenty, at twenty-two, at twenty-three, on three different ships about three different boys, and that on two of the three he had kept the sentence and on one of the three he had not, and that the one of the three on whom he had not was a man named Erik who had, six months later in a port in Lübeck, walked off the ship and out of his life without a word, and the not-knowing of what had happened to Erik was a thing Haakon had carried for four years and would, he now understood, carry for the rest of his life.
+That he had told himself this same sentence at twenty, at twenty-one, at twenty-three, on three different ships about three different boys, and that on two of the three he had kept the sentence and on one of the three he had not, and that the one of the three on whom he had not was a man named Erik whom he had, six months later in a port in Lübeck, left at the end of the voyage by walking off the ship without a word — closing the door, he had told himself even then, from his own side — and the not-knowing of what had happened to Erik after was a thing Haakon had carried for four years and would, he now understood, carry for the rest of his life.
 
 That this boy from Finnøy was not Erik. That this boy did not yet know what he was, and that Haakon, who did know, owed him the not-doing.
 
