@@ -2,8 +2,6 @@
 title: "Cast Off"
 id: 1
 slug: cast-off
-hero:
-  image: /images/coming-home.png
 ---
 
 The brig lay at the quay like a promise already half broken, and Olav Hestby was eighteen years old and still young enough to believe a ship could keep a man's word for him.

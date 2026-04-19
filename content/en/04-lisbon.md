@@ -2,8 +2,6 @@
 title: "Lisbon"
 id: 4
 slug: lisbon
-hero:
-  image: /images/the-proud-captain.png
 ---
 
 The brig made Lisbon on the eleventh day. The wind, which had carried them down the Bay of Biscay with a steadiness Olav had begun to take for granted, gave them a final favor at the mouth of the Tagus and let them in on a quartering breeze that the pilot — a small dark man with a Portuguese hat and English of a kind — said was the best he had seen in a fortnight.

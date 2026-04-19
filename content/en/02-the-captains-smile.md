@@ -2,8 +2,6 @@
 title: "The Captain's Smile"
 id: 2
 slug: the-captains-smile
-hero:
-  image: /images/the-proud-captain.png
 ---
 
 By the end of the third day he had learned, or begun to learn, that a ship at sea is a clock made of men. The watches turned over every four hours, the bells every half, the meals three times, and into that rhythm the brig lived as an animal lives in its pasture: she grazed the wind, she was turned and scrubbed, she was fed small corrections at the wheel, and in return she went on going.

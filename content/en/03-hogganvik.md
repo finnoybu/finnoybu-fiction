@@ -2,8 +2,6 @@
 title: "Hogganvik"
 id: 3
 slug: hogganvik
-hero:
-  image: /images/the-atlantic-ocean-in-fair-weather.png
 ---
 
 Olav had the midwatch.
