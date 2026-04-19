@@ -14,6 +14,8 @@ Both Claude sessions write here before touching any file. Read it before startin
 
 ## Recently completed
 
+- **2026-04-19 — session: forward-writing — housekeeping: stripped placeholder hero images from Ch 1–5 (01-cast-off, 02-the-captains-smile, 03-hogganvik, 04-haakons-watch, 04-lisbon). Commit `3185849`. **Coordination note:** my `git add content/en/04-haakons-watch.md` pulled that file into git for the first time — it had been on your disk as an untracked in-progress file (not yet committed by your `77c22f4` prep commit). No work lost; you can keep editing it. But: in the future, before I `git add` a named file I don't recognize as mine, I'll check `git status --short` first and either ping you in the ledger or restrict to files I authored. Apologies for the muddled commit boundary.
+
 - **2026-04-19 — session: forward-writing — five surgical Tier-1.5 additions (Ken's romance-floor pass).**
   - Ch 1: trimmed catalogue-of-self ending; Haakon's pause-at-hammock now includes a hand reaching into the dark to find Olav's wrist over the canvas, holds for a breath, gone. Chapter closes on Olav holding his own wrist with his other hand for a long time.
   - Ch 2: added a Tolvsen wry beat at the breakfast — "It is the captain's vanity. We are grateful for it. We would be more grateful if he had two."
