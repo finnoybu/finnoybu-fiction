@@ -7,7 +7,7 @@ book: 3
 
 The daughter was born at the cottage at Finnøy on the morning of the ninth of June, 1886.
 
-Olav was not, at the moment of the birth, in the cottage. He was at the boat-shed at his father's, as his mother and Mrs Lindøy had arranged across the previous two weeks. The small specific arrangement a Norwegian island household of their period made at the birth of a first child had placed the husband at the boat-shed and the father-in-law at the woodpile and the young wife's brother-in-law (Eirik, who had come over from Mosterøy on the Monday at Marit's word) at the small outside garden-fence with the small specific Norwegian-island work of not-being-present-in-the-birth-room that the men of their generation had been given for generations.
+Olav was not, at the moment of the birth, in the cottage. He was at the boat-shed at his father's, as his mother and Mrs Lindøy had arranged across the previous two weeks. The arrangement a Norwegian island household of their period made at the birth of a first child had placed the husband at the boat-shed and the father-in-law at the woodpile and the young wife's brother-in-law (Eirik, who had come over from Mosterøy on the Monday at Marit's word) at the small outside garden-fence with the Norwegian-island work of not-being-present-in-the-birth-room that the men of their generation had been given for generations.
 
 Mrs Hestby was at the bedside.
 
@@ -15,7 +15,7 @@ Mrs Lindøy was at the bedside.
 
 Marit was at the kitchen with the small clean towels.
 
-The Stavanger midwife — a Mrs Pettersen, whom Mrs Hestby had arranged for at the small Stavanger office six weeks before, who had come across on the morning coaster on the seventh and had stayed at the small spare bed at Jens's house since — was at the small specific position the midwife took at a birth, which was the foot of the bed with her hands free.
+The Stavanger midwife — a Mrs Pettersen, whom Mrs Hestby had arranged for at the small Stavanger office six weeks before, who had come across on the morning coaster on the seventh and had stayed at the small spare bed at Jens's house since — was at the position the midwife took at a birth, which was the foot of the bed with her hands free.
 
 The birth took, by the kitchen clock Mrs Hestby had brought over from Jens's, six hours.
 
@@ -41,7 +41,7 @@ He came to the door.
 
 "You may come now."
 
-He came up the path with his mother. His father, at the woodpile, did not come with them; his father had the small specific rule of his own generation that the first meeting between the newly-delivered husband and his wife and child should be without a grandfather in the room, and Jens had kept the rule since his own first child's birth in '59. Eirik, at the garden-fence, also stayed. Marit, at the kitchen, had put the small water to boil for a tea and did not, at the coming-up-the-path, break the small ceremony.
+He came up the path with his mother. His father, at the woodpile, did not come with them; his father had the rule of his own generation that the first meeting between the newly-delivered husband and his wife and child should be without a grandfather in the room, and Jens had kept the rule since his own first child's birth in '59. Eirik, at the garden-fence, also stayed. Marit, at the kitchen, had put the small water to boil for a tea and did not, at the coming-up-the-path, break the small ceremony.
 
 Olav came into the cottage.
 
@@ -51,7 +51,7 @@ Mrs Pettersen was packing her small midwife's bag at the small parlour-table. Sh
 
 Olav went into the bedroom.
 
-Olava was propped up on the small pillows his mother and Mrs Lindøy had arranged. She was pale and tired and the small sweat of the birth was still at her hairline. She was in the small clean nightdress Mrs Hestby had brought over from Jens's that morning. Her eyes, when she turned them to the door, had the small specific exhausted-bright look of a twenty-five-year-old Norwegian woman who had just, in the six hours, done the thing her body had been preparing for for nine months.
+Olava was propped up on the small pillows his mother and Mrs Lindøy had arranged. She was pale and tired and the small sweat of the birth was still at her hairline. She was in the small clean nightdress Mrs Hestby had brought over from Jens's that morning. Her eyes, when she turned them to the door, had the exhausted-bright look of a twenty-five-year-old Norwegian woman who had just, in the six hours, done the thing her body had been preparing for for nine months.
 
 At her breast was the small wrapped bundle of the child.
 
@@ -73,7 +73,7 @@ The child was the small new human creature of the kind he had, in his twenty-sev
 
 The child was breathing.
 
-Olav registered the breathing with the same small careful attention he had registered the breath of the crew of the *Daae* at the bare-poles run in the force-eleven storm of the third voyage. The registering was the small specific professional-listening a deep-water first mate did at the moments at which the continuation of someone else's life was the fact at issue. He had not expected to bring the professional-listening to the cottage's small bedroom. He had brought it. The listening worked the same way.
+Olav registered the breathing with the same small careful attention he had registered the breath of the crew of the *Daae* at the bare-poles run in the force-eleven storm of the third voyage. The registering was the professional-listening a deep-water first mate did at the moments at which the continuation of someone else's life was the fact at issue. He had not expected to bring the professional-listening to the cottage's small bedroom. He had brought it. The listening worked the same way.
 
 The child was breathing fine.
 
@@ -135,7 +135,7 @@ Olav took the tea from the tray. He gave it to Olava at the bedside. She drank f
 
 He sat with her for the ten minutes.
 
-He did not, in the ten minutes, say anything large. The small specific conversation the ten minutes held was the kind of conversation a husband and his wife had at the bedside in the small exhausted-bright minutes after a first child's birth — the small specific conversation of the small practical things: when the midwife would come back the next day for the small check; whether Mrs Lindøy would stay at the cottage through the week; when Mrs Hestby would begin the small supper-cycle she had been planning; what the baptism Sunday arrangement would be.
+He did not, in the ten minutes, say anything large. The conversation the ten minutes held was the kind of conversation a husband and his wife had at the bedside in the small exhausted-bright minutes after a first child's birth — the conversation of the small practical things: when the midwife would come back the next day for the small check; whether Mrs Lindøy would stay at the cottage through the week; when Mrs Hestby would begin the small supper-cycle she had been planning; what the baptism Sunday arrangement would be.
 
 They worked out the small practical things.
 
@@ -177,7 +177,7 @@ Olav came up to him.
 
 He set down the axe he had been splitting with.
 
-He came to Olav. He put his hand — his good hand, the one that was not his plane-hand — on the back of Olav's neck. He held it there for the count of perhaps four breaths. That was the Hestby household's small specific gesture at moments like this one. It had been his father's gesture at Olav's own birth in '59 (his mother had later told him). It had been his grandfather's gesture at his father's birth in '33 (his great-uncle's testimony). The gesture was the gesture. Jens held it. Then he let go.
+He came to Olav. He put his hand — his good hand, the one that was not his plane-hand — on the back of Olav's neck. He held it there for the count of perhaps four breaths. That was the Hestby household's gesture at moments like this one. It had been his father's gesture at Olav's own birth in '59 (his mother had later told him). It had been his grandfather's gesture at his father's birth in '33 (his great-uncle's testimony). The gesture was the gesture. Jens held it. Then he let go.
 
 He went into the cottage to meet his granddaughter.
 
@@ -203,7 +203,7 @@ He turned from the fence.
 
 He went back into the cottage.
 
-His father was at the small bedroom door with Mrs Hestby beside him. Jens had, in the small specific way a Hestby grandfather had been given his granddaughter at this moment for four generations, held her briefly and given her back.
+His father was at the small bedroom door with Mrs Hestby beside him. Jens had, in the way a Hestby grandfather had been given his granddaughter at this moment for four generations, held her briefly and given her back.
 
 Olav stood at the door for a moment.
 
@@ -253,7 +253,7 @@ That night at the small bedside — Mrs Lindøy and Mrs Hestby and Marit had gon
 
 Olav did not sleep.
 
-He sat at the chair for perhaps the first hour of the small night. He watched Anna's breath. He watched Olava's breath. The two breaths were in a small unsynchronized pair — Olava's slow deep adult breath, Anna's small fast new-human one — and the pair was the small specific sound the cottage's bedroom would have in it for the foreseeable years.
+He sat at the chair for perhaps the first hour of the small night. He watched Anna's breath. He watched Olava's breath. The two breaths were in a small unsynchronized pair — Olava's slow deep adult breath, Anna's small fast new-human one — and the pair was the sound the cottage's bedroom would have in it for the foreseeable years.
 
 He thought, at the chair:
 

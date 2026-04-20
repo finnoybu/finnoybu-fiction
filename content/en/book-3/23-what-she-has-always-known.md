@@ -7,11 +7,11 @@ book: 3
 
 The ledger had closed in the autumn of 1895.
 
-Olava had not, on the day it closed, made any specific announcement of the closing. She had simply, on a Tuesday evening at the small writing-room of the larger house at Finnøy, looked at the small leather-bound book that had been the ledger of the *Daae* voyage and of the *Semiramis* voyage before it, and she had registered — with the small flat clarity the long years of her correspondence-discipline had taught her — that the ledger was a voyage-ledger and that Olav's voyages were, by the small specific shift the *Helga* captaincy had made, done. He was a coastwise captain now. He was home for twenty-two days in every twenty-eight. The small six-day runs to Bergen did not, by any sensible reading of the ledger's purpose, require entries. Entries required absence. Twenty-two days at home was not absence.
+Olava had not, on the day it closed, made any specific announcement of the closing. She had simply, on a Tuesday evening at the small writing-room of the larger house at Finnøy, looked at the small leather-bound book that had been the ledger of the *Daae* voyage and of the *Semiramis* voyage before it, and she had registered — with the small flat clarity the long years of her correspondence-discipline had taught her — that the ledger was a voyage-ledger and that Olav's voyages were, by the shift the *Helga* captaincy had made, done. He was a coastwise captain now. He was home for twenty-two days in every twenty-eight. The small six-day runs to Bergen did not, by any sensible reading of the ledger's purpose, require entries. Entries required absence. Twenty-two days at home was not absence.
 
 She had closed the ledger.
 
-She had put it in the small lower drawer of the writing-desk alongside the small first ledger of the 1881 *Semiramis* voyage and the small engagement-year notebook of 1880 and the leather folder of letters that had come across the voyages. The three ledgers and the notebook and the folder were, at the small lower drawer's contents, the small specific archive of the marriage's first twelve years. The archive was, by the closing of the third book in '95, complete.
+She had put it in the small lower drawer of the writing-desk alongside the small first ledger of the 1881 *Semiramis* voyage and the small engagement-year notebook of 1880 and the leather folder of letters that had come across the voyages. The three ledgers and the notebook and the folder were, at the small lower drawer's contents, the archive of the marriage's first twelve years. The archive was, by the closing of the third book in '95, complete.
 
 She had not, since, added to it.
 
@@ -37,15 +37,15 @@ She opened the small engagement-year notebook.
 
 ---
 
-The engagement-year notebook was a small cheap octavo notebook she had bought at Stavanger bookbinder in November of 1880, on the week after the engagement had been signed. It had, across its small sixty pages, the small entries she had kept from November 1880 through the summer of 1881 — the small specific arithmetic of the engagement period, the weekly entries about Olav's visits, the small summary of each Saturday-evening bench conversation, the small set of forecasts she had made on the night he had left Stavanger in June of '81.
+The engagement-year notebook was a small cheap octavo notebook she had bought at Stavanger bookbinder in November of 1880, on the week after the engagement had been signed. It had, across its small sixty pages, the small entries she had kept from November 1880 through the summer of 1881 — the arithmetic of the engagement period, the weekly entries about Olav's visits, the small summary of each Saturday-evening bench conversation, the small set of forecasts she had made on the night he had left Stavanger in June of '81.
 
 She read it.
 
 The reading took perhaps an hour.
 
-She registered, at the hour's end, several small specific things.
+She registered, at the hour's end, several things.
 
-The first was that she had, at the twenty-year-old she had been in the engagement year, already been the small specific kind of woman she was at thirty-nine. The register was the same. The small flat arithmetic. The small private indents. The small discipline of not-writing-what-would-not-bear-writing. She had not, across the nineteen years since, significantly changed. The changes had been small — at twenty she had been newer to the discipline, more effortful at keeping it; at thirty-nine she kept the same discipline without effort — but the kind of woman she was had been established by twenty. She had, at twenty, made the woman she would be at forty and sixty and eighty.
+The first was that she had, at the twenty-year-old she had been in the engagement year, already been the kind of woman she was at thirty-nine. The register was the same. The small flat arithmetic. The small private indents. The small discipline of not-writing-what-would-not-bear-writing. She had not, across the nineteen years since, significantly changed. The changes had been small — at twenty she had been newer to the discipline, more effortful at keeping it; at thirty-nine she kept the same discipline without effort — but the kind of woman she was had been established by twenty. She had, at twenty, made the woman she would be at forty and sixty and eighty.
 
 The second was that the small forecasts she had made at the June 1881 entries about Olav's absence had been, in aggregate, accurate. She had forecast the letter-frequencies within a margin of three weeks. She had forecast the returns within a margin of six days. She had forecast — this had been in the small private indent of the July 1881 entry — that the man who came home from the *Semiramis* in November of 1882 would be a different man from the man who had left in June of 1881. He had been. The forecast had been the forecast of a twenty-year-old engaged woman who had, across the autumn of '79 and the winter of '80-'81, worked out what the voyage would do.
 
@@ -93,7 +93,7 @@ She was not, by the fact, unhappy.
 
 She was — she registered at the desk, in a register she allowed herself once in perhaps five years — glad.
 
-The gladness was not a gladness at Olav's carrying. She was not glad that Olav had things to carry. She was glad, instead, that the small specific form the two of them had agreed on at Christmas Eve of '79 had been the form that a real marriage was possible inside of. She had, at twenty, made an agreement without fully knowing what the agreement would cost. The cost had turned out to be bearable. The agreement had turned out to be the shape a marriage could be, for her and for him. Most agreements at twenty did not turn out that way. Hers had.
+The gladness was not a gladness at Olav's carrying. She was not glad that Olav had things to carry. She was glad, instead, that the form the two of them had agreed on at Christmas Eve of '79 had been the form that a real marriage was possible inside of. She had, at twenty, made an agreement without fully knowing what the agreement would cost. The cost had turned out to be bearable. The agreement had turned out to be the shape a marriage could be, for her and for him. Most agreements at twenty did not turn out that way. Hers had.
 
 The gladness was for the agreement's having held.
 
@@ -115,15 +115,15 @@ She stood.
 
 She went to the window of the writing-room.
 
-The window gave on to the small garden Jens had planted for her at the larger house's south side in the summer of '96. The garden in April of 1900 had the small early buds Mrs Hestby's cuttings always produced — the small rhododendron-bush, the small forsythia, the small patch of Norwegian rock-rose Mrs Lindøy had sent across from Lindøy in '98. The small garden was at the small pre-spring waking of a Norwegian island garden in the April light. It had, across the five years since she had claimed it as her small specific garden, become the garden she recognized as hers.
+The window gave on to the small garden Jens had planted for her at the larger house's south side in the summer of '96. The garden in April of 1900 had the small early buds Mrs Hestby's cuttings always produced — the small rhododendron-bush, the small forsythia, the small patch of Norwegian rock-rose Mrs Lindøy had sent across from Lindøy in '98. The small garden was at the small pre-spring waking of a Norwegian island garden in the April light. It had, across the five years since she had claimed it as her garden, become the garden she recognized as hers.
 
 She looked at the garden for some minutes.
 
 She thought, at the window:
 
-*I have, across the fifteen and a half years since the wedding, become the woman I was at twenty whose shape I had already decided. I have, across the twenty and a half years since the Christmas Eve of '79, kept the agreement. The keeping has not been difficult. The keeping has been — by the small specific arithmetic of a Norwegian island wife of my generation — the ordinary work of a marriage. I had, at twenty, thought the keeping might require of me some small specific virtue I did not yet have. The keeping has required, instead, only that I be what I already was. I was the woman who could keep it. I am still the woman who can.*
+*I have, across the fifteen and a half years since the wedding, become the woman I was at twenty whose shape I had already decided. I have, across the twenty and a half years since the Christmas Eve of '79, kept the agreement. The keeping has not been difficult. The keeping has been — by the arithmetic of a Norwegian island wife of my generation — the ordinary work of a marriage. I had, at twenty, thought the keeping might require of me some virtue I did not yet have. The keeping has required, instead, only that I be what I already was. I was the woman who could keep it. I am still the woman who can.*
 
-*I am not, at thirty-nine, the woman who will ever ask. The moment at which the carrying would become too heavy has not come. I do not, at the window in April of 1900, see any specific reason to believe it will come in the remaining years. I have, in the small private indent of my own interior, given up the expectation that it will. The agreement I made at twenty — with the small specific escape-clause that I could ask if the carrying became too heavy — has become, across the twenty years, the agreement I have kept without the escape-clause. The escape-clause is still there. I have not invoked it. I will not invoke it.*
+*I am not, at thirty-nine, the woman who will ever ask. The moment at which the carrying would become too heavy has not come. I do not, at the window in April of 1900, see any specific reason to believe it will come in the remaining years. I have, in the small private indent of my own interior, given up the expectation that it will. The agreement I made at twenty — with the escape-clause that I could ask if the carrying became too heavy — has become, across the twenty years, the agreement I have kept without the escape-clause. The escape-clause is still there. I have not invoked it. I will not invoke it.*
 
 *Olav has carried his piece for twenty-four years, by the small arithmetic of his own having-had-it-since-1876. I have carried my not-asking for twenty. We have, between us, carried the pieces together for twenty. The shape has held.*
 
@@ -165,7 +165,7 @@ Anna came in first — thirteen, tall, with her grandfather's dark hair still da
 
 Anna showed her the small slate.
 
-The exercise was the small composition Olava had given Anna on the previous Tuesday — *Write a paragraph on an object in your grandmother's kitchen, and say why the object matters to the grandmother.* Anna had, in her neat small twelve-year-old's hand, written four sentences about Mrs Hestby's small brass candlestick — the grandmother-candlestick that had been in Olava's own room at Lindøy and was now at the grandmother's kitchen on the Finnøy side. The composition was, by Olava's reading of the four sentences, a small specific piece of writing from a child who would, by fifteen or so, be a reader and a small careful writer of her own letters.
+The exercise was the small composition Olava had given Anna on the previous Tuesday — *Write a paragraph on an object in your grandmother's kitchen, and say why the object matters to the grandmother.* Anna had, in her neat small twelve-year-old's hand, written four sentences about Mrs Hestby's small brass candlestick — the grandmother-candlestick that had been in Olava's own room at Lindøy and was now at the grandmother's kitchen on the Finnøy side. The composition was, by Olava's reading of the four sentences, a piece of writing from a child who would, by fifteen or so, be a reader and a small careful writer of her own letters.
 
 Olava read the four sentences.
 
@@ -197,7 +197,7 @@ She went out to the kitchen to help with the small afternoon's tea and the child
 
 She did not, that evening, open the three ledgers again.
 
-She had, at the afternoon's single sitting, done the small re-read she had been reserving for herself since Christmas Eve of '82. The small re-read had been the re-read. She would not, by the small specific calibration she now made at the kitchen, need to do it again. The three books were, at the small lower drawer, the archive of the marriage's first twelve years. The archive would hold. The marriage was at the twelve-to-infinity phase now, which did not, by her small careful reading this afternoon, require further archiving.
+She had, at the afternoon's single sitting, done the small re-read she had been reserving for herself since Christmas Eve of '82. The small re-read had been the re-read. She would not, by the calibration she now made at the kitchen, need to do it again. The three books were, at the small lower drawer, the archive of the marriage's first twelve years. The archive would hold. The marriage was at the twelve-to-infinity phase now, which did not, by her small careful reading this afternoon, require further archiving.
 
 ---
 

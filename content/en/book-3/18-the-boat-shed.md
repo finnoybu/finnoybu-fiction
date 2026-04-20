@@ -21,7 +21,7 @@ He went down the path to the boat-shed.
 
 His father was at the workbench.
 
-Jens Hestby was, at the workbench at seven in the April morning, at the small specific position he had been in for thirty-five years of mornings — the small particular left-shoulder-against-the-post stance, the small specific hand-on-the-plane grip — and the workbench had on it, this morning, the small planking for the next boat. The next boat was a repair job for a Stjernerøy man who had brought her in at the end of March; the plank had been cut the previous Saturday. Jens was hand-planing the long edge.
+Jens Hestby was, at the workbench at seven in the April morning, at the position he had been in for thirty-five years of mornings — the small particular left-shoulder-against-the-post stance, the hand-on-the-plane grip — and the workbench had on it, this morning, the small planking for the next boat. The next boat was a repair job for a Stjernerøy man who had brought her in at the end of March; the plank had been cut the previous Saturday. Jens was hand-planing the long edge.
 
 He did not, at Olav's coming in, look up.
 
@@ -49,7 +49,7 @@ They worked together for the next hour without speaking.
 
 ---
 
-This was, Olav registered at the first twenty minutes of the planing, the small return to the small specific rhythm the boat-shed had for him. The rhythm had been established in his eleventh year when his father had first put the small plane in his hand; it had been preserved across the five years of his deep-water voyages (even when he was not at the shed, the hand-memory of the shed had been kept); it had been exercised at the six days of the first homecoming in March of '84 and at the ten days of the second in October of '84. It was now being exercised again.
+This was, Olav registered at the first twenty minutes of the planing, the small return to the rhythm the boat-shed had for him. The rhythm had been established in his eleventh year when his father had first put the small plane in his hand; it had been preserved across the five years of his deep-water voyages (even when he was not at the shed, the hand-memory of the shed had been kept); it had been exercised at the six days of the first homecoming in March of '84 and at the ten days of the second in October of '84. It was now being exercised again.
 
 The rhythm was the thing the boat-shed gave him that no other place could.
 
@@ -143,7 +143,7 @@ They finished the long edge at a quarter to nine. Jens brought out the second pl
 
 At nine Olav's mother came down to the boat-shed with the small coffee-tray.
 
-She had, by the small signs, registered that the father and son were at the workbench and had decided to bring the second coffee down to the shed rather than call them up. This was the small specific gesture his mother used at the mornings at which she did not want to break the rhythm. She set the tray on the small side-table at the door, and she said at the door:
+She had, by the small signs, registered that the father and son were at the workbench and had decided to bring the second coffee down to the shed rather than call them up. This was the gesture his mother used at the mornings at which she did not want to break the rhythm. She set the tray on the small side-table at the door, and she said at the door:
 
 "The coffee."
 
@@ -325,7 +325,7 @@ Olava, beside Olav, took a small breath.
 
 His mother did not, at the sentence, look at him. She looked at her own plate. She continued:
 
-"The first Tuesday of May is the Tuesday before the cottage's readiness on the Saturday. The morning of the first Tuesday is the morning I have decided is the right morning for the small specific move. Jens will be at the boat-shed for the full morning. Olava will be at the household with me. You will be alone at the shed. You will take the drawer's contents. You will put them in the small leather wallet you have been keeping for small transport purposes. You will take them across the path to the cottage. You will put them in the small drawer under the cottage's workbench, which Jens has, at my small suggestion, built into the cottage's workbench in the same position the drawer at this shed is. I have told Jens. Jens has built it. The cottage's workbench drawer is waiting."
+"The first Tuesday of May is the Tuesday before the cottage's readiness on the Saturday. The morning of the first Tuesday is the morning I have decided is the right morning for the move. Jens will be at the boat-shed for the full morning. Olava will be at the household with me. You will be alone at the shed. You will take the drawer's contents. You will put them in the small leather wallet you have been keeping for small transport purposes. You will take them across the path to the cottage. You will put them in the small drawer under the cottage's workbench, which Jens has, at my small suggestion, built into the cottage's workbench in the same position the drawer at this shed is. I have told Jens. Jens has built it. The cottage's workbench drawer is waiting."
 
 She looked at Olav once.
 
@@ -345,9 +345,9 @@ She went back to her plate.
 
 Olav, at the table, did not speak for some seconds.
 
-He understood — with the small flat clarity his interior used for the small structural moments — that his mother had, by the small careful arrangement of her announcement at the Tuesday supper-table, given him the small specific household-plan for the continuation of the drawer's discipline across the move to the cottage. The drawer had been, at his father's boat-shed, at a small specific position. The drawer at the cottage's workbench would be, by Jens's hand on his mother's small suggestion, at the same specific position. The discipline would be continuous. The move would be the small specific handing-over the son's marriage required, and the mother had designed it.
+He understood — with the small flat clarity his interior used for the small structural moments — that his mother had, by the small careful arrangement of her announcement at the Tuesday supper-table, given him the household-plan for the continuation of the drawer's discipline across the move to the cottage. The drawer had been, at his father's boat-shed, at a position. The drawer at the cottage's workbench would be, by Jens's hand on his mother's small suggestion, at the same specific position. The discipline would be continuous. The move would be the handing-over the son's marriage required, and the mother had designed it.
 
-His mother had, in designing it, done what Mrs Hestby of the '57 November had done and what Mrs Thoresen of the '74 spring had done. She had administered the not-asking. She had administered it at the scale of the household's architecture. The drawer at the cottage would, by her small specific design, be the same drawer in a new location — not replaced, not inventoried, just moved.
+His mother had, in designing it, done what Mrs Hestby of the '57 November had done and what Mrs Thoresen of the '74 spring had done. She had administered the not-asking. She had administered it at the scale of the household's architecture. The drawer at the cottage would, by her design, be the same drawer in a new location — not replaced, not inventoried, just moved.
 
 He said, in the small composed voice he had been practising at the supper:
 
@@ -403,7 +403,7 @@ Olava said, in the quiet of the small bedroom after the lamp had been turned dow
 
 They slept.
 
-The house at Finnøy at ten o'clock on the Tuesday evening of the second Tuesday of April of '85 held its four occupants in the small ordinary quiet of a Norwegian island household two days into the son's full return, and the morning's planing and the noon-dinner and the supper-announcement had together been the small specific second day of the new ordinary.
+The house at Finnøy at ten o'clock on the Tuesday evening of the second Tuesday of April of '85 held its four occupants in the small ordinary quiet of a Norwegian island household two days into the son's full return, and the morning's planing and the noon-dinner and the supper-announcement had together been the second day of the new ordinary.
 
 The first Tuesday of May was four weeks away.
 

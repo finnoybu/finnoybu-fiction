@@ -11,11 +11,11 @@ Olav was at the starboard rail as she warped in. His sea-chest was at his feet. 
 
 He was, at twenty-five and seven months, a free man.
 
-The word was not a word he had, in the Friday night's small bed at Øvregaten, been able to use for himself yet. It was the word the pay-off had produced; the word his father had produced, in his own way, at the Bergen quay in October of '82 when he had said *Come home;* the word Johansen had produced at the Wednesday pay-off by the small specific phrase *your name has been put forward as the first mate*  that had been named-and-declined in the same breath. The word was the small legal-commercial fact the voyage had produced. It was also, at the starboard rail of the Stavanger coaster on the Saturday morning, a thing his body had not yet entirely caught up to.
+The word was not a word he had, in the Friday night's small bed at Øvregaten, been able to use for himself yet. It was the word the pay-off had produced; the word his father had produced, in his own way, at the Bergen quay in October of '82 when he had said *Come home;* the word Johansen had produced at the Wednesday pay-off by the phrase *your name has been put forward as the first mate* that had been named-and-declined in the same breath. The word was the small legal-commercial fact the voyage had produced. It was also, at the starboard rail of the Stavanger coaster on the Saturday morning, a thing his body had not yet entirely caught up to.
 
 His body still held, at the rail, the small careful first mate's watchfulness of eighteen months.
 
-He had decided, at the coaster's cast-off at Bergen the previous morning, that he would not, on the three-day run south, make any small specific attempt to let the watchfulness go. It would go, by his reading of Brun in '82 and of Tellefsen at the officer's mess in March of '85, at the pace the body needed. It would go, perhaps, in pieces across the first summer at the cottage. It would, by the small careful accounting of older sailors who had retired from the trade at forty-five and sixty, not entirely go for months, possibly years.
+He had decided, at the coaster's cast-off at Bergen the previous morning, that he would not, on the three-day run south, make any attempt to let the watchfulness go. It would go, by his reading of Brun in '82 and of Tellefsen at the officer's mess in March of '85, at the pace the body needed. It would go, perhaps, in pieces across the first summer at the cottage. It would, by the small careful accounting of older sailors who had retired from the trade at forty-five and sixty, not entirely go for months, possibly years.
 
 He watched the quay approach.
 
@@ -67,7 +67,7 @@ She did not count the breaths aloud. She had not counted since the Christmas of 
 
 She kissed him.
 
-The kiss was not the first kiss — the first had been on the quay in June of '81 — and it was not the second — the second had been at the midnight bench on Christmas Eve of '82. It was the third kiss of their lives. It was the first kiss of their marriage on a public quay. It was the kiss of a woman who had, across the seventeen weeks since the long letter had reached her in February, decided that the coaster's arrival at Stavanger on the second Saturday of April would be the first kiss she would give Olav in front of his parents and her father at the Stavanger wharf, and that the deciding would be the small specific gift she would give him at the homecoming.
+The kiss was not the first kiss — the first had been on the quay in June of '81 — and it was not the second — the second had been at the midnight bench on Christmas Eve of '82. It was the third kiss of their lives. It was the first kiss of their marriage on a public quay. It was the kiss of a woman who had, across the seventeen weeks since the long letter had reached her in February, decided that the coaster's arrival at Stavanger on the second Saturday of April would be the first kiss she would give Olav in front of his parents and her father at the Stavanger wharf, and that the deciding would be the gift she would give him at the homecoming.
 
 She held the kiss for the count of perhaps four breaths.
 
@@ -131,7 +131,7 @@ That was the formal arrival.
 
 ---
 
-The arrangement for the rest of the day had been settled — Olav understood from the small briefing his mother gave him at the awning before they moved off — by the two mothers' correspondence across the previous fortnight. The afternoon would be the coaster across to Tau and the Lindøy smack from Tau to Finnøy with his parents. Olava would stay at the rooming-house at Stavanger for the Saturday evening and would come across to Finnøy by the Monday coaster from Stavanger through Lindøy. The Saturday and Sunday at Finnøy would be Olav's with his parents in the household. The Monday afternoon Olava would arrive at the house, and the household would, by the small specific transition Mrs Hestby had been quietly designing for some weeks, hand itself from the parents-alone-with-the-returning-son state into the married-household-with-parents state over the course of the Monday supper.
+The arrangement for the rest of the day had been settled — Olav understood from the small briefing his mother gave him at the awning before they moved off — by the two mothers' correspondence across the previous fortnight. The afternoon would be the coaster across to Tau and the Lindøy smack from Tau to Finnøy with his parents. Olava would stay at the rooming-house at Stavanger for the Saturday evening and would come across to Finnøy by the Monday coaster from Stavanger through Lindøy. The Saturday and Sunday at Finnøy would be Olav's with his parents in the household. The Monday afternoon Olava would arrive at the house, and the household would, by the transition Mrs Hestby had been quietly designing for some weeks, hand itself from the parents-alone-with-the-returning-son state into the married-household-with-parents state over the course of the Monday supper.
 
 The cottage would be ready for occupancy by the second week of May — four weeks away. The household would, in the interim, be at the parents' house.
 
@@ -227,7 +227,7 @@ They did not, at the supper, speak much. His father told the small news of the p
 
 Olav ate.
 
-He did not, at the table, tell the long version of the eighteen months. The long version had been the February-at-the-wharf letter, and Olava had the letter at Lindøy, and the long version would, by the small economy the marriage had been practicing since the engagement, be transmitted to his parents at a later moment at a later kitchen table in the small specific proportions the two women of the household decided it should be transmitted in.
+He did not, at the table, tell the long version of the eighteen months. The long version had been the February-at-the-wharf letter, and Olava had the letter at Lindøy, and the long version would, by the small economy the marriage had been practicing since the engagement, be transmitted to his parents at a later moment at a later kitchen table in the proportions the two women of the household decided it should be transmitted in.
 
 He told, instead, the small particular news of the Stavanger coaster. The Mosterøy boatman. The small Bergen rooming-house. The Tuesday pay-off at Johansen's office. The landlady at Øvregaten, who had recognized him from October of '82 and had asked after Olava.
 
@@ -259,7 +259,7 @@ She did not, at the sentence, look up.
 
 Olav did not, at the drying, immediately answer.
 
-He thought for a moment about the right thing to say. The right thing to say was not the thanking; thanking would have been the easy answer and his mother had not, at the sink, given him the easy opening. The right thing to say was the small specific acknowledgment that the giving-back would not, in his reading, be the end of her kitchen company with Olava. The cottage was a mile up the path. The Lindøy smack crossed twice a week. The two women would, across the rest of his mother's life, keep the company the eighteen months had built between them.
+He thought for a moment about the right thing to say. The right thing to say was not the thanking; thanking would have been the easy answer and his mother had not, at the sink, given him the easy opening. The right thing to say was the acknowledgment that the giving-back would not, in his reading, be the end of her kitchen company with Olava. The cottage was a mile up the path. The Lindøy smack crossed twice a week. The two women would, across the rest of his mother's life, keep the company the eighteen months had built between them.
 
 He said:
 
@@ -289,7 +289,7 @@ That night in the small upstairs bedroom — not the loft (the loft had been the
 
 He did not, at first, sleep.
 
-He thought about the quay. He thought about the kiss. He thought about the hand at the back of his neck for six breaths. He thought about his mother at the sink and the small specific ten seconds of silence between her sentence and his reply.
+He thought about the quay. He thought about the kiss. He thought about the hand at the back of his neck for six breaths. He thought about his mother at the sink and the ten seconds of silence between her sentence and his reply.
 
 He thought, at the ceiling:
 

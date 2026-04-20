@@ -15,13 +15,13 @@ Olav took the bundle at the small parlour-corner.
 
 He sat at the small chair.
 
-He opened the Bergen weekly first, because the Bergen weekly was the paper Houlder's office read and the Tuesday afternoon's small captain's-reading was the small specific captain's-reading a *Helga* captain did between the end-of-round and the next-round-prep.
+He opened the Bergen weekly first, because the Bergen weekly was the paper Houlder's office read and the Tuesday afternoon's small captain's-reading was the captain's-reading a *Helga* captain did between the end-of-round and the next-round-prep.
 
 He read the first two pages of the small shipping reports.
 
-He turned to the third page, which was the small page of the small foreign-shipping briefs the Bergen weekly ran on the Tuesday edition. The third page had, across the three columns, the small specific notices of foreign-flagged vessels that had reported a Norwegian call in the previous fortnight, the small specific notices of Norwegian-flagged vessels that had reported at foreign ports, and — at the bottom third column, in the small specific sub-heading the paper used — the small specific notices of vessels reported lost or overdue at foreign registrations.
+He turned to the third page, which was the small page of the small foreign-shipping briefs the Bergen weekly ran on the Tuesday edition. The third page had, across the three columns, the notices of foreign-flagged vessels that had reported a Norwegian call in the previous fortnight, the notices of Norwegian-flagged vessels that had reported at foreign ports, and — at the bottom third column, in the sub-heading the paper used — the notices of vessels reported lost or overdue at foreign registrations.
 
-The small specific sub-heading read *Overdue and Lost at Foreign Registries, Fortnight Ending 14 November.*
+The sub-heading read *Overdue and Lost at Foreign Registries, Fortnight Ending 14 November.*
 
 He read the column.
 
@@ -39,7 +39,7 @@ He read the notice a second time.
 
 He read it a third.
 
-At the third reading he registered, with the small flat clarity the long years of his captaincy had preserved at the small specific register for exactly such moments, that the name at the bottom of the notice — *A. Lindqvist, clerk, Stockholm Marine Insurance Co.* — was the name he had taken at the corner of the Nyhavn in Copenhagen in September of 1882 and had memorized from a card he had burned at Mrs Lauritsen's rooming-house on Vesterbrogade that same night. The card had read, in the small Stockholm commercial-clerk's print, *Anders Lindqvist, Stockholm Marine Insurance Co., Skeppsbron 18, Stockholm.*
+At the third reading he registered, with the small flat clarity the long years of his captaincy had preserved at the register for exactly such moments, that the name at the bottom of the notice — *A. Lindqvist, clerk, Stockholm Marine Insurance Co.* — was the name he had taken at the corner of the Nyhavn in Copenhagen in September of 1882 and had memorized from a card he had burned at Mrs Lauritsen's rooming-house on Vesterbrogade that same night. The card had read, in the small Stockholm commercial-clerk's print, *Anders Lindqvist, Stockholm Marine Insurance Co., Skeppsbron 18, Stockholm.*
 
 The notice listed him as *A. Lindqvist, clerk, Stockholm Marine Insurance Co.*
 
@@ -61,7 +61,7 @@ He thought, at the parlour-corner, in the small flat register:
 
 *Anders Lindqvist is lost. The Astrid went down in the twenty-eighth-of-October gale in the eastern Baltic. The notice is the notice.*
 
-*The evening at the corner of Nyhavn in September of '82 was fifteen years and two months ago. The one letter I wrote and the one letter he wrote back were fifteen years ago, in January and February of '83. The address I burned was burned that evening. The name I memorized has been in my head for fifteen years and two months without once being spoken aloud. It has been the small specific name the drawer at the cottage's workbench has held in its smaller form — the folded sheet of his reply, the wafer that had sealed it, the small specific handwriting of the three-line letter he had returned in.*
+*The evening at the corner of Nyhavn in September of '82 was fifteen years and two months ago. The one letter I wrote and the one letter he wrote back were fifteen years ago, in January and February of '83. The address I burned was burned that evening. The name I memorized has been in my head for fifteen years and two months without once being spoken aloud. It has been the name the drawer at the cottage's workbench has held in its smaller form — the folded sheet of his reply, the wafer that had sealed it, the handwriting of the three-line letter he had returned in.*
 
 *The name is, as of the fifteenth of November of 1897, the name of a dead man.*
 
@@ -87,11 +87,11 @@ The two letters were where they had been since the first Tuesday of May of '85 �
 
 He took the Bergen weekly.
 
-He cut out — with the small deck-knife that lived at the small workbench for small such purposes — the small specific sub-column that carried the *Astrid* notice. The cutting took perhaps a minute. He made it clean. The small paper clipping was, when he was done, about two inches wide by four inches tall, with the full notice visible and the small heading *Overdue and Lost at Foreign Registries* at the top.
+He cut out — with the small deck-knife that lived at the small workbench for small such purposes — the sub-column that carried the *Astrid* notice. The cutting took perhaps a minute. He made it clean. The small paper clipping was, when he was done, about two inches wide by four inches tall, with the full notice visible and the small heading *Overdue and Lost at Foreign Registries* at the top.
 
 He folded the clipping once.
 
-He laid the clipping in the small drawer, on top of Anders Lindqvist's letter — not beside it, not below it, on top of it. The clipping and the letter were, by the small specific geometry of the placement, a matched pair.
+He laid the clipping in the small drawer, on top of Anders Lindqvist's letter — not beside it, not below it, on top of it. The clipping and the letter were, by the geometry of the placement, a matched pair.
 
 He closed the small drawer.
 
@@ -119,7 +119,7 @@ She said only:
 
 "A small bowl, thank you."
 
-He sat at the table. She brought him the small bowl. He ate it slowly. Ingrid chattered at him about her morning at the school. He listened. He answered in the small specific father's voice he had been using with Ingrid since she had been two.
+He sat at the table. She brought him the small bowl. He ate it slowly. Ingrid chattered at him about her morning at the school. He listened. He answered in the father's voice he had been using with Ingrid since she had been two.
 
 At twenty past twelve Mrs Hestby came down from the larger Finnøy path to take Ingrid on to her kitchen. Mrs Hestby said the small good-afternoon. Ingrid took her small afternoon-bag. They went up the path.
 
@@ -147,7 +147,7 @@ She turned from the sink. She dried her hands on the cloth.
 
 "A third has come."
 
-"Not a third letter. A small clipping. In the Bergen weekly. I have cut it out. It is in the drawer at the cottage on top of the second letter. It is, by its small specific subject, related to the second letter."
+"Not a third letter. A small clipping. In the Bergen weekly. I have cut it out. It is in the drawer at the cottage on top of the second letter. It is, by its subject, related to the second letter."
 
 "I see."
 
@@ -175,7 +175,7 @@ Then she said, quietly:
 
 "Sorry."
 
-"Yes. I am sorry, at the kitchen on this Tuesday afternoon, for the loss of a man I have not met and have not known and have not, across the fifteen years, named aloud to myself or to anyone else. I am sorry because the man was, by the form of our marriage, part of the household's architecture without being in the household's specific knowledge. I am sorry because the loss of him is the small specific loss of a piece of the architecture's quiet stability. I am sorry because you are, by my reading of your face this afternoon, feeling the small specific loss that the architecture's discipline does not let me share in any particular way beyond the saying-sorry at this kitchen."
+"Yes. I am sorry, at the kitchen on this Tuesday afternoon, for the loss of a man I have not met and have not known and have not, across the fifteen years, named aloud to myself or to anyone else. I am sorry because the man was, by the form of our marriage, part of the household's architecture without being in the household's specific knowledge. I am sorry because the loss of him is the loss of a piece of the architecture's quiet stability. I am sorry because you are, by my reading of your face this afternoon, feeling the loss that the architecture's discipline does not let me share in any particular way beyond the saying-sorry at this kitchen."
 
 He did not, for a moment, speak.
 
@@ -217,7 +217,7 @@ She went back to the small afternoon's kitchen work.
 
 That evening at the small writing-room Olav did not, as he had said at the kitchen, make the ledger entry.
 
-He had realized across the afternoon — between his leaving the kitchen and his sitting at the small writing-room at eight — that the ledger was Olava's ledger and that Olav making an entry in it would be a small specific violation of the ledger's small specific shape, which was that it was the wife's record of the husband's voyages and of the wife's reading-of-them, not the husband's own record.
+He had realized across the afternoon — between his leaving the kitchen and his sitting at the small writing-room at eight — that the ledger was Olava's ledger and that Olav making an entry in it would be a violation of the ledger's shape, which was that it was the wife's record of the husband's voyages and of the wife's reading-of-them, not the husband's own record.
 
 He had, instead, at half past eight, gone back to the cottage.
 
@@ -277,11 +277,11 @@ He said:
 
 "Good."
 
-"The sheet records the small specific fact of the clipping's addition and the small specific name of the passenger."
+"The sheet records the fact of the clipping's addition and the name of the passenger."
 
 "Yes."
 
-"The sheet is, by my small specific decision at the cottage's workbench this evening, the only naming of the name that will ever occur in writing at any place in our lives."
+"The sheet is, by my decision at the cottage's workbench this evening, the only naming of the name that will ever occur in writing at any place in our lives."
 
 "Yes."
 
@@ -295,7 +295,7 @@ He said:
 
 She looked up at him.
 
-She did not — by the small specific discipline — ask him the name.
+She did not — by the discipline — ask him the name.
 
 She did not ask because the small sheet was in the drawer and the drawer was where the drawer had been and the naming had happened in a place and in a way that the marriage's agreement did not require Olava to know.
 
@@ -335,7 +335,7 @@ He thought, at the ceiling:
 
 *I knew him, in the way I knew him, for one supper at a Nyhavn restaurant in Copenhagen in September of '82. The supper was two hours. The not-proceeding-to-a-shared-lodging was the closing gesture. The one letter each was the small final correspondence. That was the whole of my knowing him in the world.*
 
-*I have, across the fifteen years since, held the name of him in the small specific back of my head where the names that mattered without being usable lived. I have, across those fifteen years, never said his name aloud to any person. I have, until the small sheet this evening, never written his name on any paper except the small card I burned at Mrs Lauritsen's the night the supper had been. The small sheet this evening is the first and last time the name will appear in any ink in any record of my life.*
+*I have, across the fifteen years since, held the name of him in the back of my head where the names that mattered without being usable lived. I have, across those fifteen years, never said his name aloud to any person. I have, until the small sheet this evening, never written his name on any paper except the small card I burned at Mrs Lauritsen's the night the supper had been. The small sheet this evening is the first and last time the name will appear in any ink in any record of my life.*
 
 *The name will, from this evening forward, sit in the small drawer with his letter and the small Bergen clipping, and the drawer will, for the rest of my life, hold the three things together.*
 
@@ -349,7 +349,7 @@ He thought, at the ceiling:
 
 He did not, at the ceiling, cry.
 
-He had not, in his life, cried at the small specific moments of the small specific losses. He had, by long practice, learned to hold the small specific losses at the small flat register his interior used for the structural moments. He held this one.
+He had not, in his life, cried at the moments of the losses. He had, by long practice, learned to hold the losses at the small flat register his interior used for the structural moments. He held this one.
 
 He closed his eyes.
 
@@ -367,7 +367,7 @@ The captain at the bedroom ceiling slept.
 
 In the early morning the bark *Helga* lay at her Stavanger mooring waiting for the Friday round's lift. Houlder's office had the round on the schedule. The captain would, by the Friday afternoon's coaster, be at the bark for the Friday evening's small prep. The round would lift on the Saturday morning.
 
-The small Hestby household at Finnøy at the beginning of the last three years of the nineteenth century was the household it was. The small three-papers drawer at the cottage was the drawer it was. The form had, across fifteen years and two months, held through the small specific test the November Tuesday had delivered.
+The small Hestby household at Finnøy at the beginning of the last three years of the nineteenth century was the household it was. The small three-papers drawer at the cottage was the drawer it was. The form had, across fifteen years and two months, held through the test the November Tuesday had delivered.
 
 The form would continue to hold.
 

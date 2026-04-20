@@ -7,7 +7,7 @@ book: 3
 
 The small Bergen paper came across on the Tuesday coaster of the second week of March, 1911.
 
-Jens did not bring it over. Jens was dead — had been since the spring of 1908, at eighty-two, of the small slow heart-failure a man of his generation died of when the small specific seventy-plus years caught him. The small Tuesday papers now came across on the coaster directly, and Olav's mother (Mrs Hestby, now eighty-eight, small and upright and still at her kitchen most mornings though no longer at the stove) read them at her small kitchen by the window with her small pair of reading-spectacles Olava had bought for her at the Stavanger optician's in '06.
+Jens did not bring it over. Jens was dead — had been since the spring of 1908, at eighty-two, of the small slow heart-failure a man of his generation died of when the seventy-plus years caught him. The small Tuesday papers now came across on the coaster directly, and Olav's mother (Mrs Hestby, now eighty-eight, small and upright and still at her kitchen most mornings though no longer at the stove) read them at her small kitchen by the window with her small pair of reading-spectacles Olava had bought for her at the Stavanger optician's in '06.
 
 She read the Bergen paper on this Tuesday at eleven in the morning.
 
@@ -41,7 +41,7 @@ Olav came to the door.
 
 "Come in."
 
-"I will stand at the door. This is a small specific errand."
+"I will stand at the door. This is a errand."
 
 He waited.
 
@@ -53,7 +53,7 @@ He waited.
 
 She held out the paper.
 
-It was folded at the second page. Her small finger was at a small specific notice in the third column.
+It was folded at the second page. Her small finger was at a notice in the third column.
 
 He took the paper.
 
@@ -109,7 +109,7 @@ He thought, at the desk, with the small flat clarity:
 
 *The silence between us had held for twenty-nine years and ten months.*
 
-*He had been, across those years, at the same small specific life. The Tyne-Bergen coal run. The small Bergen lodging at Sandviken the shipping pages of the '90s had occasionally mentioned when they had run small profiles of the coal-trade captains. The small life the small Bergen papers would occasionally name a Haakon Berg of the Norden in. I had read his name perhaps four times across the twenty-nine years, in the small occasional shipping notices I had not sought out but had encountered at the small passive readings the Tuesday Bergen papers had produced at the small Hestby parlour-corners I had sat at across the decades.*
+*He had been, across those years, at the same life. The Tyne-Bergen coal run. The small Bergen lodging at Sandviken the shipping pages of the '90s had occasionally mentioned when they had run small profiles of the coal-trade captains. The small life the small Bergen papers would occasionally name a Haakon Berg of the Norden in. I had read his name perhaps four times across the twenty-nine years, in the small occasional shipping notices I had not sought out but had encountered at the small passive readings the Tuesday Bergen papers had produced at the small Hestby parlour-corners I had sat at across the decades.*
 
 *He had been the man whose silence had been the sustained answer to my own silence. He had kept his side. I had kept mine. The two silences had, across the twenty-nine years, been the two pieces of the same architecture — the architecture he had explicitly named in the July of '81 at the Shields quay in his own interior, the architecture I had implicitly accepted by not writing a second letter after his non-reply to my Cape one.*
 
@@ -121,7 +121,7 @@ He thought, at the desk, with the small flat clarity:
 
 He did not, at the desk, cry.
 
-He had not cried at the Anders notice in '97. He did not cry at this one. The small structural moments of the small specific losses of his life had, across the years, been held in the small flat register.
+He had not cried at the Anders notice in '97. He did not cry at this one. The small structural moments of the losses of his life had, across the years, been held in the small flat register.
 
 ---
 
@@ -217,7 +217,7 @@ He said:
 
 "You knew the name."
 
-"I knew the name. I knew it from a small specific letter you wrote at the Cape in May of '82 that you brought home to us in November of '82 in the small folder. I knew the name from the small specific change in your face on the Tuesday in May of '81 when the small first letter came from Shields and you took it to the boat-shed. I knew the name from the small arithmetic I have been doing across the thirty years that I have not, across the thirty years, spoken about to you or to your father or to Olava."
+"I knew the name. I knew it from a letter you wrote at the Cape in May of '82 that you brought home to us in November of '82 in the small folder. I knew the name from the change in your face on the Tuesday in May of '81 when the small first letter came from Shields and you took it to the boat-shed. I knew the name from the small arithmetic I have been doing across the thirty years that I have not, across the thirty years, spoken about to you or to your father or to Olava."
 
 "Olava."
 
@@ -233,7 +233,7 @@ He said:
 
 "Olava does not know — yet — about today's notice."
 
-"She does not know. She will, at her own reading of the Bergen paper this afternoon when she comes up from the parish school, know. I will not, before she reads it, speak of it to her. It is yours to speak of to her or not to speak of to her as the small specific choice of your own register this afternoon."
+"She does not know. She will, at her own reading of the Bergen paper this afternoon when she comes up from the parish school, know. I will not, before she reads it, speak of it to her. It is yours to speak of to her or not to speak of to her as the choice of your own register this afternoon."
 
 "Yes."
 
@@ -245,7 +245,7 @@ He walked back along the lane to the larger house.
 
 Olava came home from the parish school at twenty past noon.
 
-She read the Bergen paper at the kitchen, standing at the small counter, with the small specific ten seconds of stillness Olav had seen at her face across the thirty years of the small specific readings that mattered.
+She read the Bergen paper at the kitchen, standing at the small counter, with the ten seconds of stillness Olav had seen at her face across the thirty years of the readings that mattered.
 
 She folded the paper.
 
@@ -281,7 +281,7 @@ She went back to the kitchen to continue the small afternoon's work.
 
 The form held.
 
-The small specific second-time naming had, at the parlour-corner, been said.
+The second-time naming had, at the parlour-corner, been said.
 
 The drawer at the cottage held the five items.
 

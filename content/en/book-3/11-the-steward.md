@@ -39,11 +39,11 @@ He stopped about three feet from Olav.
 
 He did not, for some seconds, say anything.
 
-Olav turned. He saw the steward. He saw the bottle in the steward's hand — held by the neck, swung idly at his side, full to about a quarter. He saw, in the small lamplight from the binnacle, the steward's face, which had the small particular flushed loosened expression of a man who had been at the bottle since the previous noon and had now, at four bells, reached the small specific point of decision a heavy drinker reached after a sustained day's drinking.
+Olav turned. He saw the steward. He saw the bottle in the steward's hand — held by the neck, swung idly at his side, full to about a quarter. He saw, in the small lamplight from the binnacle, the steward's face, which had the small particular flushed loosened expression of a man who had been at the bottle since the previous noon and had now, at four bells, reached the point of decision a heavy drinker reached after a sustained day's drinking.
 
 Olav understood, in the count of two breaths, what was about to happen.
 
-He understood it because he had, on the *Sigrid* in '76 at eighteen, seen one of Captain Gjermund's hands come at the carpenter at the same hour with the same kind of unsteady walk and the same kind of small specific decision in the face. The hand had not, in that case, had a bottle. He had had a marlinspike. The carpenter had taken the marlinspike across the ribs at the moment Olav had, from the foretop, seen the hand's intention without having time to call the alarm. The carpenter had survived.
+He understood it because he had, on the *Sigrid* in '76 at eighteen, seen one of Captain Gjermund's hands come at the carpenter at the same hour with the same kind of unsteady walk and the same kind of decision in the face. The hand had not, in that case, had a bottle. He had had a marlinspike. The carpenter had taken the marlinspike across the ribs at the moment Olav had, from the foretop, seen the hand's intention without having time to call the alarm. The carpenter had survived.
 
 Olav did not, at the rail, have a marlinspike to dodge. He had a bottle.
 
@@ -71,7 +71,7 @@ Olav considered.
 
 He had, at the moment, three options. He could call the bosun forward — a shout of perhaps the volume Holm at the windlass would hear — and the bosun would come at a run and the situation would resolve with two men plus Olav against a heavily drunk steward with a bottle. He could attempt the bottle himself — step in, take the steward's wrist, twist the bottle loose. He could wait.
 
-The third was, by the small specific calculation a first mate made at the moment, the option that would best preserve Hov's dignity in the small Norwegian-bark community Hov was going to have to live in for the remaining year of the voyage. The first option would humiliate Hov publicly. The second would, by the small specific arithmetic of the steward's drunkenness, probably involve Olav taking some part of the bottle. The third — waiting — would, by Olav's reading of the steward's face, allow the steward perhaps thirty more seconds to either close the situation himself by sitting down on a coil of rope or to escalate by swinging the bottle.
+The third was, by the calculation a first mate made at the moment, the option that would best preserve Hov's dignity in the small Norwegian-bark community Hov was going to have to live in for the remaining year of the voyage. The first option would humiliate Hov publicly. The second would, by the arithmetic of the steward's drunkenness, probably involve Olav taking some part of the bottle. The third — waiting — would, by Olav's reading of the steward's face, allow the steward perhaps thirty more seconds to either close the situation himself by sitting down on a coil of rope or to escalate by swinging the bottle.
 
 Olav waited.
 
@@ -83,7 +83,7 @@ He swung it at Olav's head with the small unsteady coordination of a heavily dru
 
 Olav moved.
 
-He moved by stepping inside the arc — toward Hov, not away from him — which was the small specific move he had learned at the *Sigrid* foretop in '76 when Haakon had told him on his second day that the move a man made against a swung weapon was always inside the arc, because the arc had its full force at the end and the inside of the arc had no force at all. He stepped inside. The bottle came past the back of his head with the small whistle a heavy bottle made when it missed by inches in still air. Olav's hands came up — by the small body-knowing the *Sigrid* had given him at eighteen — to the steward's wrist and to the steward's elbow.
+He moved by stepping inside the arc — toward Hov, not away from him — which was the move he had learned at the *Sigrid* foretop in '76 when Haakon had told him on his second day that the move a man made against a swung weapon was always inside the arc, because the arc had its full force at the end and the inside of the arc had no force at all. He stepped inside. The bottle came past the back of his head with the small whistle a heavy bottle made when it missed by inches in still air. Olav's hands came up — by the small body-knowing the *Sigrid* had given him at eighteen — to the steward's wrist and to the steward's elbow.
 
 He took the wrist. He twisted the elbow. The bottle, at the end of an arm that had no leverage left at it, fell from the steward's hand. It hit the deck. It did not break — the deck was wood, and the bottle was a heavy English whiskey-bottle, and the angle was wrong for breaking — and rolled toward the cap-rail.
 
@@ -275,7 +275,7 @@ Hov looked up.
 
 "Captain?"
 
-"I am not assigning the discipline because the first mate's small report this morning was the small report of a man who took the bottle off his own head, sent you below without breaking your dignity in front of the watch, and brought you to me at four bells with the small specific request that I take the not-taking-of-his-head into account in the discipline I would ordinarily assign. He did not make the request in those words. He made it by the way he gave the report. I am taking it. The discipline I am assigning is this. You will be confined to the galley and your bunk for the remainder of the voyage. You will not be ashore at Bergen at the pay-off in March; you will sleep on the bark for that fortnight while the bark is in port. You will not be permitted any whiskey-bottles on the bark for the second outbound voyage in April. The flask you keep under your apron is permitted as before. If this incident or anything resembling it occurs again, the discipline I am suspending today will be applied without warning or appeal. Is that understood."
+"I am not assigning the discipline because the first mate's small report this morning was the small report of a man who took the bottle off his own head, sent you below without breaking your dignity in front of the watch, and brought you to me at four bells with the request that I take the not-taking-of-his-head into account in the discipline I would ordinarily assign. He did not make the request in those words. He made it by the way he gave the report. I am taking it. The discipline I am assigning is this. You will be confined to the galley and your bunk for the remainder of the voyage. You will not be ashore at Bergen at the pay-off in March; you will sleep on the bark for that fortnight while the bark is in port. You will not be permitted any whiskey-bottles on the bark for the second outbound voyage in April. The flask you keep under your apron is permitted as before. If this incident or anything resembling it occurs again, the discipline I am suspending today will be applied without warning or appeal. Is that understood."
 
 "Yes, captain."
 

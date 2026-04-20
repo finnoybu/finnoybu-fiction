@@ -27,7 +27,7 @@ She was in the wool coat.
 
 She crossed the small distance between them.
 
-She did not, on the boards, put her hands on his face. She had spent the gesture at Stavanger on the Saturday, by her own small specific economy, and the Monday afternoon was not the hour for it. She came up to him and she took his hand — his hand, not his arm — and she stood beside him with her hand in his and she looked at his face for a moment.
+She did not, on the boards, put her hands on his face. She had spent the gesture at Stavanger on the Saturday, by her own economy, and the Monday afternoon was not the hour for it. She came up to him and she took his hand — his hand, not his arm — and she stood beside him with her hand in his and she looked at his face for a moment.
 
 Then she said, quietly:
 
@@ -63,7 +63,7 @@ They ate.
 
 They talked, at the supper, about the small news of the household. His father reported on the small carpentry he had finished that afternoon — a repair on the door of the small upper paddock that had been sagging since the winter. His mother reported on the small bread. Olava reported on the Lindøy household's small news of the morning: Marit and Eirik were coming over on the Wednesday coaster for the small supper the household was planning; Mrs Lindøy was baking the small butter-bread for the Wednesday; the captain had sent a small greeting.
 
-Olav did not, at the table, tell the long-letter version of the eighteen months. He had decided at the Saturday supper that the long version would, by the slow accretion of days, reach his parents in the small specific proportions the two women chose. He had not, at the Saturday supper, told them much at all. He had, at the Monday supper, told them a little more — the Brooklyn winter weather at the third voyage; the force-eleven storm on the homeward; Hov's vinegar-cruet, without the whiskey-bottle behind it. The small careful ration he was giving his parents was the ration.
+Olav did not, at the table, tell the long-letter version of the eighteen months. He had decided at the Saturday supper that the long version would, by the slow accretion of days, reach his parents in the proportions the two women chose. He had not, at the Saturday supper, told them much at all. He had, at the Monday supper, told them a little more — the Brooklyn winter weather at the third voyage; the force-eleven storm on the homeward; Hov's vinegar-cruet, without the whiskey-bottle behind it. The small careful ration he was giving his parents was the ration.
 
 Olava, at the supper, did not press him to tell more.
 
@@ -187,7 +187,7 @@ What happened in the loft across the hour that followed was the thing Olav had b
 
 It was the thing Olava had been preparing for.
 
-The two were not, by any exact measure, the same thing. Olav had been waiting, across the long letters and the short letters and the six nights at the Brooklyn wharf, for the moment at which he came back into the room with Olava and the room was a room they had earned the right to be private in; he had not been waiting, specifically, for the body's particulars — the particulars had been, in his head, part of the larger waiting but not the specific end of it. Olava had been preparing, across the same eighteen months, at the specific end. She had been thinking about the particulars. She had been reading the small careful books her mother had given her at the wedding in a second pass she had not done at the first night. She had been imagining, in the small private register a twenty-four-year-old Norwegian wife of her generation imagined in, the small specific physical things she wanted to do and wanted to have done.
+The two were not, by any exact measure, the same thing. Olav had been waiting, across the long letters and the short letters and the six nights at the Brooklyn wharf, for the moment at which he came back into the room with Olava and the room was a room they had earned the right to be private in; he had not been waiting, specifically, for the body's particulars — the particulars had been, in his head, part of the larger waiting but not the specific end of it. Olava had been preparing, across the same eighteen months, at the specific end. She had been thinking about the particulars. She had been reading the small careful books her mother had given her at the wedding in a second pass she had not done at the first night. She had been imagining, in the small private register a twenty-four-year-old Norwegian wife of her generation imagined in, the physical things she wanted to do and wanted to have done.
 
 At the loft, across the hour, she taught him the particulars she had been imagining.
 
@@ -199,7 +199,7 @@ He received it because the husband he had been at the wedding night in March of 
 
 He followed.
 
-He followed in the small specific ways her hand guided. He followed at the pace her breath set. He followed in the small particulars she had been, across the eighteen months, thinking about.
+He followed in the ways her hand guided. He followed at the pace her breath set. He followed in the small particulars she had been, across the eighteen months, thinking about.
 
 The particulars were, by any register appropriate to the loft at Finnøy on the second Monday of April of '85, the particulars of a married couple of their generation at the moment at which the marriage was consummating itself in the fuller sense the wedding night in March of '83 had not yet quite been — the sense in which the two of them were, as bodies, learning the specific shape of each other's specific wants.
 
@@ -211,7 +211,7 @@ She showed him what she wanted.
 
 He gave her what she had shown.
 
-He gave it slowly. He gave it attentively. He gave it with the small careful attentiveness he had learned, in the eighteen months, to give to the small specific daily needs of a crew of twenty-four men whose daily work depended on his seeing what they needed without their having to ask — the attentiveness, transposed to the body of his wife at the loft, that was the small specific competence of the first mate whose year Thoresen had written in the notebook as a year of a man who had learned the small calibrations of care.
+He gave it slowly. He gave it attentively. He gave it with the small careful attentiveness he had learned, in the eighteen months, to give to the daily needs of a crew of twenty-four men whose daily work depended on his seeing what they needed without their having to ask — the attentiveness, transposed to the body of his wife at the loft, that was the competence of the first mate whose year Thoresen had written in the notebook as a year of a man who had learned the small calibrations of care.
 
 The giving took, in the body's time, perhaps forty minutes.
 
@@ -257,7 +257,7 @@ She said, in her small composed voice:
 
 "Yes."
 
-"I will hold the shape. I will hold the shape because the shape is a shape my body has learned to hold tonight and the holding is the small specific body-knowing the marriage has, by the eighteen months and by this hour at the loft, given us both."
+"I will hold the shape. I will hold the shape because the shape is a shape my body has learned to hold tonight and the holding is the body-knowing the marriage has, by the eighteen months and by this hour at the loft, given us both."
 
 "Yes."
 
@@ -271,7 +271,7 @@ He lay with her head on his shoulder and the lamp turned low and the small April
 
 Across the next hour they did not sleep.
 
-They talked. The talking was not the talking of the wedding night in '83 when Olava had talked to Olav about feeling cold; this was a different kind of talking. She told him small particulars of the eighteen months — the small things Mrs Hestby had said at the kitchen in November that Olava had not written into the letters because the letters were not the place for them, the small things Mrs Lindøy had said at her kitchen visits that Olava had also kept back. She told him about the small specific Tuesdays when the Brooklyn letters had been expected and the small specific Tuesdays when she had let herself go down to the window earlier than she would ordinarily have. She told him about the small private indent in the ledger and about what she had been writing in it.
+They talked. The talking was not the talking of the wedding night in '83 when Olava had talked to Olav about feeling cold; this was a different kind of talking. She told him small particulars of the eighteen months — the small things Mrs Hestby had said at the kitchen in November that Olava had not written into the letters because the letters were not the place for them, the small things Mrs Lindøy had said at her kitchen visits that Olava had also kept back. She told him about the Tuesdays when the Brooklyn letters had been expected and the Tuesdays when she had let herself go down to the window earlier than she would ordinarily have. She told him about the small private indent in the ledger and about what she had been writing in it.
 
 He told her, in return, small particulars of the eighteen months he had not been able to put in the letters. He told her about Thoresen's three institutions — the notebook, the Asbjørnsen letter, the Gjesdal arrangement — with the small careful calibration of what could be shared without breaking the confidences the captain had placed on him. He told her about Hov at a higher level of particularity than the Monday supper had permitted. He told her about the long letter's composition across the six nights and about why, at the fifth night at the wharf, he had decided the paragraph on himself had to be the letter's load-bearing paragraph.
 
@@ -291,7 +291,7 @@ At some point in the telling, Olava said:
 
 "Tell me."
 
-"The reply named you as the captain-to-be. The naming was, by the ledger's arithmetic, the small specific phrase I had decided to use for you in my own head. I have been using it, in my head, since the letter was posted. I have not used it aloud — not even to myself, at the kitchen — because the phrase is the small private phrase the marriage's discipline has assigned to the inside of my head only."
+"The reply named you as the captain-to-be. The naming was, by the ledger's arithmetic, the phrase I had decided to use for you in my own head. I have been using it, in my head, since the letter was posted. I have not used it aloud — not even to myself, at the kitchen — because the phrase is the small private phrase the marriage's discipline has assigned to the inside of my head only."
 
 "Yes."
 
@@ -305,7 +305,7 @@ At some point in the telling, Olava said:
 
 "You are welcome."
 
-She kissed him on the shoulder — a small specific kiss, not at the mouth — and then she lay her head back where it had been.
+She kissed him on the shoulder — a kiss, not at the mouth — and then she lay her head back where it had been.
 
 ---
 

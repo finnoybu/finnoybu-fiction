@@ -7,7 +7,7 @@ book: 3
 
 The first Tuesday of May was the fifth of the month.
 
-Jens was at the boat-shed at six, as he had been every morning for thirty-five years. Olava was at the kitchen at six-thirty with Mrs Hestby, beginning the small Tuesday bread. Olav came down the stairs at half past six. He took his coffee. He said nothing at the table. His mother said nothing at the stove. Olava said nothing at the window. The household had, by the small specific choreography his mother had designed at the previous week's Tuesday supper, arranged the morning such that the three people who were not making the move made themselves small about it.
+Jens was at the boat-shed at six, as he had been every morning for thirty-five years. Olava was at the kitchen at six-thirty with Mrs Hestby, beginning the small Tuesday bread. Olav came down the stairs at half past six. He took his coffee. He said nothing at the table. His mother said nothing at the stove. Olava said nothing at the window. The household had, by the choreography his mother had designed at the previous week's Tuesday supper, arranged the morning such that the three people who were not making the move made themselves small about it.
 
 At seven Olav went down the path to the boat-shed.
 
@@ -37,7 +37,7 @@ He went out of the boat-shed.
 
 He walked the quarter-mile along the lane to the cottage.
 
-The cottage had been finished by Jens and Olav's uncle and Olav in the last eighteen months. It was a small three-room cottage with a kitchen, a main room, and a bedroom, with a small loft above for the children that were not yet anyone. It had, on its south-facing side, a small boat-shed of its own — built into the same small stone foundation the main cottage sat on, an arrangement Olav's uncle had designed at Olav's request for the small specific purpose of giving Olav a workbench he could call his own.
+The cottage had been finished by Jens and Olav's uncle and Olav in the last eighteen months. It was a small three-room cottage with a kitchen, a main room, and a bedroom, with a small loft above for the children that were not yet anyone. It had, on its south-facing side, a small boat-shed of its own — built into the same small stone foundation the main cottage sat on, an arrangement Olav's uncle had designed at Olav's request for the purpose of giving Olav a workbench he could call his own.
 
 The cottage's door was open. He had left it open at the small inspection he had made the previous Saturday. The small workbench his uncle had built for him was in the small boat-shed, with the small drawer under the underside built at the same position it had been at his father's bench.
 
@@ -77,15 +77,15 @@ Olav's uncle brought the small cart from Mosterøy for the larger items — the 
 
 Mrs Hestby came down to the cottage at seven for the small first-supper.
 
-Mrs Lindøy had not, by Olava's small specific request the previous week, come across from Lindøy for this first-supper. Olava had wanted the first-supper to be the small four-person supper of Olav, Olava, Jens, and Mrs Hestby — the same four people as the Tuesday noon-dinner of the third week in April, only now at the cottage rather than at Jens's house. Mrs Lindøy had understood and had written a small note wishing the cottage's first supper well.
+Mrs Lindøy had not, by Olava's request the previous week, come across from Lindøy for this first-supper. Olava had wanted the first-supper to be the small four-person supper of Olav, Olava, Jens, and Mrs Hestby — the same four people as the Tuesday noon-dinner of the third week in April, only now at the cottage rather than at Jens's house. Mrs Lindøy had understood and had written a small note wishing the cottage's first supper well.
 
 The four of them ate at the cottage's small table.
 
-Olava had made the small meal. It was her first full supper cooked at her own kitchen as the head of her own household. She had made pickled herring, boiled potatoes, the small flatbread she had learned from Mrs Hestby across the eighteen months, and a small honey-cake Mrs Hestby had sent across the lane in the afternoon as a small specific gift for the cottage's first evening.
+Olava had made the small meal. It was her first full supper cooked at her own kitchen as the head of her own household. She had made pickled herring, boiled potatoes, the small flatbread she had learned from Mrs Hestby across the eighteen months, and a small honey-cake Mrs Hestby had sent across the lane in the afternoon as a gift for the cottage's first evening.
 
 They ate.
 
-Jens said at the end of the supper — in the small Jens voice he used at the small specific formal occasions — "Olava."
+Jens said at the end of the supper — in the small Jens voice he used at the formal occasions — "Olava."
 
 "Yes, Jens."
 
@@ -139,7 +139,7 @@ The summer of '85 went at the pace a Finnøy summer went at a married household'
 
 Olav was at the boat-shed at his father's from seven to noon on most weekdays. He was at the cottage's small workbench in the afternoons, working on the small projects the cottage itself still required — the small adjustment to the kitchen door, the small shelf Olava wanted at the small parlour-corner, the small repair to the west wall where a stone had settled. He was at the small Lindøy jetty on most Saturdays for the small Lindøy visits the Christmas-of-'79 agreement had required the marriage to keep across the years. He was, at the kitchen table at the cottage at suppers, with Olava.
 
-Olava was at the cottage's kitchen for the hours he was at the boat-shed, and at Mrs Hestby's kitchen for one afternoon a week, and at the small parish work Pastor Kleven's wife had found for her by the middle of June — the small specific reading-help Mrs Kleven had arranged at the parish school where Olava had begun to teach the smallest children their letters on the Tuesday and Friday mornings. The reading-help was, by Mrs Kleven's small specific judgment, Olava's small gift — she had been reading and writing at a high standard since she was nine, and the parish had identified her as the woman who could help the five-year-olds at the small quiet pace they needed — and it gave Olava two mornings a week of small specific work outside the household that had become, across the first summer, the small specific addition to her life at the cottage that made the cottage the cottage rather than the extension of Mrs Hestby's kitchen.
+Olava was at the cottage's kitchen for the hours he was at the boat-shed, and at Mrs Hestby's kitchen for one afternoon a week, and at the small parish work Pastor Kleven's wife had found for her by the middle of June — the reading-help Mrs Kleven had arranged at the parish school where Olava had begun to teach the smallest children their letters on the Tuesday and Friday mornings. The reading-help was, by Mrs Kleven's judgment, Olava's small gift — she had been reading and writing at a high standard since she was nine, and the parish had identified her as the woman who could help the five-year-olds at the small quiet pace they needed — and it gave Olava two mornings a week of work outside the household that had become, across the first summer, the addition to her life at the cottage that made the cottage the cottage rather than the extension of Mrs Hestby's kitchen.
 
 ---
 
@@ -155,7 +155,7 @@ He had with him a small proposal.
 
 Olav considered.
 
-It was the small proposal he had been, without entirely articulating it to himself, half-expecting since the homecoming. His uncle was his father's older brother; had, since Olav was nine, been the small second-father who had taught him the small specific pieces of the trade his father had not taught him; had said at the small cottage-planning table in the spring of '83 that he would be at Olav's side for whatever the married man's trade became. The smack was the kind of small specific proposal a small second-father made at sixty-two.
+It was the small proposal he had been, without entirely articulating it to himself, half-expecting since the homecoming. His uncle was his father's older brother; had, since Olav was nine, been the small second-father who had taught him the pieces of the trade his father had not taught him; had said at the small cottage-planning table in the spring of '83 that he would be at Olav's side for whatever the married man's trade became. The smack was the kind of proposal a small second-father made at sixty-two.
 
 He said:
 
@@ -199,7 +199,7 @@ The running was not at-sea in the deep-water sense. The *Solveig* did not go bey
 
 It was not the trade of a deep-water bark.
 
-It was, Olav registered at the second week of running her, the trade he had at twenty-five on the afternoon of Brun's speech at the Calcutta customhouse stairs understood he would eventually walk into — the small coastal trade of a Norwegian married man who came home to his own kitchen at most evenings and who had, by the accumulated years of the deep-water voyages, the small specific competence to run any boat in any weather the Ryfylke could give him. The trade was a small version of the trade he had been walking toward since '81. It was not, he understood at the second week, the final version. The final version — by Brun's prediction of '82 and Thoresen's notebook line of '83 and Holm's *waiting for, for nine years* of the same year — would come in some year between now and 1895, when Olav would, he suspected, take his own captain's ticket at Stavanger and would sign on as the master of a small Stavanger coaster and, after some years at that, perhaps a larger one.
+It was, Olav registered at the second week of running her, the trade he had at twenty-five on the afternoon of Brun's speech at the Calcutta customhouse stairs understood he would eventually walk into — the small coastal trade of a Norwegian married man who came home to his own kitchen at most evenings and who had, by the accumulated years of the deep-water voyages, the competence to run any boat in any weather the Ryfylke could give him. The trade was a small version of the trade he had been walking toward since '81. It was not, he understood at the second week, the final version. The final version — by Brun's prediction of '82 and Thoresen's notebook line of '83 and Holm's *waiting for, for nine years* of the same year — would come in some year between now and 1895, when Olav would, he suspected, take his own captain's ticket at Stavanger and would sign on as the master of a small Stavanger coaster and, after some years at that, perhaps a larger one.
 
 But not now.
 
@@ -211,7 +211,7 @@ He was content with it.
 
 Olava was — the first summer at the cottage revealed — more than content with it.
 
-Olava had, across the summer, settled into the small specific domestic rhythm of a married Finnøy woman of her generation with the small particular additional work of the parish school two mornings a week. She was, in the evenings at the cottage, quieter than she had been at Mrs Hestby's kitchen in the eighteen months — not unhappy, just less talkative; the small specific quieter-evening a woman who was running her own kitchen was at night because the running had already consumed the day's small supply of talking. She was, at the mornings, the small composed early-riser who had already done the bread before Olav came in from the small morning boat-shed work.
+Olava had, across the summer, settled into the domestic rhythm of a married Finnøy woman of her generation with the small particular additional work of the parish school two mornings a week. She was, in the evenings at the cottage, quieter than she had been at Mrs Hestby's kitchen in the eighteen months — not unhappy, just less talkative; the quieter-evening a woman who was running her own kitchen was at night because the running had already consumed the day's small supply of talking. She was, at the mornings, the small composed early-riser who had already done the bread before Olav came in from the small morning boat-shed work.
 
 She was happy.
 
@@ -225,7 +225,7 @@ He registered it.
 
 At the end of September, on the small Sunday evening of the last Sunday of the month, Olav and Olava sat at the small parlour-corner of the cottage after Jens and Mrs Hestby had gone back up the lane from the small Sunday supper.
 
-Olava said, in the small quiet voice she used when she had a small specific thing to say:
+Olava said, in the small quiet voice she used when she had a thing to say:
 
 "Olav."
 

@@ -81,7 +81,7 @@ They had been waiting for him.
 
 He understood this in the count of one breath.
 
-He understood it because he had — walking the wider street for the previous three blocks — registered, without registering it consciously, that two men had been at his shoulder for the last block and a half, and that they had been keeping the pace he was keeping rather than passing him, and that they had been, at intervals, looking at each other in the small specific way men did when they were communicating about a man walking ahead of them. The two men were now behind him. The three men at the end of the alley were ahead of him. The alley was perhaps thirty feet long, narrow, with no door in either side. He had come around the corner and into it without seeing the three men until he had come around. The two men behind him had — he understood as he heard their footsteps stop at the corner — been guiding him to this alley for the last three blocks.
+He understood it because he had — walking the wider street for the previous three blocks — registered, without registering it consciously, that two men had been at his shoulder for the last block and a half, and that they had been keeping the pace he was keeping rather than passing him, and that they had been, at intervals, looking at each other in the way men did when they were communicating about a man walking ahead of them. The two men were now behind him. The three men at the end of the alley were ahead of him. The alley was perhaps thirty feet long, narrow, with no door in either side. He had come around the corner and into it without seeing the three men until he had come around. The two men behind him had — he understood as he heard their footsteps stop at the corner — been guiding him to this alley for the last three blocks.
 
 The largest of the three men at the end of the alley took a step forward.
 
@@ -99,7 +99,7 @@ He thought, with the small flat clarity his interior used at moments at which th
 
 *This is the moment. The moment is going to be over in two minutes either way. I have my pocket-book. I have the certificate. I have my body. They have decided to take some combination of the three. The combination they take will depend on what I do in the next ten seconds.*
 
-He raised his hands slightly — palms out, the small specific gesture a man made to indicate he was not reaching for a weapon — and he said, in his own English (which was the careful English of a Norwegian navigation-school graduate who had been ashore in English-speaking ports four times in seven years):
+He raised his hands slightly — palms out, the gesture a man made to indicate he was not reaching for a weapon — and he said, in his own English (which was the careful English of a Norwegian navigation-school graduate who had been ashore in English-speaking ports four times in seven years):
 
 "I have a pocket-book. I will give it to you. The papers in the coat are not yours to want. They are a company document. I am willing to give the pocket-book."
 
@@ -113,7 +113,7 @@ He took a step closer.
 
 The two men behind Olav stepped into the alley.
 
-The largest man drew, from the inside of his coat, a small leather sap of the kind a Manhattan thief used at this hour for the small specific blow to the side of the head a man could be relieved of consciousness by without, as a rule, dying.
+The largest man drew, from the inside of his coat, a small leather sap of the kind a Manhattan thief used at this hour for the blow to the side of the head a man could be relieved of consciousness by without, as a rule, dying.
 
 Olav put his back against the alley wall.
 
@@ -319,7 +319,7 @@ He had, by Thoresen's nine-year arrangement, learned it without paying the full 
 
 The full price would have been the use of his right hand for the rest of his career, by Tellefsen's earlier tally; or, by the angle of Peder's sap, perhaps his life.
 
-He had paid thirty-two dollars and the small specific knowledge that the captain who shouted at him at the brace was the same captain who had, since '74, been paying for the safety of the men he shouted at.
+He had paid thirty-two dollars and the knowledge that the captain who shouted at him at the brace was the same captain who had, since '74, been paying for the safety of the men he shouted at.
 
 The trade had more pieces than the surface showed.
 

@@ -11,7 +11,7 @@ The homeward Atlantic of the third voyage was, by the small hard arithmetic of a
 
 The crossing was eighty-four days.
 
-It had three storms. The second was the worst — a force-eleven North Atlantic system on the twenty-eighth day that took five days to ride out and during which the bark, for perhaps eighteen hours at the worst of it, was running before the wind under bare poles and the small storm-staysail at the foremast and was not making her course; she was, instead, making the small specific run-before-it course that a captain accepted as the trade's response to a force-eleven and that he gave back at the storm's easing. Thoresen handled it. The crew handled it. By the thirty-fourth day they were back on their course. By the forty-fifth they had made the latitude of the Faroes. By the sixty-first they were taking the Bergen pilot at the outer light for the small clean run up Byfjorden to the company quay.
+It had three storms. The second was the worst — a force-eleven North Atlantic system on the twenty-eighth day that took five days to ride out and during which the bark, for perhaps eighteen hours at the worst of it, was running before the wind under bare poles and the small storm-staysail at the foremast and was not making her course; she was, instead, making the run-before-it course that a captain accepted as the trade's response to a force-eleven and that he gave back at the storm's easing. Thoresen handled it. The crew handled it. By the thirty-fourth day they were back on their course. By the forty-fifth they had made the latitude of the Faroes. By the sixty-first they were taking the Bergen pilot at the outer light for the small clean run up Byfjorden to the company quay.
 
 It was during the small last week before the Bergen approach — the calm last week, the one the bark always got after a winter Atlantic and that the captain and the crew used for the small clean physical recovery a force-eleven required — that Olav registered, with the small flat clarity his interior used for the things he had been seeing for months without registering, that Thoresen had been changing.
 
@@ -37,7 +37,7 @@ The list ran, in his own hand, in the small book:
 >
 > *6. He has been, in the small private way he has of doing the things that do not show on the bark, more visibly tired this third voyage than at the first or second. He walks more slowly. He took, at the Brooklyn stop, two extra evenings at the cabin instead of three at the mess in the second week of December. He had a small cough at the third week of the storm; the cough has cleared.*
 >
-> *7. He has, on three separate evenings at the chart-table this third voyage, sat for some minutes after the daily business with the small leather-bound notebook open in front of him and has not, at those minutes, written anything. He has only looked at the page. The not-writing is, by my observation across the three evenings, the small specific thing a captain does at the end of his career when he is thinking about the men whose names are in the notebook and is not, in the moment, thinking about which line to add.*
+> *7. He has, on three separate evenings at the chart-table this third voyage, sat for some minutes after the daily business with the small leather-bound notebook open in front of him and has not, at those minutes, written anything. He has only looked at the page. The not-writing is, by my observation across the three evenings, the thing a captain does at the end of his career when he is thinking about the men whose names are in the notebook and is not, in the moment, thinking about which line to add.*
 >
 > *I do not, at the desk on the seventy-eighth day, know what to do with the list.*
 >
@@ -83,7 +83,7 @@ He did not, for a beat, say more.
 
 Then he said:
 
-"Hestby. I am going to do a thing at the cabin tomorrow night that I have not, in nine years on this bark, done with a first mate. I am going to ask you to come to the cabin at four bells of the first night-watch and I am going to give you the small private letter to my wife at Bergen that I have written this evening. The letter is to be hand-delivered by you to my wife at her house at Sandviken on the morning of the day the bark is paid off. The letter contains some particulars about the third voyage that I do not, by my own discipline, write to her at the consul's mail. The hand-delivery is the small specific arrangement I have made with myself for the third voyage's particulars. You are the man I am asking."
+"Hestby. I am going to do a thing at the cabin tomorrow night that I have not, in nine years on this bark, done with a first mate. I am going to ask you to come to the cabin at four bells of the first night-watch and I am going to give you the small private letter to my wife at Bergen that I have written this evening. The letter is to be hand-delivered by you to my wife at her house at Sandviken on the morning of the day the bark is paid off. The letter contains some particulars about the third voyage that I do not, by my own discipline, write to her at the consul's mail. The hand-delivery is the arrangement I have made with myself for the third voyage's particulars. You are the man I am asking."
 
 Olav considered.
 
@@ -97,11 +97,11 @@ He said:
 
 "No, sir."
 
-"You will not, in delivering it, mention the fact of the delivery to my wife in any way that suggests the letter contains particulars she does not already have access to. The letter is, by its surface, the small ordinary captain's letter to a wife at the end of a voyage. The hand-delivery is the small specific thing the surface does not require. You will deliver it as if you are passing along the small ordinary captain's letter."
+"You will not, in delivering it, mention the fact of the delivery to my wife in any way that suggests the letter contains particulars she does not already have access to. The letter is, by its surface, the small ordinary captain's letter to a wife at the end of a voyage. The hand-delivery is the thing the surface does not require. You will deliver it as if you are passing along the small ordinary captain's letter."
 
 "Yes, sir."
 
-"My wife will, in receiving it, understand the small specific arrangement I am making. She has been receiving these particular small letters for nine years. You are, by my count of officers across nine years, the second officer I have asked to deliver one. The first was Lothe in '78."
+"My wife will, in receiving it, understand the arrangement I am making. She has been receiving these particular small letters for nine years. You are, by my count of officers across nine years, the second officer I have asked to deliver one. The first was Lothe in '78."
 
 "Yes, sir."
 
@@ -157,7 +157,7 @@ He said:
 
 He left the cabin.
 
-In his own cabin he put the letter at the bottom of the leather folder where the certificate and the cards and the small careful papers of his career lived. He did not, at the cabin, open it. He had not, at any point in his life, opened a letter intended for a person other than himself. He was not going to open this one. The not-opening was the small specific discipline the carrying required. He had, by his own arithmetic, six days between this evening and the pay-off — three days of the homeward, the pay-off Wednesday, two days at Bergen for the small post-pay-off business, the Friday coaster south. He would deliver the letter on the Wednesday morning at Sandviken before the pay-off. He would not, between this evening and that morning, look at the letter again.
+In his own cabin he put the letter at the bottom of the leather folder where the certificate and the cards and the small careful papers of his career lived. He did not, at the cabin, open it. He had not, at any point in his life, opened a letter intended for a person other than himself. He was not going to open this one. The not-opening was the discipline the carrying required. He had, by his own arithmetic, six days between this evening and the pay-off — three days of the homeward, the pay-off Wednesday, two days at Bergen for the small post-pay-off business, the Friday coaster south. He would deliver the letter on the Wednesday morning at Sandviken before the pay-off. He would not, between this evening and that morning, look at the letter again.
 
 He slept.
 
@@ -171,7 +171,7 @@ Mrs. Thoresen's house was a small brick building of the kind a Bergen captain's 
 
 Mrs. Thoresen opened the door.
 
-She was, in person, the small sharp-eyed Bergen woman of fifty-six the small framed photograph in Thoresen's cabin had given Olav the impression of. She was in a clean dark dress. She had the small careful Bergen-housewife economy of motion at the door of a captain's wife who had been receiving small specific letters from her husband at the ends of voyages for thirty-three years.
+She was, in person, the small sharp-eyed Bergen woman of fifty-six the small framed photograph in Thoresen's cabin had given Olav the impression of. She was in a clean dark dress. She had the small careful Bergen-housewife economy of motion at the door of a captain's wife who had been receiving letters from her husband at the ends of voyages for thirty-three years.
 
 "You are Mr. Hestby."
 
@@ -219,7 +219,7 @@ He said:
 
 "He has not told me, Mrs. Thoresen."
 
-"He will not tell you. He will not tell anyone on the bark. He has decided that he will tell the company at Bergen at the pay-off this morning. The pay-off this morning will, by his decision, be his last pay-off as a master. He has, in the letter you have just brought me, given me the small specific particulars of how the announcement will be made and what the household will need to do across the next week to prepare for the change."
+"He will not tell you. He will not tell anyone on the bark. He has decided that he will tell the company at Bergen at the pay-off this morning. The pay-off this morning will, by his decision, be his last pay-off as a master. He has, in the letter you have just brought me, given me the particulars of how the announcement will be made and what the household will need to do across the next week to prepare for the change."
 
 "Yes."
 
@@ -231,7 +231,7 @@ He said:
 
 "I will not, by my own decision, be on the next *Daae* voyage."
 
-"He has assumed you would not. He has named you as a first-mate offer the company can make to which they expect a polite refusal. The naming is a small captain's-courtesy he is performing for you at his last decision. The naming will, in the company's records, mark you as the man Tellefsen and the company would have wanted as first mate. The recording is the small specific gift he is giving you at his retirement."
+"He has assumed you would not. He has named you as a first-mate offer the company can make to which they expect a polite refusal. The naming is a small captain's-courtesy he is performing for you at his last decision. The naming will, in the company's records, mark you as the man Tellefsen and the company would have wanted as first mate. The recording is the gift he is giving you at his retirement."
 
 She drank her coffee.
 
@@ -249,7 +249,7 @@ She set the cup down.
 
 Olav did not, for some seconds, answer.
 
-He sat at the table with the small piece of brown cheese in front of him and the small Bergen-housewife coffee in his cup and the small still kitchen at Sandviken at ten o'clock of the second Wednesday of April of '85 holding him in its small careful quiet, and he registered that the captain had — by the small specific instrument of his wife at the kitchen table — given him, at the end of the eighteen months, the small private compliment the captain himself had not been in a position to give him in person on the bark.
+He sat at the table with the small piece of brown cheese in front of him and the small Bergen-housewife coffee in his cup and the small still kitchen at Sandviken at ten o'clock of the second Wednesday of April of '85 holding him in its small careful quiet, and he registered that the captain had — by the instrument of his wife at the kitchen table — given him, at the end of the eighteen months, the small private compliment the captain himself had not been in a position to give him in person on the bark.
 
 He said:
 
@@ -275,7 +275,7 @@ He thanked her again at the door. She told him to give her regards to his wife a
 
 The pay-off was the pay-off.
 
-Johansen handled it as he had handled the *Semiramis* pay-off in October of '82 — the small careful counting of the cash, the small specific filings, the small captain's signature at the bottom. Thoresen sat at the chair beside the desk and signed the necessary forms. He did not, at any point in the pay-off, mention the retirement to Johansen. Johansen — who had, by Mrs. Thoresen's morning telling, been informed by the captain at a private meeting at half past nine that morning before the formal pay-off — also did not mention it. The pay-off proceeded as the small ordinary pay-off of a Norwegian deep-water captain at the end of an eighteen-month voyage.
+Johansen handled it as he had handled the *Semiramis* pay-off in October of '82 — the small careful counting of the cash, the filings, the small captain's signature at the bottom. Thoresen sat at the chair beside the desk and signed the necessary forms. He did not, at any point in the pay-off, mention the retirement to Johansen. Johansen — who had, by Mrs. Thoresen's morning telling, been informed by the captain at a private meeting at half past nine that morning before the formal pay-off — also did not mention it. The pay-off proceeded as the small ordinary pay-off of a Norwegian deep-water captain at the end of an eighteen-month voyage.
 
 At the end of it Thoresen stood. He shook hands with Johansen. He shook hands with Tellefsen. He shook hands with Olav.
 
@@ -321,7 +321,7 @@ That night at the small Bergen rooming-house in Øvregaten — the same rooming-
 
 He wrote, on the next clean page:
 
-> *Bergen, second Wednesday of April, 1885. Pay-off complete. Captain Thoresen retired this morning at the company office. Tellefsen will be the new master. I will be offered the first mate's berth and will decline. Mrs. Thoresen at Sandviken delivered, at the captain's request, the small specific compliment the captain had not been in a position to give me in person.*
+> *Bergen, second Wednesday of April, 1885. Pay-off complete. Captain Thoresen retired this morning at the company office. Tellefsen will be the new master. I will be offered the first mate's berth and will decline. Mrs. Thoresen at Sandviken delivered, at the captain's request, the compliment the captain had not been in a position to give me in person.*
 >
 > *The captain who shouted at me at the brace incident in the second week of October '83 has, across eighteen months, become the captain who held my hand a half-second longer at the pay-off than he held the others. The change has been the change of his last voyage as a master. I have been, by small accident of timing, the first mate of his last voyage. The recording will be in the small leather-bound notebook on his bookshelf. The notebook will, when he gives the bark to the company on the Wednesday following, go off the bark with him to the small kitchen at Sandviken where, I now understand, it has a place reserved on the small bookshelf in the kitchen above the stove.*
 >
@@ -337,7 +337,7 @@ He put it in the small leather folder where the cards and the certificates and t
 
 He slept.
 
-The Friday coaster south was at six. He would be at Lindøy by the second Saturday of April. The cottage would be ready by the second week of May. The captain who had been his captain for eighteen months was, by the same Wednesday's small private business at Sandviken, no longer a captain. The trade had passed, by the small specific accounting of one Wednesday morning at one company office, into its next form for everyone the captaincy had been holding in its previous form.
+The Friday coaster south was at six. He would be at Lindøy by the second Saturday of April. The cottage would be ready by the second week of May. The captain who had been his captain for eighteen months was, by the same Wednesday's small private business at Sandviken, no longer a captain. The trade had passed, by the accounting of one Wednesday morning at one company office, into its next form for everyone the captaincy had been holding in its previous form.
 
 The voyage was done.
 

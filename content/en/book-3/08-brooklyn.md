@@ -173,7 +173,7 @@ He thought of the lodging-house at Hicks and Carroll where he would, by Sunday e
 
 He blew out the lamp.
 
-He slept the small uneasy sleep of a man at his first Brooklyn night with the consul's speech in his head and the small specific knowledge that the city outside the cabin window was a city that had — by Tellefsen's frank statement — the capacity to take a Norwegian first mate's marriage if the first mate was the kind of man who let it.
+He slept the small uneasy sleep of a man at his first Brooklyn night with the consul's speech in his head and the knowledge that the city outside the cabin window was a city that had — by Tellefsen's frank statement — the capacity to take a Norwegian first mate's marriage if the first mate was the kind of man who let it.
 
 He had decided, in the cabin, that he was not the kind of man who let it.
 

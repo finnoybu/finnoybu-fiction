@@ -11,7 +11,7 @@ The crossing's last week had been the small clean homeward week a January-Februa
 
 Hov the steward had, across the four homeward weeks, become a different steward.
 
-The change had been the change of a man who had, on the morning after the four-bells-of-the-morning interview at the captain's chart-table, woken up sober, hungover, deeply ashamed, and entirely committed to the small specific reformation Olav and Thoresen between them had given him the room to make.
+The change had been the change of a man who had, on the morning after the four-bells-of-the-morning interview at the captain's chart-table, woken up sober, hungover, deeply ashamed, and entirely committed to the reformation Olav and Thoresen between them had given him the room to make.
 
 The vinegar-cruet had been the first piece of the reformation.
 
@@ -151,7 +151,7 @@ At the noon-sight on the last Wednesday of February, with the bark perhaps six d
 
 Olav went forward.
 
-He understood, at the deck, that Thoresen had — by the small specific register of his eight-word naming of the three small daily acts — given Olav the captain's confirmation that the line Olav had been finding by trial across the four weeks was the line the captain himself would have found. The confirmation was, in Thoresen's economy, the highest praise the captain gave a first mate for the handling of a piece of the trade that did not have a name in any of the books.
+He understood, at the deck, that Thoresen had — by the register of his eight-word naming of the three small daily acts — given Olav the captain's confirmation that the line Olav had been finding by trial across the four weeks was the line the captain himself would have found. The confirmation was, in Thoresen's economy, the highest praise the captain gave a first mate for the handling of a piece of the trade that did not have a name in any of the books.
 
 He took it.
 
