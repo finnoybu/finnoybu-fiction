@@ -331,7 +331,7 @@ He slid in beside her without waking her. He lay on his back in the dark.
 
 He thought, at the ceiling:
 
-*Anders Lindqvist is dead. The Baltic took him at fifty-three or thereabouts, in a gale on the twenty-ninth of October of '97.*
+*Anders Lindqvist is dead. The Baltic took him at forty-three or thereabouts, in a gale on the twenty-ninth of October of '97.*
 
 *I knew him, in the way I knew him, for one supper at a Nyhavn restaurant in Copenhagen in September of '82. The supper was two hours. The not-proceeding-to-a-shared-lodging was the closing gesture. The one letter each was the small final correspondence. That was the whole of my knowing him in the world.*
 

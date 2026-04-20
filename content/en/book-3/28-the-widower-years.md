@@ -19,7 +19,7 @@ He had, across his retirement years since 1910, been the small specific widower-
 
 He did not, in his private register, mourn the dismantling.
 
-He was eighty-four at the small specific moment he registered that the small specific trade of his working years was entirely gone. Eighty-four was not an age at which a man mourned. It was an age at which a man observed.
+He was sixty-nine at the small specific moment he registered that the small specific trade of his working years was entirely gone. Eighty-four was not an age at which a man mourned. It was an age at which a man observed.
 
 ---
 

@@ -71,7 +71,7 @@ She kept, across these years, her own small private indent at her own small pers
 
 ---
 
-In the autumn of 1917 — the year Olav was fifty-nine and Olava fifty-seven — Captain Lindøy died at ninety-five at the small back bedroom at Lindøy.
+In the autumn of 1917 — the year Olav was fifty-nine and Olava fifty-seven — Captain Lindøy died at ninety-nine at the small back bedroom at Lindøy.
 
 The captain had been, across the forty-four years of Olav's knowing him, the small specific fixed point of the Lindøy household. He had managed the small specific wooden hand across the decades and the small specific Lindøy household across the decades and the small specific Christmas Eve of 1879 at which he had, from the back parlour of the Lindøy house, been the unseen father across the hall while Olava and Olav had made the Christmas Eve agreement at Olava's small bedroom. He died at the small back bedroom with Ingrid at the bedside and Olava at the door, and Olav's father's brother at the small kitchen working out — in the small last specific Lindøy-Hestby co-operation — the small telegram to Jens the younger at Bergen and to Henrik Berg at Stavanger. The body went to the Lindøy-church burial on the Saturday.
 

@@ -10,7 +10,11 @@ The widow's house held him through the first two weeks of October.
 
 He had come into it on a Friday at midnight, with his sea-chest at his shoulder and Thomas at his side and a name in his mouth that did not yet sit right in his mouth, and he came out of it for good on a Tuesday morning sixteen days later with a coastwise berth in his pocket and the name as broken in as a new pair of boots — broken in but not yet, on the inside, not unfamiliar.
 
-In between those two days Mrs. Hovland taught him to be Olav Vaageland.
+Thomas was, on the step of the widow's house at the Friday midnight, the first man Olav's interior had set apart from the rest of the world without yet having a name for the setting-apart. He had been, in the five months on the brig, the man whose steady voice across the salt-hold and the tarring and the royal yard had become the voice Olav listened for. The setting-apart was not the setting-apart Olav had registered in the lee of the galley in his second week at sea with another man whose name he had been carrying since. The two set-apartings were different. He did not, at eighteen on the step of the widow's house, have the vocabulary to say how. He had only the small fact that he had, by the Friday midnight, two men in the small specific place in him that, in the years to come, he would learn to name a drawer.
+
+In the third week of the widow's house Thomas went out at dawn for the morning milk-errand and did not come back. The not-coming-back was the first thing the small specific place in Olav had ever been asked to keep without being told where the thing had gone. It kept. It kept for the sixty-five years after.
+
+In between those two days — the Friday of arrival and the Tuesday of the first berth — Mrs. Hovland taught him to be Olav Vaageland.
 
 She did not call it that. She did not call it anything. She had been doing this work for sailors who had decided to stop being themselves for a while since long before Olav had been born, and she had developed, over those years, a particular way of going about the teaching that did not announce itself as teaching. She would, at supper, ask the new boy what his mother's name had been; she would, at breakfast, ask whether the village he was naming himself for had a church and what colour it was painted; she would, in the parlour after the kitchen had been cleared, set him down at the long table with a piece of paper and ask him to write the names of his three nearest neighbours from the new village.
 
