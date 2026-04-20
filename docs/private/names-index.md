@@ -39,7 +39,7 @@ Tracking names that appear in the novel and may need to change before publicatio
 | Captain Tollefson (*Hjemmet*) | — | The *good* captain, later voyage | Keep or rename |
 | Captain Sars (*Diana*) | Captain Sars | Healer figure, saves Olavus at Vardøy | **Consider keeping — warm attribution honors a good man** |
 | Captain Hans Hamre (*Semiramis*, East India) | Captain Hamre | Proud, demanding, Masonic ties | Probably rename (common Norwegian name risk) |
-| Captain Thoresen (*President Daae*) | Captain Thoresen | Book III — transforms from cruel to kind | Rename |
+| Captain Thoresen (*President Daae*) | Captain Gerhard Thoresen | Book III — transforms from cruel to kind | First name revealed Bk III Ch 4 |
 
 ## Officers / crewmates who matter
 
