@@ -29,7 +29,7 @@ She put it in the folder.
 
 She opened the new ledger she had bought at the Stavanger bookbinder in October — a slimmer book than the first, with a darker leather cover, in which she had written across the top of the first page *Voyage of the President Daae, lift Bergen 17 October 1883, return projected April 1885, eighteen months* — and she made the first entry.
 
-> *17 October Tuesday letter received Finnøy 22 October Monday by the morning post. Five days from Bergen by the Friday and Sunday coasters. Hand the same as the Semiramis homeward Cape hand. Captain Thoresen described as 'clear at the first interview.' Mate Tellefsen described as 'decent.' Bark lifted morning tide of the Wednesday. Olav well.*
+> *17 October Tuesday letter received Finnøy 23 October Monday by the morning post. Five days from Bergen by the Friday and Sunday coasters. Hand the same as the Semiramis homeward Cape hand. Captain Thoresen described as 'clear at the first interview.' Mate Tellefsen described as 'decent.' Bark lifted morning tide of the Wednesday. Olav well.*
 
 She blotted the page.
 

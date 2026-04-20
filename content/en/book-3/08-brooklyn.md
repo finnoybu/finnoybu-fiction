@@ -145,7 +145,7 @@ Tellefsen was at the rail.
 
 "The one who was not?"
 
-"He was the first mate before me, in '74. The wife at Bergen still writes him at the bark. She does not know that he sailed on a different bark in '76 and went to Buenos Aires and did not come back. The captain — Thoresen, whose previous bark was the *Bergljot* in '74, the same year your father told you about — has, since '76, written annually to that wife at Bergen confirming the man's continued absence in the small careful captain's hand a captain uses for that particular kind of correspondence."
+"He was the first mate before me, in '74. The wife at Bergen still writes him at the bark. She does not know that he sailed on a different bark in '76 and went to Buenos Aires and did not come back. The captain — Thoresen, whose previous bark was the *Bergljot* in '74, the same year your father told you about — has, since '76, written annually to that wife at Stavanger confirming the man's continued absence in the small careful captain's hand a captain uses for that particular kind of correspondence."
 
 "Thoresen does that."
 

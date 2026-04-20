@@ -65,7 +65,7 @@ He had finished the company letters.
 
 He had finished the consular forms.
 
-He sat now with the small private letter to the Stavanger widow — Mrs. Asbjørnsen — in front of him. The letter was the seventh of the year. It was the same letter he had been composing at each Brooklyn stop since '76, with the small specific variations the year required. The letter said, in its standard form: *Mrs. Asbjørnsen — Your husband has not, by my information at this Brooklyn stop, made his return to a Norwegian-flag vessel during this voyage. I will continue, as I have for these years, to keep the inquiry running through the Brooklyn-Norwegian community. I am sorry to have no further news to give you. Your servant — G. Thoresen, Master, bark* President Daae.
+He sat now with the small private letter to the Stavanger widow — Mrs. Asbjørnsen — in front of him. The letter was the seventh in the seven-year sequence. It was the same letter he had been composing at each Brooklyn stop since '76, with the small specific variations the year required. The letter said, in its standard form: *Mrs. Asbjørnsen — Your husband has not, by my information at this Brooklyn stop, made his return to a Norwegian-flag vessel during this voyage. I will continue, as I have for these years, to keep the inquiry running through the Brooklyn-Norwegian community. I am sorry to have no further news to give you. Your servant — G. Thoresen, Master, bark* President Daae.
 
 He had been composing the letter for seven years.
 

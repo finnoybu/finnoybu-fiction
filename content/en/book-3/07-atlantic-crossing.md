@@ -5,13 +5,13 @@ slug: atlantic-crossing
 book: 3
 ---
 
-The Atlantic crossing on the *President Daae* was forty-two days.
+The Atlantic crossing on the *President Daae* was fifty-one days.
 
-By the standards of an October-November westbound petroleum bark with a moderately fair-wind voyage and one bad storm in the third week, forty-two days was, Tellefsen said at the small officer's mess on the morning of the forty-third, neither fast nor slow. Brun on the *Semiramis* outbound to the Cape had taken roughly the same number of days for a comparable Atlantic leg three years before; the *Daae*'s sister ship, the *Bergen-Atlanterhav,* had taken thirty-six on her best westbound and fifty-one on her worst. Forty-two was the middle of the bark's seven-year average. Thoresen would, by Tellefsen's reading, neither praise the crossing nor complain about it. The forty-two days had been the forty-two days.
+By the standards of an October-November westbound petroleum bark with a moderately fair-wind voyage and one bad storm in the third week, fifty-one days was, Tellefsen said at the small officer's mess on the morning of the fifty-second, neither fast nor slow. Brun on the *Semiramis* outbound to the Cape had taken roughly the same number of days for a comparable Atlantic leg three years before; the *Daae*'s sister ship, the *Bergen-Atlanterhav,* had taken forty-five on her best westbound and sixty-one on her worst. Fifty-one was the middle of the bark's seven-year average. Thoresen would, by Tellefsen's reading, neither praise the crossing nor complain about it. The fifty-one days had been the fifty-one days.
 
-Olav had been the first mate for forty-two days.
+Olav had been the first mate for fifty-one days.
 
-The forty-two days had taught him, in pieces, what the trade required of a first mate that the trade had not required of a navigator-common-seaman.
+The fifty-one days had taught him, in pieces, what the trade required of a first mate that the trade had not required of a navigator-common-seaman.
 
 The first thing was the small constant administrative work of the deck. The mate of a deep-water bark was the man who kept the small running record of what the bark had done across each watch — what sail had been set or struck, what corrections had been made to the helm, what small repairs the bosun had ordered, what cargo-shifts had occurred (none, on a petroleum voyage; the barrels stayed where they had been stowed), what supplies had been consumed at the steward's table. The record was the record the captain consulted at noon and that the company offices would consult at the pay-off. The recording of it was a small daily piece of the trade Olav had not, as a common seaman, been responsible for. He learned it. Tellefsen showed him the columns the *Daae*'s log was kept in, the abbreviations Thoresen preferred, the small specific notations the company at Bergen liked to see at the inspection. Olav added the captain's notations to his hand. By the second week he was keeping the log without correction.
 
