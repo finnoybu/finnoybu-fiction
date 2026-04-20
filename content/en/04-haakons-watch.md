@@ -74,6 +74,12 @@ The squall came at three bells. He called the watch up. They took in the royals,
 
 The squall hit. It hit hard for ten minutes — wind that staggered her, rain that came at the angle a man holding a hose at his hip would aim it — and then it was past, the way summer squalls in the North Sea always are, not a weather but a sentence.
 
+Halfway through the ten minutes a lee-sheet at the foretopsail had let go, and the iron-shod block at its end had come through the air at the pinrail in the pendulum a half-ton of iron and wet manila made of itself at the end of a blown gust. Mathis, at the pin, had caught the fall on a turn of line and dead-bonged it against the iron before the second pass. It did not, in the event, find anyone. But Haakon, from the deck, had watched the boy's body at the pin. The boy had taken a step back — out, which was outward — and he had been two feet clear when Mathis caught the block. Two feet was not much. Two feet on another deck at another pin, at a rail the boy had not marked, would have been nothing.
+
+Haakon noted it.
+
+He would, in the lee of the galley when the blanket was out, tell him.
+
 The boy was on the deck when Haakon came down off the foremast. Soaked through. His teeth were doing what teeth do when a man has been working hard in the cold and the working has stopped. Haakon looked at him for the count of a breath. He thought, as he would have thought of any of the watch: *that boy is going to be sick by morning if he stands in this rain through the rest of the watch.*
 
 He thought, without permitting himself to think it any more than the first thought: *I am going to do for him what I would do for any of them.*
@@ -106,7 +112,41 @@ He turned his face slightly away from the boy and looked at the dark water past 
 
 ---
 
-They talked, after a while. The boy asked about Hogganvik. Haakon answered. The farm. The cliff. The fifty head of sheep. The mother who had painted the house red twenty years ago and not since. The two younger brothers whose existence had made him a sailor. The boy asked whether he had wanted to be a sailor; he answered as he always answered, which was with the truth as he had come to understand it at twenty-five. *I wanted to be out of Hogganvik.* The boy had not pressed.
+They talked, after a while. Haakon began it with a piece of seamanship, because seamanship was the way he knew how to begin.
+
+"Boy."
+
+"Boatswain."
+
+"The block on the foretopsail sheet. Halfway through."
+
+"Yes, boatswain."
+
+"Your step was back."
+
+The boy did not, for a moment, answer. He had not, until Haakon had named the block, been thinking about the block. He was thinking about it now.
+
+"It was two feet."
+
+"It was two feet because Mathis caught the fall. It would have been not-two-feet at another pin on another deck."
+
+"Yes, boatswain."
+
+"A thing swung from a pivot — a block, a bucket, a marlinspike, a line's end — has its force at the end of the arc. The inside of the arc is empty of force. A man's step against a swinging thing is the step in, not the step out. You step toward the pivot. You pass under the end of the arc before the end of the arc passes through you. You understand me."
+
+"I think so."
+
+"You will understand when you need it. The ears do not keep it. The body does. Hear it once. The body will keep it."
+
+"Yes, boatswain."
+
+"Good. Remember the pin tonight. Next squall you are inside."
+
+"Yes, boatswain."
+
+Haakon let the lesson sit. He let the boy turn it over in the dark under the blanket, which was the way a piece of seamanship settled into a man young enough to keep it. He looked at the dark water. He did not, while the lesson was settling, say anything further.
+
+Then the boy asked about Hogganvik. Haakon answered. The farm. The cliff. The fifty head of sheep. The mother who had painted the house red twenty years ago and not since. The two younger brothers whose existence had made him a sailor. The boy asked whether he had wanted to be a sailor; he answered as he always answered, which was with the truth as he had come to understand it at twenty-five. *I wanted to be out of Hogganvik.* The boy had not pressed.
 
 The boy said *I am glad you are.*
 
