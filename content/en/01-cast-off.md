@@ -158,7 +158,7 @@ Haakon was still holding his forearm. Olav realized it only when Haakon let go, 
 
 "Down now," Haakon said. "Before the mate finds out."
 
-They went down. Haakon first, so that if Olav fell he would fall onto Haakon and not onto the deck. Olav did not fall. He did not say anything about the forearm, or the hand, or the cold of the air when the hand was gone.
+They went down. Haakon first, so that if Olav fell, he would fall onto Haakon and not onto the deck. Olav did not fall. He did not say anything about the forearm, or the hand, or the cold of the air when the hand was gone.
 
 At the deck Haakon clapped him once, lightly, on the shoulder, and went aft without looking back.
 
