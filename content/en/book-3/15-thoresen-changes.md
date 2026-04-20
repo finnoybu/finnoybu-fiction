@@ -9,7 +9,7 @@ The third Brooklyn lift was on the second Wednesday of January, '85.
 
 The homeward Atlantic of the third voyage was, by the small hard arithmetic of a Norwegian deep-water bark in the petroleum trade in the deep winter, the leg the bark had been bracing for across the eighteen months. The crew braced. The bark braced. The captain — by his own small careful pre-lift inspection of the rigging, at the Brooklyn wharf on the Tuesday before the lift — had braced too. They lifted.
 
-The crossing was sixty-one days.
+The crossing was eighty-four days.
 
 It had three storms. The second was the worst — a force-eleven North Atlantic system on the twenty-eighth day that took five days to ride out and during which the bark, for perhaps eighteen hours at the worst of it, was running before the wind under bare poles and the small storm-staysail at the foremast and was not making her course; she was, instead, making the small specific run-before-it course that a captain accepted as the trade's response to a force-eleven and that he gave back at the storm's easing. Thoresen handled it. The crew handled it. By the thirty-fourth day they were back on their course. By the forty-fifth they had made the latitude of the Faroes. By the sixty-first they were taking the Bergen pilot at the outer light for the small clean run up Byfjorden to the company quay.
 
@@ -19,7 +19,7 @@ It was during the small last week before the Bergen approach — the calm last w
 
 The changing had not, by Olav's later reconstruction at the small bound book, been a single moment.
 
-It had been the small accretion of a thousand small moments across the eighteen months of the voyage, each of them smaller than any single moment Olav would have isolated as the change, but the aggregate of which — when he sat at the small fixed desk in his cabin on the night of the fifty-fifth day of the homeward and made the small private list — was the change.
+It had been the small accretion of a thousand small moments across the eighteen months of the voyage, each of them smaller than any single moment Olav would have isolated as the change, but the aggregate of which — when he sat at the small fixed desk in his cabin on the night of the seventy-eighth day of the homeward and made the small private list — was the change.
 
 The list ran, in his own hand, in the small book:
 
@@ -39,7 +39,7 @@ The list ran, in his own hand, in the small book:
 >
 > *7. He has, on three separate evenings at the chart-table this third voyage, sat for some minutes after the daily business with the small leather-bound notebook open in front of him and has not, at those minutes, written anything. He has only looked at the page. The not-writing is, by my observation across the three evenings, the small specific thing a captain does at the end of his career when he is thinking about the men whose names are in the notebook and is not, in the moment, thinking about which line to add.*
 >
-> *I do not, at the desk on the fifty-fifth day, know what to do with the list.*
+> *I do not, at the desk on the seventy-eighth day, know what to do with the list.*
 >
 > *I have decided, at the desk, to do nothing with it. The captain has been changing without naming the change. I am observing without naming the observation. Both of us are, by the small economy of the bark, doing the work the change requires without making it a thing the work has to address. I have made the list because making the list is the small private discipline I keep at the small fixed desk in the cabin. The list goes in the small book. The book, like the small book of '81, will close at the end of the voyage. The list will not, by my decision, be transmitted to anyone.*
 
@@ -51,7 +51,7 @@ He went to bed.
 
 ---
 
-On the fifty-eighth day of the homeward, with the bark perhaps three days off the Bergen approach and the wind a steady south-southwesterly at twelve knots, Thoresen came up on deck at four bells of the afternoon watch — outside his ordinary hours — and stood at the cap-rail beside Olav for some minutes without speaking.
+On the eighty-first day of the homeward, with the bark perhaps three days off the Bergen approach and the wind a steady south-southwesterly at twelve knots, Thoresen came up on deck at four bells of the afternoon watch — outside his ordinary hours — and stood at the cap-rail beside Olav for some minutes without speaking.
 
 Olav did not, at the cap-rail, speak either.
 
@@ -125,11 +125,11 @@ He registered the thought.
 
 He did not write it in the small book that night.
 
-He had decided — at the cap-rail — that the small private list of the seven items of changing he had made on the fifty-fifth day was the last entry the small book of the third voyage would receive. The small bound book of the second voyage had closed at six paragraphs to Olava across six nights at the wharf. The small bound book of the third voyage would close at seven items of Thoresen's changing across one night at the cabin desk. The closings were not, by his reading, the same kind of closing. The first had been a closing-toward-Olava. The second was a closing-toward-himself. Both were small careful endings.
+He had decided — at the cap-rail — that the small private list of the seven items of changing he had made on the seventy-eighth day was the last entry the small book of the third voyage would receive. The small bound book of the second voyage had closed at six paragraphs to Olava across six nights at the wharf. The small bound book of the third voyage would close at seven items of Thoresen's changing across one night at the cabin desk. The closings were not, by his reading, the same kind of closing. The first had been a closing-toward-Olava. The second was a closing-toward-himself. Both were small careful endings.
 
 He went below.
 
-He slept the small clean sleep of the fifty-eighth day of a homeward at sixty-one days.
+He slept the small clean sleep of the eighty-first day of a homeward at eighty-four days.
 
 ---
 
@@ -163,9 +163,9 @@ He slept.
 
 ---
 
-The bark made the Bergen approach on the morning of the second Tuesday of April.
+The bark made the Bergen approach on the morning of the second Wednesday of April.
 
-The pilot took her up Byfjorden in the small clean April morning. By six bells of the forenoon she was at the company quay. By eight bells she was warped in. By the afternoon Tellefsen had the deck and Olav had taken the morning ferry across the harbor to Sandviken with the small letter in his coat.
+The pilot took her up Byfjorden in the small clean April morning. By six bells of the forenoon she was at the company quay. By eight bells she was warped in. By the forenoon Tellefsen had the deck and Olav had taken the morning ferry across the harbor to Sandviken with the small letter in his coat.
 
 Mrs. Thoresen's house was a small brick building of the kind a Bergen captain's family had bought in the '50s and still lived in. Olav came up to the door. He knocked.
 
@@ -213,7 +213,7 @@ Then she said, in the small careful voice of a woman who had been practicing the
 
 Olav did not, for some seconds, speak.
 
-He had not, at the small private list of the seven items of the captain's changing at the desk on the fifty-fifth day of the homeward, allowed himself the thought that the changing might be the changing of a man who was preparing to leave the trade. He had registered the items. He had not extrapolated. The not-extrapolating had been, by his own discipline, the discipline a first mate kept about a captain whose interior he was not entitled to read.
+He had not, at the small private list of the seven items of the captain's changing at the desk on the seventy-eighth day of the homeward, allowed himself the thought that the changing might be the changing of a man who was preparing to leave the trade. He had registered the items. He had not extrapolated. The not-extrapolating had been, by his own discipline, the discipline a first mate kept about a captain whose interior he was not entitled to read.
 
 He said:
 
@@ -249,7 +249,7 @@ She set the cup down.
 
 Olav did not, for some seconds, answer.
 
-He sat at the table with the small piece of brown cheese in front of him and the small Bergen-housewife coffee in his cup and the small still kitchen at Sandviken at four o'clock of the second Tuesday of April of '85 holding him in its small careful quiet, and he registered that the captain had — by the small specific instrument of his wife at the kitchen table — given him, at the end of the eighteen months, the small private compliment the captain himself had not been in a position to give him in person on the bark.
+He sat at the table with the small piece of brown cheese in front of him and the small Bergen-housewife coffee in his cup and the small still kitchen at Sandviken at ten o'clock of the second Wednesday of April of '85 holding him in its small careful quiet, and he registered that the captain had — by the small specific instrument of his wife at the kitchen table — given him, at the end of the eighteen months, the small private compliment the captain himself had not been in a position to give him in person on the bark.
 
 He said:
 
@@ -321,7 +321,7 @@ That night at the small Bergen rooming-house in Øvregaten — the same rooming-
 
 He wrote, on the next clean page:
 
-> *Bergen, second Tuesday of April, 1885. Pay-off complete. Captain Thoresen retired this morning at the company office. Tellefsen will be the new master. I will be offered the first mate's berth and will decline. Mrs. Thoresen at Sandviken delivered, at the captain's request, the small specific compliment the captain had not been in a position to give me in person.*
+> *Bergen, second Wednesday of April, 1885. Pay-off complete. Captain Thoresen retired this morning at the company office. Tellefsen will be the new master. I will be offered the first mate's berth and will decline. Mrs. Thoresen at Sandviken delivered, at the captain's request, the small specific compliment the captain had not been in a position to give me in person.*
 >
 > *The captain who shouted at me at the brace incident in the second week of October '83 has, across eighteen months, become the captain who held my hand a half-second longer at the pay-off than he held the others. The change has been the change of his last voyage as a master. I have been, by small accident of timing, the first mate of his last voyage. The recording will be in the small leather-bound notebook on his bookshelf. The notebook will, when he gives the bark to the company on the Wednesday following, go off the bark with him to the small kitchen at Sandviken where, I now understand, it has a place reserved on the small bookshelf in the kitchen above the stove.*
 >
