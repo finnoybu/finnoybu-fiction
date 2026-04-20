@@ -3,16 +3,16 @@ title: "Vaageland"
 id: 10
 slug: vaageland
 hero:
-  image: /images/coming-home.png
+ image: /images/coming-home.png
 ---
 
 The widow's house held him through the first two weeks of October.
 
 He had come into it on a Friday at midnight, with his sea-chest at his shoulder and Thomas at his side and a name in his mouth that did not yet sit right in his mouth, and he came out of it for good on a Tuesday morning sixteen days later with a coastwise berth in his pocket and the name as broken in as a new pair of boots — broken in but not yet, on the inside, not unfamiliar.
 
-Thomas was, on the step of the widow's house at the Friday midnight, the first man Olav's interior had set apart from the rest of the world without yet having a name for the setting-apart. He had been, in the five months on the brig, the man whose steady voice across the salt-hold and the tarring and the royal yard had become the voice Olav listened for. The setting-apart was not the setting-apart Olav had registered in the lee of the galley in his second week at sea with another man whose name he had been carrying since. The two set-apartings were different. He did not, at eighteen on the step of the widow's house, have the vocabulary to say how. He had only the small fact that he had, by the Friday midnight, two men in the small specific place in him that, in the years to come, he would learn to name a drawer.
+Thomas was, on the step of the widow's house at the Friday midnight, the first man Olav's interior had set apart from the rest of the world without yet having a name for the setting-apart. He had been, in the five months on the brig, the man whose steady voice across the salt-hold and the tarring and the royal yard had become the voice Olav listened for. The setting-apart was not the setting-apart Olav had registered in the lee of the galley in his second week at sea with another man whose name he had been carrying since. The two set-apartings were different. He did not, at eighteen on the step of the widow's house, have the vocabulary to say how. He had only the small fact that he had, by the Friday midnight, two men in the place in him that, in the years to come, he would learn to name a drawer.
 
-In the third week of the widow's house Thomas went out at dawn for the morning milk-errand and did not come back. The not-coming-back was the first thing the small specific place in Olav had ever been asked to keep without being told where the thing had gone. It kept. It kept for the sixty-five years after.
+In the third week of the widow's house Thomas went out at dawn for the morning milk-errand and did not come back. The not-coming-back was the first thing the place in Olav had ever been asked to keep without being told where the thing had gone. It kept. It kept for the sixty-five years after.
 
 In between those two days — the Friday of arrival and the Tuesday of the first berth — Mrs. Hovland taught him to be Olav Vaageland.
 
