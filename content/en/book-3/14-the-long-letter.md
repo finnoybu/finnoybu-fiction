@@ -139,7 +139,7 @@ After the supper Olava went up to her own room. She lit the lamp at the writing-
 
 She wrote, at the page's top, in her ordinary ledger-hand:
 
-> *Brooklyn letter received 10 February 1885 by the morning post at Finnøy, brought across to Lindøy by Aanestad's grandson on the eleven o'clock smack. Six sheets. Posted 6 January Brooklyn per the consul's stamp. Five weeks in transit, by the Cunard's Saturday. Hand consistent with the Cape homeward hand of the Semiramis voyage of '82 — a hand he uses when he is writing to me from a desk where he has decided, before sitting down, to write the kind of letter he is going to write.*
+> *Brooklyn letter received 10 February 1885 by the morning post at Finnøy, brought across to Lindøy by Aanestad's grandson on the eleven o'clock smack. Six sheets. Posted 7 January Brooklyn per the consul's stamp. Five weeks in transit, by the Cunard's Saturday. Hand consistent with the Cape homeward hand of the Semiramis voyage of '82 — a hand he uses when he is writing to me from a desk where he has decided, before sitting down, to write the kind of letter he is going to write.*
 
 She stopped the pen.
 
