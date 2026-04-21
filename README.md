@@ -1,4 +1,4 @@
-# finnoybu-fantasy
+# finnoybu-fiction
 
 **Finnoybu** — a queer period historical romance trilogy by E. A. Westbo.
 
@@ -24,8 +24,11 @@ pnpm dev
 ## Structure
 
 - [content/en/](content/en/) — the novel, one markdown file per chapter, frontmatter `id` is sort key
-- [docs/private/trilogy-plan.md](docs/private/trilogy-plan.md) — plan of record
+- [docs/private/trilogy-outline.md](docs/private/trilogy-outline.md) — structural contract (per-book allocation, sourced vs. invented)
+- [docs/private/memoir-digest.md](docs/private/memoir-digest.md) — reference extraction from the ancestor's memoir
+- [docs/private/voice-register.md](docs/private/voice-register.md) — per-POV voice mapping
 - [docs/private/names-index.md](docs/private/names-index.md) — working name → publication name tracking
+- [docs/private/SESSION_STATE.md](docs/private/SESSION_STATE.md) — current queue position
 - [CLAUDE.md](CLAUDE.md) — context for AI collaboration
 
 ## Copyright

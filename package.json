@@ -1,5 +1,5 @@
 {
-  "name": "finnoybu-fantasy",
+  "name": "finnoybu-fiction",
   "private": true,
   "version": "0.1.0",
   "description": "Finnoybu — a queer period historical romance trilogy by E. A. Westbo. Next.js reader site, derived from sea-reader infrastructure.",
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/finnoybu/finnoybu-fantasy.git"
+    "url": "git+https://github.com/finnoybu/finnoybu-fiction.git"
   },
   "bugs": {
-    "url": "https://github.com/finnoybu/finnoybu-fantasy/issues"
+    "url": "https://github.com/finnoybu/finnoybu-fiction/issues"
   },
   "homepage": "https://fiction.finnoybu.com",
   "dependencies": {
