@@ -68,16 +68,24 @@ Tracking names that appear in the novel and may need to change before publicatio
 
 ## Ships
 
-| Real Name | Novel Name | Role | Proposed |
+**Policy (Ken 2026-04-22):** Rename all named vessels so the novel reads as fiction rather than a key to the memoir. Preserve the flavor and rhythm of the original (feminine Norse/classical name for a Norwegian brig; ironic music term for a slave-driver schoonerbrig; etc.) but break 1:1 recognizability for anyone reading *sea-reader* alongside the trilogy. Suggestions below are starters for Ken's selection; none are locked.
+
+| Real Name | Novel Name | Role in novel | Proposal |
 |---|---|---|---|
-| *Nanna* (brig, first voyage) | *Nanna* | Backstory reference only | Keep |
-| *Hjemmet* ("Home"), bark | *Hjemmet* | Book I second voyage | Keep — meaningful pun |
-| *Allegro* (schoonerbrig) | *Allegro* | Vardøy voyage | Keep |
-| *Diana* (steamer, Sars) | *Diana* | Healing ship | Keep |
-| *Semiramis* (East India-man) | *Semiramis* | Book II | Keep |
-| *Favorit* | *Favorit* | Cuba/Boston voyage | Keep |
-| *Olivier* | *Olivier* | Book III-era, Baltic | Keep |
-| *President Daae* | *President Daae* | Book III main ship | Keep or rename (real Norwegian PM surname) |
+| *Nanna* (brig, first voyage 1875) | **TBD** | Book I Ch 1–2 — cook's first voyage, six-month Baltic/North Sea run | Norse-goddess brig flavor preserved: e.g. *Sigrid*, *Skuld*, *Freya*, *Idun* |
+| *Faina* (3-masted schoonership, spring 1876) | **TBD** | Book I Ch 9–16 — the tyrant captain G—, Lisbon, Eliasson's death, the Finnøybu identity forged | Feminine-Russian-ish flavor preserved: e.g. *Asta*, *Ingrid*, *Vesla*, *Thora* |
+| *Hjemmet* ("the Home"), bark | **TBD** | Book I Ch 21–26 — the kind-captain voyage, Archangel/Atlantic/Jamaica, proposal + acceptance letters | Meaningful-pun flavor preserved: e.g. *Heimlenga* ("homeward"), *Lengsel* ("longing"), or the same pun in a different register — *Fjerdehus*, *Arnhjem* |
+| *Cito* (soft-wood bark, Dec 1877) | **TBD** | Book II Ch 1–5 — the floating-coffin six-week pumping voyage to Hamburg | Ironic speed-name preserved: e.g. *Kvik* ("quick"), *Pilen* ("the arrow"), *Svalen* ("the swallow"), *Piloten* |
+| *Allegro* (schoonerbrig, June 1879) | **TBD** | Book II Ch 21 — Vardøy disaster, tight-fist captain | Ironic-music flavor preserved: e.g. *Vivace*, *Forte*, *Brio* — or pivot away from music for a Norwegian-place name: *Nidaros*, *Haugesund* |
+| *Diana* (Bergen steamer, Capt Sars) | **TBD** — or keep. See note. | Book II Ch 22–24 — healing journey home with Sars | Memoir-Diana is sympathetic; rule 2 (sympathetic character/ship = lean toward keeping as tribute) could argue for retention. Proposals: *Astrea*, *Minerva*, *Thalia* if renamed. |
+| *Semiramis* (1000+ ton East India-man bark, Oct 1879) | **TBD** | Book III Ch 1–10 — the great East India voyage year | Exotic-queen flavor preserved: e.g. *Nefertiti*, *Cleopatra*, *Zenobia*, *Boudicca* — or Norse royal: *Gyda*, *Ragnhild* |
+| *Olivier* (42-yr-old brig, Oct 1880) | **TBD** | Book III Ch 11–14 — the Baltic hurricane winter, Skagen-light night | Chanson-de-geste flavor preserved: e.g. *Roland*, *Hagen*, *Sigurd*, *Vidar* |
+| *Favorit* (schoonerbrig, Dec 1880) | **TBD** | Book III Ch 15–20 — Cuba voyage, the oil-painted portrait of Olava | Self-named vessel flavor: e.g. *Stella*, *Perla*, *Fortuna* |
+| *President Daae* (bark, Aug 1881) | **TBD** | Book III Ch 21–30 — first-mate ship, the Swedish encounter, the silent cutoff, homecoming | Rename definitely — Daae is a real Norwegian public-figure surname. Preserve "President/honored-figure-name" pattern: e.g. *Konsul Bergh*, *Minister Stang*, *Fylkesmann Kielland*; or pivot entirely: *Nordlyset* ("the northern light"), *Havrik* |
+| *Harald Haarfagre* (referenced only — Theodor Halversen's father's old ship) | **TBD** | Book I Ch 21 passing reference | Rename if retained as detail; otherwise drop the passing reference |
+| *Kong Sverre* (mail-steamer, passenger transit 1878) | **TBD** | Book II — travel | Low-profile; rename or drop |
+| *Rogaland* (coast-steamer, 1878 passenger) | Keep or **TBD** | Book II — travel | Low-profile |
+| *Stavangerfjord* (1938 Norwegian-American Line, from the memoir's late-life frame) | N/A | Not in the novel — frame device only in memoir | N/A |
 
 ---
 
@@ -86,5 +94,5 @@ Tracking names that appear in the novel and may need to change before publicatio
 1. Preserve the **rhythm** of the original name (syllable count, hard vs. soft consonants).
 2. If a character is sympathetic and the real person was sympathetic, lean toward keeping the real name as tribute.
 3. If a character is villainous, antagonistic, or depicted in ways the real person's descendants would object to → rename aggressively.
-4. Place names (islands, ports, ships) can almost always stay — they are public domain.
+4. **Place names (islands, ports) stay** — they are public domain. **Ships do NOT stay (Ken 2026-04-22):** rename every named vessel to break 1:1 recognizability against the memoir, preserving flavor and rhythm.
 5. **Never** keep a criminal/antagonist's real name.
