@@ -259,7 +259,7 @@ He sat at the bench for another minute alone. Then he followed her up.
 
 On the Monday of the second week he walked up with his father to the Hestby church at the top of the island.
 
-It was the first time he had been in the churchyard since June of '81. The church was the church it had been. The priest was the priest it had been — Pastor Kleven, seventy-one, who had baptized Olav in March of 1858 and had confirmed him in April of 1872 and had, in the interval, buried both of Olav's grandfathers and one of his grandmothers and had christened three of Olav's cousins and had married two of his uncles. The small stone in the churchyard with *Hestbye* in the period spelling — the spelling the priest still used on the parish register even though the families had moved, one by one across the century, to the modern *Hestby* — was his grandfather Jens Hestbye's, who had died in 1849.
+It was the first time he had been in the churchyard since June of '81. The church was the church it had been. The priest was the priest it had been — Pastor Kleven, seventy-one, who had baptized Olav in August of 1858 and had confirmed him in April of 1872 and had, in the interval, buried both of Olav's grandfathers and one of his grandmothers and had christened three of Olav's cousins and had married two of his uncles. The small stone in the churchyard with *Hestbye* in the period spelling — the spelling the priest still used on the parish register even though the families had moved, one by one across the century, to the modern *Hestby* — was his grandfather Jens Hestbye's, who had died in 1849.
 
 Olav stood at the stone for a minute.
 
