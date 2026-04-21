@@ -45,7 +45,7 @@ Olav stood at the stone.
 
 He thought, at the stone, about the story.
 
-He thought: *a Hestbye at fifty-four died in a coaster crossing on a March blow, and his son — my father — grew up without him, and the Hestbye line went on by the small quiet means a line went on. I am twenty-five tomorrow at the altar. I will, if the arithmetic the actuaries use at the Bergen bank is correct, have — if nothing intervenes — another thirty or forty years. I will live, by those figures, to the end of the century and perhaps beyond. My children and my children's children will be the ones who will, if the line continues, put my stone here beside this one.*
+He thought: *a Hestbye at fifty-four died in a coaster crossing on a March blow, and his son — my father — grew up without him, and the Hestbye line went on by the small quiet means a line went on. I am twenty-four tomorrow at the altar. I will, if the arithmetic the actuaries use at the Bergen bank is correct, have — if nothing intervenes — another thirty or forty years. I will live, by those figures, to the end of the century and perhaps beyond. My children and my children's children will be the ones who will, if the line continues, put my stone here beside this one.*
 
 He did not, at the stone, allow the thought to go further.
 
@@ -145,9 +145,9 @@ He walked down from the churchyard toward the Hestby house.
 
 At the gate — at the *P.H. 1812* — he paused and put his hand on the top crossbar for a moment, as he had once, as a boy of ten, put his hand on the same crossbar after his confirmation in this church at his mother's urging, because his mother had wanted him to feel, at the gate, the particular small weight the name carried at that place.
 
-He felt it now at twenty-five as he had felt it at ten.
+He felt it now at twenty-four as he had felt it at ten.
 
-He did not, at twenty-five, put it into words. The putting into words was not the kind of thing a man of his house and his church and his hands did at the wedding-eve gate.
+He did not, at twenty-four, put it into words. The putting into words was not the kind of thing a man of his house and his church and his hands did at the wedding-eve gate.
 
 He closed the gate behind him.
 
@@ -277,7 +277,7 @@ At eleven-oh-four — by the watch his father would be holding, which he had bee
 
 That was tomorrow.
 
-Tonight in the loft Olav slept, the sleep of a twenty-five-year-old Norwegian navigator on the night before the wedding he had been walking toward at various paces across five and a half years, and the house at Finnøy held him in its quiet small ordinary March keeping, and the drawer at the boat-shed with the two letters held the piece of him the wedding was not going to remove and that Olava, on the bench on Christmas Eve, had already told him she knew she was marrying.
+Tonight in the loft Olav slept, the sleep of a twenty-four-year-old Norwegian navigator on the night before the wedding he had been walking toward at various paces across five and a half years, and the house at Finnøy held him in its quiet small ordinary March keeping, and the drawer at the boat-shed with the two letters held the piece of him the wedding was not going to remove and that Olava, on the bench on Christmas Eve, had already told him she knew she was marrying.
 
 The voyage was done.
 
