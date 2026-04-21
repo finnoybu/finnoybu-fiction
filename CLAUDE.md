@@ -6,20 +6,21 @@ A Next.js 14 reader site for **Finnoybu** — a queer period historical romance 
 **Reimagines** the memoir of Olav Vullum Bjørnson Vestbø (Ken's great-great-grandfather, published in sea-reader) as commercial historical romance in the Outlander / Fourth Wing / Song of Achilles crossover tier.
 
 ## What the book is
-- **Protagonist:** Olav Hestby (surname carries inland-farm resonance — thematic dissonance with the sea; see [docs/private/names-index.md](docs/private/names-index.md)), multisexual young Norwegian sailor. Story opens at **age 18** on his second voyage — the first that takes him past the horizon.
+- **Protagonist:** Olav Hestby (surname carries inland-farm resonance — thematic dissonance with the sea; see [docs/private/names-index.md](docs/private/names-index.md)), multisexual young Norwegian sailor. Story opens at **age 18** on his first voyage out of Stavanger as cook on the brig *Nanna*, summer 1875.
 - **Central tension:** A girl at home (Olava; becomes his wife) *and* awakening encounters with men at sea and in ports. Genuinely loves her. Genuinely loves men. In an era with no language for it.
-- **Trilogy:**
-  - **Finnoybu: Salt and Silence** — Book I (WIP): ages 18–20, first major voyage through navigation school. Ends with departure for East India voyage.
-  - **Finnoybu: *[TBD]*** — Book II (ages 20–21): East India voyage; a Swedish man's passionate love letter; the burial of desire.
-  - **Finnoybu: *[TBD]*** — Book III (ages 21–22): first mate, marriage, reckoning.
-- **Narration:** dual-POV third-person limited (romantasy convention).
+- **Trilogy** (book division locked 2026-04-22; structural contract in [docs/private/trilogy-outline.md](docs/private/trilogy-outline.md)):
+  - **Finnoybu: Salt and Silence** — Book I: 1875 – Christmas 1877, ages 18 → ~20. First voyages (*Nanna* cook, *Faina* under a tyrant captain), meeting Olava at Landa summer 1876, the long *Hjemmet* voyage (Archangel, Atlantic, Jamaica), the Wilmington desertion, and the O'Brien Irish-Catholic family's winter nursing. Closes on the *Cito* leaving Wilmington Christmas 1877.
+  - **Finnoybu: *[TBD]*** — Book II: Christmas 1877 – autumn 1879, ages 20 → 22. *Cito* floating-coffin Atlantic crossing, the New York slaveship, Bordeaux, homecoming to Olava, navigation school, the tuberculosis scare, the *Allegro* disaster, and the *Diana* healing journey home. The most interior of the three books.
+  - **Finnoybu: *[TBD]*** — Book III: autumn 1879 – January 22, 1882, ages 22 → 24. The *Semiramis* East India voyage, the Baltic hurricane winter on *Olivier*, *Favorit* Cuba (the oil-painted portrait of Olava), *President Daae* with the Swedish encounter and the silent cutoff, and the wedding.
+- **Narration:** multi-POV third-person limited with per-POV voice registers locked in [docs/private/voice-register.md](docs/private/voice-register.md) — Olav/Miller, Olava/Tóibín, Haakon/Proulx, Jens/Robinson, Sven Haugen/Proulx, Thoresen/Hemingway-aside.
 - **Heat level:** Outlander tier at emotional peaks; Song-of-Achilles restraint between.
+- **Length target:** 360–440 pages per book at literary-fiction density (~275–300 words/page, benchmarked against *Song of Achilles*). Working word-count targets ~115K / ~105K / ~125K.
 
 ## Hard rules for Claude working here
 - **The manuscript is fiction I write.** Unlike sea-reader, automated prose generation is the product — write freely into [content/](content/).
 - **The ancestor's memoir is sacred source, not a script.** Use it as scaffolding for plot, geography, period detail. Do not lift sea-reader's manuscript body text verbatim into this project.
 - **Working names vs. final names:** All named human characters track in [docs/private/names-index.md](docs/private/names-index.md). When uncertain about a name, use the memoir's real name and flag it there.
-- **docs/private/** holds plan-of-record documents. Read [docs/private/trilogy-plan.md](docs/private/trilogy-plan.md) before writing new chapters — it's the structural contract.
+- **docs/private/** holds plan-of-record documents. Before writing chapters, read: [docs/private/trilogy-outline.md](docs/private/trilogy-outline.md) (structural contract), [docs/private/voice-register.md](docs/private/voice-register.md) (per-POV register mapping), [docs/private/memoir-digest.md](docs/private/memoir-digest.md) (sourced-from-memoir reference), and [docs/private/SESSION_STATE.md](docs/private/SESSION_STATE.md) (queue position). The legacy [trilogy-plan.md](docs/private/trilogy-plan.md) and related pre-restart docs are superseded and retained for archaeology only.
 - **Behavioral discipline** (inherited from AEGIS principles, not the repo's own governance): conventional commits, feature branches, PR flow, signed commits, squash merge, linear history, no force-push.
 
 ## Layout
