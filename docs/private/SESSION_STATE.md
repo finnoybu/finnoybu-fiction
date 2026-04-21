@@ -12,7 +12,7 @@ Ken's great-great-grandfather Olavus Vullum Bjørnson Vestbø's memoir (*A Sailo
 
 ## Immediate next action (for next session)
 
-**Build `docs/private/memoir-digest.md`** — read the full memoir at `d:/dev/memoirs/` and extract structured reference:
+**Build `docs/private/memoir-digest.md`** — read the full memoir at `d:/dev/sea-reader/content/en/` (chapters as .md with chapter number in frontmatter; combined.md/.pdf/.docx in `d:/dev/sea-reader/output/`) and extract structured reference:
 - People (Olavus's family, every named crewmate, every captain, every port figure)
 - Ships (every vessel, every voyage's dates and route)
 - Places (every port, every lodging-house, every island)
@@ -49,7 +49,7 @@ Plus this session's remaining commits for process-commitments.md and this SESSIO
 1. **`docs/private/voice-register.md`** — LOCKED canonical voice design. Read before any drafting.
 2. **`docs/private/process-commitments.md`** — LOCKED guardrails. Read to confirm protocol.
 3. **This file (`SESSION_STATE.md`)** — where we are in the queue.
-4. **`d:/dev/memoirs/`** — source memoir. Read to build the digest.
+4. **`d:/dev/sea-reader/content/en/`** — source memoir (read-only). Read to build the digest. Combined renders in `d:/dev/sea-reader/output/`.
 5. **`docs/private/trilogy-plan.md`** — OLD plan-of-record. Partly stale; some architectural decisions (drawer motif, not-asking marriage form, Hestby church theme, Haakon as first love, Thomas Engelstad as disappeared-name, Captain Thoresen arc, Anders Copenhagen) may still be useful inputs to the new outline. Use as reference, not authority.
 6. **`docs/private/expansion-canon-map.md`**, **`book-1-expansion-proposal.md`**, **`in-progress.md`**, **`drift-notes.md`**, **`books-2-3-outline.md`** — all OLD pre-restart documents. Superseded by restart decision. Use for archaeology only.
 
