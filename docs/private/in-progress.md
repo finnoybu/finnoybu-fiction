@@ -8,6 +8,14 @@ Both Claude sessions write here before touching any file. Read it before startin
 
 ## Active
 
+- **2026-04-21 — session: reviewer — Option 1 Christmas-Eve reconciliation COMPLETE.** Parallel with forward-writing session's Tier A #2 draft (new Ch 26 *Autumn at Lindøy*, Olava POV autumn 1880). Seven string edits across four Book II/III files to normalize canon to Ch 21's staging (Christmas morning 1879, back bedroom above the Lindøy kitchen, Olav in the bed with tray):
+  - [book-2/22-the-cape-returning.md:98](../../content/en/book-2/22-the-cape-returning.md#L98) — "her bedroom at Lindøy" → "the back bedroom at Lindøy"
+  - [book-2/29-christmas-at-lindoy-again.md:136](../../content/en/book-2/29-christmas-at-lindoy-again.md#L136) — "the kitchen table at the back of my father's room" → "in the back room at my father's house"
+  - [book-3/23-what-she-has-always-known.md:52, 54, 62, 80, 96, 124](../../content/en/book-3/23-what-she-has-always-known.md) — three "Christmas Eve 1879" strings normalized to "Christmas morning 1879"; two "Christmas Eve of '79" dropped to "Christmas of '79"; ledger entry staging "Olav at the small chair" → "Olav in the bed"; narration "her bedroom" → "the back bedroom at Lindøy"
+  - [book-3/26-children-grown.md:76](../../content/en/book-3/26-children-grown.md#L76) — "Christmas Eve of 1879 … Olava's small bedroom" → "Christmas morning of 1879 … the back bedroom above the kitchen"; captain's location softened from "back parlour … across the hall" to "parlour" (Ch 21 line 173 has captain in parlour, not across-hall)
+
+  Four stagings were colliding before this pass: Ch 21 (canonical: Christmas morning, back guest bedroom above kitchen, Olav in bed), Book III Ch 23 ledger (Eve, small chair), Book III Ch 26 (Eve, Olava's bedroom, across-hall parlour), Book II Ch 29 (kitchen-table phrasing). All now collapse to Ch 21 staging.
+
 - **2026-04-19 — session: book-1-expansion — COMPLETE.** All four new chapters drafted and committed (Ch 4 Haakon's Watch, Ch 10 Vaageland, Ch 19 The Chart Room, Ch 22 Easter at Lindøy); all four expansions applied and committed (Chs 5 Lisbon, 8 Wilmington, 12 Vardøy, 18 The School); chronology cascaded across Chs 9, 11, 14 in the final pass; book-1-outline.md updated to reflect final state. Final shape: 29 chapters + introduction, ~69,000 words, projected ~260pp at 6×9 trade paperback. Twenty-three drift items flagged in `docs/private/drift-notes.md` for the forward-writing session's drift-correction pass. **Per Ken's authorization, this session now stands by to take over Tier-1 continuity on Book II as it lands.**
 
 - **2026-04-19 — session: forward-writing — Book II drafting starts. Files will live at `content/en/book-2/NN-slug.md` with `book: 2` field in frontmatter. Book I chapters can be backfilled with `book: 1` when the multi-book website layout lands. Drafting Ch 1 *Open Water* now.**
@@ -61,6 +69,12 @@ Both Claude sessions write here before touching any file. Read it before startin
 
 - **Ch 23 internal date conflicts.** After the recent fix(ch23) commit, two date schemes are still in tension within the chapter: Haakon's age math (25→33 = 8 years gap, implying Sigrid 1859) vs. Olav's age math established elsewhere (21 at Nov 1866 engagement, implying Sigrid 1862). Specific lines: 73 ("in 1866, ...in 1860, only older"), 85 ("summer of 1858"), 93 ("in 1906... Christmas morning of 1864"), 95 ("in 1906"), 43 ("May of 1864"). Letter dated May 1867. Tier-1 left these alone — they're creative reconciliation, not mechanical.
 - **Wedding venue.** Ch 21 line 67 contractually locks the wedding at Lindøy church, contradicting the Hestby thematic spine in trilogy-plan.md:49. Forward-writing needs to know whether to honor Lindøy (engagement document) or Hestby (plan) before reaching the wedding scene.
+- **Olava birthday — three-way canon conflict.** Surfaced during 2026-04-21 Christmas-Eve reconciliation sweep; captured here because it's adjacent to but separate from that fix.
+  - [content/en/21-the-bed-in-her-parents-house.md:63](../../content/en/21-the-bed-in-her-parents-house.md#L63) has Olava at Christmas 1879: *"I am twenty next spring. You are twenty-one."* Implies **spring 1860 birth** (turns 20 in spring 1880).
+  - [content/en/book-3/01-hestby.md](../../content/en/book-3/01-hestby.md) banns at March 14, 1883: *"twenty-two years and seven months"* — implies **August 1860 birth**.
+  - [content/en/book-3/23-what-she-has-always-known.md:22](../../content/en/book-3/23-what-she-has-always-known.md#L22) has Olava *"thirty-nine at her March birthday"* in April 1900 — implies **March 1861 birth**.
+  - Expansion-proposal constraints list cites the banns-math August 1860 as canonical.
+  - Not blocking Tier A #2 — writer carefully kept month uncommitted in the autumn-1880 draft. Needs forward-writing decision before any chapter commits her birth month.
 
 ## Author calls — DECIDED
 

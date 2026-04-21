@@ -133,7 +133,7 @@ After perhaps five minutes she said, without turning her head:
 
 "Yes."
 
-"At Christmas of '79 at the kitchen table at the back of my father's room I said a thing to you. Do you remember it."
+"At Christmas of '79 in the back room at my father's house I said a thing to you. Do you remember it."
 
 "I remember."
 

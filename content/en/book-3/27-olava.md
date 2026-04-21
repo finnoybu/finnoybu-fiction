@@ -109,7 +109,7 @@ She said, in the small quiet voice she had kept:
 
 "It has held."
 
-"Forty-four years from Christmas Eve 1879."
+"Forty-four years from Christmas morning 1879."
 
 "Forty-four years and ten months."
 

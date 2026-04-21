@@ -49,9 +49,9 @@ The first was that she had, at the twenty-year-old she had been in the engagemen
 
 The second was that the small forecasts she had made at the June 1881 entries about Olav's absence had been, in aggregate, accurate. She had forecast the letter-frequencies within a margin of three weeks. She had forecast the returns within a margin of six days. She had forecast — this had been in the small private indent of the July 1881 entry — that the man who came home from the *Semiramis* in November of 1882 would be a different man from the man who had left in June of 1881. He had been. The forecast had been the forecast of a twenty-year-old engaged woman who had, across the autumn of '79 and the winter of '80-'81, worked out what the voyage would do.
 
-The third was that the small piece of the engagement-year notebook she had not re-read once, and had not thought about once in the nineteen years, was the entry of Christmas Eve 1879 at her bedroom. She had written that entry — the original private naming of what she had agreed not to ask, what she had agreed to carry with him — in the back pages of the notebook because the notebook had been, at the time, the only book she had to write it in. She had, at Christmas of '79, been twenty years old and had known only that Olav had something she did not have access to. She had not, at twenty, known it was a man's name. She had not known it was two men's names. She had not known it was three.
+The third was that the small piece of the engagement-year notebook she had not re-read once, and had not thought about once in the nineteen years, was the entry of Christmas morning 1879 at the back bedroom at Lindøy. She had written that entry — the original private naming of what she had agreed not to ask, what she had agreed to carry with him — in the back pages of the notebook because the notebook had been, at the time, the only book she had to write it in. She had, at Christmas of '79, been twenty years old and had known only that Olav had something she did not have access to. She had not, at twenty, known it was a man's name. She had not known it was two men's names. She had not known it was three.
 
-The entry of Christmas Eve 1879 was a half-page.
+The entry of Christmas morning 1879 was a half-page.
 
 She read it.
 
@@ -59,7 +59,7 @@ She read it.
 
 The half-page said, in her small twenty-year-old hand:
 
-> *Christmas Eve 1879, the back bedroom at Lindøy. Olav at the small chair.*
+> *Christmas morning 1879, the back bedroom at Lindøy. Olav in the bed.*
 >
 > *I have told him I know there is a piece. I have told him I will not ask. I have told him I agree to carry the not-asking with him. I have told him that at some future moment in our marriage, if the carrying becomes too heavy, I will ask — and that at that moment he will bring me whatever I need to know. Not before.*
 >
@@ -77,7 +77,7 @@ She sat for some minutes.
 
 ---
 
-The carrying had not, across the twenty-and-a-half years since Christmas Eve 1879, become too heavy.
+The carrying had not, across the twenty-and-a-half years since Christmas morning 1879, become too heavy.
 
 She registered this — with the small flat clarity — at the small writing-room desk in April of 1900.
 
@@ -93,7 +93,7 @@ She was not, by the fact, unhappy.
 
 She was — she registered at the desk, in a register she allowed herself once in perhaps five years — glad.
 
-The gladness was not a gladness at Olav's carrying. She was not glad that Olav had things to carry. She was glad, instead, that the form the two of them had agreed on at Christmas Eve of '79 had been the form that a real marriage was possible inside of. She had, at twenty, made an agreement without fully knowing what the agreement would cost. The cost had turned out to be bearable. The agreement had turned out to be the shape a marriage could be, for her and for him. Most agreements at twenty did not turn out that way. Hers had.
+The gladness was not a gladness at Olav's carrying. She was not glad that Olav had things to carry. She was glad, instead, that the form the two of them had agreed on at Christmas of '79 had been the form that a real marriage was possible inside of. She had, at twenty, made an agreement without fully knowing what the agreement would cost. The cost had turned out to be bearable. The agreement had turned out to be the shape a marriage could be, for her and for him. Most agreements at twenty did not turn out that way. Hers had.
 
 The gladness was for the agreement's having held.
 
@@ -121,7 +121,7 @@ She looked at the garden for some minutes.
 
 She thought, at the window:
 
-*I have, across the fifteen and a half years since the wedding, become the woman I was at twenty whose shape I had already decided. I have, across the twenty and a half years since the Christmas Eve of '79, kept the agreement. The keeping has not been difficult. The keeping has been — by the arithmetic of a Norwegian island wife of my generation — the ordinary work of a marriage. I had, at twenty, thought the keeping might require of me some virtue I did not yet have. The keeping has required, instead, only that I be what I already was. I was the woman who could keep it. I am still the woman who can.*
+*I have, across the fifteen and a half years since the wedding, become the woman I was at twenty whose shape I had already decided. I have, across the twenty and a half years since the Christmas of '79, kept the agreement. The keeping has not been difficult. The keeping has been — by the arithmetic of a Norwegian island wife of my generation — the ordinary work of a marriage. I had, at twenty, thought the keeping might require of me some virtue I did not yet have. The keeping has required, instead, only that I be what I already was. I was the woman who could keep it. I am still the woman who can.*
 
 *I am not, at thirty-nine, the woman who will ever ask. The moment at which the carrying would become too heavy has not come. I do not, at the window in April of 1900, see any specific reason to believe it will come in the remaining years. I have, in the small private indent of my own interior, given up the expectation that it will. The agreement I made at twenty — with the escape-clause that I could ask if the carrying became too heavy — has become, across the twenty years, the agreement I have kept without the escape-clause. The escape-clause is still there. I have not invoked it. I will not invoke it.*
 

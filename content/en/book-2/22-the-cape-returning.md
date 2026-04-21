@@ -95,7 +95,7 @@ He read it a third.
 
 At the third reading he understood, with the small flat clarity his interior used for the thoughts it had already half-arrived at, that the sheet was not a sheet he was going to send.
 
-He understood this not because the sheet was untrue. The sheet was true. He understood it because the sheet was a unilateral revision of an agreement he had made, with Olava, at her bedroom at Lindøy in the Christmas week of '79 and had reaffirmed at the back garden bench in the autumn of '80 and had stood up at the Stavanger quay under the year before. The agreement had been that she would not ask, and that he would carry, and that the silence between them about the piece of him she had named and he had not would be the shape of the marriage.
+He understood this not because the sheet was untrue. The sheet was true. He understood it because the sheet was a unilateral revision of an agreement he had made, with Olava, at the back bedroom at Lindøy in the Christmas week of '79 and had reaffirmed at the back garden bench in the autumn of '80 and had stood up at the Stavanger quay under the year before. The agreement had been that she would not ask, and that he would carry, and that the silence between them about the piece of him she had named and he had not would be the shape of the marriage.
 
 The sheet was, in the clearest possible terms, the breaking of that silence — or the beginning of the breaking. It was him telling her the name. She had not asked for the name. The agreement was that she would not ask. His giving it to her without her asking was, he understood at the chart-table, as much a violation of the agreement as his denying it would have been had she asked.
 
