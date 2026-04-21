@@ -127,6 +127,8 @@ She thought, at the window:
 
 *Olav has carried his piece for twenty-four years, by the small arithmetic of his own having-had-it-since-1876. I have carried my not-asking for twenty. We have, between us, carried the pieces together for twenty. The shape has held.*
 
+*There has been, across the twenty years, one piece of the carrying I have registered that has never produced a letter. The drawer at the cottage has held what the drawer has held; Olav's carrying has had one more piece than the drawer can. The piece without paper. I have not asked which it was. I have kept the not-asking for that one as I have kept it for the rest.*
+
 *The shape is the marriage.*
 
 She registered the thought.

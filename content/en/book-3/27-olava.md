@@ -159,9 +159,7 @@ She looked at him.
 
 "Yes."
 
-"Good. That is the symmetry. We are — at the last strong evening — symmetrical."
-
-"We are symmetrical."
+"Good."
 
 "Olav. One more small thing."
 
