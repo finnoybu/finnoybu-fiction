@@ -19,7 +19,7 @@ It was, by the small hard arithmetic of a Norwegian deep-water bark in the petro
 
 It was the voyage Thoresen had described to Olav at the chart-table at Bergen on the morning of the lift as *the one that pays the wage you have been paid all year for.*
 
-It was, by any measure, the voyage Olav had been the first mate on for eighteen months and had now, in the third Brooklyn week of December '84, settled into the cold-and-grey of.
+It was, by any measure, the voyage Olav had been the first mate on for eighteen months and had now, in the third Brooklyn week of December '84, settled into the cold-and-gray of.
 
 ---
 

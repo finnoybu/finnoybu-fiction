@@ -31,7 +31,7 @@ Now, at '88, it was simply the paper in the folder.
 
 ---
 
-Olava, at the small parlour-corner on the evening of the Monday Olav had brought the ticket home, said:
+Olava, at the small parlor-corner on the evening of the Monday Olav had brought the ticket home, said:
 
 "Olav."
 
@@ -61,7 +61,7 @@ Olava, at the small parlour-corner on the evening of the Monday Olav had brought
 
 "Good."
 
-She did not, at the parlour-corner, say more.
+She did not, at the parlor-corner, say more.
 
 She picked up her small sewing — she had been, at the first autumn evenings, sewing a small winter-coat for Anna out of wool Mrs Lindøy had sent across from Lindøy the previous week — and she continued.
 
@@ -77,13 +77,13 @@ Anna, from two and a half at the ticket to nine at the *Stavanger–Bergen* bert
 
 Jens — Jens the younger, named for Olav's father — was from six months to seven and a half across the same years. He was a different child. He was louder. He laughed more. He had Olava's fair hair — the same fair Mrs Lindøy had been born with, which Olava had grown out of by eight — and he had, by four, the pointer's eye for the channel from the kitchen window that the men of the family had since Peder Hestbye's day in the 1790s. Jens the younger was, by the observation of the grandfathers, going to be a sailor.
 
-A third child came in the spring of '91 — a girl, Ingrid, named for Olava's Lindøy aunt who had died in '76 (the aunt from whose register Olava had inherited her small-not-filling-the-silence discipline, per the small November '83 conversation at Mrs Hestby's kitchen). Ingrid was the small household's third small child. Olava had, at the delivery, had a harder labor than she had with either of the two before — the birth was ten hours — and Mrs Pettersen at the bedside had, at the end of the ten hours, said quietly to Olava that the third child would, by Mrs Pettersen's experience, be the last for this mother if the mother was to remain well. Olava had received the small opinion with the small composed nod of a woman who had heard what she had already suspected. The household agreed — Olav and Olava between them, at the small bedside the next morning — that Ingrid would be the third and last. Olav took the precaution Mrs Hestby had explained to him at the parlour of Jens's house on the small evening after Ingrid's birth, in the way a Norwegian married man of his generation took such precautions. The precaution, once explained, was a kept precaution.
+A third child came in the spring of '91 — a girl, Ingrid, named for Olava's Lindøy aunt who had died in '76 (the aunt from whose register Olava had inherited her small-not-filling-the-silence discipline, per the small November '83 conversation at Mrs Hestby's kitchen). Ingrid was the small household's third small child. Olava had, at the delivery, had a harder labor than she had with either of the two before — the birth was ten hours — and Mrs Pettersen at the bedside had, at the end of the ten hours, said quietly to Olava that the third child would, by Mrs Pettersen's experience, be the last for this mother if the mother was to remain well. Olava had received the small opinion with the small composed nod of a woman who had heard what she had already suspected. The household agreed — Olav and Olava between them, at the small bedside the next morning — that Ingrid would be the third and last. Olav took the precaution Mrs Hestby had explained to him at the parlor of Jens's house on the small evening after Ingrid's birth, in the way a Norwegian married man of his generation took such precautions. The precaution, once explained, was a kept precaution.
 
 The three children — Anna, Jens the younger, Ingrid — filled the small cottage.
 
 The small cottage, by '93, was too small.
 
-In the spring of '93 Olav and his uncle and his father began the small two-year work of building the larger house. The larger house — by Olav's and Olava's plan, worked out at the small parlour-corner in the '92-'93 winter — would be built on the same small share of land the cottage sat on, at the north end, with the cottage remaining as the small secondary house for the maintenance of the household's small overflow-purposes. The larger house would have four bedrooms. It would have a small proper kitchen. It would have a small writing-room — a room Olava had explicitly added to the plan at her own request, which was the addition of a Norwegian island wife of her generation who had, across the ten years of keeping the household, decided that her small small-parish-school-teaching would continue into her middle years and would, by her request, have its own room at the new house.
+In the spring of '93 Olav and his uncle and his father began the small two-year work of building the larger house. The larger house — by Olav's and Olava's plan, worked out at the small parlor-corner in the '92-'93 winter — would be built on the same small share of land the cottage sat on, at the north end, with the cottage remaining as the small secondary house for the maintenance of the household's small overflow-purposes. The larger house would have four bedrooms. It would have a small proper kitchen. It would have a small writing-room — a room Olava had explicitly added to the plan at her own request, which was the addition of a Norwegian island wife of her generation who had, across the ten years of keeping the household, decided that her small small-parish-school-teaching would continue into her middle years and would, by her request, have its own room at the new house.
 
 The larger house was finished in the spring of '95.
 
@@ -237,7 +237,7 @@ She said, after the lamp had been turned down:
 
 "Yes."
 
-"I am, in my small private register, also proud. Not of the signature. Of the thirteen years between the signature and the speech. Of the family that kept the household at Finnøy across those years. Of the two of us at the small parlour-corner for the '95 arithmetic. Of the three children in the bedrooms down the hall."
+"I am, in my small private register, also proud. Not of the signature. Of the thirteen years between the signature and the speech. Of the family that kept the household at Finnøy across those years. Of the two of us at the small parlor-corner for the '95 arithmetic. Of the three children in the bedrooms down the hall."
 
 "Olav."
 

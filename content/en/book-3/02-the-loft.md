@@ -41,7 +41,7 @@ His mother had done the turning. She had not announced it. She had simply done i
 
 Olava saw the bed. She did not, on the seeing, say anything.
 
-She went to the window. She looked at the channel. The channel in the late afternoon of the fourteenth of March had the particular grey-light Olav had been carrying in his head for fifteen months at sea — flat, low, the early-evening grey of a Norwegian island before the lamps came on.
+She went to the window. She looked at the channel. The channel in the late afternoon of the fourteenth of March had the particular gray-light Olav had been carrying in his head for fifteen months at sea — flat, low, the early-evening gray of a Norwegian island before the lamps came on.
 
 "Olav."
 
@@ -51,7 +51,7 @@ She went to the window. She looked at the channel. The channel in the late after
 
 He came to the window beside her.
 
-They stood at the window for some minutes without speaking. The Lindøy coast was a darker grey across the channel. A small boat — one of the Mosterøy fishermen, Olav guessed by the stem — was working its way home with a single lateen sail and the small steady purpose of a man who had been at his nets since dawn. The air at the window was cold.
+They stood at the window for some minutes without speaking. The Lindøy coast was a darker gray across the channel. A small boat — one of the Mosterøy fishermen, Olav guessed by the stem — was working its way home with a single lateen sail and the small steady purpose of a man who had been at his nets since dawn. The air at the window was cold.
 
 Olava took her hand from the window-sill and put it on his.
 
@@ -151,7 +151,7 @@ He closed his eyes.
 
 He slept against her shoulder, slowly, the small first sleep of a married man on the wedding night that, at the moment of the sleeping, had become — without ceremony, without the trumpets the picturing-mind would have put on the moment — the ordinary first night of an ordinary good marriage.
 
-In the kitchen below, his mother and Mrs. Lindøy washed the last of the cake-plates and put them away in the cupboard and turned down the lamp and went each to her own arrangement for the night — Mrs. Lindøy to the back room with the captain, Olav's mother to the side bed with Jens — and the house at Finnøy on the night of the fourteenth of March, 1883, held in its quiet the new married couple and the four parents who had given them to each other and the small Marit-and-Eirik party who had bedded down in the parlour with cushions, and the wedding day passed at last into the wedding's first night, which was the night the marriage began for real.
+In the kitchen below, his mother and Mrs. Lindøy washed the last of the cake-plates and put them away in the cupboard and turned down the lamp and went each to her own arrangement for the night — Mrs. Lindøy to the back room with the captain, Olav's mother to the side bed with Jens — and the house at Finnøy on the night of the fourteenth of March, 1883, held in its quiet the new married couple and the four parents who had given them to each other and the small Marit-and-Eirik party who had bedded down in the parlor with cushions, and the wedding day passed at last into the wedding's first night, which was the night the marriage began for real.
 
 The bark *Semiramis,* by Brun's letter to Olav at the end of February, had lifted Bergen on the morning of the previous Friday for the run to Calcutta with a different first mate.
 

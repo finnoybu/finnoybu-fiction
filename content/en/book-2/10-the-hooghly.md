@@ -13,7 +13,7 @@ The pilot came aboard at nine — a small brown man of perhaps fifty with an Eng
 
 "Good," Brun said.
 
-And so they began, under a pilot's hand, the long winding passage up the Hooghly that Olav had read about in the grey-covered handbook at Stavanger eighteen months before.
+And so they began, under a pilot's hand, the long winding passage up the Hooghly that Olav had read about in the gray-covered handbook at Stavanger eighteen months before.
 
 The handbook had said that the Hooghly was the deadliest river in the world for a sailing ship. It had, when he had read it at Mrs. Kindingstad's kitchen table in February 1880, seemed an exaggeration of the kind handbooks were in the habit of making about foreign rivers; a river was a river, and the Thames — which Olav had not seen but had read about — had been handled by sailing ships for three hundred years without losing most of them. The handbook had given him the figures anyway. The James and Mary shoal, four miles of tidal sand below Calcutta, had on its bottom perhaps two hundred European wrecks. The bore — the tidal wave that came up the river on the rising tide twice a month at the springs — could, on a bad day, drive a fully-rigged ship sideways onto a mud bank and leave her there to break up with the ebb. The current ran at up to six knots. The channel moved between monsoons. A Hooghly pilot was the best-paid pilot in Asia; this was not, the handbook had noted dryly, because the pilots had strong unions.
 
@@ -125,7 +125,7 @@ The next morning they took the third flood up the river to Garden Reach, and at 
 
 Olav, at the foredeck with the rest of the common watch, took off his cap for a moment and looked at the city.
 
-The city was, from the mooring, a long low line of buildings along a river that was wider here than it had been below Diamond Harbour, and the line of buildings had in it the particular composition a man from Northern Europe had not, until this moment, seen — a row of grand white classical fronts, like London or Paris but hotter, broken at intervals by temples with the kind of profile Olav had last seen in a hand-coloured book in the library at the navigation school — and behind the line of buildings, behind it at a depth he could not, from the mooring, estimate, the city rose in roofs and dust into a distance that disappeared into the afternoon haze.
+The city was, from the mooring, a long low line of buildings along a river that was wider here than it had been below Diamond Harbour, and the line of buildings had in it the particular composition a man from Northern Europe had not, until this moment, seen — a row of grand white classical fronts, like London or Paris but hotter, broken at intervals by temples with the kind of profile Olav had last seen in a hand-colored book in the library at the navigation school — and behind the line of buildings, behind it at a depth he could not, from the mooring, estimate, the city rose in roofs and dust into a distance that disappeared into the afternoon haze.
 
 He put his cap back on.
 

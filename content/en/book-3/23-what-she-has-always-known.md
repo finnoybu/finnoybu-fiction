@@ -155,7 +155,7 @@ She put it in the small outgoing tray.
 
 At five o'clock the children came home from the parish school.
 
-Anna came in first — thirteen, tall, with her grandfather's dark hair still dark and her mother's eyes still grey — and Jens the younger came in behind her carrying Ingrid on his back (Ingrid at eight preferring, for the late-afternoon walk home, to ride on her eleven-year-old brother's shoulders in a small household-ritual that had been running since Jens was nine and Ingrid was six). Anna came to Olava at the writing-room with the small school-slate Olava had been using with her on the Tuesdays.
+Anna came in first — thirteen, tall, with her grandfather's dark hair still dark and her mother's eyes still gray — and Jens the younger came in behind her carrying Ingrid on his back (Ingrid at eight preferring, for the late-afternoon walk home, to ride on her eleven-year-old brother's shoulders in a small household-ritual that had been running since Jens was nine and Ingrid was six). Anna came to Olava at the writing-room with the small school-slate Olava had been using with her on the Tuesdays.
 
 "Mother."
 

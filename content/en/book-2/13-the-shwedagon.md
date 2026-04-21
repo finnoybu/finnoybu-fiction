@@ -27,7 +27,7 @@ The bark turned east for Rangoon.
 
 They made the mouth of the Rangoon river on the eleventh day.
 
-The weather had held — the tail end of the southwest monsoon was still giving them a reliable quarter-breeze, and the run across the Bay of Bengal had been an easy one at an average of nine knots — and they picked up the Rangoon pilot at the sea-buoy on a Monday morning under a high pale sky. The pilot this time was a Burmese man of about thirty with an English of a slightly different cadence from Banerjee's; his name was Maung Thein; he took the bark up the river with the same quiet practised economy the Hooghly pilot had used, on a river that was different from the Hooghly — shorter, less crowded, more trees on the banks — and by the Tuesday afternoon the *Semiramis* was at her mooring off the timber-yards on the Pazundaung creek, a mile and a half below the city of Rangoon and a mile north of the point at which the Irrawaddy and the Pegu rivers joined to make a broad brown estuary that ran out past Elephant Point to the Andaman Sea.
+The weather had held — the tail end of the southwest monsoon was still giving them a reliable quarter-breeze, and the run across the Bay of Bengal had been an easy one at an average of nine knots — and they picked up the Rangoon pilot at the sea-buoy on a Monday morning under a high pale sky. The pilot this time was a Burmese man of about thirty with an English of a slightly different cadence from Banerjee's; his name was Maung Thein; he took the bark up the river with the same quiet practiced economy the Hooghly pilot had used, on a river that was different from the Hooghly — shorter, less crowded, more trees on the banks — and by the Tuesday afternoon the *Semiramis* was at her mooring off the timber-yards on the Pazundaung creek, a mile and a half below the city of Rangoon and a mile north of the point at which the Irrawaddy and the Pegu rivers joined to make a broad brown estuary that ran out past Elephant Point to the Andaman Sea.
 
 The crew had four days at Rangoon while the bark's rice went aboard and the indigo-casks were shifted to make room for the Burmese rice that would form the bulk of the homeward cargo.
 
@@ -85,7 +85,7 @@ The stalls were hung with a kind of small white paper prayer-flag that Olav had 
 
 At the top the pagoda platform opened.
 
-It was paved in stone. It was enormous. At its centre was the main stupa — the gold bell-shape rising perhaps three hundred feet from the platform to the tip of the hti, the gold catching the morning sun at an intensity Olav had not thought gold could catch — and around the main stupa were dozens of smaller stupas and shrines and prayer-halls, each with its own candles and its own flowers and its own people kneeling at its base.
+It was paved in stone. It was enormous. At its center was the main stupa — the gold bell-shape rising perhaps three hundred feet from the platform to the tip of the hti, the gold catching the morning sun at an intensity Olav had not thought gold could catch — and around the main stupa were dozens of smaller stupas and shrines and prayer-halls, each with its own candles and its own flowers and its own people kneeling at its base.
 
 Olav stopped at the east gate. He took off his cap, because the Burmese practice was that a man took off his cap at the gate, and because a man from Finnøy who had been to the Hestby church with his mother on every Sunday of his childhood did not, at twenty-three, need to be told that there was a gate one did not cross with one's head covered.
 

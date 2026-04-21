@@ -53,7 +53,7 @@ Olava did not, across the months, complain.
 
 She did the small writing-desk work she wanted to do as long as she could. In early September she wrote the letters she wanted to write — a letter to each grandchild, a letter to Anna, a letter to Jens the younger and Ragnhild, a letter to Ingrid (to be opened after), and a letter to Olav (to be opened after). She sealed them. She laid them in the small top drawer of the writing-desk.
 
-She told Olav at the small parlour-corner on the evening of the ninth of September that the letters existed.
+She told Olav at the small parlor-corner on the evening of the ninth of September that the letters existed.
 
 She did not tell him which one was his.
 
@@ -193,7 +193,7 @@ Then he said, in the small quiet voice:
 
 "Now send Ingrid and Mrs Pettersen back in. I am tired."
 
-He went to the door. He called them in. He sat, again, at the small chair beside the bed. He held her hand through the next hour at which she slept. At ten he went to the parlour and lay on the small couch — he had been sleeping at the couch for the week — and he slept, fitfully, until the call Ingrid made at the door at three in the morning.
+He went to the door. He called them in. He sat, again, at the small chair beside the bed. He held her hand through the next hour at which she slept. At ten he went to the parlor and lay on the small couch — he had been sleeping at the couch for the week — and he slept, fitfully, until the call Ingrid made at the door at three in the morning.
 
 She died at seven-twelve in the morning of the fourth of November, 1924, with Olav at the left hand and Ingrid at the right and Mrs Pettersen at the foot of the bed.
 
@@ -213,7 +213,7 @@ The sentences of the Norwegian Lutheran burial service were the sentences Pastor
 
 Olav did not, at the graveside, cry.
 
-He had, across the mornings of the week since Olava's death, already done the crying he had to do. The crying had been at the small parlour-corner with the door closed, on the small Tuesday afternoon he had been alone at the house for an hour while Ingrid had gone to the Lindøy side. The crying had lasted about ten minutes. It had been the first specific crying of his life.
+He had, across the mornings of the week since Olava's death, already done the crying he had to do. The crying had been at the small parlor-corner with the door closed, on the small Tuesday afternoon he had been alone at the house for an hour while Ingrid had gone to the Lindøy side. The crying had lasted about ten minutes. It had been the first specific crying of his life.
 
 It had been enough.
 
@@ -229,7 +229,7 @@ He took out the six small sealed letters.
 
 He found the one with his name on it.
 
-He took it to the small parlour-corner.
+He took it to the small parlor-corner.
 
 He broke the wafer.
 
@@ -237,7 +237,7 @@ He read Olava's letter.
 
 It was three pages.
 
-It said the things a wife of Olava's kind said in a last letter to the husband she had loved for forty-four years. It named the small moments of the marriage she wanted Olav to remember. It named the small particular kitchen-exchanges at which she had, in the moment, not named her feeling and had kept the feeling for this letter. It named the Christmas Eve of 1882 at the midnight bench as the small central moment of the marriage's form. It named the night at the loft in April of '85 — the *loft again* night — as the physical moment of the marriage's deepest consummation. It named the Tuesday afternoon in November of 1897 at the kitchen when the form had been tested and had held. It named the Tuesday afternoon in March of 1911 at the parlour-corner when the form had been tested a second time and had held again.
+It said the things a wife of Olava's kind said in a last letter to the husband she had loved for forty-four years. It named the small moments of the marriage she wanted Olav to remember. It named the small particular kitchen-exchanges at which she had, in the moment, not named her feeling and had kept the feeling for this letter. It named the Christmas Eve of 1882 at the midnight bench as the small central moment of the marriage's form. It named the night at the loft in April of '85 — the *loft again* night — as the physical moment of the marriage's deepest consummation. It named the Tuesday afternoon in November of 1897 at the kitchen when the form had been tested and had held. It named the Tuesday afternoon in March of 1911 at the parlor-corner when the form had been tested a second time and had held again.
 
 It said, in the small last paragraph:
 

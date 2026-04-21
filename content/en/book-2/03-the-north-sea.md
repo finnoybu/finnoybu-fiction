@@ -9,7 +9,7 @@ The barometer had been falling since the second dog-watch on the third day.
 
 Olav had not, in the forecastle at supper, known it was falling; he had noticed only that the air had gone still by the time he came up for his watch at eight bells of the afternoon, and that Sundberg's face had gone still with it. Stillness in the bosun was the way Sundberg's face registered information the rest of the ship had not yet been told. Olav had learned the look in one day. He set his hands to the brace fall he was coiling and did not ask.
 
-By four bells of the first dog-watch the sky had changed. The western horizon had gone the colour of an old coin that had been under water. The bark ran on, her course a point south of west, the air around her going warm and thick and the wind light enough that she was making no more than four knots and had to be coaxed at the spokes to hold her heading at all. Captain Brun came up at five bells, looked at the glass in the binnacle, looked at Aarseth, looked at the western sky, and said, without raising his voice above the pitch of a man giving a piece of household information:
+By four bells of the first dog-watch the sky had changed. The western horizon had gone the color of an old coin that had been under water. The bark ran on, her course a point south of west, the air around her going warm and thick and the wind light enough that she was making no more than four knots and had to be coaxed at the spokes to hold her heading at all. Captain Brun came up at five bells, looked at the glass in the binnacle, looked at Aarseth, looked at the western sky, and said, without raising his voice above the pitch of a man giving a piece of household information:
 
 "Mr. Aarseth. Strike the royals and the flying jib. Reef the topgallants to the second band. We will have weather in three hours."
 
@@ -59,7 +59,7 @@ The weather held through the night.
 
 At eight bells of the morning watch the wind began to back round from southwest through west toward northwest, and the sea, as it will when the wind backs fast, went confused for an hour — cross-seas from the old direction fighting cross-seas from the new — and the bark rolled heavily enough that a man on deck had to hold to something at all times or fall. Olav held to the life-line that had been rigged at first light along the main bitt. He held it with his left hand and did his work with his right. He had done this on the *Sigrid* in the Atlantic in '76. His hand remembered the work the way a hand remembers a prayer that has not been said in five years — uncertainly for a moment, then completely.
 
-By noon the wind had settled onto northwest at about thirty knots and the sky, overhead, had cleared to a grey that had the depth of a sky that has been emptied. The sun was a dim bright thing behind the grey. The mate sent half the watch below to change into dry clothes.
+By noon the wind had settled onto northwest at about thirty knots and the sky, overhead, had cleared to a gray that had the depth of a sky that has been emptied. The sun was a dim bright thing behind the gray. The mate sent half the watch below to change into dry clothes.
 
 Olav went below. He stripped the wet wool. He put on dry wool. He came back on deck.
 

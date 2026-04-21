@@ -27,7 +27,7 @@ Torgerson the steward was one of the eighteen.
 
 Torgerson had not, since the first morning of the voyage, spoken more than the necessary to any man on board.
 
-He was thirty. He was from Arendal. He had been a steward on Bergen ships for seven years. He ladled coffee at six bells and bread at eight, he kept the captain's cabin-linens, he ran the galley boy to ground when the galley boy ran elsewhere. He was missing his left small finger at the second joint; Olav had noticed that on the first day. He did not, in the eight weeks Olav had been on the *Semiramis,* smile. Olav had assumed, for the first three weeks, that this was a steward's face — that stewards were a brotherhood of men who had decided, some years into the trade, that smiling was a form of labour that did not pay — and he had not thought about it further.
+He was thirty. He was from Arendal. He had been a steward on Bergen ships for seven years. He ladled coffee at six bells and bread at eight, he kept the captain's cabin-linens, he ran the galley boy to ground when the galley boy ran elsewhere. He was missing his left small finger at the second joint; Olav had noticed that on the first day. He did not, in the eight weeks Olav had been on the *Semiramis,* smile. Olav had assumed, for the first three weeks, that this was a steward's face — that stewards were a brotherhood of men who had decided, some years into the trade, that smiling was a form of labor that did not pay — and he had not thought about it further.
 
 On the twenty-eighth day out of Cape Town, at six bells of the afternoon watch, Torgerson came to Olav at the main fife rail, where Olav was coiling, and he said, in the voice of a man making a business proposal:
 
@@ -55,7 +55,7 @@ Torgerson was standing at a polite distance — not close enough to share a conv
 
 Olav considered the proposal.
 
-He did not, himself, smoke. He had smoked twice at Mrs. Kindingstad's at the dinner-table on Sundays when his landlady's husband had pressed a pipe into his hand, and he had not enjoyed either occasion. But tobacco on a bark was not only for smoking. Tobacco was the currency a common seaman used below the level of wages — it was how a man paid another man for a small favour, or bought his way into a card game, or acquired a pair of dry socks from a man whose sea-chest was better stocked than his own. Four ounces a week of good Brazilian tobacco, paid to a common seaman who was also a navigator, was a currency Olav could spend in the forecastle across the next fourteen months in ways that would compound.
+He did not, himself, smoke. He had smoked twice at Mrs. Kindingstad's at the dinner-table on Sundays when his landlady's husband had pressed a pipe into his hand, and he had not enjoyed either occasion. But tobacco on a bark was not only for smoking. Tobacco was the currency a common seaman used below the level of wages — it was how a man paid another man for a small favor, or bought his way into a card game, or acquired a pair of dry socks from a man whose sea-chest was better stocked than his own. Four ounces a week of good Brazilian tobacco, paid to a common seaman who was also a navigator, was a currency Olav could spend in the forecastle across the next fourteen months in ways that would compound.
 
 He understood, also, that Torgerson's proposal was not really about tobacco.
 
@@ -83,7 +83,7 @@ Olav thought about this for a beat.
 
 Torgerson looked at him.
 
-His face did the thing his face had not, in eight weeks, done: it moved. The left corner of the mouth rose by perhaps a quarter of an inch. The rise was not a smile. It was the small weathered acknowledgement of a steward who had, at twenty-eight or twenty-nine, decided that smiling was not labour he would pay, and who was, at thirty, letting the rule lapse for a beat because the situation had earned the lapse.
+His face did the thing his face had not, in eight weeks, done: it moved. The left corner of the mouth rose by perhaps a quarter of an inch. The rise was not a smile. It was the small weathered acknowledgment of a steward who had, at twenty-eight or twenty-nine, decided that smiling was not labor he would pay, and who was, at thirty, letting the rule lapse for a beat because the situation had earned the lapse.
 
 "Two and two," Torgerson said. "Good."
 
@@ -99,13 +99,13 @@ Olav came in with the slate. He set it on the bench. Torgerson put down the rag 
 
 "First lesson," Olav said. "Reading. Before we touch the sight-taking. You read a chronometer backwards."
 
-He explained, with the small slate in front of them, the method he had given the boy Odegaard in Biscay. Second first. Then minute. Then hour. The eye held each number before it moved on; the eye did not double back. The eye did not flick. The eye practised the backwards reading on the cabin clock until the backwards reading was what the eye did without asking.
+He explained, with the small slate in front of them, the method he had given the boy Odegaard in Biscay. Second first. Then minute. Then hour. The eye held each number before it moved on; the eye did not double back. The eye did not flick. The eye practiced the backwards reading on the cabin clock until the backwards reading was what the eye did without asking.
 
 Torgerson listened without interrupting. He had, Olav noted, the stillness of a man who had been a steward for seven years and had therefore learned to listen at a depth that most men did not, because a steward who did not listen at depth was a steward who made expensive mistakes with the captain's coffee. He listened. He asked, at the end of the explanation, one question. The question was the question Olav had asked Nilson in the first week at Mrs. Kindingstad's.
 
 "What if the eye reads wrong."
 
-"Then you take the sight again in half a minute. A noon sight is not a single sight. A man takes four or five at noon and averages them. The wrong reading corrects itself in the averaging, as long as the wrong reading is not the same kind of wrong as the other readings. That is why you practise the backwards method until the eye does it automatically — because when the eye does it automatically, the eye does not bring its fears to the reading. The fears are what make the readings wrong the same way four times."
+"Then you take the sight again in half a minute. A noon sight is not a single sight. A man takes four or five at noon and averages them. The wrong reading corrects itself in the averaging, as long as the wrong reading is not the same kind of wrong as the other readings. That is why you practice the backwards method until the eye does it automatically — because when the eye does it automatically, the eye does not bring its fears to the reading. The fears are what make the readings wrong the same way four times."
 
 Torgerson nodded.
 
@@ -121,7 +121,7 @@ Olav picked up the slate. He stood at the galley door for a moment.
 
 "The small finger."
 
-"A dogfish at Arendal harbour when I was eight. It took the joint before I got my hand out of the water. The knuckle is good. I can still hold a knife. A man can lose a joint of a finger and go on being a steward."
+"A dogfish at Arendal harbor when I was eight. It took the joint before I got my hand out of the water. The knuckle is good. I can still hold a knife. A man can lose a joint of a finger and go on being a steward."
 
 "Yes."
 

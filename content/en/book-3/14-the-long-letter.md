@@ -27,7 +27,7 @@ She walked up the path to the house with the wallet under her arm.
 
 She did not, on the walk up, open the wallet.
 
-She had decided, by the small standing discipline of her own, that the long letters of the voyage — and the wallet's weight told her at the jetty that this was a long letter — were to be opened at the writing-desk in her old Lindøy bedroom (which Mrs. Lindøy had kept for her exactly as it had been at the engagement, with the writing-desk under the window and the small leather folder on the shelf), not at the kitchen door or in the parlour.
+She had decided, by the small standing discipline of her own, that the long letters of the voyage — and the wallet's weight told her at the jetty that this was a long letter — were to be opened at the writing-desk in her old Lindøy bedroom (which Mrs. Lindøy had kept for her exactly as it had been at the engagement, with the writing-desk under the window and the small leather folder on the shelf), not at the kitchen door or in the parlor.
 
 She came up the path. She greeted her mother at the door. She told Mrs. Lindøy that the wallet contained the Brooklyn letter and that she would be at the writing-desk for the next hour and that she would come down to the kitchen at the small bell Mrs. Lindøy rang at one-thirty for the noon-dinner. Mrs. Lindøy nodded. She went back to her stove.
 
@@ -117,7 +117,7 @@ She went down to the harbor.
 
 By half past five she was at the kitchen at Finnøy.
 
-Mrs. Hestby was at the stove. Jens was at the parlour with the Stavanger newspaper. The kitchen was warm — the small evening warmth of the Hestby household at half past five on a February evening — and Mrs. Hestby looked up at her as she came in.
+Mrs. Hestby was at the stove. Jens was at the parlor with the Stavanger newspaper. The kitchen was warm — the small evening warmth of the Hestby household at half past five on a February evening — and Mrs. Hestby looked up at her as she came in.
 
 "You came back."
 
@@ -147,7 +147,7 @@ She considered.
 
 She wrote, below, in the small slightly different hand she used for the entries that were the ledger's body rather than its index:
 
-> *The letter is six paragraphs across six sheets. Each paragraph is a description of a man who has been at the bark with him for the eighteen months. The captain (Thoresen — described in a paragraph that is the most extended description of any captain he has given me in any letter in his life). The mate (Tellefsen — generous, second-rank). The bosun (Holm — judgement). The steward (Hov — devotion, with a story about a Cornish whiskey-bottle that he had not, in any earlier letter, told me). And himself — a paragraph on himself which is the paragraph the letter was written for.*
+> *The letter is six paragraphs across six sheets. Each paragraph is a description of a man who has been at the bark with him for the eighteen months. The captain (Thoresen — described in a paragraph that is the most extended description of any captain he has given me in any letter in his life). The mate (Tellefsen — generous, second-rank). The bosun (Holm — judgment). The steward (Hov — devotion, with a story about a Cornish whiskey-bottle that he had not, in any earlier letter, told me). And himself — a paragraph on himself which is the paragraph the letter was written for.*
 >
 > *The paragraph on himself names — for the first time in any letter or conversation between us — that he has, by the eighteen months and by the assessments of three captains and a bosun and a notebook on a bookshelf, become the kind of first mate who will be a captain before he is forty. He says the captaincy is the trade he has walked into. He says the trade has done it to him. He says he will not, in our marriage, have the option of not being a captain. He says the man who comes home in April will be a different man from the man who left in October of '83.*
 >
@@ -193,13 +193,13 @@ She wrote, on the first sheet, the small ordinary acknowledgment of the receivin
 
 She wrote, on the second sheet, the answer to the captaincy. She said that she had — across the three years of the engagement and the one and a half of the marriage — been adding the new shapes the small careful arrival of new evidence had asked her to add, and that the captaincy was the next shape, and that she was adding it. She said the addition was not a thing she was doing reluctantly; she said she had, in some part of herself she had not previously been able to articulate, been waiting since the November-Monday signing of '80 for the captaincy to arrive as the piece of him she had not yet been able to add. She said she had, by the long letter, now added it.
 
-She wrote, on the third sheet, the note about how the captaincy would change the household. She said that the cottage Olav's uncle had built across the spring of '84 and finished in the autumn would be, by the small careful arithmetic she had been doing across the winter, the household's main residence rather than its small honeymoon-house — that she had, since the Christmas letter of '84 in which Olav had described the cottage's roof going on, been quietly preparing for the cottage to be the household of a captain at intervals at home rather than a household of a husband always at home. She said she had moved her writing-desk in her head from the small upstairs bedroom at Mrs. Hestby's to the small parlour-corner at the cottage where the desk would, by the spring's planning, sit. She said she had moved the writing-desk in her head because she had understood, since the autumn, that the cottage was going to be the household the captaincy required, and the writing-desk was the household's architectural anchor.
+She wrote, on the third sheet, the note about how the captaincy would change the household. She said that the cottage Olav's uncle had built across the spring of '84 and finished in the autumn would be, by the small careful arithmetic she had been doing across the winter, the household's main residence rather than its small honeymoon-house — that she had, since the Christmas letter of '84 in which Olav had described the cottage's roof going on, been quietly preparing for the cottage to be the household of a captain at intervals at home rather than a household of a husband always at home. She said she had moved her writing-desk in her head from the small upstairs bedroom at Mrs. Hestby's to the small parlor-corner at the cottage where the desk would, by the spring's planning, sit. She said she had moved the writing-desk in her head because she had understood, since the autumn, that the cottage was going to be the household the captaincy required, and the writing-desk was the household's architectural anchor.
 
 She wrote, in the closing paragraph:
 
-> *I am, by my own reading of your letter, the wife of a captain-to-be. I have known since the engagement that you were on the captain's path. I have known it the way a woman ashore knows what she has agreed to before she has the words for what she has agreed to. I have, since the engagement, been the wife of a captain-to-be without knowing the phrase for what I was. The phrase has, by the long letter, arrived. I will, from the receiving of the long letter forward, use the phrase for myself. I will not use it aloud at the Finnøy kitchen or at the Lindøy kitchen or at the cottage's parlour-corner; the phrase is not the kind of phrase the kitchens are going to use. I will use it for myself.*
+> *I am, by my own reading of your letter, the wife of a captain-to-be. I have known since the engagement that you were on the captain's path. I have known it the way a woman ashore knows what she has agreed to before she has the words for what she has agreed to. I have, since the engagement, been the wife of a captain-to-be without knowing the phrase for what I was. The phrase has, by the long letter, arrived. I will, from the receiving of the long letter forward, use the phrase for myself. I will not use it aloud at the Finnøy kitchen or at the Lindøy kitchen or at the cottage's parlor-corner; the phrase is not the kind of phrase the kitchens are going to use. I will use it for myself.*
 >
-> *Come home, captain-to-be. The cottage will be ready. The kitchen will be warm. The desk will be at the parlour-corner. The two of us will be the two of us we are going to be for the rest of the marriage's years.*
+> *Come home, captain-to-be. The cottage will be ready. The kitchen will be warm. The desk will be at the parlor-corner. The two of us will be the two of us we are going to be for the rest of the marriage's years.*
 >
 > *Yours, Olava.*
 

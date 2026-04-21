@@ -15,7 +15,7 @@ His father was at the workbench on a repair for a Mosterøy hand. He looked up b
 
 Olav was alone at the shed.
 
-He took the small leather wallet from the inside pocket of his coat. He had brought it down from the parlour cupboard the previous evening at his mother's quiet suggestion. It was the wallet he had used for his school papers as a boy.
+He took the small leather wallet from the inside pocket of his coat. He had brought it down from the parlor cupboard the previous evening at his mother's quiet suggestion. It was the wallet he had used for his school papers as a boy.
 
 He went to the workbench. He knelt at the underside. He slid his hand into the small drawer under the bench.
 
@@ -137,7 +137,7 @@ They slept.
 
 The summer of '85 went at the pace a Finnøy summer went at a married household's first year.
 
-Olav was at the boat-shed at his father's from seven to noon on most weekdays. He was at the cottage's small workbench in the afternoons, working on the small projects the cottage itself still required — the small adjustment to the kitchen door, the small shelf Olava wanted at the small parlour-corner, the small repair to the west wall where a stone had settled. He was at the small Lindøy jetty on most Saturdays for the small Lindøy visits the Christmas-of-'79 agreement had required the marriage to keep across the years. He was, at the kitchen table at the cottage at suppers, with Olava.
+Olav was at the boat-shed at his father's from seven to noon on most weekdays. He was at the cottage's small workbench in the afternoons, working on the small projects the cottage itself still required — the small adjustment to the kitchen door, the small shelf Olava wanted at the small parlor-corner, the small repair to the west wall where a stone had settled. He was at the small Lindøy jetty on most Saturdays for the small Lindøy visits the Christmas-of-'79 agreement had required the marriage to keep across the years. He was, at the kitchen table at the cottage at suppers, with Olava.
 
 Olava was at the cottage's kitchen for the hours he was at the boat-shed, and at Mrs Hestby's kitchen for one afternoon a week, and at the small parish work Pastor Kleven's wife had found for her by the middle of June — the reading-help Mrs Kleven had arranged at the parish school where Olava had begun to teach the smallest children their letters on the Tuesday and Friday mornings. The reading-help was, by Mrs Kleven's judgment, Olava's small gift — she had been reading and writing at a high standard since she was nine, and the parish had identified her as the woman who could help the five-year-olds at the small quiet pace they needed — and it gave Olava two mornings a week of work outside the household that had become, across the first summer, the addition to her life at the cottage that made the cottage the cottage rather than the extension of Mrs Hestby's kitchen.
 
@@ -223,7 +223,7 @@ He registered it.
 
 ---
 
-At the end of September, on the small Sunday evening of the last Sunday of the month, Olav and Olava sat at the small parlour-corner of the cottage after Jens and Mrs Hestby had gone back up the lane from the small Sunday supper.
+At the end of September, on the small Sunday evening of the last Sunday of the month, Olav and Olava sat at the small parlor-corner of the cottage after Jens and Mrs Hestby had gone back up the lane from the small Sunday supper.
 
 Olava said, in the small quiet voice she used when she had a thing to say:
 
@@ -273,7 +273,7 @@ He said:
 
 He took her hand. She let him.
 
-They sat at the small parlour-corner for some minutes without speaking.
+They sat at the small parlor-corner for some minutes without speaking.
 
 ---
 

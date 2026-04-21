@@ -31,7 +31,7 @@ The men went up.
 
 ---
 
-By six bells the grey had come up in the east and the Norwegian coast was a line under it. Sundberg had had them sweating up the topgallants, then the royals on the foremast — the main royals stayed furled until the wind decided what it was doing — and then a round of small corrections at the braces as the bark laid her course a point further south. By the time the first real light came on the rigging, Olav had done the work of an hour and a half, and the work had done what work at sea does for a man: it had put him in his body.
+By six bells the gray had come up in the east and the Norwegian coast was a line under it. Sundberg had had them sweating up the topgallants, then the royals on the foremast — the main royals stayed furled until the wind decided what it was doing — and then a round of small corrections at the braces as the bark laid her course a point further south. By the time the first real light came on the rigging, Olav had done the work of an hour and a half, and the work had done what work at sea does for a man: it had put him in his body.
 
 The *Semiramis* handled differently from the *Sigrid*. She was longer in the stride, heavier at the helm, slower to answer. The main yards — the course yards — were over eighty feet long; the royal yards were half the weight of the topgallants on the brig. A man climbing her went up further and found the sail smaller when he got there. The footropes were newer than the brig's had been. The jackstay was oak. The ship had been built in Arendal three years before the voyage she was now making, and she felt, under a hand, like a ship still in the first decade of her thinking.
 
@@ -73,7 +73,7 @@ The afternoon watch took Olav aloft. The mate sent him — it was not Sundberg's
 
 He had not, until this afternoon, been at the main topgallant of a deep-water bark. He had been at the truck of a brig; he had been at the main topgallant of a coaster. The *Semiramis*'s main topgallant was a different thing. He came up the main shrouds to the top, climbed over the futtocks, went up the topmast shrouds to the crosstrees, climbed over those, went up the topgallant shrouds to the topgallant yard. He was, by then, perhaps a hundred feet above the deck. The bark was heeling perhaps eight degrees to starboard on the steady southwesterly. The horizon — seen from where he was — was much further away than the horizon he had been looking at from the deck. The coast of Norway was no longer visible from the deck at all; from the topgallant yard, as he turned his head at the lift he had come to check, he could still see a thin blue thing on the port quarter that might have been the Jæren hills. It might also have been a cloud. He did not look at it for long.
 
-He checked the lift. It was tight. He hand-signalled the mate on the deck — thumb down, then flat palm — and the mate waved him down.
+He checked the lift. It was tight. He hand-signaled the mate on the deck — thumb down, then flat palm — and the mate waved him down.
 
 He did not go down immediately. He stood on the footrope for perhaps half a minute, with his belly on the yard and his arms hooked through the jackstay, and looked at the sea ahead.
 
@@ -139,7 +139,7 @@ He closed his eyes.
 
 He did not sleep for some time.
 
-When sleep came it came the way it came to men on the first night of a long voyage — not as rest, but as a version of the work that continued in a different form. He dreamt, or half-dreamt, of the topgallant yard and the gull and the empty water ahead, and when the bell rang at four bells for the middle watch he heard it with the part of his mind that had learned to hear bells even when the body was sleeping. The watch was not his. He turned his face into the canvas. The bark rolled once, gently, and settled again.
+When sleep came it came the way it came to men on the first night of a long voyage — not as rest, but as a version of the work that continued in a different form. He dreamed, or half-dreamed, of the topgallant yard and the gull and the empty water ahead, and when the bell rang at four bells for the middle watch he heard it with the part of his mind that had learned to hear bells even when the body was sleeping. The watch was not his. He turned his face into the canvas. The bark rolled once, gently, and settled again.
 
 He was, for the first time he could remember, exactly where he had meant to be.
 

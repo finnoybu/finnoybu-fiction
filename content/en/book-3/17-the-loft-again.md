@@ -169,7 +169,7 @@ Then she said, in the small quiet voice she had used at the Christmas bench:
 
 She crossed to the bed.
 
-She sat on the edge of the bed. She undid the small pearl button at the collar of her dress — the small grey wool dress her mother had been letting her borrow from the family's Sunday-best chest since the wedding — and she did this without ceremony, the way she had done at the wedding night in March of '83, with the small composed practical motions of a woman who had decided what she was going to do at what pace.
+She sat on the edge of the bed. She undid the small pearl button at the collar of her dress — the small gray wool dress her mother had been letting her borrow from the family's Sunday-best chest since the wedding — and she did this without ceremony, the way she had done at the wedding night in March of '83, with the small composed practical motions of a woman who had decided what she was going to do at what pace.
 
 She looked at Olav at the window.
 

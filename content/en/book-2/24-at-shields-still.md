@@ -171,7 +171,7 @@ He turned from the rail.
 
 ---
 
-At the *Norden* he did not, as he had in July of '81, write anything in the small harbour-log he kept.
+At the *Norden* he did not, as he had in July of '81, write anything in the small harbor-log he kept.
 
 He did not need to.
 
@@ -189,7 +189,7 @@ The *Norden* lifted Shields on the Tuesday morning tide.
 
 Haakon was at his boatswain's place. The Tyne went down under her bow. The crossing was ordinary. The *Norden* made Bergen on the Friday evening.
 
-The *Semiramis* did not make Bergen for another eight days after that — Brun had held her at Copenhagen for orders longer than the schedule had allowed for, which the Bergen customhouse was told by a Copenhagen cable when the *Norden* was at her Bergen quay — and Haakon, in the interim, had taken the Voss train on the Wednesday as he had planned and had walked on the Thursday morning back to the *Norden* along the back side of the customhouse, on the Strandgate, on the inland side of the harbour, from which he had not, for the whole of his walk, been able to see the customhouse quay or any ship tied at it.
+The *Semiramis* did not make Bergen for another eight days after that — Brun had held her at Copenhagen for orders longer than the schedule had allowed for, which the Bergen customhouse was told by a Copenhagen cable when the *Norden* was at her Bergen quay — and Haakon, in the interim, had taken the Voss train on the Wednesday as he had planned and had walked on the Thursday morning back to the *Norden* along the back side of the customhouse, on the Strandgate, on the inland side of the harbor, from which he had not, for the whole of his walk, been able to see the customhouse quay or any ship tied at it.
 
 He boarded the *Norden* at the stern gangway.
 

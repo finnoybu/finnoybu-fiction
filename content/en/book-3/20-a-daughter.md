@@ -47,7 +47,7 @@ Olav came into the cottage.
 
 Mrs Lindøy was at the kitchen. She stood aside at the door of the bedroom.
 
-Mrs Pettersen was packing her small midwife's bag at the small parlour-table. She looked up. She nodded once at Olav. She did not speak.
+Mrs Pettersen was packing her small midwife's bag at the small parlor-table. She looked up. She nodded once at Olav. She did not speak.
 
 Olav went into the bedroom.
 
@@ -69,7 +69,7 @@ He sat, carefully, on the edge of the bed beside her.
 
 He looked at the child.
 
-The child was the small new human creature of the kind he had, in his twenty-seven and three months, never before been this close to. She was very small. She was red at the cheeks and pale at the forehead. Her eyes were closed. Her hair, at the top of her head, was the dark hair Mrs Hestby had described — not the small pale-blond a Norwegian baby of the parish often had, but a definite small dark head, which Mrs Lindøy had said at the kitchen a moment before was the captain's hair-colour as he had been at his birth in 1817, her father's mother's record.
+The child was the small new human creature of the kind he had, in his twenty-seven and three months, never before been this close to. She was very small. She was red at the cheeks and pale at the forehead. Her eyes were closed. Her hair, at the top of her head, was the dark hair Mrs Hestby had described — not the small pale-blond a Norwegian baby of the parish often had, but a definite small dark head, which Mrs Lindøy had said at the kitchen a moment before was the captain's hair-color as he had been at his birth in 1817, her father's mother's record.
 
 The child was breathing.
 
@@ -185,7 +185,7 @@ Olav stayed at the garden-fence.
 
 He looked at the channel.
 
-The channel in the middle of the morning of the ninth of June was the small channel the cottage's view included — a narrow strip of grey-blue running between the island and the mainland, with the small Mosterøy coast a darker shape on the far side.
+The channel in the middle of the morning of the ninth of June was the small channel the cottage's view included — a narrow strip of gray-blue running between the island and the mainland, with the small Mosterøy coast a darker shape on the far side.
 
 He registered, at the channel:
 
@@ -221,7 +221,7 @@ Then he gave her back to Olava at the bed.
 
 The household came together at the cottage that afternoon for the small first family supper of the daughter's day.
 
-Mrs Lindøy, Marit, Eirik, Mrs Hestby, Jens, Olav. Olava stayed in the bedroom; the supper was brought to her on the small tray Mrs Hestby had prepared. The others ate at the cottage's small parlour-table that had been Mrs Hestby's writing-desk in the '60s.
+Mrs Lindøy, Marit, Eirik, Mrs Hestby, Jens, Olav. Olava stayed in the bedroom; the supper was brought to her on the small tray Mrs Hestby had prepared. The others ate at the cottage's small parlor-table that had been Mrs Hestby's writing-desk in the '60s.
 
 The supper was quiet.
 

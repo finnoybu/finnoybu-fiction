@@ -7,9 +7,9 @@ book: 3
 
 On the afternoon of the third Tuesday of September of 1938 Olav walked up to the Hestby church on the hill for the last specific visit he would make alone.
 
-He was eighty years and one month. The small thin walking-stick his uncle's son had carved for him ten years before was now the second leg he used for the uphill portion of any walk. The path up to the church was the same path he had walked five thousand times across the eighty years. He walked it slowly. The small autumn light at the path was the late-afternoon light of a third-Tuesday-of-September at the parish — the half-gold half-grey Norwegian light his eye had catalogued across eighty autumns.
+He was eighty years and one month. The small thin walking-stick his uncle's son had carved for him ten years before was now the second leg he used for the uphill portion of any walk. The path up to the church was the same path he had walked five thousand times across the eighty years. He walked it slowly. The small autumn light at the path was the late-afternoon light of a third-Tuesday-of-September at the parish — the half-gold half-gray Norwegian light his eye had catalogued across eighty autumns.
 
-He had not, across the six years since the birth of his great-grandson Olav the third in the spring of '34, done much traveling. He had been at the cottage's workbench in the mornings for as long as the mornings had let him; since the winter of '36 he had not been at the workbench with any regularity, because his hands had, at seventy-eight, begun to fail at the precision the workbench's work required. He did the reading at the parlour-corner in the afternoons. He went to the church on the Sundays with Ingrid. He went to the churchyard alone on the Tuesdays when he had — at the small accumulated register of his widower's calendar — the visit that the month required.
+He had not, across the six years since the birth of his great-grandson Olav the third in the spring of '34, done much traveling. He had been at the cottage's workbench in the mornings for as long as the mornings had let him; since the winter of '36 he had not been at the workbench with any regularity, because his hands had, at seventy-eight, begun to fail at the precision the workbench's work required. He did the reading at the parlor-corner in the afternoons. He went to the church on the Sundays with Ingrid. He went to the churchyard alone on the Tuesdays when he had — at the small accumulated register of his widower's calendar — the visit that the month required.
 
 This Tuesday was the last of them.
 
@@ -173,7 +173,7 @@ He drank the tea.
 
 He thanked her.
 
-He went to the small parlour-corner for the evening's reading.
+He went to the small parlor-corner for the evening's reading.
 
 ---
 
@@ -197,7 +197,7 @@ He blotted the page.
 
 He folded it once.
 
-He did not take it to the cottage that evening. He had decided, at the parlour-corner, that the small sheet would stay at the writing-desk drawer of the larger house until the moment his family found it after his death. The cottage drawer had its six items. This sheet was the sheet that belonged at the larger house — the sheet that would be found first, when the family came to settle the estate, in the first drawer they would open. The sheet would, by its own contents, direct them to the cottage drawer.
+He did not take it to the cottage that evening. He had decided, at the parlor-corner, that the small sheet would stay at the writing-desk drawer of the larger house until the moment his family found it after his death. The cottage drawer had its six items. This sheet was the sheet that belonged at the larger house — the sheet that would be found first, when the family came to settle the estate, in the first drawer they would open. The sheet would, by its own contents, direct them to the cottage drawer.
 
 The small archive would, at that moment, transmit.
 

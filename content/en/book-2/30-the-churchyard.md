@@ -133,7 +133,7 @@ Kleven went back into the church.
 
 Olav stood at the east wall of the churchyard for another minute.
 
-He looked down the slope toward the village and past the village toward the channel. The channel was grey. The Lindøy coast was a darker grey across it. On the Lindøy side — he could just see, with the eye of a man who had been looking across the channel all his life — was the Lindøy jetty. On the Lindøy jetty, in the fading afternoon, a small figure in a coat he did not, at this distance, have any reason to be able to identify might have been Olava. It might not. He did not know. She might be at the jetty because the day-before rites had taken her, at the afternoon, to walk down to the water; she might also be at the kitchen with her mother; she might also be in her room with Marit, doing the last quiet things a bride did alone.
+He looked down the slope toward the village and past the village toward the channel. The channel was gray. The Lindøy coast was a darker gray across it. On the Lindøy side — he could just see, with the eye of a man who had been looking across the channel all his life — was the Lindøy jetty. On the Lindøy jetty, in the fading afternoon, a small figure in a coat he did not, at this distance, have any reason to be able to identify might have been Olava. It might not. He did not know. She might be at the jetty because the day-before rites had taken her, at the afternoon, to walk down to the water; she might also be at the kitchen with her mother; she might also be in her room with Marit, doing the last quiet things a bride did alone.
 
 He decided he would not know which until he saw her at the altar the following morning.
 
@@ -251,7 +251,7 @@ He lay on his back in the loft bed.
 
 He listened to the house.
 
-The house was the house he had grown up in. His mother was in the kitchen banking the stove for the night, as she always did at half past ten. His father was at the parlour finishing the Stavanger newspaper, as he always did. The wind on the channel was the small light March wind of a clear evening. The Hestbye church at the top of the island was, at this hour, dark against the stars.
+The house was the house he had grown up in. His mother was in the kitchen banking the stove for the night, as she always did at half past ten. His father was at the parlor finishing the Stavanger newspaper, as he always did. The wind on the channel was the small light March wind of a clear evening. The Hestbye church at the top of the island was, at this hour, dark against the stars.
 
 He thought, briefly, of Olava at Lindøy across the channel, who was — he trusted — at this hour doing the equivalent of what he was doing, which was lying in her bed in her room and listening to her own house. He did not, in the thinking, try to imagine her more particularly than that. The more-particularly was, by the economy they had been building since Christmas of '82, not his to imagine. Tomorrow she would walk into the Hestbye church on her father's good arm, and he would see her coming up the aisle in the dress Mrs. Lindøy had been sewing for her since January, and the seeing would be the first time in his life he had seen her in that dress, and the seeing would be the wedding.
 

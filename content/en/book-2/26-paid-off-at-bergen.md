@@ -33,7 +33,7 @@ He came down the gangway.
 
 His father was at the foot of the gangway.
 
-His father was — Olav noted in the half-second before the embrace, because even at twenty-three with fifteen months of deep water in his pocket he was the son who registered things about his father before he allowed himself the embrace — older than he had been in June. The hair at the temples was more grey. The coat was the same coat he had been wearing in June at the Stavanger quay. The hand he put out to Olav was the hand that had been put on Olav's neck at the quay in Stavanger in June, and the hand was, Olav registered, a little less strong at the grip.
+His father was — Olav noted in the half-second before the embrace, because even at twenty-three with fifteen months of deep water in his pocket he was the son who registered things about his father before he allowed himself the embrace — older than he had been in June. The hair at the temples was more gray. The coat was the same coat he had been wearing in June at the Stavanger quay. The hand he put out to Olav was the hand that had been put on Olav's neck at the quay in Stavanger in June, and the hand was, Olav registered, a little less strong at the grip.
 
 Jens Hestby said:
 
@@ -145,7 +145,7 @@ Brun put his hands behind his back. He did not look at Olav when he spoke.
 
 He looked at Olav for the first time on the landing.
 
-The grey eyes had, at the hour of the landing, the quality he had given the name *satisfied* to, on the North Sea morning after the first storm.
+The gray eyes had, at the hour of the landing, the quality he had given the name *satisfied* to, on the North Sea morning after the first storm.
 
 "You will be a master, Hestby. Before you are forty. You will have your own ship and you will sign your own articles and your own captain's book. You will be a good master. I have watched four men do what you did in the last fifteen months. Three of them became masters. The fourth died in the South Atlantic in '69. I do not say this to flatter you; I say it because it is the small fact a captain who has been to sea for forty years owes the one navigator in fifteen months who has done what you have done. It is what I was told, by my own first master, in 1846. It is what I am telling you in 1882. That is the line."
 
@@ -211,7 +211,7 @@ He went down to the meal.
 
 On the Monday morning he took the coaster south.
 
-His parents came with him. His father had closed the boat-shed at Finnøy for ten days. His mother had closed the kitchen at Finnøy for ten days. The coaster took them down the coast in the October weather — grey, clear, cold — and they ate sandwiches his mother had brought from the rooming-house and drank coffee from a flask his father had brought from Bergen. The Norwegian coast unrolled. At six in the evening the coaster called at a small jetty on Rennesøy; at nine it called at Stavanger; at ten it called at Tau. At Tau they got off. They took the Lindøy smack across the channel in the last light.
+His parents came with him. His father had closed the boat-shed at Finnøy for ten days. His mother had closed the kitchen at Finnøy for ten days. The coaster took them down the coast in the October weather — gray, clear, cold — and they ate sandwiches his mother had brought from the rooming-house and drank coffee from a flask his father had brought from Bergen. The Norwegian coast unrolled. At six in the evening the coaster called at a small jetty on Rennesøy; at nine it called at Stavanger; at ten it called at Tau. At Tau they got off. They took the Lindøy smack across the channel in the last light.
 
 The Lindøy jetty came up.
 
@@ -277,7 +277,7 @@ Olava had gone to her own room an hour ago.
 
 Marit had gone to hers.
 
-His parents were at the spare bed in the back. The captain was in the parlour with a small glass of aquavit and the newspaper. His mother-in-law was in the kitchen banking the fire.
+His parents were at the spare bed in the back. The captain was in the parlor with a small glass of aquavit and the newspaper. His mother-in-law was in the kitchen banking the fire.
 
 The house at Lindøy in the October of 1882 was the quiet house Olav had carried in his head for fifteen months as the house he was coming home to.
 
@@ -309,7 +309,7 @@ He lay on his back in the loft bed.
 
 He listened to the house.
 
-The house was the house at Lindøy. The house had in it his parents in the back room, and Olava and Marit in theirs, and the captain in the parlour, and the captain's wife in the kitchen, and the small autumn October quiet of a Norwegian island house at ten in the evening.
+The house was the house at Lindøy. The house had in it his parents in the back room, and Olava and Marit in theirs, and the captain in the parlor, and the captain's wife in the kitchen, and the small autumn October quiet of a Norwegian island house at ten in the evening.
 
 Olava was a wall and a staircase and half a corridor away.
 

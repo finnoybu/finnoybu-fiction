@@ -13,7 +13,7 @@ He came across on the twenty-third in his father's boat alone.
 
 His father would come over the next afternoon with his mother on the coaster. Olav had volunteered to go ahead, and his mother had agreed, because his mother had understood that he wanted to be at Lindøy for the twenty-fourth's preparation rather than arriving at the table on the twenty-fourth with his parents already seated. His mother, as she had been managing to do since the arrival at Bergen in October, understood without being told.
 
-The channel on the twenty-third had a flat low grey sea and a light north wind and the kind of cold a Finnøy–Lindøy crossing had in late December. The boat took the hour and a half he had budgeted for it. He tied up at the Lindøy jetty at a quarter past eleven in the morning. Olava was at the jetty. Her wool coat was the wool coat. Her hair was coming loose under her cap the way it had been coming loose at the tag game at Landa three and a half years before.
+The channel on the twenty-third had a flat low gray sea and a light north wind and the kind of cold a Finnøy–Lindøy crossing had in late December. The boat took the hour and a half he had budgeted for it. He tied up at the Lindøy jetty at a quarter past eleven in the morning. Olava was at the jetty. Her wool coat was the wool coat. Her hair was coming loose under her cap the way it had been coming loose at the tag game at Landa three and a half years before.
 
 She put one hand on his face, briefly, and said:
 
@@ -31,7 +31,7 @@ He followed her up to the house.
 
 ---
 
-At the house Mrs. Lindøy had the stove going. The captain was at the kitchen table with his newspaper and his coffee. Marit was not yet home from a morning errand at the neighbour's. The small kitchen smelled of baking — the sour particular smell of a Lindøy Christmas cake, which was a slower bread than an ordinary Christmas bread, and which Mrs. Lindøy had been slow-rising since the Sunday.
+At the house Mrs. Lindøy had the stove going. The captain was at the kitchen table with his newspaper and his coffee. Marit was not yet home from a morning errand at the neighbor's. The small kitchen smelled of baking — the sour particular smell of a Lindøy Christmas cake, which was a slower bread than an ordinary Christmas bread, and which Mrs. Lindøy had been slow-rising since the Sunday.
 
 Mrs. Lindøy said, at the stove:
 
@@ -77,7 +77,7 @@ The quiet of the Lindøy kitchen at eleven-thirty on the twenty-third of Decembe
 
 The twenty-fourth was Christmas Eve.
 
-Olav's parents came across on the noon coaster. The Schmidts — Eirik's father and mother and his younger sister — came across on the afternoon boat from Mosterøy. The house at Lindøy had, by four in the afternoon, eight people in it and the particular small warmth a Norwegian island house had on the twenty-fourth of December with both stoves going and the candles lit in the parlour and the cake out on the table.
+Olav's parents came across on the noon coaster. The Schmidts — Eirik's father and mother and his younger sister — came across on the afternoon boat from Mosterøy. The house at Lindøy had, by four in the afternoon, eight people in it and the particular small warmth a Norwegian island house had on the twenty-fourth of December with both stoves going and the candles lit in the parlor and the cake out on the table.
 
 They had supper at six.
 
@@ -89,17 +89,17 @@ He registered the knee without commenting on it.
 
 ---
 
-After the supper the family moved to the parlour. The captain read, as he had read in each of the last forty Christmases of his life, a single short chapter from the Gospel of Luke. Mrs. Lindøy sang — the Schmidt girl joining her on the second verse — one Norwegian Christmas song of the old kind that the Lindøy women had been singing on Christmas Eve for three generations. Eirik, to the quiet small amusement of the table, added a tenor line on the third verse he had been teaching himself over the autumn. The captain, when the song was done, said:
+After the supper the family moved to the parlor. The captain read, as he had read in each of the last forty Christmases of his life, a single short chapter from the Gospel of Luke. Mrs. Lindøy sang — the Schmidt girl joining her on the second verse — one Norwegian Christmas song of the old kind that the Lindøy women had been singing on Christmas Eve for three generations. Eirik, to the quiet small amusement of the table, added a tenor line on the third verse he had been teaching himself over the autumn. The captain, when the song was done, said:
 
 "Good."
 
-Which was, at the Lindøy Christmas Eve parlour, the small formal captain's expression of approval that required no further comment.
+Which was, at the Lindøy Christmas Eve parlor, the small formal captain's expression of approval that required no further comment.
 
 They went to their rooms at ten.
 
 ---
 
-At half past eleven, when the house had gone quiet and the lamps in the parlour had been turned down and Olav's parents were in the back room and Marit was in the sewing room and the Schmidts were in Marit's room and the captain and his wife were in their own room, Olava came up the loft stairs in her nightdress with her wool coat thrown over her shoulders and she stopped at the top of the stairs and she said, quietly, into the dark of the loft:
+At half past eleven, when the house had gone quiet and the lamps in the parlor had been turned down and Olav's parents were in the back room and Marit was in the sewing room and the Schmidts were in Marit's room and the captain and his wife were in their own room, Olava came up the loft stairs in her nightdress with her wool coat thrown over her shoulders and she stopped at the top of the stairs and she said, quietly, into the dark of the loft:
 
 "Olav."
 
@@ -173,7 +173,7 @@ That was what he said.
 
 He did not ask *how do you know,* because he had understood at the first moment of her speaking that the how was a Christmas morning '79-style question that did not need to be asked. She knew the way she had known at the tag game that he was the man who had got out from under the cough. She knew by looking. She knew by the accumulated small evidence of the seventeen months of the folder. She knew the way a woman of her intelligence and her calibration, engaged for three years to a man at sea, knew the shape of what the man was not saying.
 
-He did not, also, say *there is a drawer with two letters in it now,* because to say that would have been to cross the line she had just drawn at the bench by saying *I am not asking what the more is.* She had drawn the line on purpose. The line was the line the marriage would sit on. His part, at the bench on Christmas Eve, was to honour the line by not crossing it. He honoured it.
+He did not, also, say *there is a drawer with two letters in it now,* because to say that would have been to cross the line she had just drawn at the bench by saying *I am not asking what the more is.* She had drawn the line on purpose. The line was the line the marriage would sit on. His part, at the bench on Christmas Eve, was to honor the line by not crossing it. He honored it.
 
 What he said — *thank you, Olava* — was what the bench's agreement permitted him to say.
 

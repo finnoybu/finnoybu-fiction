@@ -21,7 +21,7 @@ On the third morning they would lift for Bergen.
 
 The first morning went at Stormgade.
 
-The Copenhagen agent was a Dane of about fifty named Petersen. He received the bark's captain and the bark's navigator in an office on the third floor of a stone building opposite the Royal Theatre. The office was brown and cool and had a long wall of chart-drawers and the particular small smell a Scandinavian commercial agent's office had in the September of 1882 — tobacco, paper, a faint clean smell of the cleaning woman who had, the night before, wiped down the table. Petersen took their coats. He brought coffee. He laid out the papers. He spoke, in the correct Dano-Norwegian of a commercial agent, at a pace that allowed Olav to follow while Brun was reading the clauses.
+The Copenhagen agent was a Dane of about fifty named Petersen. He received the bark's captain and the bark's navigator in an office on the third floor of a stone building opposite the Royal Theater. The office was brown and cool and had a long wall of chart-drawers and the particular small smell a Scandinavian commercial agent's office had in the September of 1882 — tobacco, paper, a faint clean smell of the cleaning woman who had, the night before, wiped down the table. Petersen took their coats. He brought coffee. He laid out the papers. He spoke, in the correct Dano-Norwegian of a commercial agent, at a pace that allowed Olav to follow while Brun was reading the clauses.
 
 The orders were the orders Brun had expected: next *Semiramis* voyage to lift Bergen on the fifteenth of September 1883, twelve months from the end of this voyage, East India again, Bergen to Calcutta to Bergen, eighteen months. The company had — Petersen read aloud — pencilled in a first mate's berth for *O. Hestby,* on the condition that Captain Brun confirmed Hestby's acceptance at the Bergen pay-off.
 
@@ -73,7 +73,7 @@ Brun did not, in the walk back to the quay, say anything else.
 
 Olav was at his rail-place on the forenoon watch that afternoon.
 
-He stood at the cap-rail and looked at the city across the water. Copenhagen from the bark's mooring was a long low line of the kind of old European city a handbook described with the word *handsome* — red tile roofs, the particular green-roofed steeples of the Danish tradition, the smell of a Baltic harbour in early autumn — and the day was a mild bright day of the sort the Sound had in September when the summer had not yet gone and the northwesterly had not yet come. The light on the buildings was a late-afternoon light. Olav watched a pair of small Danish ferries move along the quay and thought about the name Petersen had struck.
+He stood at the cap-rail and looked at the city across the water. Copenhagen from the bark's mooring was a long low line of the kind of old European city a handbook described with the word *handsome* — red tile roofs, the particular green-roofed steeples of the Danish tradition, the smell of a Baltic harbor in early autumn — and the day was a mild bright day of the sort the Sound had in September when the summer had not yet gone and the northwesterly had not yet come. The light on the buildings was a late-afternoon light. Olav watched a pair of small Danish ferries move along the quay and thought about the name Petersen had struck.
 
 He did not, in the thinking, regret the striking.
 
@@ -97,7 +97,7 @@ On the Wednesday evening he went ashore alone.
 
 He walked.
 
-He had, in his pocket, a small folded map of Copenhagen Petersen had given him at the morning. He had, in his head, a list of four places the handbook at Stavanger had recommended a Norwegian sailor ashore in Copenhagen see: the Round Tower, the Børs, the Marmorkirken, and the Kongens Have. He walked to the Round Tower first. He went up the spiral ramp to the platform at the top. He stood at the parapet and looked across the city at the harbour. He could see, from the tower, the bark at the customhouse quay — a small black shape with her masts raking a little in the September dusk — and he looked at her for perhaps a minute before he came down.
+He had, in his pocket, a small folded map of Copenhagen Petersen had given him at the morning. He had, in his head, a list of four places the handbook at Stavanger had recommended a Norwegian sailor ashore in Copenhagen see: the Round Tower, the Børs, the Marmorkirken, and the Kongens Have. He walked to the Round Tower first. He went up the spiral ramp to the platform at the top. He stood at the parapet and looked across the city at the harbor. He could see, from the tower, the bark at the customhouse quay — a small black shape with her masts raking a little in the September dusk — and he looked at her for perhaps a minute before he came down.
 
 He walked down Købmagergade to the Strøget. He walked the Strøget to Kongens Nytorv. He crossed the square to the Charlottenborg and turned down to the Nyhavn, where the ordinary evening business of a Copenhagen port-quarter was underway — sailors drinking at the open tables of the tavern fronts, Danish women walking home from their shops, a small boy with a hoop, a fiddler with a cap at his feet playing a Danish tune Olav did not know.
 
@@ -109,7 +109,7 @@ The man stopped because he had, a moment before, been going to walk in Olav's di
 
 Olav had seen the man at the same moment.
 
-The man, Olav registered in the count of one breath, was about twenty-eight. He was tall. He was dressed in the good everyday clothes of a Scandinavian clerk of a certain kind — a dark coat, a pale waistcoat, a narrow tie — and had under his arm a folded evening paper. He had the small neat fair moustache of a Stockholm clerk, which was not a Copenhagen moustache; and he had, Olav registered at the second breath, the small held attention of a man who had, at the moment of looking up from a doorway, recognized something in another man's face.
+The man, Olav registered in the count of one breath, was about twenty-eight. He was tall. He was dressed in the good everyday clothes of a Scandinavian clerk of a certain kind — a dark coat, a pale waistcoat, a narrow tie — and had under his arm a folded evening paper. He had the small neat fair mustache of a Stockholm clerk, which was not a Copenhagen mustache; and he had, Olav registered at the second breath, the small held attention of a man who had, at the moment of looking up from a doorway, recognized something in another man's face.
 
 The man did not, for the count of one breath, speak.
 
@@ -307,7 +307,7 @@ He did not sleep for some time.
 
 He thought, at the dark ceiling, about the evening.
 
-He thought about the cod. He thought about Lindqvist's Stockholm accent in the Dano-Norwegian. He thought about the particular small short laugh Lindqvist had given at a remark Olav had made about the Royal Theatre. He thought about the raising of the cap at the corner — the first raising, not the parting one — and about how the first raising had been the question and how Olav's answer had been the sentence *Shall we have our supper at the same table or at separate ones.*
+He thought about the cod. He thought about Lindqvist's Stockholm accent in the Dano-Norwegian. He thought about the particular small short laugh Lindqvist had given at a remark Olav had made about the Royal Theater. He thought about the raising of the cap at the corner — the first raising, not the parting one — and about how the first raising had been the question and how Olav's answer had been the sentence *Shall we have our supper at the same table or at separate ones.*
 
 He thought: *I said that sentence.*
 

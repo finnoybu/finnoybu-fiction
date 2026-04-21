@@ -25,7 +25,7 @@ Olav went to Mrs. Lauritsen's on the Tuesday evening.
 
 ---
 
-The lodging-house was a two-storey wooden building set back from Russell Street behind a small garden of banana and one old tamarind tree. The ground floor had a parlour and a dining room and Mrs. Lauritsen's own small rooms; the upper floor had four lodger's rooms off a long corridor that had a single oil-lamp at each end. Olav's room was the third along the corridor. It had a bed with a mosquito-net frame, a washstand with a basin and a jug, a small desk under the shuttered window, a chair. The room was clean. The sheet on the bed had the smell of clean sheets in a hot country — a faintness of soap, a faintness of sun-drying.
+The lodging-house was a two-story wooden building set back from Russell Street behind a small garden of banana and one old tamarind tree. The ground floor had a parlor and a dining room and Mrs. Lauritsen's own small rooms; the upper floor had four lodger's rooms off a long corridor that had a single oil-lamp at each end. Olav's room was the third along the corridor. It had a bed with a mosquito-net frame, a washstand with a basin and a jug, a small desk under the shuttered window, a chair. The room was clean. The sheet on the bed had the smell of clean sheets in a hot country — a faintness of soap, a faintness of sun-drying.
 
 Olav washed his hands and his face at the basin. He ate the supper Mrs. Lauritsen had laid for him and the other lodger — a Danish clerk of about forty — at the dining room: cold chicken, rice, a pickle, tea. He exchanged three polite sentences with the Danish clerk about the weather. He went up to his room at eight o'clock. He sat at the desk and wrote a page in his small bound book: *Second Calcutta. Dry-dock. Lodgings at Mrs. Lauritsen's, Russell Street. Good room. Good supper. The city at night is not the city at day; I can hear the dogs and the cries of a hawker from the lane behind the house and nothing from the Strand. Nothing to note from the crew. Bassein is in his crate on the bark.*
 
@@ -215,13 +215,13 @@ He thought: *I am not, tonight, able to regret it.*
 
 He thought: *I do not, tonight, try to.*
 
-He slept beside Sven until the light came grey at the shutters. Then he slept a second time, with Sven's hand at his shoulder the way a hand lay at the shoulder of a man it had been at the shoulder of in the course of a long quiet night, until the sounds of Mrs. Lauritsen beginning the breakfast downstairs reached them, and they got up and dressed and went down.
+He slept beside Sven until the light came gray at the shutters. Then he slept a second time, with Sven's hand at his shoulder the way a hand lay at the shoulder of a man it had been at the shoulder of in the course of a long quiet night, until the sounds of Mrs. Lauritsen beginning the breakfast downstairs reached them, and they got up and dressed and went down.
 
 ---
 
 The second night was the same and was different.
 
-It was the same in that the room was the same room and the bed was the same bed and the two of them, at the end of the supper, went up the stairs together without the pretence of the first evening. It was different in that both of them had understood, since waking in the first light of the Wednesday morning, that the second night was going to be the last night, and the last-ness was in every small action of it — in the way Sven washed at the basin before coming to the bed, in the way Olav turned down the single oil-lamp, in the way they talked in the dark, quietly, for almost an hour before either of them moved.
+It was the same in that the room was the same room and the bed was the same bed and the two of them, at the end of the supper, went up the stairs together without the pretense of the first evening. It was different in that both of them had understood, since waking in the first light of the Wednesday morning, that the second night was going to be the last night, and the last-ness was in every small action of it — in the way Sven washed at the basin before coming to the bed, in the way Olav turned down the single oil-lamp, in the way they talked in the dark, quietly, for almost an hour before either of them moved.
 
 They talked about nothing in particular.
 
@@ -233,7 +233,7 @@ He talked, in return, about Aagot at the tiller of the small boat home from Land
 
 They did not, after the hour of talking, talk much more.
 
-When the grey light came at the shutters for the second time Olav woke first. He looked at Sven's face in the early light — the face that was, in sleep, the face of a twenty-four-year-old who had been to sea for ten years and had, in the count of two nights at a lodging-house on Russell Street, allowed himself the one thing his life had not allowed — and he thought: *I am going to remember this face in this light for the rest of my life.*
+When the gray light came at the shutters for the second time Olav woke first. He looked at Sven's face in the early light — the face that was, in sleep, the face of a twenty-four-year-old who had been to sea for ten years and had, in the count of two nights at a lodging-house on Russell Street, allowed himself the one thing his life had not allowed — and he thought: *I am going to remember this face in this light for the rest of my life.*
 
 He thought it without drama.
 

@@ -11,7 +11,7 @@ Brun had not, at the Calcutta lift, intended to put in at Mauritius. He had, as 
 
 They lay at Port Louis for eleven weeks.
 
-The eleven weeks were weeks of refit — the carpenter took the opportunity to go through the rigging and the iron-work with the particular care a ship at an unscheduled port permitted — and of weather-watch; the cyclone that had turned Brun toward Port Louis hit Mauritius on the third day of the stay, passed directly over the island for six hours, and tore the roof off the Customs House a quarter-mile from where the bark lay sheltered in the inner harbour. The bark herself took only minor damage. Three further cyclones passed the island over the eleven weeks, each at a greater distance than the first. By the last week of February the season had begun to ease; by the middle of March Brun had declared the season over. They lifted Port Louis on the twenty-third of March.
+The eleven weeks were weeks of refit — the carpenter took the opportunity to go through the rigging and the iron-work with the particular care a ship at an unscheduled port permitted — and of weather-watch; the cyclone that had turned Brun toward Port Louis hit Mauritius on the third day of the stay, passed directly over the island for six hours, and tore the roof off the Customs House a quarter-mile from where the bark lay sheltered in the inner harbor. The bark herself took only minor damage. Three further cyclones passed the island over the eleven weeks, each at a greater distance than the first. By the last week of February the season had begun to ease; by the middle of March Brun had declared the season over. They lifted Port Louis on the twenty-third of March.
 
 The rest of the homeward Indian Ocean — Port Louis to the Cape — was thirty-eight days of steady running on the southeast trade that had, by the end of March, re-established itself as the ordinary weather of that latitude. The bark made the Cape on the twenty-ninth of April, which was in Brun's reckoning about forty days later than the best-case homeward schedule he had drawn at Calcutta and about right by the schedule an honest master kept in his head against the best case.
 
@@ -117,7 +117,7 @@ He finished the coil. He hung it on the pin. He went to his work.
 
 ---
 
-The bark made Cape Town at six bells of the first dog-watch. She was taken by a tug into the inner harbour on the last of the light, and by eight bells she was at a mooring and the pilot had gone ashore, and Captain Brun had given the watch the first quiet evening since Port Louis. Olav stood at the cap-rail with Table Mountain catching the last sun at its western face, and he looked at the mountain for a second minute — the first since July — and he felt, looking, the particular small calm a man got at the first port of the homeward from the first deep-water voyage of his life.
+The bark made Cape Town at six bells of the first dog-watch. She was taken by a tug into the inner harbor on the last of the light, and by eight bells she was at a mooring and the pilot had gone ashore, and Captain Brun had given the watch the first quiet evening since Port Louis. Olav stood at the cap-rail with Table Mountain catching the last sun at its western face, and he looked at the mountain for a second minute — the first since July — and he felt, looking, the particular small calm a man got at the first port of the homeward from the first deep-water voyage of his life.
 
 He had done the Indian Ocean.
 

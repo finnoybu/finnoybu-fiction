@@ -207,7 +207,7 @@ She was at the door.
 
 Olav looked up.
 
-She had the small grey wool dress on, and her hair was up under the small white cap she wore at the mornings at Finnøy, and she had a small jar in her hand. The jar was a jar of preserves — apricot, by the colour through the glass — that Mrs Hestby had finished over the winter.
+She had the small gray wool dress on, and her hair was up under the small white cap she wore at the mornings at Finnøy, and she had a small jar in her hand. The jar was a jar of preserves — apricot, by the color through the glass — that Mrs Hestby had finished over the winter.
 
 "Olav."
 
@@ -357,7 +357,7 @@ He said, in the small composed voice he had been practising at the supper:
 
 "I will make the move on the first Tuesday of May."
 
-"Good. The leather wallet is in the parlour cupboard."
+"Good. The leather wallet is in the parlor cupboard."
 
 "Yes."
 

@@ -73,13 +73,13 @@ She kept, across these years, her own small private indent at her own small pers
 
 In the autumn of 1917 — the year Olav was fifty-nine and Olava fifty-seven — Captain Lindøy died at ninety-nine at the small back bedroom at Lindøy.
 
-The captain had been, across the forty-four years of Olav's knowing him, the fixed point of the Lindøy household. He had managed the wooden hand across the decades and the Lindøy household across the decades and the Christmas morning of 1879 at which he had, from the parlour of the Lindøy house, been the unseen father while Olava and Olav had made the Christmas agreement at the back bedroom above the kitchen. He died at the small back bedroom with Ingrid at the bedside and Olava at the door, and Olav's father's brother at the small kitchen working out — in the small last specific Lindøy-Hestby co-operation — the small telegram to Jens the younger at Bergen and to Henrik Berg at Stavanger. The body went to the Lindøy-church burial on the Saturday.
+The captain had been, across the forty-four years of Olav's knowing him, the fixed point of the Lindøy household. He had managed the wooden hand across the decades and the Lindøy household across the decades and the Christmas morning of 1879 at which he had, from the parlor of the Lindøy house, been the unseen father while Olava and Olav had made the Christmas agreement at the back bedroom above the kitchen. He died at the small back bedroom with Ingrid at the bedside and Olava at the door, and Olav's father's brother at the small kitchen working out — in the small last specific Lindøy-Hestby co-operation — the small telegram to Jens the younger at Bergen and to Henrik Berg at Stavanger. The body went to the Lindøy-church burial on the Saturday.
 
 The captain's wooden hand was the one small private thing Olav watched Olava pack, at the small Tuesday afternoon two weeks after the funeral, into a small wooden box for the transport across the channel. The wooden hand was, by the captain's will, going to Jens the younger — the grandson who bore the Hestby name but whose face, at twenty-nine at the funeral, had the captain's stubborn-eye that none of the other three grandchildren had.
 
 Jens the younger received the wooden hand at Bergen in the December of 1917.
 
-The wooden hand was, from December 1917, at the small Bergen lodging's parlour as a mantelpiece object. It would, across the decades, remain in the Jens Hestby the younger line.
+The wooden hand was, from December 1917, at the small Bergen lodging's parlor as a mantelpiece object. It would, across the decades, remain in the Jens Hestby the younger line.
 
 ---
 

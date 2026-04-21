@@ -83,7 +83,7 @@ He folded it. He put it in the small envelope addressed to Mrs. Asbjørnsen at S
 
 He sat back in the chair.
 
-He did not, in the next several minutes, do anything specific. He looked at the small framed photograph of his wife on the desk — the photograph that had been taken at Bergen in '79, in which she was at the small chair in the parlour with her left hand on the table beside her, in the small careful Norwegian-portrait pose of a woman of her generation. She was, in the photograph, fifty-two. She was now fifty-six. He had been married to her for thirty-three years.
+He did not, in the next several minutes, do anything specific. He looked at the small framed photograph of his wife on the desk — the photograph that had been taken at Bergen in '79, in which she was at the small chair in the parlor with her left hand on the table beside her, in the small careful Norwegian-portrait pose of a woman of her generation. She was, in the photograph, fifty-two. She was now fifty-six. He had been married to her for thirty-three years.
 
 He thought about her. He thought about the kitchen table at Bergen at which he had told her about the three arrangements in '76. He thought about the way she had said, that evening, that the arrangements were the right arrangements. He thought about the small letter from her that had reached him in the ordinary mail at the consul's office on the Tuesday of this week — a short letter, the small careful Bergen-housewife letter she sent him at every Brooklyn stop, with the small ordinary news of the household and the small reference she always made at the end to the children (now all of them grown, two of them married, the youngest at the Bergen polytechnic doing a course in some new kind of engineering).
 

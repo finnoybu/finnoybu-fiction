@@ -23,7 +23,7 @@ She walked along the lane to Olav's cottage.
 
 Olav was at the cottage's small writing-room.
 
-He had been, since his retirement from the *Helga* in the autumn of 1910 at the age of fifty-two, at the small daily domestic-rhythm of a Norwegian island retired captain — the cottage's small workbench in the mornings (the *Solveig* had been sold in '07 after Olav's uncle had died in the winter of '06 at seventy-nine; the cottage's workbench was now just a workbench rather than a part-time coaster's office); the small reading at the small parlour-corner of the larger house in the afternoons; the small Saturday evenings at Mrs Hestby's (his mother's small Saturday supper had, across the three years since his father had died, become a small fixed institution of the Hestby household); the small Sunday mornings at the Hestby church with Olava.
+He had been, since his retirement from the *Helga* in the autumn of 1910 at the age of fifty-two, at the small daily domestic-rhythm of a Norwegian island retired captain — the cottage's small workbench in the mornings (the *Solveig* had been sold in '07 after Olav's uncle had died in the winter of '06 at seventy-nine; the cottage's workbench was now just a workbench rather than a part-time coaster's office); the small reading at the small parlor-corner of the larger house in the afternoons; the small Saturday evenings at Mrs Hestby's (his mother's small Saturday supper had, across the three years since his father had died, become a small fixed institution of the Hestby household); the small Sunday mornings at the Hestby church with Olava.
 
 He was fifty-two.
 
@@ -109,7 +109,7 @@ He thought, at the desk, with the small flat clarity:
 
 *The silence between us had held for twenty-nine years and ten months.*
 
-*He had been, across those years, at the same life. The Tyne-Bergen coal run. The small Bergen lodging at Sandviken the shipping pages of the '90s had occasionally mentioned when they had run small profiles of the coal-trade captains. The small life the small Bergen papers would occasionally name a Haakon Berg of the Norden in. I had read his name perhaps four times across the twenty-nine years, in the small occasional shipping notices I had not sought out but had encountered at the small passive readings the Tuesday Bergen papers had produced at the small Hestby parlour-corners I had sat at across the decades.*
+*He had been, across those years, at the same life. The Tyne-Bergen coal run. The small Bergen lodging at Sandviken the shipping pages of the '90s had occasionally mentioned when they had run small profiles of the coal-trade captains. The small life the small Bergen papers would occasionally name a Haakon Berg of the Norden in. I had read his name perhaps four times across the twenty-nine years, in the small occasional shipping notices I had not sought out but had encountered at the small passive readings the Tuesday Bergen papers had produced at the small Hestby parlor-corners I had sat at across the decades.*
 
 *He had been the man whose silence had been the sustained answer to my own silence. He had kept his side. I had kept mine. The two silences had, across the twenty-nine years, been the two pieces of the same architecture — the architecture he had explicitly named in the July of '81 at the Shields quay in his own interior, the architecture I had implicitly accepted by not writing a second letter after his non-reply to my Cape one.*
 
@@ -249,9 +249,9 @@ She read the Bergen paper at the kitchen, standing at the small counter, with th
 
 She folded the paper.
 
-She came to him at the parlour-corner.
+She came to him at the parlor-corner.
 
-She did not, at the parlour-corner, speak immediately.
+She did not, at the parlor-corner, speak immediately.
 
 She sat in the small chair across from him.
 
@@ -261,7 +261,7 @@ She said, after a moment, in the small careful voice of a woman who had been hol
 
 "Yes."
 
-"I am — at the parlour-corner on the Tuesday afternoon of the fourteenth of March of 1911 — sorry for the second time."
+"I am — at the parlor-corner on the Tuesday afternoon of the fourteenth of March of 1911 — sorry for the second time."
 
 "Yes."
 
@@ -281,7 +281,7 @@ She went back to the kitchen to continue the small afternoon's work.
 
 The form held.
 
-The second-time naming had, at the parlour-corner, been said.
+The second-time naming had, at the parlor-corner, been said.
 
 The drawer at the cottage held the five items.
 

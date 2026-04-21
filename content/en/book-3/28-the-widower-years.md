@@ -41,13 +41,13 @@ He did not open any of them.
 
 In the summer of 1928 Ingrid brought home from the small Stavanger library a small book on the history of the Norwegian Lutheran parish system across the nineteenth century.
 
-She had, across the small evenings of the widower-years, taken to bringing Olav books she thought he might want to read. The Norwegian-parish-history book was the kind of book that had been her small guess at his interest. She was right — Olav read it over two weeks at the small evening parlour-corner, with the small lamp at his elbow, and at the end of the two weeks he had read the small chapter the book contained about the Hestby parish.
+She had, across the small evenings of the widower-years, taken to bringing Olav books she thought he might want to read. The Norwegian-parish-history book was the kind of book that had been her small guess at his interest. She was right — Olav read it over two weeks at the small evening parlor-corner, with the small lamp at his elbow, and at the end of the two weeks he had read the small chapter the book contained about the Hestby parish.
 
 The chapter was four pages.
 
 The four pages described the Hestby church on the hill — the 1812 building; the wooden gate Peder Hestby had carved at the commissioning; Pastor Kleven's forty-nine-year tenure from 1848 to 1897; the archival keeping-of-the-old-spelling Kleven had initiated in '52 and had maintained until his death. The small chapter named, as one of the small examples of the parish's keeping of the old, the small Hestbye graveyard plot where the nineteenth-century Hestbyes had been buried with the old spelling on their stones while their living descendants had signed the parish register in the modern spelling at the same century.
 
-The small chapter was, Olav registered at the second reading, a historical naming of the motif his own life had been the centre of.
+The small chapter was, Olav registered at the second reading, a historical naming of the motif his own life had been the center of.
 
 He took the small book.
 
@@ -112,7 +112,7 @@ He walked out of the churchyard.
 
 On the walk back down the path he registered, at about the halfway point where the path crossed the small stream:
 
-*I am in the years between the visits and my own addition to the plot. The years will, by the Bergen bank's actuarial tables, be ten or fifteen more. I will, in those years, continue the routine the widower-years have become. I will be at the cottage's workbench in the mornings and at the small parlour-corner in the evenings. I will have Ingrid at the kitchen. I will have the small Tuesday-visits from Anna and the small twice-yearly visits from Jens the younger. I will have the small Sunday suppers at the Schmidt side when the Mosterøy round of the rotation falls.*
+*I am in the years between the visits and my own addition to the plot. The years will, by the Bergen bank's actuarial tables, be ten or fifteen more. I will, in those years, continue the routine the widower-years have become. I will be at the cottage's workbench in the mornings and at the small parlor-corner in the evenings. I will have Ingrid at the kitchen. I will have the small Tuesday-visits from Anna and the small twice-yearly visits from Jens the younger. I will have the small Sunday suppers at the Schmidt side when the Mosterøy round of the rotation falls.*
 
 *I will have the churchyard visits.*
 

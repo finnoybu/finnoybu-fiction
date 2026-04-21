@@ -15,7 +15,7 @@ The change had been the change of a man who had, on the morning after the four-b
 
 The vinegar-cruet had been the first piece of the reformation.
 
-Hov had, in the fortnight after the bottle incident, washed and re-purposed the empty Cornish bottle into a small clean cruet that sat at the centre of the steward's table at every meal. The cruet had no label. It carried the steward's vinegar — the small white English vinegar Hov made each Brooklyn stop from a Brooklyn-purchased mother-vinegar he kept in a stoppered jar in the galley — and the cruet was, by Hov's careful daily attention to it, always full and always clean and always at the same precise position at the centre of the table. The crew of the *Daae* had registered the cruet by the second week. They had not, by the small calibrated tact of a Norwegian deep-water crew that had been told nothing officially about the bottle incident, said anything about it. The cruet was the cruet. The fact of the cruet was the fact of what had happened. The two were the same and were not separately referred to.
+Hov had, in the fortnight after the bottle incident, washed and re-purposed the empty Cornish bottle into a small clean cruet that sat at the center of the steward's table at every meal. The cruet had no label. It carried the steward's vinegar — the small white English vinegar Hov made each Brooklyn stop from a Brooklyn-purchased mother-vinegar he kept in a stoppered jar in the galley — and the cruet was, by Hov's careful daily attention to it, always full and always clean and always at the same precise position at the center of the table. The crew of the *Daae* had registered the cruet by the second week. They had not, by the small calibrated tact of a Norwegian deep-water crew that had been told nothing officially about the bottle incident, said anything about it. The cruet was the cruet. The fact of the cruet was the fact of what had happened. The two were the same and were not separately referred to.
 
 This was the first piece. The second piece was harder for Olav to manage.
 
@@ -109,9 +109,9 @@ He went back to his coffee.
 
 ---
 
-Olav practised the line for the remainder of the homeward.
+Olav practiced the line for the remainder of the homeward.
 
-He thanked Hov at each meal in the same small ordinary first-mate's voice he used for Tellefsen at the same exchanges. He did not thank him more warmly. He did not thank him less warmly. He maintained, as Tellefsen had advised, the small ordinary working register of the bark. Hov continued the small daily acts. The acts continued to be perfect. The cruet continued to be at the centre of the steward's table.
+He thanked Hov at each meal in the same small ordinary first-mate's voice he used for Tellefsen at the same exchanges. He did not thank him more warmly. He did not thank him less warmly. He maintained, as Tellefsen had advised, the small ordinary working register of the bark. Hov continued the small daily acts. The acts continued to be perfect. The cruet continued to be at the center of the steward's table.
 
 At the noon-sight on the last Wednesday of February, with the bark perhaps six days from the Bergen approaches, the captain looked up from the binnacle at Olav.
 
@@ -225,7 +225,7 @@ He went back into the galley.
 
 Olav came down the gangway. He walked along the Bergen quay in the small clear March morning to the Stavanger coaster.
 
-He thought, walking, that the line he had practised across the four weeks of the homeward had, at the gangway, been tested for the first time at the line's hardest place — the place where the steward's debt extended past the bark's working register into Olav's life ashore — and that he had, by accepting half the offering and re-routing the other half back into the bark's economy, found the calibration the line required at that place.
+He thought, walking, that the line he had practiced across the four weeks of the homeward had, at the gangway, been tested for the first time at the line's hardest place — the place where the steward's debt extended past the bark's working register into Olav's life ashore — and that he had, by accepting half the offering and re-routing the other half back into the bark's economy, found the calibration the line required at that place.
 
 The plum jar was in his bag.
 

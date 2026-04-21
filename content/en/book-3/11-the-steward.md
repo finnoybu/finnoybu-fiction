@@ -235,7 +235,7 @@ At four bells of the morning watch he and Holm and Hov stood at the chart-table 
 
 Thoresen was at his desk. Olav had, before Hov was brought in, given the captain the small report of the previous night's events in the small flat first mate's report-voice. Thoresen had taken the report. He had asked one question — *was the bottle full or near-empty* — and Olav had said *near-empty.* Thoresen had nodded once. Then Holm had brought Hov in.
 
-Hov was sober. He was, Olav saw at the small grey morning light through the cabin's window, deeply pale and deeply ashamed. He stood at the chart-table without looking up.
+Hov was sober. He was, Olav saw at the small gray morning light through the cabin's window, deeply pale and deeply ashamed. He stood at the chart-table without looking up.
 
 Thoresen looked at him.
 

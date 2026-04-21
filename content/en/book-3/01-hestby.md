@@ -33,7 +33,7 @@ He went out.
 
 ---
 
-His father was at the gate. The gate was the gate of the small lower garden that opened onto the path up to the church. Jens Hestby was in his Sunday coat, the one he had worn for thirty years to weddings and funerals at this church and that had, by now, the small small worn thinness at the cuffs that a Norwegian Sunday coat acquired by being worn only on the days the family stood as witnesses. He had his pipe out. He was not smoking it. He was looking down the path toward the harbor and the Lindøy channel, and Olav understood, joining him at the gate, that his father had been looking that way since six o'clock.
+His father was at the gate. The gate was the gate of the small lower garden that opened onto the path up to the church. Jens Hestby was in his Sunday coat, the one he had worn for thirty years to weddings and funerals at this church and that had, by now, worn thin at the cuffs, the way a Norwegian Sunday coat wears when it is worn only on the days the family stood as witnesses. He had his pipe out. He was not smoking it. He was looking down the path toward the harbor and the Lindøy channel, and Olav understood, joining him at the gate, that his father had been looking that way since six o'clock.
 
 "Father."
 
@@ -99,7 +99,7 @@ He turned.
 
 Olava was at the back of the church on her father's good arm.
 
-She was in a dress of dark grey wool that Mrs. Lindøy had been sewing since January — high-collared, long-sleeved, with the small pale blue piping at the throat that was Mrs. Lindøy's particular small signature on every important dress she had made for either of her daughters since Marit's confirmation. Her hair was up under a plain white cap. She had no veil. Norwegian Lutheran weddings of their parish did not, as a rule, use veils; the bride came into the church with her face open and her father at her elbow.
+She was in a dress of dark gray wool that Mrs. Lindøy had been sewing since January — high-collared, long-sleeved, with the small pale blue piping at the throat that was Mrs. Lindøy's particular small signature on every important dress she had made for either of her daughters since Marit's confirmation. Her hair was up under a plain white cap. She had no veil. Norwegian Lutheran weddings of their parish did not, as a rule, use veils; the bride came into the church with her face open and her father at her elbow.
 
 Olav had not, in the four months he had known the wedding was coming, been able to picture her in the dress. He had tried; he had not managed it. He understood now why he had not managed it. He had not been able to picture it because the dress, on Olava, was not a thing his picturing-mind had access to. The dress was a thing that had to be seen.
 

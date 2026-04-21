@@ -7,7 +7,7 @@ book: 2
 
 On the Wednesday morning of the first week home Olav took the small boat across the channel to Finnøy with his father.
 
-They left Lindøy at half past six, Jens at the tiller and Olav at the sheet, on a grey October morning with the wind just north of east at about twelve knots and the sea running a small quarter chop across the channel. The crossing took an hour and twenty minutes. Olav's mother and Olava were at the Lindøy jetty when they pushed off, standing at the boards with their arms folded against the cold, and they watched the small boat until it was a dot under the Finnøy coast, and then — Olav had no doubt, because he had grown up in a house of this kind of mother — they went back up to the kitchen to put the kettle on and talk about him without him being there to listen.
+They left Lindøy at half past six, Jens at the tiller and Olav at the sheet, on a gray October morning with the wind just north of east at about twelve knots and the sea running a small quarter chop across the channel. The crossing took an hour and twenty minutes. Olav's mother and Olava were at the Lindøy jetty when they pushed off, standing at the boards with their arms folded against the cold, and they watched the small boat until it was a dot under the Finnøy coast, and then — Olav had no doubt, because he had grown up in a house of this kind of mother — they went back up to the kitchen to put the kettle on and talk about him without him being there to listen.
 
 His father did not, for the first forty minutes of the crossing, speak.
 
@@ -105,7 +105,7 @@ She was baking bread. The kitchen smelled of the particular Finnøy bread his mo
 
 "Yes."
 
-He hung his coat. He took the coffee. He sat at the kitchen table with the cup in his hands, and his mother went on with the bread, and his father went to the parlour to look at the ledger that had not been looked at in six weeks, and the Finnøy kitchen at ten in the morning of the first Wednesday of his homecoming became — by the quiet small arithmetic of the household — the place he belonged.
+He hung his coat. He took the coffee. He sat at the kitchen table with the cup in his hands, and his mother went on with the bread, and his father went to the parlor to look at the ledger that had not been looked at in six weeks, and the Finnøy kitchen at ten in the morning of the first Wednesday of his homecoming became — by the quiet small arithmetic of the household — the place he belonged.
 
 ---
 
@@ -203,7 +203,7 @@ On the Saturday of the first week he took the coaster back across to Lindøy wit
 
 They sat at the bench.
 
-The light was the October dusk. The channel was grey. The Finnøy coast was a darker grey across it. The wool coat was the wool coat.
+The light was the October dusk. The channel was gray. The Finnøy coast was a darker gray across it. The wool coat was the wool coat.
 
 Olava said:
 

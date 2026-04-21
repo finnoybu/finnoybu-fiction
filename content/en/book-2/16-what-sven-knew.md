@@ -35,13 +35,13 @@ The Irish carpenter had been a man Sven had got to know a little and had liked a
 
 Olav Hestby was different.
 
-Olav Hestby was a man Sven had already, by the thirtieth day, known more of than he had known of either of the previous two, and had found, in the knowing, more of a set of particulars he liked than he had found with either of the previous two, and had discovered was going to be, for eighteen months, the man he ate supper with and worked brace-falls with and climbed royal yards with and — this had been the hardest to discover — drank coffee beside in the grey dawn while the rest of the forecastle slept.
+Olav Hestby was a man Sven had already, by the thirtieth day, known more of than he had known of either of the previous two, and had found, in the knowing, more of a set of particulars he liked than he had found with either of the previous two, and had discovered was going to be, for eighteen months, the man he ate supper with and worked brace-falls with and climbed royal yards with and — this had been the hardest to discover — drank coffee beside in the gray dawn while the rest of the forecastle slept.
 
 The particulars were not the particulars of the bed. The particulars of the bed were a possibility the discipline existed to prevent, and Sven had never made the mistake of letting himself linger on the bed's particulars. The particulars that undid the discipline were the other ones. The way the Finnøy man coiled. The way he watched the captain take a noon sight. The small flat private *yes* he gave at questions other men would have given a long careful answer to. The way he had, in Calcutta, refused the mate's berth for his Olava without having to think about the refusing. The way he had, at the banyan, said *thank you, Sven* in a register Sven had not been spoken to in, by another man, since he was twelve.
 
 It was the last one — the register — that Sven had known, on the bank at Pazundaung creek with Hestby coughing the water out of his chest, was going to be the particular the discipline would not hold against.
 
-The register was a thing no married Bergen man who had kept the discipline twice had any defence against.
+The register was a thing no married Bergen man who had kept the discipline twice had any defense against.
 
 ---
 

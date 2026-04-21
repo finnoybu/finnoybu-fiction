@@ -11,7 +11,7 @@ Olav was at the house at Finnøy. He had come home from the Bergen round of the 
 
 Jens was seventy-one now. He was, at seventy-one, slower than he had been at sixty-two, but he was upright and steady and he was at the boat-shed most mornings for the small hours of the day he still had for it. He brought the small bundle of the week's newspapers across from Stavanger on the Tuesdays. The bundle had in it the small Stavanger daily, the small Bergen weekly (for the shipping news), and — because Jens had, across the years of Olav's captaincy, developed a specific interest in the small Stockholm shipping reports the Bergen weekly occasionally reprinted — the small occasional clippings from the *Svensk Sjöfartstidning* that a Stavanger-Swedish clerk Jens knew had been passing him for six years.
 
-Olav took the bundle at the small parlour-corner.
+Olav took the bundle at the small parlor-corner.
 
 He sat at the small chair.
 
@@ -53,11 +53,11 @@ The notice listed Anders Lindqvist as lost with her.
 
 Olav did not, for perhaps five minutes, do anything.
 
-He sat at the small parlour-corner with the Bergen weekly open on his knees and the small half-pages of the November Tuesday afternoon light at the window. The house at Finnøy at that hour was quiet. Olava was at the small parish-school letter-morning across at the school; Anna, at eleven, was at the parish-school the whole day; Jens the younger, at nine, was at the school the whole day; Ingrid, at six, was at the half-day and was at Mrs Hestby's kitchen for the afternoon as per the small Tuesday arrangement the two households had worked out. His father, after bringing the bundle, had gone on to his own kitchen. His mother was at Mrs Hestby's with Ingrid.
+He sat at the small parlor-corner with the Bergen weekly open on his knees and the small half-pages of the November Tuesday afternoon light at the window. The house at Finnøy at that hour was quiet. Olava was at the small parish-school letter-morning across at the school; Anna, at eleven, was at the parish-school the whole day; Jens the younger, at nine, was at the school the whole day; Ingrid, at six, was at the half-day and was at Mrs Hestby's kitchen for the afternoon as per the small Tuesday arrangement the two households had worked out. His father, after bringing the bundle, had gone on to his own kitchen. His mother was at Mrs Hestby's with Ingrid.
 
-The parlour of the Finnøy house was empty of everyone except Olav.
+The parlor of the Finnøy house was empty of everyone except Olav.
 
-He thought, at the parlour-corner, in the small flat register:
+He thought, at the parlor-corner, in the small flat register:
 
 *Anders Lindqvist is lost. The Astrid went down in the twenty-eighth-of-October gale in the eastern Baltic. The notice is the notice.*
 
@@ -253,7 +253,7 @@ She had the small lamp at her elbow. She did not, at his coming in, look up.
 
 He did not speak.
 
-He went past her to the small parlour.
+He went past her to the small parlor.
 
 He sat at the small chair where he had, that afternoon, first read the notice.
 

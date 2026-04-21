@@ -7,7 +7,7 @@ book: 3
 
 The Stavanger coaster came in to the quay at half past noon on the second Saturday of April.
 
-Olav was at the starboard rail as she warped in. His sea-chest was at his feet. The leather folder was under his arm. The small bound book of the third voyage had closed on the Tuesday evening at the Bergen rooming-house. The Friday night at the rooming-house had been the small last formal night of the voyage; he had taken the morning coaster south and had slept in the coaster's small first-class shelter through the crossing down Byfjorden and out along the coast, and had woken at five in the morning to the grey light of a Stavanger April approach.
+Olav was at the starboard rail as she warped in. His sea-chest was at his feet. The leather folder was under his arm. The small bound book of the third voyage had closed on the Tuesday evening at the Bergen rooming-house. The Friday night at the rooming-house had been the small last formal night of the voyage; he had taken the morning coaster south and had slept in the coaster's small first-class shelter through the crossing down Byfjorden and out along the coast, and had woken at five in the morning to the gray light of a Stavanger April approach.
 
 He was, at twenty-five and seven months, a free man.
 
@@ -93,7 +93,7 @@ She stepped back. She let him cross to his parents.
 
 His father was at the awning.
 
-Jens Hestby was, at fifty-nine, slightly greyer at the temples than he had been in October of '82. His coat was the same coat he had been wearing at the Bergen pay-off thirty months before, and the small careful sweet hay-smell of the airing was, at the distance of the awning, still detectable. He did not, at the coming-up, embrace Olav. The Hestby household did not, at homecomings, embrace at the quays. It let the quay be the quay.
+Jens Hestby was, at fifty-nine, slightly grayer at the temples than he had been in October of '82. His coat was the same coat he had been wearing at the Bergen pay-off thirty months before, and the small careful sweet hay-smell of the airing was, at the distance of the awning, still detectable. He did not, at the coming-up, embrace Olav. The Hestby household did not, at homecomings, embrace at the quays. It let the quay be the quay.
 
 He put out his hand.
 
@@ -121,7 +121,7 @@ Captain Lindøy, across the small group, put out his good hand.
 
 "Thank you, Captain."
 
-"Marit is at the neighbour's with Eirik. They send their regards. They will come over to Finnøy on the Wednesday coaster for the small supper."
+"Marit is at the neighbor's with Eirik. They send their regards. They will come over to Finnøy on the Wednesday coaster for the small supper."
 
 "I will be glad of them."
 
@@ -235,7 +235,7 @@ His parents took the small news.
 
 The supper ended at half past seven.
 
-His father went to the parlour with the Stavanger newspaper. His mother cleared the plates. Olav, at the kitchen, dried.
+His father went to the parlor with the Stavanger newspaper. His mother cleared the plates. Olav, at the kitchen, dried.
 
 ---
 

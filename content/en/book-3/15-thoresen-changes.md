@@ -55,7 +55,7 @@ On the eighty-first day of the homeward, with the bark perhaps three days off th
 
 Olav did not, at the cap-rail, speak either.
 
-The captain looked at the sea. He looked at the rigging. He looked at the small low grey March horizon ahead of the bark.
+The captain looked at the sea. He looked at the rigging. He looked at the small low gray March horizon ahead of the bark.
 
 Then he said, in the small register he had been using more often in the last six months:
 

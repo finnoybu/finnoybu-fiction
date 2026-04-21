@@ -41,7 +41,7 @@ He had been, across the eight years since, at the cottage perhaps three times a 
 
 He was, this Tuesday morning in August of '05, revisiting it.
 
-He had, at the small parlour-corner of the larger house the previous Sunday evening, decided that the revisiting was required. The decision had come on him at the small evening reading of the Stavanger paper, which had run in its Saturday edition a piece about the centennial of the founding of the Stavanger shipping firm Jensen & Frey — which had been founded in 1805. The piece had been a small two-column history of the firm's hundred years. The piece had, in its third column, named the founder's son who had run the firm from 1836 to 1878, and had said that the son had died in 1882 at the age of seventy-two.
+He had, at the small parlor-corner of the larger house the previous Sunday evening, decided that the revisiting was required. The decision had come on him at the small evening reading of the Stavanger paper, which had run in its Saturday edition a piece about the centennial of the founding of the Stavanger shipping firm Jensen & Frey — which had been founded in 1805. The piece had been a small two-column history of the firm's hundred years. The piece had, in its third column, named the founder's son who had run the firm from 1836 to 1878, and had said that the son had died in 1882 at the age of seventy-two.
 
 The dying of a man Olav had not heard of and had not any specific reason to register the death of had, for some reason he could not have articulated, reminded him of all the dyings of men across his life that had — since 1897 — been accumulating in the register he kept for the people he had known at particular moments of his life and had subsequently lost.
 
@@ -51,7 +51,7 @@ He had catalogued: Thomas Engelstad of Stjernerøy, his desertion-partner at Wil
 
 Haakon Berg of Hogganvik — by no source Olav had — was alive or dead at fifty-four in the summer of '05. Olav did not know. He had no way of knowing. The small Shields-coal-coaster trade was a trade whose men did not, as a rule, get reported on in any paper a Finnøy household saw.
 
-The small catalogue had been, at the small parlour-corner the previous Sunday evening, the catalogue.
+The small catalogue had been, at the small parlor-corner the previous Sunday evening, the catalogue.
 
 He had decided, at the end of the catalogue, that he would go to the cottage and open the small drawer.
 

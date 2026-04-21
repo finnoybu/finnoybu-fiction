@@ -17,7 +17,7 @@ The stripping was the stripping of four sailors at a hot foreign river — no ce
 
 The water was cold.
 
-It was the first cold water Olav had felt since Bergen harbour in early June. He stood in it to his waist for a moment with his palms on the surface and let the cold do what cold did for a body that had been, for four months, in nothing cooler than the bark's drinking-water. He ducked his head. He came up. His hair was flat. His eyes were stinging. He drew a breath he had not, in the weeks since Cape Town, quite allowed himself.
+It was the first cold water Olav had felt since Bergen harbor in early June. He stood in it to his waist for a moment with his palms on the surface and let the cold do what cold did for a body that had been, for four months, in nothing cooler than the bark's drinking-water. He ducked his head. He came up. His hair was flat. His eyes were stinging. He drew a breath he had not, in the weeks since Cape Town, quite allowed himself.
 
 Reuss and Odegaard were downstream by thirty feet, working their way across a shallow towards the far bank. Sven was just behind Olav on the deeper side, stepping into the pool, the water at his knees.
 

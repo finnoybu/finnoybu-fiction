@@ -19,7 +19,7 @@ The classroom started on the Tuesday at the consul's office at Bergen Avenue, wh
 
 ---
 
-The Norwegian consul's office at Brooklyn was on the upper floor of a brick building at the corner of Bergen Avenue and Smith Street, in a part of the city the local Norwegian community called Atlantic Avenue Brooklyn or, less officially, *Lille Bergen* — a half-square-mile of brick buildings, warehouses, and small shops that had, since the petroleum trade had brought regular Norwegian shipping to Brooklyn in the 1870s, become the small permanent Norwegian neighbourhood of New York. The consul was a man named Wexelsen who had been in Brooklyn twenty years and ran the office with his wife (also Norwegian, Stavanger-born) and two younger Norwegian-American clerks. The office handled the mail, the seamen's papers, the small consular interventions the petroleum-trade crews periodically required. Wexelsen had been at the post for fifteen years.
+The Norwegian consul's office at Brooklyn was on the upper floor of a brick building at the corner of Bergen Avenue and Smith Street, in a part of the city the local Norwegian community called Atlantic Avenue Brooklyn or, less officially, *Lille Bergen* — a half-square-mile of brick buildings, warehouses, and small shops that had, since the petroleum trade had brought regular Norwegian shipping to Brooklyn in the 1870s, become the small permanent Norwegian neighborhood of New York. The consul was a man named Wexelsen who had been in Brooklyn twenty years and ran the office with his wife (also Norwegian, Stavanger-born) and two younger Norwegian-American clerks. The office handled the mail, the seamen's papers, the small consular interventions the petroleum-trade crews periodically required. Wexelsen had been at the post for fifteen years.
 
 Olav came up the stairs to the office at ten on the Tuesday morning with his Brooklyn letter to Olava in his coat pocket.
 
@@ -51,7 +51,7 @@ The second was a young Norwegian-American clerk of perhaps twenty-two, in a brow
 
 After perhaps four minutes the inner door opened. Wexelsen came out.
 
-Wexelsen was in his early sixties. He had a square head and a small grey beard and the small careful manner of a Norwegian consular officer who had managed his post — by all signs successfully — for a long time. He looked at Olav. He nodded.
+Wexelsen was in his early sixties. He had a square head and a small gray beard and the small careful manner of a Norwegian consular officer who had managed his post — by all signs successfully — for a long time. He looked at Olav. He nodded.
 
 "Hestby."
 

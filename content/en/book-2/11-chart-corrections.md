@@ -5,9 +5,9 @@ slug: chart-corrections
 book: 2
 ---
 
-Captain Brun went ashore at the inner harbour with Olav in a hired dinghy at two bells of the afternoon watch on the day they moored.
+Captain Brun went ashore at the inner harbor with Olav in a hired dinghy at two bells of the afternoon watch on the day they moored.
 
-The dinghy was rowed by a thin young man in a white cotton shirt and a cap of the kind the river-boys on the Hooghly wore — flat, round, tied under the chin — and the young man rowed with the particular shortened stroke a man used on a crowded harbour to avoid catching the oars on the cables of the bigger boats. He took them to the customhouse stairs at the Strand. He asked, in English of the sort the Calcutta boatmen spoke, for two annas for the trip. Brun gave him four.
+The dinghy was rowed by a thin young man in a white cotton shirt and a cap of the kind the river-boys on the Hooghly wore — flat, round, tied under the chin — and the young man rowed with the particular shortened stroke a man used on a crowded harbor to avoid catching the oars on the cables of the bigger boats. He took them to the customhouse stairs at the Strand. He asked, in English of the sort the Calcutta boatmen spoke, for two annas for the trip. Brun gave him four.
 
 "Captain," Olav said, when the young man had pulled away, "the book said two."
 
@@ -33,7 +33,7 @@ They walked perhaps six hundred yards along the Strand to a building in the clas
 
 ---
 
-The pilots' office was, inside, cooler than the Strand by a measurable degree. The windows were shuttered on the west side; the ceilings were very high; there was a punkah, pulled by a boy on a mat in the corner, that moved the air across the central room in a slow steady wave. Along the walls were bookshelves of charts, and at the far end of the room was a long oak table, and at the table was a man in his late forties with a white moustache and the manner of an Englishman who had not been in England for twenty years.
+The pilots' office was, inside, cooler than the Strand by a measurable degree. The windows were shuttered on the west side; the ceilings were very high; there was a punkah, pulled by a boy on a mat in the corner, that moved the air across the central room in a slow steady wave. Along the walls were bookshelves of charts, and at the far end of the room was a long oak table, and at the table was a man in his late forties with a white mustache and the manner of an Englishman who had not been in England for twenty years.
 
 "Captain Brun."
 
@@ -69,11 +69,11 @@ The colonel looked at Olav. The look was the look of a man who had, in twenty ye
 
 ---
 
-The chart table held a large sectional chart of the Hooghly from Sagar Island to Calcutta, marked in the latest pilotage with coloured pencil.
+The chart table held a large sectional chart of the Hooghly from Sagar Island to Calcutta, marked in the latest pilotage with colored pencil.
 
 The colonel led them through the corrections. The James and Mary shoal had shifted, in the last monsoon, by about three hundred yards to the east; the main channel past it now ran closer to the starboard bank than it had in the 1879 survey. The Mayapur bar had built up by two feet at the northern edge and should now be passed on a rising tide only, even by a vessel of the *Semiramis*'s draft. The bends at Hooghly Point and at Fultah had not moved, but a new wreck — a Welsh brig from Swansea lost in the June monsoon — was now on the chart at Fultah at its position on the mud, and the pilots were routing around it on the inbound tide with an extra quarter-cable to spare.
 
-Olav wrote the corrections on the slate he had brought in the leather folder. He wrote them in the small clear hand Nilson had made him practise at Stavanger — the hand a navigator used for chart annotations, with the cardinal directions spelled in full and the distances given in both fathoms and cable-lengths. He did not ask questions; he listened and wrote. When the colonel had finished, he read back the corrections aloud — slowly — and the colonel, at the end, said:
+Olav wrote the corrections on the slate he had brought in the leather folder. He wrote them in the small clear hand Nilson had made him practice at Stavanger — the hand a navigator used for chart annotations, with the cardinal directions spelled in full and the distances given in both fathoms and cable-lengths. He did not ask questions; he listened and wrote. When the colonel had finished, he read back the corrections aloud — slowly — and the colonel, at the end, said:
 
 "Good. Mr. Hestby. You will write those corrections onto the ship's chart tonight in the captain's cabin, and on the outbound run in three weeks you will have them in front of you, and you will pilot her down with Banerjee or whichever pilot we send you, and you will, by doing so, have made your first Hooghly descent. The descent is harder than the ascent. The ascent is on the flood; the descent is on the ebb. On the ebb there is less time to recover a mistake. Banerjee will be at your shoulder, but you will be the one who writes the sight at the binnacle. The chart is the chart you have just taken. You have the chart."
 
@@ -109,7 +109,7 @@ Then, without stopping:
 
 "Thank you, sir."
 
-"You did not interrupt the colonel to ask whether a bend was in fathoms or metres. The last young navigator I brought here did. The colonel did not mind the question, but he noted the question, and he placed the young navigator a grade lower than he would have otherwise, and the young navigator did not know he had been placed and was surprised afterward when the colonel's recommendation to the company's agents was milder than he had expected. You did not ask the question because you had read the chart the colonel was working from and you had seen the units at the corner. The reading of the units is a small thing. But it is the small things the Colonel Wightons of the world grade on, because the small things are what separate the navigator who will bring his ship home from the navigator who will lose her at Fultah on an ebb."
+"You did not interrupt the colonel to ask whether a bend was in fathoms or meters. The last young navigator I brought here did. The colonel did not mind the question, but he noted the question, and he placed the young navigator a grade lower than he would have otherwise, and the young navigator did not know he had been placed and was surprised afterward when the colonel's recommendation to the company's agents was milder than he had expected. You did not ask the question because you had read the chart the colonel was working from and you had seen the units at the corner. The reading of the units is a small thing. But it is the small things the Colonel Wightons of the world grade on, because the small things are what separate the navigator who will bring his ship home from the navigator who will lose her at Fultah on an ebb."
 
 "Yes, sir."
 

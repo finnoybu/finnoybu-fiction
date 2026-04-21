@@ -205,7 +205,7 @@ He did not, in the fifteen minutes, work on any paper. He looked at the lamp; he
 
 He had, until tonight, thought of the coming-ashore as a single event at a future date.
 
-He understood now that it would not be a single event. It would be a gradient. It would start, at Bergen in November of this year, with his refusal of the next *Semiramis* berth. It would continue with the spring wedding at Hestby. It would go on with whatever voyage he took after the wedding, and with whatever voyage he took after that, and would end — at some year in the 1890s — with the last berth he signed for, and with the settling at Finnøy in a household he and Olava would by then have made, and with whatever small boat he would, at thirty-eight or forty-two, have bought a share of at the Stavanger harbour.
+He understood now that it would not be a single event. It would be a gradient. It would start, at Bergen in November of this year, with his refusal of the next *Semiramis* berth. It would continue with the spring wedding at Hestby. It would go on with whatever voyage he took after the wedding, and with whatever voyage he took after that, and would end — at some year in the 1890s — with the last berth he signed for, and with the settling at Finnøy in a household he and Olava would by then have made, and with whatever small boat he would, at thirty-eight or forty-two, have bought a share of at the Stavanger harbor.
 
 The gradient would be the shape of the rest of his life at sea.
 
@@ -243,7 +243,7 @@ He looked at the dark ahead.
 
 He thought: *I will write the Saint Helena letter when we sight it. I will write it short. I will not, at the Saint Helena chart-table, have to burn a third sheet. The third sheet was a Cape Town sheet. I am not, at Saint Helena, going to need to write it again.*
 
-He thought: *the burning I am going to practise, from here to Bergen, is the burning of the sheets the voyage does not require me to send. I will do it at Saint Helena. I will do it at the Channel. I will do it at Copenhagen. I will do it on the homeward deck when a letter to Haakon in my head asks to be written to paper, and I will do it when a letter to Sven asks to be written, and I will do it when a letter to Anders — a name I do not yet know, if there is such a man in a port ahead — asks to be written.*
+He thought: *the burning I am going to practice, from here to Bergen, is the burning of the sheets the voyage does not require me to send. I will do it at Saint Helena. I will do it at the Channel. I will do it at Copenhagen. I will do it on the homeward deck when a letter to Haakon in my head asks to be written to paper, and I will do it when a letter to Sven asks to be written, and I will do it when a letter to Anders — a name I do not yet know, if there is such a man in a port ahead — asks to be written.*
 
 He thought: *burning is the fourth kind of seamanship.*
 

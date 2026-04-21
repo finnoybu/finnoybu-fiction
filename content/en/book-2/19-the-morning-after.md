@@ -35,7 +35,7 @@ He thought about the not-writing at the blank page in the forecastle dark. He th
 
 He thought: *the only safe place for the two nights is my head.*
 
-He thought: *my head is not a perfectly safe place. My head will not, at sixty, remember with the accuracy my pencil can remember. My head will remember Sven's face in the grey light of the Wednesday morning, and my head will remember the soap smell at his collar, and my head will remember the particular count Sven gave me with his hand on my face in the small hours. My head will forget other things. My head will, in the forgetting, soften the two nights into a set of general impressions that will not be exactly what the two nights were.*
+He thought: *my head is not a perfectly safe place. My head will not, at sixty, remember with the accuracy my pencil can remember. My head will remember Sven's face in the gray light of the Wednesday morning, and my head will remember the soap smell at his collar, and my head will remember the particular count Sven gave me with his hand on my face in the small hours. My head will forget other things. My head will, in the forgetting, soften the two nights into a set of general impressions that will not be exactly what the two nights were.*
 
 He thought: *that is what I have to accept. The two nights were mine to live. They are not mine to preserve. The preserving is a thing that belongs to a man who was allowed to have lived a thing publicly. I did not live these nights publicly. I cannot preserve them in the way a man preserves a public thing. I have the memory. The memory is imperfect. The imperfection is the cost.*
 

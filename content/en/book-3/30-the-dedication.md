@@ -27,7 +27,7 @@ The small archive of the larger house was settled across the two months after th
 
 Anna came across with Henrik Berg in the third week of April for the estate-closing work a Norwegian island household of their kind required at the death of its last resident. Jens the younger came from Bergen for the fourth week of April and stayed a week.
 
-On the Tuesday of the third week Anna opened the small top drawer of the writing-desk at the parlour-corner.
+On the Tuesday of the third week Anna opened the small top drawer of the writing-desk at the parlor-corner.
 
 She found, as the first item at the top of the small pile of her father's final papers, the small folded sheet he had written on the evening of the twentieth of September of 1938 at the writing-desk.
 
@@ -35,7 +35,7 @@ She read it.
 
 She did not, at the reading, immediately speak.
 
-She took the sheet across to the small parlour-corner where Jens the younger was sitting with the small Stavanger paper.
+She took the sheet across to the small parlor-corner where Jens the younger was sitting with the small Stavanger paper.
 
 "Jens."
 

@@ -75,7 +75,7 @@ Olav did not say anything. He went forward.
 
 ---
 
-At the forecastle water-cask he filled his tin mug and he drank the water down in one long draught, and when he had emptied the mug he stood for a moment with his back against the bulkhead and let his hands shake for the small private count they had earned by the work.
+At the forecastle water-cask he filled his tin mug and he drank the water down in one long draft, and when he had emptied the mug he stood for a moment with his back against the bulkhead and let his hands shake for the small private count they had earned by the work.
 
 His hands shook not because the work had been dangerous — the work had been, on the scale of the work a common seaman did on a deep-water bark, only moderately dangerous, and he had done more dangerous at Wilmington and at the royal yard of the *Sigrid* in the calm of '76 — but because his body had registered, in the seven minutes at the earing with Sven's shoulder at his shoulder and Sven's breath at his jaw, a thing the body had not been asked to register since the lee of the galley on the *Sigrid*.
 

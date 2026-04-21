@@ -14,8 +14,8 @@ import subprocess
 import yaml
 
 # ---------------------------------------------------------------------------
-# Select which book to build.
-BOOK = 1
+# Select which book to build via the BOOK env var (default 1).
+BOOK = int(os.environ.get("BOOK", "1"))
 # ---------------------------------------------------------------------------
 
 REPO_ROOT = os.path.dirname(os.path.abspath(__file__))

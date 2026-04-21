@@ -7,7 +7,7 @@ book: 2
 
 The bark lay at her Strand mooring for three weeks while the timber came out of her hold and the rice and indigo went in.
 
-The work of discharging and loading a thousand-ton bark in Calcutta in the autumn of 1881 was not work the crew did. It was done by Bengali stevedores under the direction of a Calcutta labour-contractor, in gangs of twenty, with long bamboo poles and small flat lighters that came and went off the bark's larboard side in a rhythm that started at six in the morning and ended at six in the evening and did not, through three weeks, miss a beat. The crew's work, during the discharge, was lighter — watch-keeping, the continual cleaning and mending the bark always needed, the small ship-board tasks a carpenter and a sailmaker and a steward generated on a ship at rest. There was time. There was, for the first time in eighty-seven days, more time than work.
+The work of discharging and loading a thousand-ton bark in Calcutta in the autumn of 1881 was not work the crew did. It was done by Bengali stevedores under the direction of a Calcutta labor-contractor, in gangs of twenty, with long bamboo poles and small flat lighters that came and went off the bark's larboard side in a rhythm that started at six in the morning and ended at six in the evening and did not, through three weeks, miss a beat. The crew's work, during the discharge, was lighter — watch-keeping, the continual cleaning and mending the bark always needed, the small ship-board tasks a carpenter and a sailmaker and a steward generated on a ship at rest. There was time. There was, for the first time in eighty-seven days, more time than work.
 
 It was a thing Olav had been warned about by Sundberg on the second day at the mooring.
 
@@ -77,7 +77,7 @@ The letter said:
 >
 > *I have been to the Asiatic Society's library. I have been to the Bengal Chamber of Commerce. I have been to the Bengal Pilots' office three times. I have not been to the lower streets. I have decided, on this voyage, to be the kind of sailor in port that my father was at sixty, which is the kind who goes to the chandler's and not to the bar. I did not decide this; I watched myself deciding it. I am writing this down because I want you to know how the deciding felt, which was like watching oneself become more one's own father than one had thought one was going to be at twenty-three.*
 >
-> *There is a mountain here called the Shwedagon, but it is not here; it is at Rangoon. We will call there in six weeks on our way back. It is the gold mountain the handbooks draw pictures of in the coloured plates. I will see it for you.*
+> *There is a mountain here called the Shwedagon, but it is not here; it is at Rangoon. We will call there in six weeks on our way back. It is the gold mountain the handbooks draw pictures of in the colored plates. I will see it for you.*
 >
 > *The ship is well. I am well. The cough has not come. The tea here is not tea. The steward and I are reading each other's chronometers in the galley on Thursday evenings. The steward is a good man; his name is Torgerson; he is from Arendal; he is thirty. I named him because you will think I have not named a crew member yet and I am correcting the record.*
 >

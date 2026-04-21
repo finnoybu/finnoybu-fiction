@@ -61,7 +61,7 @@ He wrote:
 >
 > *I am not writing you about him because the ledger in your drawer asks for it. I am writing because he has been, for ten months, the closest man to me on this bark, and a letter of mine to you from the Cape on the homeward that does not name him is a letter that holds back a piece of the voyage from you which you have agreed, at Christmas of '79, not to ask about.*
 >
-> *I am giving you his name because the giving is the agreement I can honour from my side.*
+> *I am giving you his name because the giving is the agreement I can honor from my side.*
 >
 > *I am not going to give you more than the name. The more is mine.*
 >
@@ -139,7 +139,7 @@ He went out of the cabin.
 
 On the quarterdeck the mate looked at him once and nodded. Olav nodded back. He went forward to his own rail-place.
 
-The Cape was, beyond the bark's bowsprit, dark against the late-May sky. The mountain had its cloud on it tonight — the *tablecloth* of the summer wind Dahl had described — and the cloud was moving slowly off the western face in the particular way the tablecloth moved at this hour. The harbour around the bark had perhaps fifteen other ships tonight. Two of them were lit at the rigging. The rest showed only their binnacle-lamps.
+The Cape was, beyond the bark's bowsprit, dark against the late-May sky. The mountain had its cloud on it tonight — the *tablecloth* of the summer wind Dahl had described — and the cloud was moving slowly off the western face in the particular way the tablecloth moved at this hour. The harbor around the bark had perhaps fifteen other ships tonight. Two of them were lit at the rigging. The rest showed only their binnacle-lamps.
 
 He stood at the rail.
 
@@ -193,7 +193,7 @@ The consul nodded, briefly, in the way a clerk nodded at a remark he understood 
 
 He went out.
 
-On the walk back to the customhouse stairs he did not hurry. He stopped at the top of Wale Street, where there was a view down to the harbour, and he looked at the bark and at the mountain behind the bark and at the small busy business of the Cape Town working day around him. He thought: *I have done the hardest piece of the homeward's interior work, which was not the writing of the letter I sent but the burning of the letter I did not. The burning was the keeping of the agreement. I will, at the next hardest piece at Saint Helena in a month, do the burning again if the hour at the chart-table produces another third sheet. The burning is, from here to Bergen, a skill I am going to practise.*
+On the walk back to the customhouse stairs he did not hurry. He stopped at the top of Wale Street, where there was a view down to the harbor, and he looked at the bark and at the mountain behind the bark and at the small busy business of the Cape Town working day around him. He thought: *I have done the hardest piece of the homeward's interior work, which was not the writing of the letter I sent but the burning of the letter I did not. The burning was the keeping of the agreement. I will, at the next hardest piece at Saint Helena in a month, do the burning again if the hour at the chart-table produces another third sheet. The burning is, from here to Bergen, a skill I am going to practice.*
 
 He went down to the stairs.
 

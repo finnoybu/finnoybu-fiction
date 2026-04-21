@@ -7,7 +7,7 @@ book: 2
 
 The *Norden* made North Shields on the Tuesday evening tide in the second week of July.
 
-Haakon had stood the harbour watch from the forepeak with a rope's end in his hand and the pilot's whistle in his ear, and when the hawsers went over at the coal staithe he set down the rope and took off his cap and wiped his face and stood for a moment looking at the town he had by now made twenty-three times. Shields in July was not a beautiful thing. The sky above the Tyne mouth was the colour of a coin that had been kept in a pocket for a long time, and the air — at least the air near the coal staithes — carried the particular mineral cough of a port that existed to move twenty thousand tons of Durham coal a week and was not, for anyone's benefit, going to pretend otherwise.
+Haakon had stood the harbor watch from the forepeak with a rope's end in his hand and the pilot's whistle in his ear, and when the hawsers went over at the coal staithe he set down the rope and took off his cap and wiped his face and stood for a moment looking at the town he had by now made twenty-three times. Shields in July was not a beautiful thing. The sky above the Tyne mouth was the color of a coin that had been kept in a pocket for a long time, and the air — at least the air near the coal staithes — carried the particular mineral cough of a port that existed to move twenty thousand tons of Durham coal a week and was not, for anyone's benefit, going to pretend otherwise.
 
 He put his cap back on.
 
@@ -35,7 +35,7 @@ That was the life he had.
 
 It was a small life. He knew it was a small life. He had known it at twenty-seven when he had signed for the *Norden* the first time, and he had known it at twenty-eight when he had renewed, and he had known it at twenty-nine when the company had offered him the boatswain's berth at a slightly better wage and he had taken it because the slightly-better wage was what his small life, at that point, had been in a position to accept. A man who had spent the second half of his twenties on a coal-coaster between the Tyne and Bergen was a man who had made certain choices — or, more exactly, had failed to make certain other choices — and Haakon had been honest with himself about those choices for as long as he could remember.
 
-He went below to change out of the harbour-watch coat.
+He went below to change out of the harbor-watch coat.
 
 ---
 
@@ -97,7 +97,7 @@ The Low Lights was a tavern at the base of the lighthouse at North Shields that 
 
 "Yes."
 
-Halvorsen gestured at the stool. Haakon sat. They drank for a minute without speaking — the way men who had sailed together once and had not seen each other in six years drink, without the pretence of being closer than they were — and then Halvorsen set his glass down and said, in the flat tone of a man giving a piece of information he has been carrying for a week:
+Halvorsen gestured at the stool. Haakon sat. They drank for a minute without speaking — the way men who had sailed together once and had not seen each other in six years drink, without the pretense of being closer than they were — and then Halvorsen set his glass down and said, in the flat tone of a man giving a piece of information he has been carrying for a week:
 
 "There is a bark out of Bergen called the *Semiramis.*"
 
@@ -221,7 +221,7 @@ He stood at the rail another minute. He watched the Danish brig clear the bar. T
 
 He went back to the *Norden.*
 
-In his berth he took out his pencil and the small bound book he kept for the harbour-watch log and he opened it to a clean page and he wrote, across the top, *11 July 1881, North Shields,* and underneath, in the smaller careful hand he used for himself:
+In his berth he took out his pencil and the small bound book he kept for the harbor-watch log and he opened it to a clean page and he wrote, across the top, *11 July 1881, North Shields,* and underneath, in the smaller careful hand he used for himself:
 
 > *Heard at the Low Lights. The Semiramis lifted Stavanger 2nd week June. Hestby aboard. Calcutta-bound. 18 months.*
 

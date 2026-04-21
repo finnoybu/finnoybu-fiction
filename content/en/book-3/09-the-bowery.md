@@ -131,7 +131,7 @@ The three men in the alley turned. The two men at the corner turned.
 
 A man stood at the corner of the alley.
 
-He was, Olav saw in the failing light, a Norwegian. He was about fifty. He was in the dark coat of a Brooklyn-Norwegian businessman of some standing. He had a small grey beard. He was, Olav registered in the second second, holding nothing in his hands — no weapon, no stick — and was therefore relying on something other than physical force to make the *stop* he had just given.
+He was, Olav saw in the failing light, a Norwegian. He was about fifty. He was in the dark coat of a Brooklyn-Norwegian businessman of some standing. He had a small gray beard. He was, Olav registered in the second second, holding nothing in his hands — no weapon, no stick — and was therefore relying on something other than physical force to make the *stop* he had just given.
 
 He spoke a sentence in English to the largest of the three men. The English was Brooklyn-accented but not Brooklyn-native; it was the English of a Norwegian who had been in the city for thirty years.
 

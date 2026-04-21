@@ -9,7 +9,7 @@ The mate of the *President Daae* was a man named Tellefsen.
 
 He came back from the company office at three o'clock on the Tuesday afternoon, as Thoresen had said he would, and found Olav at the foredeck where Olav had been since two — having stowed his chest in the small cabin that had been assigned to him as the first mate's berth (a separate cabin, narrow, with its own door and a fixed bunk and a small writing-desk that bolted to the bulkhead), having taken his short walk of the bark from stem to stern noting what he could see noting from the deck of a vessel he would be at sea on for the next eighteen months, and having come to rest at the foredeck to wait for the man he would be working under.
 
-Tellefsen was about forty. He was tall and thin, with the small grey-blond beard a Bergen man of his generation grew because his father had grown it. His eyes were clear and a little tired, in the way the eyes of a long-serving second-rank officer often were — a man who had been a mate for fifteen years and had concluded he would be a mate at sixty too, and who had reconciled himself to the conclusion. He came up the gangway, looked at Olav, and put out his hand.
+Tellefsen was about forty. He was tall and thin, with the small gray-blond beard a Bergen man of his generation grew because his father had grown it. His eyes were clear and a little tired, in the way the eyes of a long-serving second-rank officer often were — a man who had been a mate for fifteen years and had concluded he would be a mate at sixty too, and who had reconciled himself to the conclusion. He came up the gangway, looked at Olav, and put out his hand.
 
 "Hestby."
 
@@ -153,7 +153,7 @@ He slept, the small uneven sleep of a man on the night before his first deep-wat
 
 The bark lifted on the morning tide at six.
 
-The harbor pilot took her out of Byfjorden in the grey October dawn. The crew worked the cables and the topsails as a crew that had been at this work together for years, with the small calibrated shorthand a long-serving deep-water crew used in the small operations of leaving a port: a half-word, a hand signal, the unhurried knowing where the next pull was. Olav stood on the quarterdeck with Thoresen and Tellefsen. He observed. He did not, on the first morning, give an order.
+The harbor pilot took her out of Byfjorden in the gray October dawn. The crew worked the cables and the topsails as a crew that had been at this work together for years, with the small calibrated shorthand a long-serving deep-water crew used in the small operations of leaving a port: a half-word, a hand signal, the unhurried knowing where the next pull was. Olav stood on the quarterdeck with Thoresen and Tellefsen. He observed. He did not, on the first morning, give an order.
 
 Thoresen did the giving. He gave the orders in a measured Bergen voice that was neither shouting nor quiet — the voice of a captain who had decided, by experience, that the lifting of a bark from her port was not a moment for either kind of voice but for the third kind, which was the captain's clear declarative middle register that the crew's ears had calibrated to obey.
 

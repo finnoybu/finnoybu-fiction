@@ -105,7 +105,7 @@ He slept.
 
 The bark made the Brooklyn approach on the morning of the eighth of December.
 
-The pilot came aboard at the Sandy Hook bar — a thin red-bearded American with a Brooklyn-Norwegian accent that Olav understood at once as the speech of a Bergen man who had emigrated young and had been on the Hook pilots' boat for twenty years. He took the bark up through the Narrows. The day was cold and grey; the harbor was full; New York rose on the port hand and Brooklyn on the starboard, and the sheer size of the city Olav had read about at the Asiatic Society library at Calcutta was a thing that — like the Cape Town mountain in July of '81 — exceeded the description.
+The pilot came aboard at the Sandy Hook bar — a thin red-bearded American with a Brooklyn-Norwegian accent that Olav understood at once as the speech of a Bergen man who had emigrated young and had been on the Hook pilots' boat for twenty years. He took the bark up through the Narrows. The day was cold and gray; the harbor was full; New York rose on the port hand and Brooklyn on the starboard, and the sheer size of the city Olav had read about at the Asiatic Society library at Calcutta was a thing that — like the Cape Town mountain in July of '81 — exceeded the description.
 
 The bark warped in to the petroleum wharf at Red Hook on the late tide.
 
