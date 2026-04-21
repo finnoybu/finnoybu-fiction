@@ -43,7 +43,7 @@ Olav turned. He saw the steward. He saw the bottle in the steward's hand — hel
 
 Olav understood, in the count of two breaths, what was about to happen.
 
-He understood it because he had, on the *Sigrid* in '76 at eighteen, seen one of Captain Gjermund's hands come at the carpenter at the same hour with the same kind of unsteady walk and the same kind of decision in the face. The hand had not, in that case, had a bottle. He had had a marlinspike. The carpenter had taken the marlinspike across the ribs at the moment Olav had, from the foretop, seen the hand's intention without having time to call the alarm. The carpenter had survived.
+He understood it because he had, on the *Sigrid* in '76 at eighteen, seen Captain Gjermund's mate come at the carpenter at the same hour with the same kind of unsteady walk and the same kind of decision in the face. The mate had not, in that case, had a bottle. He had had a marlinspike. The carpenter had taken the marlinspike across the ribs at the moment Olav had, from the foretop, seen the mate's intention without having time to call the alarm. The carpenter had survived.
 
 Olav did not, at the rail, have a marlinspike to dodge. He had a bottle.
 
