@@ -19,7 +19,7 @@ She had been, across the four years since the closing, a woman who did not keep 
 
 ---
 
-In the spring of 1900 — Olava was thirty-nine at her March birthday, Olav forty-one, Anna thirteen, Jens the younger eleven, Ingrid eight — she came back to the small archive for the first time.
+In the spring of 1900 — Olava was thirty-nine, Olav forty-one, Anna thirteen, Jens the younger eleven, Ingrid eight — she came back to the small archive for the first time.
 
 It was a Tuesday afternoon in April. Olav was at Stavanger for the Wednesday's round. The children were at the parish school. The house at Finnøy was empty.
 
