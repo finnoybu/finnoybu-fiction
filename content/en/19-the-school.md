@@ -91,3 +91,47 @@ He let his hand drop. He did not, looking at the line, think of any particular m
 He rolled the chart. He took it to the classroom. He set it on Prof. Nilson's desk. He went back to his seat in the second row by the window and opened his book to the page they had been working from before the chart had been wanted.
 
 He did not, that night at Mrs. Kindingstad's, write to Olava the letter he had been intending to write. He sat at the desk in the room at the back with the pen in his hand and he wrote, instead, three pages on the dead-reckoning exercise for the next morning, in handwriting that came out a little faster and a little smaller than his handwriting usually came out. He went to bed at half past ten. He was up at six. He went to school. He attended Prof. Nilson's lecture. The exercise on the dead-reckoning was the first of the term in which Olav got the answer, the first time, by feel, before he had completed the work on paper.
+
+---
+
+On a Thursday in early December — three weeks after the chart-room afternoon, in a cold Stavanger rain that had not stopped for two days — Olav was walking home from the school at a quarter to five. He had taken the shorter route along the harbor-front, because Bryn had rung the end-of-day bell late and he had been wanting his supper.
+
+At the second quay — the one for the small coasters — a man was walking down the gangway of a two-masted trader.
+
+The man was perhaps forty-five. He wore a dark captain's coat. His beard was trimmed. He walked with the upright carriage of a man who had been an officer for twenty years. The rain was making a thin line of water run off the edge of his cap.
+
+Olav was on the landward side of the quay, forty feet from the gangway. He was not looking at the quay when the man came down. He was looking at his own boots on the wet cobbles.
+
+He looked up.
+
+He saw the man.
+
+He saw — in the count of perhaps a second and a half — the coat and the beard and the upright carriage and the particular forward set of the shoulders and the particular something at the corner of the mouth that would, at forty-five, if you did not know better, be the shape a smile had been for Olav across three months on a brig in 1876.
+
+His body stopped.
+
+It stopped fully, in the way his body had not stopped in six years. His feet did not continue to the next step. His right hand, which had been in his coat pocket, stayed in his coat pocket. His breath, which had been in the middle of an out-breath, did not move to the next in-breath.
+
+The man came down the gangway. He did not look at Olav. He turned right on the quay and started walking toward the shipping offices at the end of the row.
+
+He was not Captain Gjermund.
+
+Olav registered this at the count of perhaps the sixth second, which was four seconds after his body had decided, in the count of one and a half seconds, that the man was Captain Gjermund. The body and the registering had been at different paces. The body had decided first. The body had been running on the old arithmetic.
+
+He stood at the edge of the quay in the rain.
+
+He watched the man walk away. The carriage, now that the man was walking with his back to Olav, was not actually Gjermund's carriage. The forward set of the shoulders was a trick of the rain on the wool. The beard was shorter than Gjermund's had been. The coat was a Stavanger merchant-captain's coat of a cut Gjermund had never worn.
+
+The man was not, had never been, could not have been Captain Gjermund. Gjermund was either at Bergen or at sea or at some cold ground Olav had not been told of, and had no reason to be at Stavanger, had not been at Stavanger in Olav's father's knowledge for twelve years.
+
+The man walked past the shipping office. He turned down a side street. He was gone.
+
+Olav stood for a moment longer at the quay.
+
+Then he walked on.
+
+He walked to Mrs. Kindingstad's. He took off his coat at the hall. He hung his hat on the peg. He went up the stair to the room at the back. He sat at the desk for five minutes without doing anything. Then he took the book out of his bag and began the dead-reckoning exercise Prof. Nilson had set for the next morning.
+
+He did not, that night, tell anyone about the ninety seconds at the quay.
+
+He did not, in the three years of the school remaining to him, pass the second quay on a Thursday afternoon without, at the first step onto the cobbles, a small involuntary check of the carriage of any man in a dark captain's coat within forty feet of him. The check was the body's. The body would, he understood by the end of that December, not be relieved of the check by any education he did at any school.
