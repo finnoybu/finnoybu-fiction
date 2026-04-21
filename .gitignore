@@ -1,3 +1,6 @@
+# local Claude session state
+.claude/
+
 # dependencies
 node_modules/
 .pnpm-store/
