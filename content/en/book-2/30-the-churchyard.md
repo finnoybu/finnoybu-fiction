@@ -201,13 +201,13 @@ They ate.
 
 That night in the loft at Finnøy — the last night he would sleep in the loft as an unmarried son of the house; from the fifteenth of March he would sleep there as the married son — Olav sat for some time at the small desk under the window with his small bound book open in front of him on the last unused page.
 
-He had, in the five months since the homecoming, written in the book perhaps eight times. Short entries. The kind of sentences a man made when he was not sure whether the thing he was writing was going to matter to him at sixty and did not, at twenty-three, have the means to find out.
+He had, in the five months since the homecoming, written in the book perhaps eight times. Short entries. The kind of sentences a man made when he was not sure whether the thing he was writing was going to matter to him at sixty and did not, at twenty-four, have the means to find out.
 
 He wrote, now, at the last page he had chosen for this purpose on the Christmas morning at Finnøy:
 
 > *13 March 1883, Finnøy loft.*
 >
-> *I am twenty-five, six days after my birthday, engaged to Olava Lindøye of Lindøy since November of 1880, at home from the Semiramis since October of last year.*
+> *I am twenty-four, engaged to Olava Lindøye of Lindøy since November of 1880, at home from the Semiramis since October of last year.*
 >
 > *Tomorrow at eleven I will sign a register at the altar of the Hestbye church on this island. The register will have both our names in the old spelling in Pastor Kleven's hand and both our signatures in the modern spelling in our own. Pastor Kleven baptized me in this church in 1858 and confirmed me in 1872. He will marry me in it in 1883.*
 >
