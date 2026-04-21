@@ -63,7 +63,7 @@ Tracking names that appear in the novel and may need to change before publicatio
 | Rev. Lars Oftedal | Rev. Oftedal | Chaplain, singer, Bethania Chapel | Keep — real public figure |
 | Prof. Nilson (nav school) | Prof. Halvdan Nilson | Kindly teacher | Keep — first name revealed Book II Ch 5 |
 | Hamre (nav school classmate) | Hamre | Classmate Olavus helps | Keep |
-| Peder Gjesdal (Brooklyn runner, criminal) | Peder Gjesdal | Notorious sailor-runner in NY | **Change — real person, criminal portrayal risk** |
+| Peder Gjesdal (Brooklyn runner, criminal) | Peder Gjesdal | Notorious sailor-runner in NY | **Keep** — Ken 2026-04-21: Peder Gjesdal was a common Norwegian name; historical-connection probability low. Rename cost across 6 files (Bk II Ch 30, Bk III Chs 9/10/17/21/28) plus risk of introducing inconsistencies exceeds the speculative legal/commercial exposure. The two-Gjesdals architectural device in Bk III Ch 9 (criminal + intervening businessman with the same surname) is preserved as written. Overrides rule 5 below as a case-specific exception. |
 | The Swedish woman (Copenhagen) | **Anders Lindqvist** | Stockholm marine-insurance clerk, ~28 in Sept 1882. Meets Olav at a Copenhagen quay corner; single supper, no bed, one-letter-each correspondence afterward. Parallel-echo to Haakon's three-line Shields letter (not the memoir's passionate-plea shape). | Used in Bk II Ch 25 (Copenhagen) and Ch 28 (Two Letters) |
 
 ## Ships
