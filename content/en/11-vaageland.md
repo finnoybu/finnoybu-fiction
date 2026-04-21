@@ -12,7 +12,113 @@ He had come into it on a Friday at midnight, with his sea-chest at his shoulder 
 
 Thomas was, on the step of the widow's house at the Friday midnight, the first man Olav's interior had set apart from the rest of the world without yet having a name for the setting-apart. He had been, in the five months on the brig, the man whose steady voice across the salt-hold and the tarring and the royal yard had become the voice Olav listened for. The setting-apart was not the setting-apart Olav had registered in the lee of the galley in his second week at sea with another man whose name he had been carrying since. The two set-apartings were different. He did not, at eighteen on the step of the widow's house, have the vocabulary to say how. He had only the small fact that he had, by the Friday midnight, two men in the place in him that, in the years to come, he would learn to name a drawer.
 
-In the third week of the widow's house Thomas went out at dawn for the morning milk-errand and did not come back. The not-coming-back was the first thing the place in Olav had ever been asked to keep without being told where the thing had gone. It kept. It kept for the sixty-five years after.
+Thomas, in the October of 1876, had been ready to leave the widow's house when Olav left. He had not left. He stayed on through the winter because the berth he had been waiting for had not, by the second week of November, come to him, and the widow had agreed, through whatever calculus of the lodging-house economy she kept, to hold him through the cold months. In the March of the next year — at a lodging-house Olav had by then been five months absent from, on a Friday at dawn — Thomas went out for the morning milk-errand and did not come back. The not-coming-back was the first thing the place in Olav had ever been asked to keep without being told where the thing had gone. It kept. It kept for the sixty-five years after.
+
+---
+
+Thomas, in the first two weeks of Olav's stay at the widow's house, was the second man at the widow's table. The widow had three lodgers the first Saturday — Thomas, the Dane, and a Finn who left on a Sunday coaster three days later — and by the second Saturday she had only the three of them.
+
+Olav learned the rhythm of the house in the first three days. The widow woke at five and laid the fire. The Dane came down at six and took coffee at the counter and left for his morning walk. Thomas and Olav came down at seven, together or within a minute of each other. Breakfast was oats and a piece of bread and a weak coffee the widow did not apologize for. At breakfast the widow asked the questions — *what was the colour of the schoolhouse at the village* and *what was your mother's father's first cousin's son's name* — and Olav answered as best he could and Thomas sometimes helped and the Dane ate at the counter without turning his head.
+
+On the second morning Thomas took Olav down the wooden stair at nine and walked two streets west and one street south. Olav registered — as they walked — that Thomas was walking differently than Thomas had walked on the deck of the brig. The difference was in the arms and the gait. The arms were looser. The gait was slower. The shoulders were forward, not back. Thomas was walking like a man who had come to Wilmington from inland and was looking for a warehouse job. Thomas was not walking like a sailor.
+
+"You walk like a Norwegian sailor," Thomas said at the first corner. "Your body knows that walk. Your body has known it for five months. A Norwegian sailor at Wilmington in the third week of November with a borrowed name cannot be a Norwegian sailor. You have to walk like something else."
+
+"Like what."
+
+"I do not know. Like a boarder. Like a Dane who is not a sailor. Like a man on his way to a job in a warehouse. Like whatever your body can do that is not a sailor. Try."
+
+Olav tried.
+
+The trying felt wrong. His shoulders did not want to come forward. His arms did not want to loosen. His gait did not want to slow. The Finnøy boy inside him wanted to walk like a man on a deck.
+
+Thomas walked beside him and watched. After half a block Thomas stopped at a corner and put one hand on Olav's shoulder and adjusted the angle. The adjustment was small. The hand was warm through the wool of Olav's coat. Olav registered the hand. He did not, in the registering, name the register. The hand came off. Thomas said:
+
+"Better. Keep it. The body will learn. Walk."
+
+They walked.
+
+They walked past a brick building on Water Street with a small door on the second floor that had, in gold paint on the window glass above the door, the words *Royal Norwegian Consulate.* They walked past on the opposite side of the street. Thomas did not turn his head toward the window. Neither did Olav. They walked four more blocks and turned east and came back a different way.
+
+At the corner of the second returning street Thomas stopped.
+
+"You remember this building."
+
+"Yes."
+
+"You do not come within three streets of it again. Not in this year. Not under this name. You walk around it like a dog walks around a kennel it has been beaten in."
+
+"Yes."
+
+"Good. The map."
+
+He turned and started back to the widow's house. Olav followed.
+
+---
+
+On the thirteenth evening Thomas told Olav what he was going to do.
+
+They were at the room after supper. The widow was below with the Dane at the parlour. Thomas was on his bed with his sea-chest open and the few things he had in it being sorted. Olav was at the washstand.
+
+"Olav."
+
+"Yes."
+
+"I have been thinking. I am going to tell you where I am going. So that someone knows."
+
+"Yes."
+
+"After the year. After I am Thomas Engelstad again. I am going to Boston. I will re-enter the trade at Boston as a deckhand under my own name. I will work coastwise for a while. Then I will go to Chicago."
+
+"Chicago."
+
+"My sister is in Chicago. She married a Norwegian man who is there. She has been in Chicago seven years. My mother writes her at an address in Boston I set up last year — at Mrs. Tjaere's on the North Square. My mother will, by the Boston time, have had no word from me for a year. She will think I am dead. I will write her through Mrs. Tjaere and she will know. She will not ask where I have been."
+
+"Your father."
+
+"My father is dead. He died in '73. He was a drinker. I did not cry when my mother wrote me. I do not, now, cry. There is a place in me where he had been. The place is empty. The empty is fine."
+
+"Yes."
+
+"You, Olav."
+
+"Yes."
+
+"You will not do what I am doing. You will go home."
+
+"I do not know yet."
+
+"You will. You have a mother. I have heard you at the window at night. You think about her. You do not think about a sister in Chicago. You will go home at the end of your year."
+
+"Yes."
+
+"Good. Eat your cheese."
+
+Olav ate his cheese.
+
+Thomas finished his sorting. The chest was, by the end, a small clean arrangement of three shirts, a spare pair of boots, a tin mug, a folding razor, and a small grey paperbound book. Thomas closed the chest.
+
+In the dark, after the lamp was out, he said:
+
+"Olav."
+
+"Yes."
+
+"You are a good man to have met at Lisbon."
+
+Olav did not, for a moment, know what to say.
+
+He said: "So are you."
+
+Thomas slept.
+
+Olav lay awake.
+
+The drawer in him had, by the night of the thirteenth day, become a thing he understood better than he had understood it on the brig. Haakon was in it. The salt-hold was in it. The becket was in it. The carpenter and the marlinspike were in it. Now Thomas was in it — not Thomas-as-fact but Thomas-as-something-Olav-would-carry-about-Thomas. The something did not have a name. The drawer did not need names.
+
+He slept, eventually.
+
+---
 
 In between those two days — the Friday of arrival and the Tuesday of the first berth — Mrs. Hovland taught him to be Olav Vaageland.
 
@@ -62,7 +168,39 @@ On the morning of the sixteenth day Mrs. Hovland came to him at breakfast.
 
 "Good. Pack your chest. Jensen lifts at three."
 
-He packed his chest. He paid her what he owed. She gave him a small piece of bread to take in his pocket, and a slip of paper with two names on it — *Mrs. Tjaere, Boston, North Square* and *Mrs. Iversen, Quebec, lower town* — and she said, *if you are ever stuck at either of those ports without a berth and without a friend, those are the houses. Tell them I sent you. They will not ask.*
+He packed his chest.
+
+Thomas was at the room while he packed. Thomas sat on his bed and watched Olav close the chest.
+
+"Olav."
+
+"Yes."
+
+"Mrs. Tjaere's at Boston."
+
+"Yes."
+
+"Her house has a lower-left back room with a window on a brick courtyard. If you are there, take that room. I took it at the Boston I went to in '72. It is quiet. She gives the back room to men she has decided to let keep her silence."
+
+"Yes."
+
+"If I write you, I write to Mrs. Tjaere's. The widow here will forward what needs forwarding. I will not write often. I may not write at all. If I do not write, that is not because I am dead. It is because I have decided that Olav Hestby of Finnøy is safer at his own name if the name is not connected to a Thomas Engelstad by any paper a consul could find."
+
+"Yes."
+
+"And you, Olav. The same. If you write me, you write to Mrs. Tjaere's. Not by my name. By a name we will set now. I will be — at Mrs. Tjaere's — *Karl Nilsen.* A Norwegian from a Bergen village who moved to Wilmington for a warehouse job in '73. A man who does not exist. If you write Karl at Mrs. Tjaere's, Mrs. Tjaere will bring the letter to Mrs. Hovland. Mrs. Hovland will bring it to me. Do you understand."
+
+"Yes."
+
+"Good."
+
+Olav hoisted his chest to his shoulder. Thomas stood up from his bed. They did not embrace. Thomas put one hand briefly on the back of Olav's neck — the Norwegian place — and said:
+
+"Go."
+
+Olav went.
+
+He paid the widow what he owed. She gave him a small piece of bread to take in his pocket, and a slip of paper with two names on it — *Mrs. Tjaere, Boston, North Square* and *Mrs. Iversen, Quebec, lower town* — and she said, *if you are ever stuck at either of those ports without a berth and without a friend, those are the houses. Tell them I sent you. They will not ask.*
 
 She did not embrace him at the door. She put one hand briefly on the back of his neck — the place his father had used at the Stavanger quay three months before, the place his mother had used in the kitchen at Finnøy when he was eleven and his brother had died, the place that was, he understood for the first time as the widow's hand left it, the universal place a Norwegian gave a young man what could not be said — and she said, *go.*
 
@@ -106,7 +244,75 @@ He did not, on the *Champion* in Halifax in March of 1877, allow himself to call
 
 By the fourth week the captain of the *Champion* — a man called Snyder out of Halifax, who did not employ men he had to feed when they could not work — had taken him aside in the deck-house and said, *Vaageland, you are coughing harder than I would like. I will pay you off at the next port. You will find another berth.* Olav had nodded. He had not protested. He had understood, with the small flat clarity of a man who has been told a thing he had already privately decided, that the *Champion* was the last berth he was going to have under his own willingness.
 
-He paid off at Boston in the second week of April. He stayed five days at Mrs. Tjaere's house in the North Square — the widow's note had been good; Mrs. Tjaere had taken him in without questions and had given him hot broth and bread for the five days at no charge after the second day — and he found a berth, on the fifth day, on the Quebec-bound brig *Augusta,* northward through the spring ice.
+He paid off at Boston in the second week of April. He stayed five days at Mrs. Tjaere's house in the North Square — the widow's note had been good; Mrs. Tjaere had taken him in without questions and had given him hot broth and bread for the five days at no charge after the second day.
+
+On the second evening, Mrs. Tjaere — a Bergen woman of perhaps sixty, whose husband had died at sea in the '60s and who had been taking in Norwegian boarders at the North Square since — came to Olav at the small parlour where he had been sitting in a chair near the stove.
+
+"Vaageland."
+
+"Ma'am."
+
+"A letter was waiting here for you."
+
+"For me."
+
+"For you. Mrs. Hovland sent it in the last week of March. It was addressed to *Karl Nilsen, c/o Mrs. Tjaere.* I was told, when it arrived, that there was such a letter and that it would be for me to hand on to whoever came here and answered to the name. You came today. You answered."
+
+She handed him the letter.
+
+It was thin. It was a single sheet. The seal had been broken already — she had read it on Mrs. Hovland's behalf, he understood; the widow's network did not leave a March-to-April letter unopened for a month of North Atlantic weather — and she had resealed it, after her reading, with a paste of her own making.
+
+Olav took the letter to the chair by the stove.
+
+He opened it. He read it.
+
+It was eight lines.
+
+> *Olav,*
+>
+> *I write to tell you that Thomas went out for the milk on the Friday of the third week of March of this year and did not come back. I waited until the Monday to write. I sent the paper to the man I send the paper to when I cannot tell which of the three shapes it is. The paper has not, at the sending of this letter, come back with an answer. It may not come back with one.*
+>
+> *Thomas's things are in a box on my back-room wall. The box has his name on it. The box will stay.*
+>
+> *I asked him, before he went that morning, why he had not taken a berth in the November when one was offered him. He said, on that morning, that he had decided he was waiting for a berth he could stand up in. The berth had not come. He had stopped, by the middle of March, waiting. I do not know if the stopping is what took him out that Friday or if the stopping had been a thing he had already done.*
+>
+> *I am telling you because he would have wanted you to know. He did not tell me he would want you to know. I know it because I know him and because I know you and because a woman who has done this work since 1851 has had to learn what men in my rooms would have wanted.*
+>
+> *I do not tell you which of the three shapes. I cannot tell. You will carry the not-knowing, as I carry it.*
+>
+> *Go well, Olav. Go home.*
+>
+> *The widow at Wilmington, the fifth of April, 1877.*
+
+Olav read the letter twice.
+
+He folded it.
+
+He put it in the inside pocket of the deserter's wool coat. He sat in the chair by the stove and he did not move for a long time. Mrs. Tjaere did not, in the going-by, say anything. She had already said the thing the letter said by the seal she had resealed. She was the second woman in his life in the past six months who had, without saying so, opened a door he had been going to walk through.
+
+He sat at the stove.
+
+He thought about the letter for perhaps a quarter of an hour.
+
+He thought about it, as far as he could think about it, in the flat register the carpenter had taught him at four bells of the middle watch of the eleventh night of the Atlantic crossing five months before.
+
+*I saw the marlinspike. I saw the arc. I saw the carpenter survive.*
+
+*I did not see Thomas. I did not see his arc. I did not see his not-surviving. The not-seeing is the shape.*
+
+*I will, at some port in some year the future has not yet named, not be a man who does not stop something the second time. But I am, at Boston on the second evening of the second week of April of 1877, the man who did not stop something the first time and did not see what was stopping. There is a carrying that has begun. The carrying is the carrying.*
+
+Mrs. Tjaere brought him supper at eight. She did not ask him about the letter. He did not tell her what the letter had said. She did not need to be told. The letter had been written to *Karl Nilsen,* and the name was the name a letter was written to only when the news in the letter was of the kind that did not bear telling aloud.
+
+He ate the supper.
+
+He went up to the lower-left back room with the window on the brick courtyard — the room Thomas had told him to take, which Mrs. Tjaere, without being asked, had given him — and he lay on the narrow bed with the wool coat over him because the fire in the back room had gone out and the April Boston night was still cold.
+
+He did not, that night, sleep.
+
+In the morning he began the work of finding the *Augusta.*
+
+On the fifth day he found a berth on the Quebec-bound brig *Augusta,* northward through the spring ice.
 
 The cough went underground for the spring. The new air, the long days, the cleanness of the Quebec voyage — these helped. By June he had told himself, half-believing it, that the cold of Halifax had been the whole of the thing, and that he was on the other side of it.
 
