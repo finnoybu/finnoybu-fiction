@@ -168,7 +168,7 @@ After perhaps a minute she said:
 
 "Yes."
 
-"You will not, at the end of the walk, ask me to do anything I cannot do without being married to you. You will not, at the end of the walk, do anything that requires me to do something I cannot do. You will, when we have stood here long enough, walk me back down the path with my hand in yours, and you will let go of my hand at the spring, and you will not — between the spring and the back door — touch me again. You will trust me to know what I am asking. You will not ask me why I am asking."
+"You will not, at the end of the walk, ask me for anything I cannot give without being married to you. You will walk me back down with my hand in yours, and you will let go at the spring, and you will not — between the spring and the back door — touch me again. You will trust me to know what I am asking. You will not ask me why."
 
 "Yes."
 
