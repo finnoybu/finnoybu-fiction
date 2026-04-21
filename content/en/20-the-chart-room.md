@@ -6,7 +6,7 @@ hero:
   image: /images/coming-home.png
 ---
 
-By the second week of November Olav had settled into the rhythm Mrs. Kindingstad's house ran on, and the rhythm Mrs. Kindingstad's house ran on was the rhythm of supper.
+By the second week of November Olav had settled into the rhythm of Mrs. Kindingstad's house, which was the rhythm of supper.
 
 Supper was at half past five. The table was set at a quarter past. The four lodgers — the two gymnasium boys at the foot, Lønningen at the side under the window, Olav across from Lønningen with his back to the kitchen door — took their places when Mrs. Kindingstad set the bread down. Mr. Kindingstad, in his chair by the front window with the Stavanger newspaper, did not come to the table; his supper was carried in to him on a tray when the lodgers had finished. The arrangement was not, as far as Olav could tell, a matter of rule. It was a matter of long agreement between a husband and a wife who had decided, after thirty-one years, what they could and could not bear of each other at certain hours of the day.
 
@@ -68,7 +68,7 @@ Olav got the first dead-reckoning problem right by knowing the answer before he 
 
 Olav was, for the first time since he had walked into the school, certain that he belonged in it.
 
-He understood, also — as the term went on and the problems went deeper and the men in the room around him began to separate into the men who had a navigator's hand and the men who did not — that the school was not, for him, going to teach him much that he did not already know. The school was going to give him names for what his hands had been doing since he was eighteen. The names were the certificate. The certificate was the berth. The berth was the marriage. He was not at the school to learn navigation. He was at the school to be paid for navigation he had already learned.
+He understood, also — as the term went on and the problems went deeper and the men in the room around him began to separate into the men who had a navigator's hand and the men who did not — that the school was not, for him, going to teach him much that he did not already know. The school was going to give him names for what his hands had been doing since he was eighteen. The names were what the certificate was made of, and the certificate was what the marriage would be paid for with. He was not at the school to learn navigation. He was at the school to be paid for navigation he had already learned.
 
 This was a thing he did not, at twenty-one, allow himself to say out loud to anyone, because to say it would have been to make himself the kind of man who, in a Stavanger boarding-house, told the gymnasium boys at supper that the school the gymnasium boys were paying to attend was not, perhaps, the school it claimed to be. He did not say it. He held it in his head where the not-saying did not cost him.
 

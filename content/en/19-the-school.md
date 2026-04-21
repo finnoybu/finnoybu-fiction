@@ -86,7 +86,7 @@ The chart was the chart he had crossed in the *Sigrid* on his first voyage, and 
 
 Olav looked at the line.
 
-He let his hand drop. He did not, looking at the line, think of any particular man. He thought instead of the warping line at the Stavanger quay, of the sound of the brig's foreyard going up at dawn, of the smell of the new tar on the standing rigging in the heat off the Iberian coast in the second week. He thought of the hand that had drawn the line. The hand was his hand. The hand had been doing other things for two years. The hand had, in the chart room, remembered.
+He let his hand drop. He did not, looking at the line, think of any particular man. He thought instead of the warping line at the Stavanger quay, of the sound of the brig's foreyard going up at dawn, of the smell of the new tar on the standing rigging in the heat off the Iberian coast in the second week. He thought of the hand that had drawn the line. The hand had been doing other things for two years. The hand had, in the chart room, remembered.
 
 He rolled the chart. He took it to the classroom. He set it on Prof. Nilson's desk. He went back to his seat in the second row by the window and opened his book to the page they had been working from before the chart had been wanted.
 

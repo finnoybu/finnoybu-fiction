@@ -18,7 +18,7 @@ Olava's third letter, from August, had ended:
 >
 > *Yours, Olava.*
 
-Olav had read the line about the second time twice himself, and had understood, on the second reading, that the rhythm was the thing the rhythm meant.
+Olav had read the line about the second time twice himself, and had understood, on the second reading, what she had done.
 
 ---
 

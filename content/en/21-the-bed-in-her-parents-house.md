@@ -20,9 +20,9 @@ The Christmas Eve service was at the Lindøy church at five o'clock. The whole h
 
 At the door of the church Olava took her hand from his arm. She did not look at him as she did. They went in.
 
-The church was the church. The minister gave the Christmas sermon. The hymns were the hymns. Olav stood and sat with the family. He looked, briefly, at the row of headstones visible through the south window; he could not, from the pew, see the second-row stone Olava sat at for an hour each month, but he knew it was there. He thought, very briefly, of his own brother's stone behind the Hestby church, which he had not, in twenty-one years, sat at. He understood that he had a year, perhaps, before he was going to have to.
+The church was the same it had always been. The minister gave the Christmas sermon. The hymns were the ones the hymns always were. Olav stood and sat with the family. He looked, briefly, at the row of headstones visible through the south window; he could not, from the pew, see the second-row stone Olava sat at for an hour each month, but he knew it was there. He thought, very briefly, of his own brother's stone behind the Hestby church, which he had not, in twenty-one years, sat at. He understood that he had a year, perhaps, before he was going to have to.
 
-After the service they walked home the way they had walked to the church. Olava did not take his arm at the icy patch this time. She did not need to. The patch was the same patch.
+After the service they walked home the way they had walked to the church. Olava did not take his arm at the icy patch this time. She did not need to.
 
 ---
 

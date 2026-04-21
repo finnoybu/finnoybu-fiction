@@ -72,7 +72,7 @@ The captain looked up when Olav came into the shed.
 
 The captain went back to the rasp. He did not look up again.
 
-Olav set his chest in the back room. The room was the room he had slept in twice before. The narrow bed was the narrow bed. The window faced the channel. From the window, in the April light, he could see Finnøy across the water, with his own house's chimney smoke thin against the eastern hills.
+Olav set his chest in the back room. The room was the one he had slept in twice before. The window faced the channel. From the window, in the April light, he could see Finnøy across the water, with his own house's chimney smoke thin against the eastern hills.
 
 He went down to the kitchen. The mother was at the stove. The kettle was singing.
 
@@ -200,9 +200,9 @@ Then she said, *eat your fish.*
 
 He saw Olava every day. He did not, in the nine days, take her hand again. She did not, in the nine days, take his. They sat across from each other at supper. They walked from the house to the church on Easter Sunday with the rest of the family, and she did not, on the icy patch on the road, take his arm. They sat in the kitchen with her mother in the evenings, and they did not, in any of the evenings, brush against each other in the moving around the kitchen for the kettle.
 
-The not-touching, he understood by the third evening, was the form. It was the form for the next two years. It was the form she had told him about on the rise at the high pasture; she had not, in the telling, named the next two years; she had named only the walks-and-anywhere-else. He had understood the rest. The rest was the silent half of what she had said.
+The not-touching, he understood by the third evening, was the form for the next two years. She had told him about it on the rise at the high pasture; she had not, in the telling, named the next two years; she had named only the walks-and-anywhere-else. He had understood the rest. The rest was the silent half of what she had said.
 
-He understood, also, by the seventh evening, that the not-touching was not a withholding. The not-touching was a promise — the promise that, when the touching came, it would come in a country where the touching belonged. The country was the marriage. The country was being built between them, this Easter, by the work of standing in the same room without reaching across it.
+He understood, also, by the seventh evening, that the not-touching was not a withholding. It was a promise — the promise that, when the touching came, it would come in a country where the touching belonged. The country was the marriage, and the marriage was being built between them, this Easter, by the work of standing in the same room without reaching across it.
 
 This was not the kind of romance the men in his school books would have recognised as romance. He understood that too. He understood, sitting at the kitchen table on the eighth evening with Olava across from him peeling an apple for her father and not looking at him, that the romance he was inside was the romance of two Norwegian people of their class and their century arranging themselves into the shape they were going to be in for the rest of their lives, and that the arranging was a thing done in absences and small gestures and the four seconds her mother had spent inspecting their faces at the back door, and that the arranging was as much a romance as anything the men in his school books had been able to name.
 
