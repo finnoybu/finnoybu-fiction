@@ -23,7 +23,7 @@ She walked along the lane to Olav's cottage.
 
 Olav was at the cottage's small writing-room.
 
-He had been, since his retirement from the *Helga* in the autumn of 1910 at the age of fifty-one, at the small daily domestic-rhythm of a Norwegian island retired captain — the cottage's small workbench in the mornings (the *Solveig* had been sold in '07 after Olav's uncle had died in the winter of '06 at seventy-nine; the cottage's workbench was now just a workbench rather than a part-time coaster's office); the small reading at the small parlour-corner of the larger house in the afternoons; the small Saturday evenings at Mrs Hestby's (his mother's small Saturday supper had, across the three years since his father had died, become a small fixed institution of the Hestby household); the small Sunday mornings at the Hestby church with Olava.
+He had been, since his retirement from the *Helga* in the autumn of 1910 at the age of fifty-two, at the small daily domestic-rhythm of a Norwegian island retired captain — the cottage's small workbench in the mornings (the *Solveig* had been sold in '07 after Olav's uncle had died in the winter of '06 at seventy-nine; the cottage's workbench was now just a workbench rather than a part-time coaster's office); the small reading at the small parlour-corner of the larger house in the afternoons; the small Saturday evenings at Mrs Hestby's (his mother's small Saturday supper had, across the three years since his father had died, become a small fixed institution of the Hestby household); the small Sunday mornings at the Hestby church with Olava.
 
 He was fifty-two.
 
