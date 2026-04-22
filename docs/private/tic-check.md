@@ -16,6 +16,8 @@ These shapes are specifically the prior draft's ritual-cadence DNA. They are NOT
 | "particular small X" compound (reversed) | `\bparticular small\b` | Same shape, reversed. |
 | "X was the X" tautology | `\b(\w+) was the \1\b` | Ritual tautology. Never rendered information; only rhythm. |
 | "the X was the X" tautology (article variant) | `\bthe (\w+) was the \1\b` | Article-prefixed variant of the above. |
+| "X was X" bare tautology | `\b(\w+) was \1\b` | Bare-tautology variant — added 2026-04-22 after Ken caught "the water was water" in Ch 2 which the article-required regex above had missed. |
+| "the X was X" (article only on subject) | `\bthe (\w+) was \1\b` | Partial-article variant — same tautology, missed by both regexes above until this addition. |
 | "did not, in X-ing, Y" interpolation | `did not, in \w+ing,` | Subordinate-gerund-between-commas as a breathing tic. |
 | "could not, in X-ing, Y" interpolation | `could not, in \w+ing,` | Modal variant of the above. |
 | Any compound of two softening-adjectives | `\b(small|slight|quiet|gentle|tender|delicate|fine|faint) (small|slight|quiet|gentle|tender|delicate|fine|faint)\b` | Hyper-softening adjective-stacking. Exception: instructional text in docs/ (not prose). |
@@ -96,6 +98,8 @@ run_check "small particular"         '\bsmall particular\b'
 run_check "particular small"         '\bparticular small\b'
 run_check "X was the X tautology"    '\b(\w+) was the \1\b'
 run_check "the X was the X tautology" '\bthe (\w+) was the \1\b'
+run_check "X was X bare tautology"   '\b(\w+) was \1\b'
+run_check "the X was X tautology"    '\bthe (\w+) was \1\b'
 run_check "did not, in X-ing,"       'did not, in \w+ing,'
 run_check "could not, in X-ing,"     'could not, in \w+ing,'
 run_check "softening-adjective pair" '\b(small|slight|quiet|gentle|tender|delicate|fine|faint) (small|slight|quiet|gentle|tender|delicate|fine|faint)\b'

@@ -53,6 +53,7 @@ Tracking names that appear in the novel and may need to change before publicatio
 | *(invented)* — Ch 1 of Book I | **Thorvald Kolbrun** | Danish second mate of the *Sigrid*, one-eyed with a patched left side, ~30. Mentor-adjacent to Olav in Book I Act I. | Locked 2026-04-21. |
 | *(invented)* — Ch 1 of Book I | **Lars** | Finnøy boatman; rows Olav and Jens across to Stavanger for the *Sigrid* hiring. Low-profile, Ch 1 only unless reused. | Locked 2026-04-21. |
 | *(invented)* — Ch 1 of Book I | **Henrik** | Stavanger deckhand, Olav's age, son of a rigger at the yard where the *Sigrid* was careened. Low-profile, Book I Act I. Renamed from "Anders" after copy-edit pass 2026-04-21 to prevent collision with Anders Lindqvist (Book III). | Locked 2026-04-21. |
+| *(invented)* — Ch 2 of Book I | **Rørvik** | Older *Sigrid* sailor from Kristiansand; has a long back-scar and strong port-opinions. Appears in Ch 2's forecastle-life expansion as the first unnamed object of Olav's (still-private-and-unrecognized) body-noticing. Surname is the Trøndelag coastal town; given name unrevealed at Ch 2. | Locked 2026-04-22. |
 | **First mate of the *Sigrid*** — memoir Paul Hjelm | **TBD** | Memoir has Paul Hjelm as 1st mate on *Nanna* 1875. Ch 1 of the fiction omits a 1st mate entirely. If 1st mate appears in Ch 2–3 drafting, decide then: keep as Paul Hjelm, rename, or continue omitting. | Open flag. |
 | Thomas (from Stjernerøy) | Thomas | Olavus's co-deserter in Wilmington | Keep — common name |
 | Karl Oberg | Karl Oberg | Second mate, friendly | Minor; keep |
