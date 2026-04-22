@@ -76,7 +76,7 @@ He did not rise at first. He sat back on his heels with the rope half-coiled in 
 
 "I will in a minute."
 
-They stood there. Peder looked at the chest. Peder looked at Olav's hands. Then Peder walked around Olav and took hold of one end of the chest and lifted it, and Olav took hold of the other, and they went into the house with the chest between them the way they had come down the stair with it on the morning Olav had left, Olav at the lower end, and Peder at the upper end, and nothing said.
+They stood there. Peder looked at the chest. Peder looked at Olav's hands. Then Peder walked around Olav and took hold of one end of the chest and lifted it, and Olav took hold of the other, and they went into the house with the chest between them, Olav at the lower end, and Peder at the upper end, and nothing said.
 
 His father was at the table with the accounts ledger open before him and a cup of coffee at his elbow that had gone cold. He had not heard them come into the yard because the door had been shut against the wind. When he heard the chest come through the outer door he turned his head and did not stand up at first, and then he stood up and stood still at the table with one hand on the back of his chair and looked at Olav across the room.
 
