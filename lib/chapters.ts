@@ -57,29 +57,27 @@ export function getAllChapters(): ChapterMeta[] {
 }
 
 export function getChapterBySlug(slug: string): Chapter | null {
-  const chapters = getAllChapters()
-  const meta = chapters.find((c) => c.slug === slug)
-
-  if (!meta) {
+  if (!fs.existsSync(CONTENT_DIR)) {
     return null
   }
 
-  const filePath = path.join(CONTENT_DIR, `${meta.slug}.md`)
-  if (!fs.existsSync(filePath)) {
-    return null
+  const files = fs.readdirSync(CONTENT_DIR).filter((f) => f.endsWith('.md'))
+
+  for (const file of files) {
+    const raw = fs.readFileSync(path.join(CONTENT_DIR, file), 'utf8')
+    const { content: markdown, data } = matter(raw)
+    if (data.slug === slug) {
+      return {
+        id: data.id,
+        title: data.title,
+        slug: data.slug,
+        hero: data.hero,
+        content: marked.parse(markdown) as string,
+      } as Chapter
+    }
   }
 
-  const raw = fs.readFileSync(filePath, 'utf8')
-  const { content: markdown, data } = matter(raw)
-  const content = marked.parse(markdown)
-
-  return {
-    id: data.id,
-    title: data.title,
-    slug: data.slug,
-    hero: data.hero,
-    content,
-  } as Chapter
+  return null
 }
 
 export function getChapterIndex(slug: string): number {
