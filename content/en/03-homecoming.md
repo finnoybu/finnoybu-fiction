@@ -128,7 +128,7 @@ Peder waited for the door to close and then said, "He has been sleeping less."
 
 "He will."
 
-Peder stood up from the table and said, "Come and see the barn," and Olav got up and went with him to the barn, and they spent the remainder of the afternoon in a tour of the small changes — the new stall Peder had built for the older cow, the repair to the north wall where a beam had been replaced, the newer pitchfork his father had bought in October — and by the time Jens Hestby came back from the upper field at dusk, the brothers had walked through the whole of what had been done at home in Olav's absence, and Olav had noted that Peder had done more of it than he would have imagined a sixteen-year-old could do.
+Peder stood up from the table and said, "Come and see the barn," and Olav got up and went with him to the barn, and they spent the remainder of the afternoon in a tour of the small changes — the new stall Peder had built for the older cow, the repair to the north wall where a beam had been replaced, the newer pitchfork his father had bought in October — and by the time Jens Hestby came back from the upper field at dusk, the brothers had walked through the whole of what had been done at home in Olav's absence, and Olav had noted that Peder had done more of it than he would have imagined a fifteen-year-old could do.
 
 That night he lay in his old bed in the room he had left in the summer. The bed was narrower than he remembered. The window was smaller. The quilt was heavier and warmer than any blanket he had used on the ship. He lay on his back in the dark and waited for sleep and the sleep did not come.
 
