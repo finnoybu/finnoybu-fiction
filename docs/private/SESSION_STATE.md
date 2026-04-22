@@ -1,6 +1,14 @@
 # Session State — Trilogy Restart
 
-**Last updated:** 2026-04-21 — memoir digest complete; book division locked.
+**Last updated:** 2026-04-22 — Ch 1–3 drafted and cross-instance-reviewed; chapter-count targets recalibrated.
+
+## Pace and chapter-count recalibration (2026-04-22)
+
+Ch 1 (3,074w) + Ch 2 (2,267w) + Ch 3 (2,373w) = 7,714 words across three chapters, average ~2,571. The Scandinavian-plain register naturally produces shorter chapters than the original outline estimate of ~30 × ~3,800 per book.
+
+**Ken's decision:** keep word-count targets (~115K / ~105K / ~125K, per the 360–440 pp window); let chapter counts be flexible. Book I probably ~40–45 chapters; Books II and III determined by drafting rather than pre-allocated. Chapter count is the flex dimension; word count is not.
+
+[trilogy-outline.md](trilogy-outline.md) updated to reflect this. No change to CLAUDE.md (which doesn't specify chapter counts anyway).
 
 ## Where we are
 

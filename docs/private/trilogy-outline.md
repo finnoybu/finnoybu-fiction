@@ -45,7 +45,9 @@ Emotional-mirror architecture:
 # BOOK I — Spring 1875 → Christmas 1877
 
 *Title working:* **Salt and Silence** (per CLAUDE.md).
-*Length target:* **~115K words, ~30 chapters** (≈380–400 pp at literary-fiction density, within Ken's 360–440 pp range). Olav 18 → turning 20 on a Wilmington sickbed.
+*Length target:* **~115K words, ~40–45 chapters** (≈380–400 pp at literary-fiction density, within Ken's 360–440 pp range). Olav 18 → turning 20 on a Wilmington sickbed.
+
+*Recalibrated 2026-04-22 after drafting Ch 1–3:* the Scandinavian-plain register naturally produces chapters in the 2,000–3,000-word range (Hamsun, Proulx, Tóibín all work this way). Original outline estimated ~30 chapters at ~3,800 each; actuals are landing around ~2,500 each. Scaling chapter count up rather than fighting the register for longer chapters. Word-count and page-count targets unchanged; chapter count is the flex dimension.
 
 ## Book I structural beats
 
@@ -84,7 +86,7 @@ Emotional-mirror architecture:
 # BOOK II — Christmas 1877 → autumn 1879
 
 *Title working:* TBD (CLAUDE.md flagged).
-*Length target:* **~105K words, ~28 chapters** (≈360–380 pp at literary-fiction density). Olav 20 → 22. *Most interior of the three books* — tuberculosis scare, first real reunion, dying-and-healed arc — but nine major movements (*Cito* / Hamburg / NY slaveship / Bordeaux / homecoming / nav school / TB / *Allegro* / *Diana*) support the length easily.
+*Length target:* **~105K words, chapter count flexible** (≈360–380 pp at literary-fiction density). Olav 20 → 22. *Most interior of the three books* — tuberculosis scare, first real reunion, dying-and-healed arc — with nine major movements (*Cito* / Hamburg / NY slaveship / Bordeaux / homecoming / nav school / TB / *Allegro* / *Diana*). Ken 2026-04-22: chapter count determined by register, not pre-allocated. Likely 35–45 depending on actual per-chapter density during drafting.
 
 ## Book II structural beats
 
@@ -121,7 +123,7 @@ Emotional-mirror architecture:
 # BOOK III — Autumn 1879 → January 22, 1882
 
 *Title working:* TBD.
-*Length target:* **~125K words, ~33 chapters** (≈420–440 pp at literary-fiction density, top of Ken's range — this book carries the heaviest plot density and the trilogy's closing emotional spine). Olav 22 → 24.
+*Length target:* **~125K words, chapter count flexible** (≈420–440 pp at literary-fiction density, top of Ken's range — this book carries the heaviest plot density and the trilogy's closing emotional spine). Olav 22 → 24. Ken 2026-04-22: chapter count determined by register, not pre-allocated. Likely 45–55 depending on actual per-chapter density during drafting.
 
 ## Book III structural beats
 
@@ -175,10 +177,10 @@ These are decisions that affect voice-register execution but do not block the ou
    - Anders is not yet cast. Old plan flagged "Anders Copenhagen" as a "disappeared-name" figure. Possible cast: a port-city male figure Olav crosses paths with once or twice, never knows the end of. **No pressure to cast early.**
 
 6. **Chapter counts and length targets** (Ken's required window: 360–440 pp per book, benchmarked at *Song of Achilles* literary-fiction density of ~275–300 words/page).
-   - Book I: ~115K, ~30 chapters. ~380–400 pp.
-   - Book II: ~105K, ~28 chapters. ~360–380 pp (near floor — the most interior book).
-   - Book III: ~125K, ~33 chapters. ~420–440 pp (near ceiling — carries the heaviest plot density and closing arc).
-   - Total: ~345K across the trilogy. Above the 267K rejected draft because length was never the problem — prose DNA was. **Do not commit to these numbers as hard targets** — actual length emerges from drafting. But do not draft toward the old 267K either.
+   - **Word-count targets (primary):** Book I ~115K; Book II ~105K; Book III ~125K; trilogy total ~345K.
+   - **Chapter counts (flexible, determined by register):** Book I ~40–45 chapters at the Ch 1–3 density of ~2,500 words each; Books II and III chapter counts left open per Ken 2026-04-22 — to be determined by what the register produces rather than pre-allocated.
+   - **Pages:** Book I ~380–400 pp; Book II ~360–380 pp (near floor); Book III ~420–440 pp (near ceiling). Above the 267K rejected draft because length was never the problem — prose DNA was. **Do not commit to these numbers as hard targets** — actual length emerges from drafting. But do not draft toward the old 267K either.
+   - **Pace check (2026-04-22):** Ch 1 3,074w + Ch 2 2,267w + Ch 3 2,373w = 7,714w across three chapters (avg 2,571). If the density holds, Book I at ~115K requires ~45 chapters.
 
 ---
 
