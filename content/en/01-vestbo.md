@@ -52,7 +52,7 @@ The man read it out in the clerkly voice and the captain nodded and Olav nodded,
 
 They drank the glass of aquavit with Captain Dahl in a back room that smelled of old wood and new bread, three of them standing around a small round table too tall to sit at. The aquavit was hot in the throat and Olav did not like it, but he drank it without showing his face, because Captain Dahl was watching to see if he would show his face, and he would not. Captain Dahl wished his father a safe journey back to Finnøy and went out. Then Olav and his father were alone in the back room and the innkeeper was coming with three more glasses and his father put a hand up to stop him and told him they would not take another, and the innkeeper went away again with the glasses on his tray.
 
-"Do not spend the four kroner foolishly."
+"Do not spend it foolishly."
 
 "I will not."
 
