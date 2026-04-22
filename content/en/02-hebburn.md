@@ -1,9 +1,9 @@
 ---
-title: "Newcastle"
+title: "Hebburn"
 id: 2
-slug: "newcastle"
+slug: "hebburn"
 hero:
-  image: "/images/02-newcastle.png"
+  image: "/images/02-hebburn.png"
 ---
 
 A tug brought them up the Tyne on a Thursday forenoon, with the city showing itself by slow degrees through the coal-smoke.
