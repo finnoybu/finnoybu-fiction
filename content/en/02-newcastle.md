@@ -8,13 +8,13 @@ hero:
 
 They came up the Tyne on a Thursday forenoon with a tug at the bow and the city showing itself by slow degrees through the coal-smoke.
 
-The *Sigrid* had sailed from Stavanger to Copenhagen, lain three weeks discharging timber, crossed the Skaw with a northeast wind, and now had come for a return cargo of Newcastle coal. Olav was four months at sea. He had lost half a stone and gained the use of his hands. He had learned to sleep in the top bunk through the full range of the ship's motion, and to wake a minute before the watch-bell, and to make coffee in a swell without spilling more than a cup on the stove. He had learned also that the sea is not one thing but many. The short choppy water of the Kattegat tires a boy in an hour; the long rolling swell of the open North rocks him like a cradle; the short steep chop that gets up near a coast when the tide runs against a wind is an enemy with a cadence of its own. He had come to prefer the long swell above the others, because in it a man had time to think between blows.
+The *Sigrid* had sailed from Stavanger to Copenhagen in the spring, lain three weeks discharging timber, come up the Norwegian coast with a short-haul cargo for Trondheim, lain six weeks at Trondheim while the captain settled a question with a charterer, and then crossed the Skaw with a northeast wind and come for a return cargo of Newcastle coal. Olav was six months at sea. His trousers had loosened at the waist, and his hands had learned the work. He had learned to sleep in the top bunk through the full range of the ship's motion, and to wake a minute before the watch-bell, and to make coffee in a swell without spilling more than a cup on the stove. The Kattegat had been short and choppy and tired him in an hour. The open North had rolled him to sleep. He had come to prefer the long swell above the others, because in it a man had time to think between blows.
 
-He had learned other things that were not of the sea. He had learned to live in a room with seven other men, all of whom were older than he was, and none of whom he had known a month before. Most of them had settled into his presence the way men settle into the presence of a farm-cat — not unkindly, but without the assumption that he was a creature of any particular account. He had learned to wash at the common basin in the mornings with his shirt off and not to think about it. He had learned to change his trousers inside his bunk with the curtain half-drawn and not to think about that either. He had learned that a man asleep near him made a small sound on the in-breath that was not the same as the sound Peder's breath had made across the passage at home. After a week of it he could sleep through it as easily as he had slept through his brother's.
+He had learned other things that were not of the sea. He lived now in a room with seven other men, all of whom were older than he was, and none of whom he had known a month before. Most of them had settled into his presence without much remarking on it, the way a yard-dog is settled into when a new man comes into the yard. He had learned to wash at the common basin in the mornings with his shirt off and to forget that he had ever thought it strange. He had learned to change his trousers inside his bunk with the curtain half-drawn. A man asleep near him made a small sound on the in-breath that was not the same as the sound Peder's breath had made across the passage at home. After a week of it he could sleep through it as easily as he had slept through his brother's.
 
-Some things he had noticed he could not have explained if he had been asked. One of the older sailors was a man from Kristiansand named Rørvik, who had a voice like dry wood and an opinion about every port between Kiel and Cardiff. He had a scar that ran from his shoulder-blade down into the small of his back, and the scar moved when he hauled on a line. Olav had found himself watching it once without knowing he was watching. He had turned away when he became aware. He had not thought of it again for three days. On the fourth day he had thought of it once, for no reason he could name, and then not for a week. After that it had become one of the ordinary facts of the ship, like Rørvik's breath at night or the way Thorvald held his coffee-cup with the handle pointing starboard whichever way the ship was rolling.
+Some things he had noticed he could not have explained if he had been asked. One of the older sailors was a man from Kristiansand named Rørvik, who had a voice like dry wood and who knew every port between Kiel and Cardiff. He had a scar that ran from his shoulder-blade down into the small of his back, and the scar moved when he hauled on a line. Olav had found himself watching it once without knowing he was watching. He had turned away when he became aware, and it had become one of the ordinary facts of the ship, like Rørvik's breath at night or the way Thorvald held his coffee-cup with the handle pointing starboard whichever way the ship was rolling.
 
-The tug brought them up through the narrow of the river between banks of shipyards and coal-staithes and chimneys. There were more chimneys than Olav had known were in the world. They stood in rows a hundred deep on both banks, and each of them gave off a smoke of its own color, brown and grey and blue and in one place yellow. Above the whole city the sky was the color of an old copper pot. Thorvald came and stood at the rail beside Olav and looked up at the sky and said, *It is a very English sky; you will get used to it.*
+The tug brought them up through the narrows of the river between banks of shipyards and coal-staithes and chimneys. There were more chimneys than Olav had known were in the world. They stood in rows a hundred deep on both banks, and each of them gave off a smoke — brown and grey and blue and in one place yellow. Above the whole city the sky was the color of an old copper pot. Thorvald came and stood at the rail beside Olav and looked up at the sky. "It is a very English sky," he said. "You will get used to it."
 
 "My father was here once," Olav said.
 
@@ -38,7 +38,7 @@ The *Sigrid* was warped in at a wharf below a great black tip, where the coal wo
 
 "I do not drink, sir."
 
-"He is not to drink and he is not to fight and he is not to find himself in any corner of the town he has not walked into on his own two legs and in his own sober mind."
+"He is not to drink and he is not to fight. He is to come back sober, on his own two legs."
 
 "I will be careful."
 
@@ -62,11 +62,11 @@ Thorvald walked him up the length of the wharf and through the yard and out by a
 
 "Meet me at the gate at six."
 
-Olav walked in the direction Thorvald had pointed. The streets were wider than he had expected and the people in them were more numerous. Men in dark coats, men in caps, women in aprons standing at doors, children running in packs between the legs of horses. The carts were what Thorvald had warned him of. They came at speed and without warning from the cross-streets, and the drivers did not shout when they turned a corner. By the end of the first street he had understood that to stand still in this city was to be struck down, and he walked with his shoulders set and his eyes ahead. He turned where he had been told to turn. The second street gave onto the river again at a lower bend, and there across a stretch of open dock-ground he saw a yard with its gates wide open and a sign above the gate that said, in iron letters, HEBBURN & COMPANY.
+Olav walked in the direction Thorvald had pointed. The streets were wider than he had expected and the people in them were more numerous. Men in dark coats, men in caps, women in aprons standing at doors, children running in packs between the legs of horses. The carts were what Thorvald had warned him of. They came at speed and without warning from the cross-streets, and the drivers did not shout when they turned a corner. By the end of the first street he had understood that to stand still in this city was to be struck down, and he walked with his shoulders set and his eyes ahead. He turned where he had been told to turn. The second street gave onto the river again at a lower bend, and there across a stretch of open dock-ground he saw a yard with its gates wide open and a sign above the gate that said, in iron letters, RUTHERFORD & CO.
 
 He stood at the gate a long time before he went in.
 
-The yard was not as large as he had thought it would be. It was a place of scaffolding and dry-docks and heaps of oakum, and a smell of hot tar and iron filings rose off the ground as if the ground itself had been at work. A gang of men were hauling a line of something heavy across the yard and singing a song with the pulling. The song was not a Norwegian song but it had the same shape as a Norwegian song, the shape of work done to a rhythm. A foreman in a bowler hat saw Olav at the gate and came over with the walk of a man who had decided to be patient about an interruption.
+The yard was not as large as he had thought it would be. It was a place of scaffolding and dry-docks and heaps of oakum, and a smell of hot tar and iron filings rose off the ground. A gang of men were hauling a line of something heavy across the yard and singing a song with the pulling. The song was not a Norwegian song, but it had a shape Olav recognized — the shape of work done to a rhythm. A foreman in a bowler hat saw Olav at the gate and came over.
 
 "You're lost, lad."
 
@@ -76,7 +76,7 @@ The yard was not as large as he had thought it would be. It was a place of scaff
 
 "I am looking for a place."
 
-The foreman put his hands on his hips and looked Olav up and down. He saw, Olav supposed, the cap and the jacket and the hands and the new-sailor's face. Something in the looking softened without its being in the man's power to soften.
+The foreman put his hands on his hips and looked Olav up and down. He saw, Olav supposed, the cap and the jacket and the hands and the new-sailor's face. Something in the look softened, against the man's will.
 
 "What place."
 
@@ -86,7 +86,7 @@ The foreman put his hands on his hips and looked Olav up and down. He saw, Olav 
 
 "No. He was sent home. He is my father."
 
-The foreman looked past Olav at the dock-ground for a moment, and Olav knew him well enough, already, by the shape of the look, to keep his mouth shut for what was coming.
+The foreman looked past Olav at the dock-ground for a moment. Olav kept his mouth shut.
 
 "Nineteen years ago a man named Abel Rutherford dropped a plank off the second staging of slip three. The plank took a Norwegian in the knee. I was sixteen years old that year and I fetched the water for the ones as carried him off. Come in. I will show you slip three."
 
@@ -98,7 +98,7 @@ They walked across the yard between the heaps of oakum. The slip was empty, with
 
 "Aye. Well."
 
-Olav said nothing. He looked at the place. It was an unremarkable patch of ground with a ladder leaning on it and a heap of shavings to one side. He thought: my father was a man here, in this place, for some hours on one day, and he has walked the rest of his life because of those hours. He thought also: I could die here this afternoon in the same kind of hour, if a plank fell. He looked up at the scaffolding. No plank was going to fall. The scaffolding was empty on that side.
+Olav said nothing. He looked at the place. It was an unremarkable patch of ground with a ladder leaning on it and a heap of shavings to one side. His father had been a man here, in this place, for some hours on one day, and he had walked the rest of his life because of those hours. Olav looked up at the scaffolding. The scaffolding was empty on that side.
 
 "Where are you from, lad?"
 
@@ -116,7 +116,7 @@ Olav said nothing. He looked at the place. It was an unremarkable patch of groun
 
 "I will tell him."
 
-They walked back to the gate. The foreman pointed up the street toward a coffee-stand where Olav might sit for an hour without spending more than a penny. Olav thanked him and went to the stand and sat on a box and drank a cup of the hot bitter coffee that Englishmen made. He looked at the light over the river. The light was not like the light over Stavangerfjord. The river was narrower, the banks were higher, the sky was closer to the chimneys, and the light had to find its way through all of it before it reached the surface. And yet it was water, as at home — black where the current ran under a pier, brown where it turned on a mud-bar, silver in the one place where the sun had found a gap. He watched it for an hour. He thought of his father. He thought of Peder. He thought of nothing for a long stretch of minutes. That was something he had not yet learned to do on the ship, where there was always a bell coming. He learned it on a box at a coffee-stand on the Tyne on a Saturday in late autumn of his eighteenth year.
+They walked back to the gate. The foreman pointed up the street toward a coffee-stand where Olav might sit for an hour without spending more than a penny. Olav thanked him and went to the stand and sat on a box and drank a cup of the hot bitter coffee that Englishmen made. He looked at the light over the river. The light was not like the light over Stavangerfjord. The river was narrower, the banks were higher, the sky was closer to the chimneys, and the light had to find its way through all of it before it reached the surface. And yet it was water, as at home — black where the current ran under a pier, brown where it turned on a mud-bar, silver in the one place where the sun had found a gap. He watched it for an hour. He thought of his father. He thought of Peder. He thought of nothing for a long stretch of minutes. That was something he had not yet learned to do on the ship, where there was always a bell coming. He learned it that afternoon.
 
 He met Thorvald at the gate at six by the great clock on the yard wall.
 
@@ -126,7 +126,7 @@ He met Thorvald at the gate at six by the great clock on the yard wall.
 
 "Good."
 
-They walked back to the ship in the lamplight, which was yellow and steady and low enough that Olav could see each stone of the street as he put his foot on it. Thorvald did not ask him what he had seen. He said, after a while, *My father was a cooper at Ålborg. I saw the shop the last time I was in Denmark. The shop was a laundry now. There was a woman hanging sheets where he had used to hoop his barrels. She was a good-looking woman. I did not go in.*
+They walked back to the ship in the lamplight, which was yellow and steady and low enough that Olav could see each stone of the street as he put his foot on it. Thorvald did not ask him what he had seen. He said, after a while, "My father was a cooper at Ålborg. I saw the shop the last time I was in Denmark. The shop was a laundry now. There was a woman hanging sheets where he had used to hoop his barrels. She was a good-looking woman. I did not go in."
 
 "You did not go in."
 
@@ -136,7 +136,7 @@ They walked back to the ship in the lamplight, which was yellow and steady and l
 
 "Yes."
 
-They came to the ship. The ship was showing only a riding-light and a single lamp in the stern, and the crew were mostly already aboard. Olav climbed the plank after Thorvald and went below. In the small ledger his father had given him, in the back of the small Bible, he wrote the line *I was today at slip three of Hebburn & Company,* and the date, and nothing else. Then he shut the Bible. He went forward to the galley and saw that the cook — who had been aboard for the trip and had looked at him with some dislike — had left a pot of water simmering for the men's return. He put more coffee in the grinder and ground it. He had the pot ready when the first of them came down through the scuttle, his breath smelling of stout and his eyes shining. The man thanked him and took his cup. He gave the coffee out to each of them as they came in. The last one was Henrik, who had drunk enough to be quiet rather than loud, and who took his cup without looking at Olav and went to his bunk.
+They came to the ship. The ship was showing only a riding-light and a single lamp in the stern, and the crew were mostly already aboard. Olav climbed the plank after Thorvald and went below. In the small ledger his father had given him, in the back of the small Bible, he wrote the line *I was today at slip three of Hebburn & Company,* and the date, and nothing else. Then he shut the Bible. He went forward to the galley. The pot of water he had set to simmer before going ashore was still going; the stove had held its coal. He put more coffee in the grinder and ground it. He had the pot ready when the first of them came down through the scuttle, his breath smelling of stout and his eyes shining. The man thanked him and took his cup. He gave the coffee out to each of them as they came in. The last one was Henrik, who had drunk enough to be quiet rather than loud, and who took his cup without looking at Olav and went to his bunk.
 
 Olav cleaned the galley. He turned down the stove. He went up on deck once before bed to see if the tide had turned, because he had learned to feel it through the hull and he wanted to check whether he was right.
 
