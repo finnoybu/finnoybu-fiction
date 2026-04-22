@@ -31,7 +31,7 @@ Age-shift: +3 from memoir. Olav Hestby born 1857 (vs. memoir Olavus born 1860). 
 - **Olava → Tóibín** (*Nora Webster*, *Brooklyn*): interior, quiet, grief-and-waiting, domestic spaciousness.
 - **Haakon → Proulx** (*Brokeback Mountain*, *Shipping News*): rough-Scandinavian-sailor rural, weather-on-the-tongue, elliptical pain.
 - **Jens Hestby → Robinson** (*Gilead*): elegiac paternal, theological, letter-like contemplation.
-- **Sven Haugen → Proulx** (same family as Haakon — see "Casting questions" below — distinct characterization).
+- **Sven Haugen → Proulx** (same *register-family* as Haakon, distinct characterization — Haakon is solitary discipline; Sven is family-at-a-distance discipline, with a Bergen-Sandviken wife Hanne and a ~3-year-old son Jonas).
 - **Thoresen → Hemingway** (one aside chapter only, "The Photograph"): terse, unsaid, held.
 - **Anders, Thomas:** never-POV. Power of unknowability preserved.
 
@@ -161,16 +161,9 @@ Emotional-mirror architecture:
 
 These are decisions that affect voice-register execution but do not block the outline itself:
 
-1. **Haakon's memoir-anchor.** The voice-register puts Haakon in joy (I), silence (II), grief (III). Who is he in the memoir?
-   - **Proposal A:** The Hogganvik boatswain on *Faina* (1876), who the memoir names as "a first-class fellow, friendly, quick and courageous, a born sailor. He and I became very good friends, and that friendship lasted till we returned to Stavanger, where we parted, and I heard no more from him." Perfect "joy then loss" anchor for Book I. Reappears on *Semiramis* (1880) as the Hogganvik/Etne carpenter. Invented: the reunion and the subsequent death/exit.
-   - **Proposal B:** Thomas of Stjernerøy (Olavus's desertion companion in Wilmington, also a Finnøy-adjacent boy). Different arc: not first-voyage but companion of the first big voyage. Voice-register says Thomas is never-POV, which argues against this.
-   - **Proposal C:** Wholesale invention.
-   - **Recommendation:** A. It uses sourced material optimally and preserves the "heard no more from him" memoir line as an emotional fact that Book III can transform.
+1. ~~**Haakon's memoir-anchor.**~~ **RESOLVED 2026-04-21:** Haakon Berg = the un-named Hogganvik boatswain on *Faina* (1876). Locked in [names-index.md](names-index.md). The memoir line "we parted, and I heard no more from him" becomes the emotional fact Book III transforms.
 
-2. **Sven Haugen — "same family as Haakon, distinct characterization."** Who?
-   - **Proposal A:** Nils of Hogganvik (the slow, stammering youngman on *Faina* who was beaten by G.K.). Same village as Haakon ("same family" loosely = same-village or cousins). Distinct Proulx-register: broken, quieter, left-behind. A Book I presence with continuity possible into Book II/III by returning to Hogganvik later.
-   - **Proposal B:** Thora's Sven of *Semiramis* (city-boy boaster, 28, "overcame three policemen in one fight"). Memoir-named Sven. But city-Stavanger, not rural-Hogganvik — doesn't fit "same family as Haakon" unless we move Haakon's origin.
-   - **Recommendation:** A. Keeps Haakon and Sven both rooted in Hogganvik and lets the family be read as brothers or cousins.
+2. ~~**Sven Haugen.**~~ **RESOLVED 2026-04-21:** Sven Haugen is an entirely invented character (no memoir anchor). Bergen-Sandviken sailor with wife Hanne and son Jonas (~3 in 1881). Proulx register, family-at-a-distance discipline. Book II secondary POV. Locked in [names-index.md](names-index.md) and specified in [voice-register.md](voice-register.md). The "same family as Haakon" phrase in voice-register.md line 52 refers to the shared Proulx register, not blood kinship — clarified in this outline's register-mapping section above.
 
 3. ~~**The Swedish figure in Book III.**~~ **RESOLVED** by [names-index.md](names-index.md) Anders Lindqvist entry (carried over from pre-restart lock): Stockholm marine-insurance clerk, ~28 at Copenhagen encounter, single supper at a Copenhagen quay corner, no bed, one-letter-each correspondence afterward. Parallel-echo in correspondence shape to Haakon's three-line Shields letter, not the memoir's passionate-plea shape. This is queer substitution (Proposal B in the original casting question). **One calibration note:** names-index.md says "~28 in Sept 1882" — but under the locked book division the Swedish encounter happens August–November **1881** (per memoir Ch 58/67), with Olav at 24. The "Sept 1882" date is a pre-restart timeline artifact and should be corrected to "Aug 1881, Olav 24" when the encounter is drafted.
 
