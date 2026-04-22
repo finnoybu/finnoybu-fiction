@@ -32,6 +32,18 @@ Tracking names that appear in the novel and may need to change before publicatio
 | Olava's mother (from Rossøy) | — | Warm matriarch, friend of Olavus's mother | Rename |
 | Gustav (Olava's brother) | Gustav | Sailor, teasing, warm | Could keep or rename |
 
+## Finnøy locals (Vestbø neighbors and Hesby congregation)
+
+| Real Name | Novel Name | Role | Status |
+|---|---|---|---|
+| *(invented, unnamed in text)* — Ch 1 and Ch 4 | **Jens's sister (Olav's aunt)** | Widowed or unmarried; lives alone on the far side of the hill from Vestbø. Made Olav's sea-clothes (two wool shirts, cap) before his Ch 1 departure. Brings lefse, pickled herring, and caraway-aquavit she brews herself at Christmas Eve. On-stage briefly Ch 1 (via Olav's chest — she packed it) and Ch 4 (Christmas Eve visit). Unnamed in the text per the Ch 1 "his father's sister" convention. | Locked unnamed 2026-04-22. If a scene ever requires a name, decide at that point. |
+| *(invented)* — Ch 4 of Book I | **Rev. Lindbergen** | Minister at Hesby church. Black coat, stole, small spectacles that slip down his nose. Preaches on the text *"and behold a great wind from the wilderness came"* on the second Sunday of January, as he has "for as long as Olav could remember." On-stage Ch 4; likely recurs at Ch 7 pre-departure Sunday and any later home-interval chapter. | Locked 2026-04-22. |
+| *(invented)* — Ch 4 of Book I | **Bjørn** | Finnøy postman. Walks the route from Judaberg; "a slow man who had been walking the route since his father had been the postman before him." In winter uses a small hand-sledge. Delivers the Stavanger letter at Ch 4 end. | Locked 2026-04-22. Single appearance so far; candidate to recur if future letters are a plot device. |
+| *(invented)* — Ch 4 of Book I | **Knut Tjørn** | Finnøy farmer; Jens speaks with him about a fence in the Hesby churchyard after the second-Sunday-of-January service. Father of Karsten (below). On-stage only as name in a passing reference. | Locked 2026-04-22. |
+| *(invented)* — Ch 4 of Book I | **Karsten Tjørn** | Young Finnøy farmer on the upper ground above Østhusvik, age 23–24 in January 1876 (born ~1852, unmarried). Olav went to school with Karsten's younger brother. Sits with his mother in the pew across the aisle from the Hestby family at Hesby church. Object of Olav's second queer-seed beat (Ch 4, Hesby service, winter light on the back of the neck and hair over the collar). Physical detail locked Ch 4: hair grown over the collar, head bent over hymnal. Candidate for the third queer-seed beat in Ch 7 (pre-departure Sunday). | Locked 2026-04-22. The surname Tjørn ("tarn" — small mountain lake) is plausibly Norwegian-rural. If Karsten recurs in Book II or III home-intervals, register continues here. |
+| *(invented, unnamed)* — Ch 4 of Book I | **Karsten's mother** | Sits with Karsten in the pew across the aisle; on his arm leaving the churchyard. No other detail. | Unnamed 2026-04-22. |
+| *(invented, unnamed)* — referenced Ch 4 | **Karsten's younger brother** | In a younger year than Olav at Finnøy school. Not on-stage; referenced once in Ch 4 dialogue. | Unnamed 2026-04-22. |
+
 ## Captains
 
 | Real Name | Novel Name | Role | Proposed |
