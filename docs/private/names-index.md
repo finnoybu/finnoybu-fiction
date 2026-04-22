@@ -43,10 +43,11 @@ Tracking names that appear in the novel and may need to change before publicatio
 
 ## Officers / crewmates who matter
 
-| Real Name | Novel Name | Role | Proposed |
+| Real Name | Novel Name | Role | Status |
 |---|---|---|---|
-| *Unnamed* — Boatswain from Hogganvik (~25) | **Haakon** (working — see note below) | **Book I's central male love interest.** The ancestor's memoir flags this man as "very good friend" but never names him. Inventing a name is fully within our creative rights. | Lock as **Haakon** unless we want another Norse name: Lars, Andreas, Einar |
-| Nils (from Hogganvik) | Nils | Young deckhand, beaten by captain | Keep — fairly generic |
+| *Unnamed* — Boatswain from Hogganvik (~25, memoir *Faina* 1876) | **Haakon Haugen** | **Book I's central male love interest; joy-pole of Book I, grief-pole of Book III.** The ancestor's memoir flags him as "a first-class fellow, friendly, quick and courageous … we became very good friends, and that friendship lasted till we returned to Stavanger, where we parted, and I heard no more from him." Inventing a name for this un-named memoir figure is entirely within our creative rights. | **Locked 2026-04-21.** Surname *Haugen* paired with Sven (brothers or cousins; see below). |
+| **Sven Haugen** (memoir: Nils, the slow stammering youngman of Hogganvik on *Faina* 1876 — recast and promoted, with Proulx-register distinct characterization from Haakon) | **Sven Haugen** | Haakon's younger brother (or cousin) left behind in Hogganvik when Haakon goes to sea. Voice-register: Proulx, same family as Haakon but distinct — broken, quieter, the one who stays on the cliffs above the fjord. Possible continuity into Book II/III. | **Locked 2026-04-21.** Replaces the memoir's Nils. The memoir's Nils becomes Sven Haugen in the fiction (same person-slot, different name, richer interiority). |
+| (memoir-Nils, formerly in this table) | — | Folded into Sven Haugen above. | n/a |
 | Thomas (from Stjernerøy) | Thomas | Olavus's co-deserter in Wilmington | Keep — common name |
 | Karl Oberg | Karl Oberg | Second mate, friendly | Minor; keep |
 | Thompson | Thompson | Tall, taciturn crewmate | Keep |
@@ -68,24 +69,24 @@ Tracking names that appear in the novel and may need to change before publicatio
 
 ## Ships
 
-**Policy (Ken 2026-04-22):** Rename all named vessels so the novel reads as fiction rather than a key to the memoir. Preserve the flavor and rhythm of the original (feminine Norse/classical name for a Norwegian brig; ironic music term for a slave-driver schoonerbrig; etc.) but break 1:1 recognizability for anyone reading *sea-reader* alongside the trilogy. Suggestions below are starters for Ken's selection; none are locked.
+**Policy (Ken 2026-04-21):** Rename all named vessels so the novel reads as fiction rather than a key to the memoir. Preserve the flavor and rhythm of the original (feminine Norse/classical name for a Norwegian brig; ironic music term for a slave-driver schoonerbrig; etc.) but break 1:1 recognizability for anyone reading *sea-reader* alongside the trilogy. **Ken 2026-04-21 granted artistic license to Claude to devise and lock names as appropriate** — the table below reflects those locks.
 
-| Real Name | Novel Name | Role in novel | Proposal |
+| Real Name | Novel Name (LOCKED 2026-04-21) | Role in novel | Reasoning |
 |---|---|---|---|
-| *Nanna* (brig, first voyage 1875) | **TBD** | Book I Ch 1–2 — cook's first voyage, six-month Baltic/North Sea run | Norse-goddess brig flavor preserved: e.g. *Sigrid*, *Skuld*, *Freya*, *Idun* |
-| *Faina* (3-masted schoonership, spring 1876) | **TBD** | Book I Ch 9–16 — the tyrant captain G—, Lisbon, Eliasson's death, the Finnøybu identity forged | Feminine-Russian-ish flavor preserved: e.g. *Asta*, *Ingrid*, *Vesla*, *Thora* |
-| *Hjemmet* ("the Home"), bark | **TBD** | Book I Ch 21–26 — the kind-captain voyage, Archangel/Atlantic/Jamaica, proposal + acceptance letters | Meaningful-pun flavor preserved: e.g. *Heimlenga* ("homeward"), *Lengsel* ("longing"), or the same pun in a different register — *Fjerdehus*, *Arnhjem* |
-| *Cito* (soft-wood bark, Dec 1877) | **TBD** | Book II Ch 1–5 — the floating-coffin six-week pumping voyage to Hamburg | Ironic speed-name preserved: e.g. *Kvik* ("quick"), *Pilen* ("the arrow"), *Svalen* ("the swallow"), *Piloten* |
-| *Allegro* (schoonerbrig, June 1879) | **TBD** | Book II Ch 21 — Vardøy disaster, tight-fist captain | Ironic-music flavor preserved: e.g. *Vivace*, *Forte*, *Brio* — or pivot away from music for a Norwegian-place name: *Nidaros*, *Haugesund* |
-| *Diana* (Bergen steamer, Capt Sars) | **TBD** — or keep. See note. | Book II Ch 22–24 — healing journey home with Sars | Memoir-Diana is sympathetic; rule 2 (sympathetic character/ship = lean toward keeping as tribute) could argue for retention. Proposals: *Astrea*, *Minerva*, *Thalia* if renamed. |
-| *Semiramis* (1000+ ton East India-man bark, Oct 1879) | **TBD** | Book III Ch 1–10 — the great East India voyage year | Exotic-queen flavor preserved: e.g. *Nefertiti*, *Cleopatra*, *Zenobia*, *Boudicca* — or Norse royal: *Gyda*, *Ragnhild* |
-| *Olivier* (42-yr-old brig, Oct 1880) | **TBD** | Book III Ch 11–14 — the Baltic hurricane winter, Skagen-light night | Chanson-de-geste flavor preserved: e.g. *Roland*, *Hagen*, *Sigurd*, *Vidar* |
-| *Favorit* (schoonerbrig, Dec 1880) | **TBD** | Book III Ch 15–20 — Cuba voyage, the oil-painted portrait of Olava | Self-named vessel flavor: e.g. *Stella*, *Perla*, *Fortuna* |
-| *President Daae* (bark, Aug 1881) | **TBD** | Book III Ch 21–30 — first-mate ship, the Swedish encounter, the silent cutoff, homecoming | Rename definitely — Daae is a real Norwegian public-figure surname. Preserve "President/honored-figure-name" pattern: e.g. *Konsul Bergh*, *Minister Stang*, *Fylkesmann Kielland*; or pivot entirely: *Nordlyset* ("the northern light"), *Havrik* |
-| *Harald Haarfagre* (referenced only — Theodor Halversen's father's old ship) | **TBD** | Book I Ch 21 passing reference | Rename if retained as detail; otherwise drop the passing reference |
-| *Kong Sverre* (mail-steamer, passenger transit 1878) | **TBD** | Book II — travel | Low-profile; rename or drop |
-| *Rogaland* (coast-steamer, 1878 passenger) | Keep or **TBD** | Book II — travel | Low-profile |
-| *Stavangerfjord* (1938 Norwegian-American Line, from the memoir's late-life frame) | N/A | Not in the novel — frame device only in memoir | N/A |
+| *Nanna* (brig, first voyage 1875) | ***Sigrid*** | Book I Ch 1–2 — cook's first voyage, six-month Baltic/North Sea run | Norse name meaning "beautiful victory" (sig + friðr). Short, feminine, Stavanger-brig-authentic. Echoes a Norse-goddess precedent in the memoir's *Nanna* (wife of Balder) while shifting to a human name — the ship Olav's body gets its first lessons on is named for a woman he'll never meet. |
+| *Faina* (3-masted schoonership, spring 1876) | ***Asta*** | Book I Ch 9–16 — the tyrant captain, Lisbon, Eliasson's death, the Finnøybu identity forged | Short Norwegian feminine, "love." Cruel irony: the ship Captain G— runs as a slave-shop bears a name of tenderness. Fits the 19th-century pattern of ships named for an owner's daughter or wife. |
+| *Hjemmet* ("the Home"), bark | ***Hjemkomst*** | Book I Ch 21–26 — the kind-captain voyage, Archangel/Atlantic/Jamaica, proposal + acceptance letters | "Homecoming" in Norwegian. Preserves the meaningful-pun of the memoir's *Hjemmet* and deepens it: a ship named "Homecoming" that carries Olav farther from home than he has ever been, and during whose voyage Olava accepts his proposal — sealing a home he cannot yet return to. |
+| *Cito* (soft-wood bark, Dec 1877) | ***Kvik*** | Book II Ch 1–5 — the floating-coffin six-week pumping voyage to Hamburg | Norwegian "quick." Preserves the ironic-speed joke of the Latin *Cito* for the slowest, most nearly-sinking ship of the trilogy. |
+| *Allegro* (schoonerbrig, June 1879) | ***Brio*** | Book II — Vardøy disaster, tight-fist captain | Italian music term ("vigor, spirit"), preserves the ironic-music pattern of the memoir's *Allegro* (for a ship called "Satan of the Northsea"). Easier for English readers than staying on *Allegro*. |
+| *Diana* (Bergen steamer, Capt Sars) | ***Thalia*** | Book II — healing journey home with Sars | Greek Muse of pastoral poetry and blooming. Kept classical-feminine-goddess register of the memoir's *Diana* but shifted to a name with healing/bucolic resonance — the ship that brings Olav back from Vardøy's gray wastes. |
+| *Semiramis* (1000+ ton East India-man bark, Oct 1879) | ***Zenobia*** | Book III Ch 1–10 — the great East India voyage year | Warrior-queen of Palmyra who ruled between Rome and the East, like the ship between Norway and India. Four syllables like *Semiramis*. Preserves the "exotic-queen's-name" flavor without 1:1 recognizability. |
+| *Olivier* (42-yr-old brig, Oct 1880) | ***Roland*** | Book III Ch 11–14 — the Baltic hurricane winter, Skagen-light night | From the same Chanson de Roland as *Olivier* — but while the memoir's *Olivier* is Roland's doomed companion, our ship is Roland himself: the hero who should die fighting rearguard but is preserved in song. This rotten brig that survives the hurricane night 120 better ships wreck in is Roland. |
+| *Favorit* (schoonerbrig, Dec 1880) | ***Lykke*** | Book III — Cuba voyage, the oil-painted portrait of Olava | Norwegian "luck." Preserves the self-naming convention of the memoir's *Favorit*, in Norwegian; also carries forward the "providence" theme that runs through the memoir — the good voyage in the middle of the Baltic-and-NY ordeals. |
+| *President Daae* (bark, Aug 1881) | ***Nordlys*** | Book III Ch 21–30 — first-mate ship, the Swedish encounter, the silent cutoff, homecoming | "Northern lights" in Norwegian. Pivots away from the memoir's real-public-figure naming (Daae was an actual Norwegian statesman) toward a poetic-Norwegian-coast name. Resonance: the ship on which Olav meets Anders Lindqvist and then has to cut off a second light he cannot follow — the ship named for the light one sees once and returns to remembering. |
+| *Harald Haarfagre* (referenced only — Theodor's father's old ship) | ***Kong Olaf*** | Book I Ch 21 passing reference | Kept a royal-name flavor of the memoir's reference. Low-profile; the reference may be dropped at drafting. |
+| *Kong Sverre* (mail-steamer, passenger transit 1878) | **passenger-steamer (nameless)** | Book II — travel | Memoir real-ship reference is passing; in drafting we don't need to name it. If a name emerges in scene, select at draft time. |
+| *Rogaland* (coast-steamer, 1878 passenger) | **coast-steamer (nameless)** | Book II — travel | Same as above. *Rogaland* is a public-domain regional name and could stay if needed, but the passage doesn't require naming. |
+| *Stavangerfjord* (1938 Norwegian-American Line, from memoir's late-life frame) | N/A | Not in the novel — frame device only in memoir | N/A |
 
 ---
 
@@ -94,5 +95,5 @@ Tracking names that appear in the novel and may need to change before publicatio
 1. Preserve the **rhythm** of the original name (syllable count, hard vs. soft consonants).
 2. If a character is sympathetic and the real person was sympathetic, lean toward keeping the real name as tribute.
 3. If a character is villainous, antagonistic, or depicted in ways the real person's descendants would object to → rename aggressively.
-4. **Place names (islands, ports) stay** — they are public domain. **Ships do NOT stay (Ken 2026-04-22):** rename every named vessel to break 1:1 recognizability against the memoir, preserving flavor and rhythm.
+4. **Place names (islands, ports) stay** — they are public domain. **Ships do NOT stay (Ken 2026-04-21):** rename every named vessel to break 1:1 recognizability against the memoir, preserving flavor and rhythm.
 5. **Never** keep a criminal/antagonist's real name.
