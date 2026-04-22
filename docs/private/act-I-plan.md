@@ -74,3 +74,12 @@ Old prose had **Olav's mother Inger alive** as a major character in the decision
 ## Target lengths
 
 At current Ch 1-3 pace (~2,570 words/chapter), Ch 4-8 lands around 12,500–15,000 words total. Book I on track for ~115K at ~42-45 chapters.
+
+## Provisional inclusions — review before Act I ships
+
+Scenes added for structural reasons that may be removable on later review. If a future chapter ends up doing the architectural work independently, these are candidates for cut.
+
+| Scene | Chapter | Added | Reason | Remove-if |
+|---|---|---|---|---|
+| Peder-at-the-barn / *"He has been at the ledger at night"* | Ch 4 | 2026-04-22 | Ch 4 as drafted had Peder backgrounded (knife in half-sentence, one Karsten question, lamp at end). Peder is also offstage in Ch 5 (Jens-POV) and Ch 6 (Olav + Jens in Stavanger). Without this scene, Peder is absent for ~three chapters between Ch 3's reunion and Ch 7's pre-departure, which loads the Ch 7 goodbye with too much re-establishment work. Also seeds Jens's ledger-worry before the letter arrives. | If Ch 7 pre-departure lands with enough brother-weight on its own, or if Ch 5 Jens-POV can carry the ledger-worry from the inside without the Peder-observed setup. Review at Act I close before ship to Ken. |
+

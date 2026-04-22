@@ -28,6 +28,28 @@ January kept the bay frozen. February was colder. In the last week of January th
 
 He thought more than he had done at sea. On the ship there had been a bell coming, and the bell had taken the place of thinking. At home there was no bell. There was only the light coming up in the morning and going down in the afternoon earlier than it had any business to, and the stove to be fed, and the chores to be done at hours the winter had fixed long before anyone alive now was alive. After supper, when the work was done, he sat at the table with the small Bible his father had given him at confirmation — the Bible in which he had written, at the back, the one line about slip three at Rutherford & Co., Hebburn — or he listened to his father read. He did not write to Henrik.
 
+One evening in February Olav went with Peder to the barn to feed the older cow. Peder had built her stall in the autumn with beams he had cut and drawn himself, and the work he had done to it over the winter had been the filling and refilling of the bedding straw, the banking of the stall-wall with old hay to hold the warmth in, and the small repair of the drinking-trough that a kick had cracked in the first week of ice. Peder did the feeding; Olav held the lantern.
+
+The cow took her hay. She ate slowly, which was the way of older cows in winter. Peder stood at her shoulder and watched her eat for a minute, and then he went to the bucket at the stall's back wall and broke up a layer of ice that had formed on the water with the new clasp-knife.
+
+He said, not turning from the trough, "He has been at the ledger at night."
+
+"I saw."
+
+"Longer than he was at it in the autumn. And twice he has closed it and not opened it again."
+
+"Is that a new thing."
+
+"It is a new thing."
+
+Peder slid the knife shut and put it back in the sheath at his belt. He said, "You should know. I am not asking you to do anything."
+
+"I understand. There is a way he sets his mouth in the accounts."
+
+"Yes."
+
+The cow had finished with the first armful of hay. Peder gave her the second. They left her eating and walked back across the yard with the lantern in Olav's hand and Peder's hands deep in his coat pockets against the cold. It had started to snow again — small dry flakes, the kind that came down when the wind had fallen and would not add to the drifts.
+
 In the second week of February there came a letter from Stavanger.
 
 It came up the road from Judaberg on a Thursday with the Finnøy postman — a slow man named Bjørn, who had been walking the route since his father had been the postman before him, and who in winter used a small sledge he pulled by hand. Bjørn handed the letter over the yard wall to Jens without stepping into the yard, said the day's weather to him, and continued up the road to the next farm. Jens did not open the letter at the yard. He put it in the inside pocket of his coat. When he came into the house he took it out and put it on the mantel above the stove. He did not say whom it was from.
