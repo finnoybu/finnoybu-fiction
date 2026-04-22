@@ -22,10 +22,22 @@ This mirror is the trilogy's central thesis about queer-love-in-a-time-with-no-w
 ## Character-to-register mapping
 
 ### Olav Hestby — core protagonist POV (all three books)
-- **Register:** Madeline Miller
-- **Primary comp:** *Song of Achilles*, *Circe*
-- **Characteristics:** Close third-person, lyrical restraint, body-noticing as queer-awakening mechanism, period-authentic diction without being mannered, reserved at intimacy, peaks at emotional recognition
-- **Note:** Miller writes first-person mythological; adapted to close third for memoir-source grounding. Her lyric is pulled slightly toward Proulx (landscape, working-class physicality) to ground her in Norwegian maritime.
+
+**Register (evolves across the trilogy as a structural enactment of Olav's arc into self-knowledge).**
+
+- **Baseline (Book I):** Scandinavian plain-style, saga-filtered, restraint-as-argument, Norwegian-translation cadence. Close third-person that **refuses to name interiority** — emotion lives in objects and gestures, not in reported feeling. Plain past tense. Sparing use of the retrospective-voice accent ("whose name Olav never learned," "he would later") as the one permitted lyric concession.
+- **Primary comps (Book I baseline):** Knut Hamsun (*Growth of the Soil*), the Icelandic sagas in plain translation, early Karl Ove Knausgaard (*A Time for Everything*), Kirsten Bakis. Cormac McCarthy's plainer passages are **adjacent** but NOT a direct model — his tautological-cosmic moves ("doing the thing the sea did") have already surfaced as drift-risk and are to be avoided.
+- **Primary comp (trilogy end-point):** Madeline Miller (*Song of Achilles*) — as a **destination**, not as a baseline. The Book III closest-approach to Miller-interior is *earned* by Olav's arc; the Olav of Ch 1 cannot produce the sentences the Olav of the wedding chapter can.
+
+**Evolution across the three books:**
+
+- **Book I (ages 18–20):** register at its most austere. Olav has no language for what he feels and neither does the prose. Emotion lives in objects (the knife, the coin, the pipe, the letter under the shirt) and in gestures (the nod across the yard, the father's wet eyes, the coin placed back in the palm). The reader earns the emotion the way Olav earns his place on the ship.
+- **Book II (ages 20–22):** gradual loosening. Tuberculosis scare, homecoming, navigation school, Olava at close range. Olav develops interior language he did not have. Sentences can get slightly longer; body-noticing can become slightly more explicit without tipping into lyric-lush. The retrospective-voice accent can appear a little more often. The register is still plainly plain, but the plainness has begun to carry more weight of recognized feeling.
+- **Book III (ages 22–24):** closest approach to interior lyric — earned. By the *Zenomia* East India voyage Olav has partial language for himself (though not names for it in any public vocabulary). By the Anders Lindqvist cutoff in Helsingør he can think in terms the Ch 1 prose cannot have accessed. The wedding chapter can afford a single sentence of explicit emotional recognition that would have been unthinkable in Book I. Even here, though, the Scandinavian underlay holds — the ceiling is Miller-adjacent, not Miller.
+
+**Design thesis.** A boy who has no words for what he is gets a prose that matches him; a man who has slowly learned the words gets a prose that can carry them. The register itself becomes part of the trilogy's argument about self-knowledge.
+
+**Prior-draft note.** The 267K-word rejected draft aimed at Miller-lyric and hit tic-pathology instead. The restart tilted austere partly in reaction; the austere register is the correct one for Book I and was validated by cross-instance review 2026-04-22 (Ch 1 passed to an external Claude instance which made a better argument for the current register than we would have). The prior draft's Miller-target becomes the trilogy's eventual end-point rather than its baseline.
 
 ### Olava Lindøy — secondary POV (Book II morose; Book III joyful)
 - **Register:** Colm Tóibín

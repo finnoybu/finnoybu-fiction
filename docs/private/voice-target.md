@@ -1,8 +1,9 @@
 # Voice Target — Per-POV Sample Paragraphs
 
 > **Purpose:** Concrete prose-texture referents for every POV register in the trilogy. Before drafting any chapter, re-read the samples for that character. During drafting, if a paragraph sounds "off," compare against the samples here to locate the drift.
-> **Authority:** Drafted by Claude 2026-04-21 against the locks in [voice-register.md](voice-register.md). Pending Ken's gate-read.
+> **Authority:** Drafted by Claude 2026-04-21; Olav section revised 2026-04-22 after cross-instance register review (Claude.ai, ChatGPT) argued convincingly that the Book I register is Scandinavian-plain, not Miller-lyric. Updated per that redefinition.
 > **Status:** These are *targets*, not *proofs.* They demonstrate what each register should sound like in this project. Whether Claude can hit them sustainably across 30+ chapters per book is a separate empirical question the chapter-gate will answer.
+> **Olav register note (important):** Olav's register **evolves across the three books** — see [voice-register.md](voice-register.md). Book I is austere saga-plain (Hamsun, Knausgaard's *A Time for Everything*, the sagas in plain translation). Book III closes by approaching Miller-adjacent interior lyric, earned by the arc. Sample 1 and Sample 2 below are Book I baseline. Sample 3 is Book III end-of-arc and is INTENTIONALLY lusher than Sample 1/2; do not use Sample 3 as a reference when drafting Book I chapters — Ch 1–3 drafts in `content/en/` are the primary Book I reference.
 
 ---
 
@@ -21,19 +22,23 @@ All samples below should pass a grep for the banned bigrams/trigrams and should 
 
 ---
 
-# Olav Hestby — Miller register
+# Olav Hestby — Scandinavian-plain register (Book I baseline), evolving toward Miller-adjacent interior by Book III
 
-**Core discipline:** Close third-person. Lyrical restraint. Body-noticing as the quiet mechanism of queer self-discovery. Period-authentic without mannerism. Reserved at intimacy, peaks at recognition. Miller's *Song of Achilles* first-person pulled into third and grounded in Norwegian-maritime physicality.
+**Core discipline (Book I baseline):** Close third-person. **Refuses to name interiority** — emotion lives in objects, gestures, and what the body does without telling the reader why. Plain past tense. Norwegian-translation cadence (the "and X. And Y." construction, paratactic chains). Sparing use of the retrospective-voice accent ("whose name Olav never learned"). No lyric metaphor, no abstract formulations of feeling, no extended similes. The reader earns the emotion the way Olav earns his place on the ship.
 
-## Sample 1 — Olav at 19, *Asta* (memoir *Faina*), first morning out of Stavanger, spring 1876
+## Sample 1 — Olav at 19, *Asta* (memoir *Faina*), first morning out of Stavanger, spring 1876 — Book I baseline
 
-The boatswain was from Hogganvik. His name was Haakon. He came up the rigging after Olav with the smooth carry of a man who had built the ship he now climbed — a year before either of them had signed its articles, as Olav had been told, Haakon had laid its planks himself, side by side in a boatshed at the head of the fjord. The fact of this had settled somewhere inside Olav without his knowing where. He was looking at Haakon's hands on the ratlines: the brown work-hands of a builder. It came to him, not as a thought but as something below thought, that hands which had already done one thing with wood could do many things. He turned his eyes to the sea. The sea was what a man was supposed to be looking at, from a shroud in fair weather off Shields.
+The boatswain was from Hogganvik. His name was Haakon. He came up the rigging behind Olav and had an ease on the ratlines that Olav did not yet have. A year before either of them had signed the ship's articles, Haakon had laid her planks himself in a boatshed at the head of the fjord. Olav had been told this when he came aboard. He had not known what to do with the information at the time and had put it away.
 
-## Sample 2 — Olav at 20, St. Vincent, Cape Verde, receiving Olava's "yes" letter, April 1877
+On the ratlines now he found himself watching the man's hands on the rope. The hands were brown from the work, and the knuckles were marked where the skin had split in the winter and healed over the split. The rope moved through them and they moved on the rope, and neither seemed to need telling. Olav turned his eyes to the sea. The sea was what a man was supposed to look at from a shroud in fair weather off Shields.
 
-The letter reached him in a harbor that smelled of coal and seabirds. He read it once, sitting on a watercask in the cookhouse shade, and then he folded it along the crease she had made and put it against the skin of his chest under his shirt, and went back to work. He did not read it again for the rest of the day. The news moved in him slowly, the way heat moves through a plank. *Olava* — it was still strange to him that the word had become a name — *Olava had said yes.* When the watch changed and the cook came to find him for the evening meal, he discovered he had been lashing and unlashing the same halyard for the better part of an hour. The cook looked at him without speaking and went away. Below deck, eating his soup, Olav understood that he had never loved anyone before this, and he did not understand that the shape of his loving was going to turn out to be something larger than the folded page under his shirt.
+## Sample 2 — Olav at 20, St. Vincent, Cape Verde, receiving Olava's "yes" letter, April 1877 — Book I baseline
 
-## Sample 3 — Olav at 24, Boston, the oil-painted portrait of Olava delivered aboard the *Lykke*, spring 1881
+The letter reached him in a harbor that smelled of coal and seabirds. He read it once, sitting on a watercask in the cookhouse shade, and then he folded it along the crease she had made, and put it against the skin of his chest under his shirt, and went back to work. He did not read it again for the rest of the day. Olava had said yes. He did not know how to carry the news. He carried it anyway. When the watch changed and the cook came to find him for the evening meal, he had been lashing and unlashing the same halyard for the better part of an hour. The cook looked at him without speaking and went away. Below deck, eating his soup, Olav was a man with a fiancée, and did not yet know what else he was.
+
+## Sample 3 — Olav at 24, Boston, the oil-painted portrait of Olava delivered aboard the *Lykke*, spring 1881 — **Book III end-of-arc, NOT a Book I reference**
+
+*This sample is INTENTIONALLY lusher than Sample 1 and Sample 2. It represents the register Olav's prose reaches by Book III, after six years of sea and interior growth — not the register of Ch 1. Use Sample 1 and Sample 2 (plus the Ch 1–3 drafts) for Book I work.*
 
 The painter had kept his word. The portrait stood at the door of the cabin in a frame carved out of some pale wood Olav did not recognize, oiled and smelling of turpentine, and the face inside the frame was Olava's and was also not quite Olava's. It was what a man who had never seen her had made of a photograph. She was looking away from the viewer and slightly down. Her mouth was set. The painter had caught the small line at the corner of it that came out when she was holding back a smile she did not want to give the room. Olav sat down on the edge of his bunk with the painting on his knees and held it there for a long time, looking at the mouth. He thought of the afternoon at Landa, four summers back, and of the walk home through the ravine, and of the promise he had made in his own language without any word of it having to be said. Then he set the painting carefully against the cabin wall where he would see it first on waking, and he went out to take his watch.
 

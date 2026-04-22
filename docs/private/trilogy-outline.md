@@ -27,7 +27,7 @@ Age-shift: +3 from memoir. Olav Hestby born 1857 (vs. memoir Olavus born 1860). 
 
 ## Voice register at a glance (per [voice-register.md](voice-register.md))
 
-- **Olav → Miller** (*Song of Achilles*, *Circe*): literary-restrained, body-noticing, queer-awakening, classical cadence.
+- **Olav → Scandinavian-plain (Book I) evolving toward Miller-adjacent (Book III)** — redefined 2026-04-22 after cross-instance review. Book I baseline is Hamsun / saga-translation / early Knausgaard plain style: refuses to name interiority, emotion in objects and gestures, Norwegian-translation cadence. By Book III the register has earned its way to an interior lyric closer to *Song of Achilles*. The register itself enacts Olav's arc into self-knowledge. See [voice-register.md](voice-register.md) for the evolution arc per book.
 - **Olava → Tóibín** (*Nora Webster*, *Brooklyn*): interior, quiet, grief-and-waiting, domestic spaciousness.
 - **Haakon → Proulx** (*Brokeback Mountain*, *Shipping News*): rough-Scandinavian-sailor rural, weather-on-the-tongue, elliptical pain.
 - **Jens Hestby → Robinson** (*Gilead*): elegiac paternal, theological, letter-like contemplation.
