@@ -21,6 +21,7 @@ Tracking names that appear in the novel and may need to change before publicatio
 |---|---|---|---|
 | Olavus's father | — | Finnøy patriarch, former sailor | Minor; could rename if needed |
 | Olavus's older brother (died of TB) | — | Off-stage, ghost presence | Probably rename |
+| Peder (Olavus's youngest brother, 2½ years younger — memoir Ch 33) | **Peder** (keep) | Olav's younger brother, 15–16 in summer 1875, stays at Vestbø when Olav goes to sea. On-stage in Book I Ch 1, 3, and later; fiction character is alive throughout trilogy (fiction diverges from the memoir which has brothers dying of TB). | Locked 2026-04-21 per Ch 1 draft. Peder in the fiction is distinct from the memoir's TB-dead brother row above. |
 | Cousin John Stensøy | John Stensøy | Part-owner of Olavus's first proper ship | Rename if featured |
 
 ## Family (Olava's)
