@@ -4,6 +4,7 @@ import { useCallback, useEffect, useRef, useState } from 'react'
 import { createPortal } from 'react-dom'
 import { useReader } from '@/lib/reader-context'
 import { createClient } from '@/lib/supabase/client'
+import { getBookId } from '@/lib/book'
 import {
   getSelectionInfo,
   computePopoverPosition,
@@ -16,11 +17,13 @@ import Toast from './Toast'
 interface SelectionToolbarProps {
   articleRef: React.RefObject<HTMLElement | null>
   chapterSlug: string
+  bookSlug: string
 }
 
 export default function SelectionToolbar({
   articleRef,
   chapterSlug,
+  bookSlug,
 }: SelectionToolbarProps) {
   const { user } = useReader()
   const supabase = createClient()
@@ -158,8 +161,10 @@ export default function SelectionToolbar({
         label = words.slice(0, 8).join(' ')
       }
 
+      const bookId = await getBookId(supabase, bookSlug)
       await supabase.from('bookmarks').insert({
         user_id: user.id,
+        book_id: bookId,
         chapter_slug: chapterSlug,
         scroll_position: info.scrollPosition,
         selection_start: info.selectionStart,
@@ -195,8 +200,10 @@ export default function SelectionToolbar({
   const saveAnnotation = async () => {
     if (!user || !info) return
     setSaving(true)
+    const bookId = await getBookId(supabase, bookSlug)
     await supabase.from('annotations').insert({
       user_id: user.id,
+      book_id: bookId,
       chapter_slug: chapterSlug,
       text_selection: info.text,
       note,
@@ -214,8 +221,10 @@ export default function SelectionToolbar({
   const submitErrata = async () => {
     if (!user || !info) return
     setSaving(true)
+    const bookId = await getBookId(supabase, bookSlug)
     await supabase.from('errata_reports').insert({
       user_id: user.id,
+      book_id: bookId,
       chapter_slug: chapterSlug,
       text_selection: info.text,
       description: errataDesc,

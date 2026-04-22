@@ -8,9 +8,11 @@ import AnnotationHighlights from './AnnotationHighlights'
 export default function ChapterArticle({
   html,
   chapterSlug,
+  bookSlug,
 }: {
   html: string
   chapterSlug: string
+  bookSlug: string
 }) {
   const ref = useRef<HTMLDivElement>(null)
 
@@ -18,8 +20,8 @@ export default function ChapterArticle({
     <article className="prose-memoir mx-auto" ref={ref}>
       <div dangerouslySetInnerHTML={{ __html: html }} />
       <WikiHoverCards containerRef={ref} />
-      <SelectionToolbar articleRef={ref} chapterSlug={chapterSlug} />
-      <AnnotationHighlights articleRef={ref} chapterSlug={chapterSlug} />
+      <SelectionToolbar articleRef={ref} chapterSlug={chapterSlug} bookSlug={bookSlug} />
+      <AnnotationHighlights articleRef={ref} chapterSlug={chapterSlug} bookSlug={bookSlug} />
     </article>
   )
 }

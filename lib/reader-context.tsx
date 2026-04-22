@@ -2,6 +2,7 @@
 
 import { createContext, useContext, useCallback, useEffect, useState, useRef, ReactNode } from 'react'
 import { createClient } from '@/lib/supabase/client'
+import { getBookId, getAllFictionBookIds } from '@/lib/book'
 import type { User } from '@supabase/supabase-js'
 
 export type Theme = 'light' | 'dark' | 'high-contrast'
@@ -18,14 +19,14 @@ interface ReaderContextType {
   preferences: ReaderPreferences
   setTheme: (theme: Theme) => void
   setFontSize: (size: FontSize) => void
-  updateReadingPosition: (chapter: string, position: number) => void
+  updateReadingPosition: (chapter: string, book: string, position: number) => void
   user: User | null
   isRecoverySession: boolean
 }
 
 const ReaderContext = createContext<ReaderContextType | undefined>(undefined)
 
-const STORAGE_KEY = 'sea-reader-preferences'
+const STORAGE_KEY = 'hestby-reader-preferences'
 
 const DEFAULT_PREFERENCES: ReaderPreferences = {
   theme: 'light',
@@ -72,14 +73,16 @@ export function ReaderProvider({ children }: { children: ReactNode }) {
     return () => subscription.unsubscribe()
   }, [supabase.auth])
 
-  // On sign-in: pull latest progress from Supabase, merge with local
+  // On sign-in: pull latest progress from Supabase (across all fiction books), merge with local
   useEffect(() => {
     if (!user || !hydrated) return
 
     async function mergeFromCloud() {
+      const bookIds = await getAllFictionBookIds(supabase)
       const { data } = await supabase
         .from('reading_progress')
         .select('chapter_slug, scroll_position, last_read_at')
+        .in('book_id', bookIds)
         .order('last_read_at', { ascending: false })
         .limit(1)
 
@@ -106,7 +109,7 @@ export function ReaderProvider({ children }: { children: ReactNode }) {
 
   // Debounced sync to Supabase
   const syncToCloud = useCallback(
-    (chapter: string, position: number) => {
+    (chapter: string, book: string, position: number) => {
       if (!user) return
       if (syncTimer.current) clearTimeout(syncTimer.current)
 
@@ -114,16 +117,18 @@ export function ReaderProvider({ children }: { children: ReactNode }) {
         const doc = document.documentElement
         const max = doc.scrollHeight - doc.clientHeight
         const percent = max > 0 ? Math.min(1, position / max) : 0
+        const bookId = await getBookId(supabase, book)
 
         await supabase.from('reading_progress').upsert(
           {
             user_id: user.id,
+            book_id: bookId,
             chapter_slug: chapter,
             scroll_position: position,
             percent,
             last_read_at: new Date().toISOString(),
           },
-          { onConflict: 'user_id,chapter_slug' }
+          { onConflict: 'user_id,book_id,chapter_slug' }
         )
       }, 3000)
     },
@@ -151,11 +156,11 @@ export function ReaderProvider({ children }: { children: ReactNode }) {
     saveLocal(updated)
   }
 
-  const updateReadingPosition = (chapter: string, position: number) => {
+  const updateReadingPosition = (chapter: string, book: string, position: number) => {
     const updated = { ...preferences, currentChapter: chapter, scrollPosition: position }
     setPreferences(updated)
     saveLocal(updated)
-    syncToCloud(chapter, position)
+    syncToCloud(chapter, book, position)
   }
 
   return (

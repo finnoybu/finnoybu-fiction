@@ -2,6 +2,7 @@
 title: "Homecoming"
 id: 3
 slug: "homecoming"
+book: "salt-and-silence"
 hero:
   image: "/images/03-homecoming.png"
 ---

@@ -2,6 +2,7 @@
 title: "Vestbø"
 id: 1
 slug: "vestbo"
+book: "salt-and-silence"
 hero:
   image: "/images/01-vestbo.png"
 ---

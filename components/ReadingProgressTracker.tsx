@@ -5,9 +5,10 @@ import { useReader } from '@/lib/reader-context'
 
 interface ReadingProgressTrackerProps {
   chapterSlug: string
+  bookSlug: string
 }
 
-export default function ReadingProgressTracker({ chapterSlug }: ReadingProgressTrackerProps) {
+export default function ReadingProgressTracker({ chapterSlug, bookSlug }: ReadingProgressTrackerProps) {
   const { preferences, updateReadingPosition } = useReader()
   const containerRef = useRef<HTMLDivElement>(null)
   const isRestoringRef = useRef(true)
@@ -76,7 +77,7 @@ export default function ReadingProgressTracker({ chapterSlug }: ReadingProgressT
     if (isRestoringRef.current) return
 
     const handleScroll = () => {
-      updateReadingPosition(chapterSlug, window.scrollY)
+      updateReadingPosition(chapterSlug, bookSlug, window.scrollY)
     }
 
     const throttledScroll = (() => {
@@ -92,7 +93,7 @@ export default function ReadingProgressTracker({ chapterSlug }: ReadingProgressT
 
     window.addEventListener('scroll', throttledScroll, { passive: true })
     return () => window.removeEventListener('scroll', throttledScroll)
-  }, [chapterSlug, updateReadingPosition])
+  }, [chapterSlug, bookSlug, updateReadingPosition])
 
   return <div ref={containerRef} />
 }

@@ -3,11 +3,13 @@
 import { useEffect, useState } from 'react'
 import { useReader } from '@/lib/reader-context'
 import { createClient } from '@/lib/supabase/client'
+import { getBookId } from '@/lib/book'
 import { getParagraphAtOffset } from '@/lib/selection-utils'
 
 interface AnnotationHighlightsProps {
   articleRef: React.RefObject<HTMLElement | null>
   chapterSlug: string
+  bookSlug: string
 }
 
 interface SavedBookmark {
@@ -176,6 +178,7 @@ function highlightRange(
 export default function AnnotationHighlights({
   articleRef,
   chapterSlug,
+  bookSlug,
 }: AnnotationHighlightsProps) {
   const { user } = useReader()
   const [version, setVersion] = useState(0)
@@ -210,19 +213,21 @@ export default function AnnotationHighlights({
 
     const supabase = createClient()
 
-    // Fetch annotations and bookmarks in parallel
-    Promise.all([
+    // Fetch annotations and bookmarks in parallel, scoped to this book.
+    getBookId(supabase, bookSlug).then((bookId) => Promise.all([
       supabase
         .from('annotations')
         .select('id, selection_start, selection_end, text_selection, note')
         .eq('user_id', user.id)
+        .eq('book_id', bookId)
         .eq('chapter_slug', chapterSlug),
       supabase
         .from('bookmarks')
         .select('id, scroll_position, selection_start')
         .eq('user_id', user.id)
+        .eq('book_id', bookId)
         .eq('chapter_slug', chapterSlug),
-    ]).then(([annResult, bmResult]) => {
+    ])).then(([annResult, bmResult]) => {
       if (!articleRef.current) return
 
       // Apply annotation highlights
@@ -246,7 +251,7 @@ export default function AnnotationHighlights({
         addBookmarkRibbon(articleRef.current, bm.scroll_position, bm.selection_start, bm.id)
       }
     })
-  }, [user, articleRef, chapterSlug, version])
+  }, [user, articleRef, chapterSlug, bookSlug, version])
 
   return null
 }

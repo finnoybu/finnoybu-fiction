@@ -7,6 +7,7 @@ export interface ChapterMeta {
   id: number
   title: string
   slug: string
+  book: string
   hero: {
     image: string
   }
@@ -47,6 +48,7 @@ export function getAllChapters(): ChapterMeta[] {
         id: data.id,
         title: data.title,
         slug: data.slug,
+        book: data.book,
         hero: data.hero,
         excerpt: makeExcerpt(body),
       } as ChapterMeta
@@ -71,6 +73,7 @@ export function getChapterBySlug(slug: string): Chapter | null {
         id: data.id,
         title: data.title,
         slug: data.slug,
+        book: data.book,
         hero: data.hero,
         content: marked.parse(markdown) as string,
       } as Chapter

@@ -2,6 +2,7 @@
 title: "Hebburn"
 id: 2
 slug: "hebburn"
+book: "salt-and-silence"
 hero:
   image: "/images/02-hebburn.png"
 ---

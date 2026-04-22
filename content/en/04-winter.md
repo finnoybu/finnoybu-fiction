@@ -2,6 +2,7 @@
 title: "Winter"
 id: 4
 slug: "winter"
+book: "salt-and-silence"
 hero:
   image: "/images/04-winter.png"
 ---
