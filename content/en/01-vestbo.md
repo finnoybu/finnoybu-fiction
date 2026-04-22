@@ -90,7 +90,7 @@ The one-eyed man did not say anything else for some time. Olav put the chest und
 
 Thorvald went back up through the scuttle ahead of him.
 
-Olav climbed down and went up through the scuttle into the light. The deck was in motion in the way that a city street is in motion, men going about their separate tasks at their separate speeds and calling to each other in the shorthand of men who had done this work many times together. He stood near the forehatch for a breath, looking for somebody to tell him what to do, and a boy of his own age came past with a coil of rope over his shoulder and said *help me lay this out* without stopping, and Olav walked after him and helped him lay out the coil along the starboard rail, and that was his first work as a member of the crew of the brig *Sigrid* of Stavanger in the summer of eighteen seventy-five.
+Olav climbed down and went up through the scuttle into the light. The deck was in motion in the way that a city street is in motion, men going about their separate tasks at their separate speeds and calling to each other in the shorthand of men who had done this work many times together. He stood near the forehatch for a breath, looking for somebody to tell him what to do, and a boy of his own age came past with a coil of rope over his shoulder and said *help me lay this out* without stopping, and Olav walked after him and helped him lay out the coil along the starboard rail, and that was his first work as a member of the crew of the brig *Sigrid* of Stavanger in the early summer of eighteen seventy-five.
 
 The opsang — the hauling-song that went out ahead of every Stavanger ship leaving harbor — came at one in the afternoon with the turning of the tide.
 

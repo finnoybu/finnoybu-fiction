@@ -136,6 +136,4 @@ After an hour he got up and went to the window.
 
 The moon was a quarter behind a cloud and the fields were silver where the cloud let it through and dark where the cloud held it. He could see the shape of the barn and the shape of the low wall at the edge of the yard and the line where the yard ended and the fields began. He could not see the sea from this window. The sea was over the shoulder of the hill to the west. He stood there a long time and thought of the sea he could not see and of the deck of the *Sigrid* under his feet that was no longer under his feet. He thought also of his father lying awake across the passage and of Peder asleep in the room beside his. He had come home to a house in which he was now one person and they were another. Neither side would ever know precisely where the line had been drawn.
 
-He went back to the bed. He lay down. He thought he would not sleep.
-
-He slept.
+He went back to the bed. He lay down.

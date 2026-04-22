@@ -6,7 +6,7 @@ hero:
   image: "/images/02-newcastle.png"
 ---
 
-They came up the Tyne on a Thursday forenoon with a tug at the bow and the city showing itself by slow degrees through the coal-smoke.
+A tug brought them up the Tyne on a Thursday forenoon, with the city showing itself by slow degrees through the coal-smoke.
 
 The *Sigrid* had sailed from Stavanger to Copenhagen, lain three weeks discharging timber, crossed the Skaw with a northeast wind, and now had come for a return cargo of Newcastle coal. Olav was four months at sea. His trousers had loosened at the waist, and his hands had learned the work. He had learned to sleep in the top bunk through the full range of the ship's motion, and to wake a minute before the watch-bell, and to make coffee in a swell without spilling more than a cup on the stove. The Kattegat had been short and choppy and tired him in an hour. The open North had rolled him to sleep. He had come to prefer the long swell above the others, because in it a man had time to think between blows.
 
@@ -141,5 +141,3 @@ They came to the ship. The ship was showing only a riding-light and a single lam
 Olav cleaned the galley. He turned down the stove. He went up on deck once before bed to see if the tide had turned, because he had learned to feel it through the hull and he wanted to check whether he was right.
 
 The tide had turned.
-
-He went below and climbed to his bunk and lay on his back in the dark and did not sleep for a long time, and then he slept.
