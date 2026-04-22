@@ -2,7 +2,7 @@
 
 > **Purpose:** Per-book structural allocation of memoir events across the three novels, flagging sourced-from-memoir vs. invented material, mapping voice-register POVs to chapters, and identifying the emotional-architecture beats.
 > **Scope:** Skeleton — enough to draft against. Not final chapter numbering. Ch allocations are approximate; actual chapter breaks emerge in drafting.
-> **Authority:** Locked 2026-04-22 pending Ken's review. Supersedes all pre-restart planning docs (`trilogy-plan.md`, `book-1-expansion-proposal.md`, `books-2-3-outline.md`, `expansion-canon-map.md`) for structural decisions.
+> **Authority:** Locked 2026-04-21 pending Ken's review. Supersedes all pre-restart planning docs (`trilogy-plan.md`, `book-1-expansion-proposal.md`, `books-2-3-outline.md`, `expansion-canon-map.md`) for structural decisions.
 > **Source lookups:** Memoir digest at [docs/private/memoir-digest.md](memoir-digest.md). Voice register at [docs/private/voice-register.md](voice-register.md). Process guardrails at [docs/private/process-commitments.md](process-commitments.md).
 
 ---
@@ -19,7 +19,7 @@ Age-shift: +3 from memoir. Olav Hestby born 1857 (vs. memoir Olavus born 1860). 
 
 ## Trilogy arc in three sentences
 
-1. A Norwegian farm-and-coast boy of eighteen goes to sea knowing only that he loves the island-girl Olava, and discovers across successive voyages that his body answers also to certain men he meets — an attention he has no word for, no tradition to place it in, no safety to name it.
+1. A Norwegian farm-and-coast boy goes to sea at eighteen as cook on a Stavanger brig, knowing only the horizon; the following summer, home between voyages at nineteen, he meets the island-girl Olava at a Sunday gathering and is engaged to her within weeks; across the voyages that follow he discovers — slowly, privately, over years — that his body answers also to certain men he meets at sea and in ports, an attention he has no word for, no tradition to place it in, no safety to name it.
 2. At sea he survives tyrannical captains and rotten ships; at home he almost dies of tuberculosis; what saves him is the slow integration of a double knowledge — what Olava gives him of love, and what men at sea give him of desire — until by twenty-four he can recognize, in private, what he did not even suspect at eighteen.
 3. He marries the woman he loves, and he does so with the newly-acquired private knowledge that the full map of his affections is larger than the one he can ever show her, and that carrying that cost unshown is the price he chooses to pay to be honest to both halves of what he turns out to be.
 
@@ -194,7 +194,7 @@ These are decisions that affect voice-register execution but do not block the ou
 Before Ch 1 test paragraph or first draft chapter, still required per SESSION_STATE queue:
 
 1. Ken reviews this outline and the memoir digest. Any structural corrections before proceeding.
-2. Update [CLAUDE.md](../../CLAUDE.md) per-book ages and Book-II/III contents to match the locked 2026-04-22 division (pending Ken's approval of this outline).
+2. Update [CLAUDE.md](../../CLAUDE.md) per-book ages and Book-II/III contents to match the locked 2026-04-21 division (pending Ken's approval of this outline).
 3. Build [docs/private/voice-target.md](voice-target.md) — 2–3 sample paragraphs per POV register.
 4. Build [docs/private/tic-check.md](tic-check.md) — pre-draft grep blacklist.
 5. Cast Haakon, Sven Haugen, the Swedish figure (casting questions above).

@@ -1,12 +1,12 @@
 # Session State — Trilogy Restart
 
-**Last updated:** 2026-04-22 — memoir digest complete; book division locked.
+**Last updated:** 2026-04-21 — memoir digest complete; book division locked.
 
 ## Where we are
 
 Trilogy restart decided and locked. All prior 267K-word work committed at `07620d9` for permanent recoverability. Voice-register design committed at `73597db`. Process commitments committed. Memoir digest written and committed at `160eb70`.
 
-## Book division — LOCKED 2026-04-22
+## Book division — LOCKED 2026-04-21
 
 Natural memoir pivots aligned with three-book structure:
 
@@ -21,7 +21,7 @@ Natural memoir pivots aligned with three-book structure:
 - Olava: grief in Book II → joy in Book III.
 - Swedish-lady episode from memoir Ch 58–67 (Aug–Nov 1881) sits at the Book III emotional apex.
 
-**Departure from old plan:** The pre-restart CLAUDE.md (current) says Book II = East India voyage. Under the locked 2026-04-22 division, East India moves to Book III. CLAUDE.md per-book descriptions to be updated after Ken reviews the trilogy-outline.
+**Departure from old plan:** The pre-restart CLAUDE.md (current) says Book II = East India voyage. Under the locked 2026-04-21 division, East India moves to Book III. CLAUDE.md per-book descriptions to be updated after Ken reviews the trilogy-outline.
 
 ## The project in one paragraph
 
@@ -33,11 +33,11 @@ Ken's great-great-grandfather Olavus Vullum Bjørnson Vestbø's memoir (*A Sailo
 
 ## Immediate next action
 
-**Build `docs/private/trilogy-outline.md`** — map memoir events across the three books (per locked 2026-04-22 division above), with per-chapter allocation marking sourced-from-memoir vs. invented. Claude solo work, no Ken input during drafting, commit as single artifact.
+**Build `docs/private/trilogy-outline.md`** — map memoir events across the three books (per locked 2026-04-21 division above), with per-chapter allocation marking sourced-from-memoir vs. invented. Claude solo work, no Ken input during drafting, commit as single artifact.
 
 ## Queue
 
-1. ~~`docs/private/memoir-digest.md`~~ — **DONE** (commit `160eb70` 2026-04-22).
+1. ~~`docs/private/memoir-digest.md`~~ — **DONE** (commit `160eb70` 2026-04-21).
 2. `docs/private/trilogy-outline.md` — IN PROGRESS.
 3. **Ken reviews digest + outline** — ~45 min his time, confirms memoir facts, confirms outline structure, flags anything off. Then update CLAUDE.md per-book age ranges to match locked division.
 4. `docs/private/voice-target.md` — 2–3 sample paragraphs per POV register (Miller, Tóibín, Proulx, Robinson, Hemingway) as drafting reference. 2 hours Claude.
