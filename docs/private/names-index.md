@@ -36,7 +36,7 @@ Tracking names that appear in the novel and may need to change before publicatio
 
 | Real Name | Novel Name | Role | Proposed |
 |---|---|---|---|
-| Captain G.K. (already anonymized in memoir) | Captain G— (TBD) | Brutal captain of Olavus's first major voyage (Book I antagonist) | Give him a full fictional name — e.g., *Captain Gjermund* or *Captain Graaten* |
+| Captain G.K. (already anonymized in memoir) | **Captain Gjermund** | Brutal captain of the *Asta* (memoir *Faina*). Book I Act II antagonist. | **Locked 2026-04-22.** First option from the earlier candidate list; used in pre-restart old prose, continuity of ear. Surname TBD or unused. Aligns with memoir G.K. description: "elderly man with a very weather-beaten and pock-marked face… slight hesitation or stammer when speaking" (memoir Ch 2). |
 | Captain Tollefson (*Hjemmet*) | — | The *good* captain, later voyage | Keep or rename |
 | Captain Sars (*Diana*) | Captain Sars | Healer figure, saves Olavus at Vardøy | **Consider keeping — warm attribution honors a good man** |
 | Captain Hans Hamre (*Semiramis*, East India) | Captain Hamre | Proud, demanding, Masonic ties | Probably rename (common Norwegian name risk) |
