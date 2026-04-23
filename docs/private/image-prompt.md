@@ -11,7 +11,7 @@
 ## Baseline template (Ken 2026-04-23)
 
 ```
-[SCENE — one sentence describing the specific moment of the chapter]
+[SCENE — short paragraph describing the specific moment of the chapter]
 
 Oil painting style with soft but visible brushwork. Norway, late 1800s. Muted gray palette. Quiet, elegiac tone.
 
@@ -22,7 +22,15 @@ Export as PNG with transparent background only outside the painted frame (no sim
 Landscape orientation, 2:3.
 ```
 
-Per-chapter change: only the first sentence (`[SCENE]`). Everything else is fixed for **Olav Book I** images.
+Per-chapter change: only the `[SCENE]` paragraph. Everything else is fixed for **Olav Book I** images.
+
+### Scene-paragraph format (Ken 2026-04-24, supersedes single-sentence format)
+
+Earlier drafts used a single sentence for `[SCENE]`. These produced drift — palette wandered warmer-brown, figures aged, compositions rearranged — across Ch 2–5 retries. Current approach: a **short paragraph (3–4 sentences) describing the scene as a scene, not the image.**
+
+Derivation: write the paragraph by reverse-engineering the look of an image that already works. For Ch 0 the Vestbø-shore rough worked, so the prompt is the paragraph-form description of that scene. For new chapters, the paragraph should be written in the same register — concrete physical detail (objects, weather, posture), no interpretation ("he was thinking…"), one emotional note only at the end if at all.
+
+The paragraph replaces the `[SCENE]` line in the baseline template; everything else (the style / palette / export / aspect lines) stays fixed.
 
 ---
 
@@ -51,7 +59,9 @@ Only the first sentence changes between chapters. Everything after it stays as i
 
 ### Ch 0 — Introduction
 
-*"For Those Who Sailed in Silence"* — prologue, 72 words. No narrative scene. Could use the cover art (`finnoybu-salt-and-silence.png`) as-is, or generate a frame-only dedication image. **Decision deferred.**
+*"For Those Who Sailed in Silence"* — prologue, 72 words. No specific narrative scene in the prose; the image functions as the emblematic opening image for the whole book. Working rough (`public/images/1/00-introduction.png`) — young man in shirt and waistcoat, head bent, on a stony fjord shore beside a turf-roofed boathouse, grey water and layered mountains beyond. Paragraph-form prompt reverse-engineered from that rough (Ken's working prompt as of 2026-04-24):
+
+> On the stony shore of a Norwegian fjord on an overcast afternoon, an eighteen-year-old in a white shirt and dark waistcoat stands alone beside a low turf-roofed boathouse, his head bent, his hands held loosely at his waist as if working at some small thing only he can see. A rowboat lies pulled up on the rocks behind him; the grey water carries the fjord out between receding mountains. He has not yet left, and he is no longer quite at home.
 
 ### Ch 1 — Vestbø
 
