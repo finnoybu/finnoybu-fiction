@@ -84,7 +84,8 @@ export default function Home() {
             sail. He carries a sea-chest, a confirmation Bible, a borrowed knife, and a
             promise to the girl he means to marry. Over seven years and as many voyages
             he will find out what the horizon takes and what it gives back &mdash; and
-            what a young man carries home that he will never, even with her, say aloud.
+            he will come home carrying something he cannot yet name, not even to
+            himself.
           </p>
         </div>
       </section>
