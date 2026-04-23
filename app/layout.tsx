@@ -37,6 +37,7 @@ const caveat = Caveat({
 })
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://fiction.finnoybu.com'),
   title: {
     default: "Finnoybu: Salt and Silence — Book I",
     template: "%s · Finnoybu",
@@ -45,6 +46,30 @@ export const metadata: Metadata = {
     "Finnoybu: Salt and Silence — Book I. A young Norwegian sailor in the age of sail, torn between the woman he has promised himself to and the men who share his watches. A period historical romance by E. A. Westbo.",
   icons: {
     icon: '/images/blue-arrowhead.svg',
+  },
+  openGraph: {
+    type: 'book',
+    locale: 'en_US',
+    url: '/',
+    siteName: 'Finnoybu',
+    title: 'Finnoybu: Salt and Silence — Book I',
+    description:
+      'In the last great age of sail, a young Norwegian ships out promised to a girl at home — and learns, watch by watch, that the heart keeps two courses at once. A period historical romance by E. A. Westbo.',
+    images: [
+      {
+        url: '/images/1/00-introduction.png',
+        width: 1536,
+        height: 1024,
+        alt: 'Salt and Silence — cover',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Finnoybu: Salt and Silence — Book I',
+    description:
+      'A young Norwegian ships out promised to a girl at home — and learns, watch by watch, that the heart keeps two courses at once.',
+    images: ['/images/1/00-introduction.png'],
   },
 }
 
