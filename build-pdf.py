@@ -25,17 +25,17 @@ AUTHOR = "E. A. Westbo"
 
 BOOKS = {
     1: {
-        "content_dir": os.path.join(REPO_ROOT, "content", "en"),
+        "content_dir": os.path.join(REPO_ROOT, "content", "en", "1-finnoybu-salt-and-silence"),
         "title": "Finnoybu: Salt and Silence",
         "output_file": "finnoybu-salt-and-silence.pdf",
     },
     2: {
-        "content_dir": os.path.join(REPO_ROOT, "content", "en", "book-2"),
+        "content_dir": os.path.join(REPO_ROOT, "content", "en", "2-finnoybu-the-monsoon-letter"),
         "title": "Finnoybu: The Monsoon Letter",
         "output_file": "finnoybu-the-monsoon-letter.pdf",
     },
     3: {
-        "content_dir": os.path.join(REPO_ROOT, "content", "en", "book-3"),
+        "content_dir": os.path.join(REPO_ROOT, "content", "en", "3-finnoybu-the-captains-burden"),
         "title": "Finnoybu: The Captain's Burden",
         "output_file": "finnoybu-the-captains-burden.pdf",
     },

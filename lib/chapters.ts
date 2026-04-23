@@ -20,6 +20,20 @@ export interface Chapter extends ChapterMeta {
 
 const CONTENT_DIR = path.join(process.cwd(), 'content', 'en')
 
+function findAllMarkdownFiles(dir: string): string[] {
+  const results: string[] = []
+  if (!fs.existsSync(dir)) return results
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const full = path.join(dir, entry.name)
+    if (entry.isDirectory()) {
+      results.push(...findAllMarkdownFiles(full))
+    } else if (entry.isFile() && entry.name.endsWith('.md')) {
+      results.push(full)
+    }
+  }
+  return results
+}
+
 function makeExcerpt(body: string, maxLen = 180): string {
   const firstPara = body
     .replace(/\r\n/g, '\n')
@@ -34,15 +48,11 @@ function makeExcerpt(body: string, maxLen = 180): string {
 }
 
 export function getAllChapters(): ChapterMeta[] {
-  if (!fs.existsSync(CONTENT_DIR)) {
-    return []
-  }
+  const paths = findAllMarkdownFiles(CONTENT_DIR)
 
-  const files = fs.readdirSync(CONTENT_DIR).filter((f) => f.endsWith('.md'))
-
-  const chapters: ChapterMeta[] = files
-    .map((file) => {
-      const raw = fs.readFileSync(path.join(CONTENT_DIR, file), 'utf8')
+  const chapters: ChapterMeta[] = paths
+    .map((fullPath) => {
+      const raw = fs.readFileSync(fullPath, 'utf8')
       const { data, content: body } = matter(raw)
       return {
         id: data.id,
@@ -59,14 +69,10 @@ export function getAllChapters(): ChapterMeta[] {
 }
 
 export function getChapterBySlug(slug: string): Chapter | null {
-  if (!fs.existsSync(CONTENT_DIR)) {
-    return null
-  }
+  const paths = findAllMarkdownFiles(CONTENT_DIR)
 
-  const files = fs.readdirSync(CONTENT_DIR).filter((f) => f.endsWith('.md'))
-
-  for (const file of files) {
-    const raw = fs.readFileSync(path.join(CONTENT_DIR, file), 'utf8')
+  for (const fullPath of paths) {
+    const raw = fs.readFileSync(fullPath, 'utf8')
     const { content: markdown, data } = matter(raw)
     if (data.slug === slug) {
       return {
