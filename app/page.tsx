@@ -150,7 +150,61 @@ export default function Home() {
           {chapters.map((chapter, i) => (
             <ChapterCard key={chapter.slug} chapter={chapter} ordinal={i + 1} />
           ))}
+
+          {/* ─── Coming Soon placeholder card ─── */}
+          <div className="chapter-card relative block overflow-hidden rounded-lg border border-dashed border-rule bg-bg-elev">
+            <div className="relative aspect-[3/2] overflow-hidden bg-bg-sunk flex items-center justify-center">
+              <p
+                className="font-display text-2xl md:text-3xl tracking-[0.22em] uppercase text-brass"
+                style={{ fontFeatureSettings: "'ss01'" }}
+              >
+                Coming Soon
+              </p>
+            </div>
+            <div className="p-5">
+              <h3
+                className="font-display text-xl leading-tight text-ink"
+                style={{ fontFeatureSettings: "'ss01'" }}
+              >
+                More watches, coming in
+              </h3>
+              <p className="mt-2 font-serif text-sm leading-relaxed text-ink-muted">
+                New chapters are added as they are drafted and reviewed. Check
+                back, or sign in to bookmark your place and be ready when the
+                next one arrives.
+              </p>
+            </div>
+          </div>
         </div>
+      </section>
+
+      {/* ───────── Reminiscences promo ───────── */}
+      <section className="max-w-shell mx-auto px-6 pb-24">
+        <a
+          href="https://memoirs.finnoybu.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="chapter-card group relative block overflow-hidden rounded-lg border border-rule-soft bg-bg-sunk hover:border-rule"
+        >
+          <div className="p-8 md:p-12 md:pr-16">
+            <p className="eyebrow mb-3">Also from Finnoybu &middot; true memoir</p>
+            <h3
+              className="font-display text-3xl md:text-4xl text-ink group-hover:text-accent transition-colors"
+              style={{ fontFeatureSettings: "'ss01'" }}
+            >
+              Reminiscences
+            </h3>
+            <p className="mt-4 font-serif text-base md:text-lg leading-relaxed text-ink-muted max-w-2xl">
+              The actual voyages of Olavus Bjørnson Vestbø &mdash; the
+              great-great-grandfather whose life became this novel. His own
+              unvarnished account of seven years at sea, in his own voice.
+            </p>
+            <div className="mt-6 inline-flex items-center gap-2 font-sans text-xs uppercase tracking-widest text-brass">
+              Read the memoir at memoirs.finnoybu.com
+              <span aria-hidden className="transition-transform duration-300 group-hover:translate-x-1">↗</span>
+            </div>
+          </div>
+        </a>
       </section>
     </>
   )
