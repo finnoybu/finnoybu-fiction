@@ -4,7 +4,7 @@ id: 0
 slug: introduction
 book: "salt-and-silence"
 hero:
-  image: /images/introduction.png
+  image: /images/1/00-introduction.png
 ---
 
 *For those who loved in times that had no word for it,*

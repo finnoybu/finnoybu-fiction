@@ -4,7 +4,7 @@ id: 3
 slug: "homecoming"
 book: "salt-and-silence"
 hero:
-  image: "/images/03-homecoming.png"
+  image: "/images/1/03-homecoming.png"
 ---
 
 They came into Stavangerfjord on the twenty-first of December at first light, with the mountains standing sharp-edged and black against a sky that was still more night than morning.
