@@ -106,6 +106,7 @@ Tracking names that appear in the novel and may need to change before publicatio
 | *Kong Sverre* (mail-steamer, passenger transit 1878) | **passenger-steamer (nameless)** | Book II — travel | Memoir real-ship reference is passing; in drafting we don't need to name it. If a name emerges in scene, select at draft time. |
 | *Rogaland* (coast-steamer, 1878 passenger) | **coast-steamer (nameless)** | Book II — travel | Same as above. *Rogaland* is a public-domain regional name and could stay if needed, but the passage doesn't require naming. |
 | *Stavangerfjord* (1938 Norwegian-American Line, from memoir's late-life frame) | N/A | Not in the novel — frame device only in memoir | N/A |
+| *(invented)* — Ch 5 of Book I | ***Aase*** | A ship Jens sailed on sometime between 1845 and 1856; referenced once in Ch 5 when Jens recalls a fellow sailor from the *Aase* who later came off a Gjermund ship thinner and angrier and refused to sign a second voyage under him. Pre-Vestbø-era detail. Gives Jens a world beyond Hebburn. | Locked 2026-04-23 per Ch 5. Plain Norwegian feminine name; no memoir anchor. Low recurrence risk; may be mentioned again if Jens gets another retrospective beat. |
 
 ---
 
