@@ -3,49 +3,55 @@
 @tailwind utilities;
 
 /* ───────────────────────────────────────────────────────────
-   Design tokens — Parchment (light) / Midnight Voyage (dark)
+   Design tokens — Sea-Fog (light) / Lantern (dark)
+   Derived from the Salt and Silence cover: cool slate-blue-grey,
+   near-black ship hull, a single warm amber lantern.
    ─────────────────────────────────────────────────────────── */
 :root {
-  /* surfaces */
-  --color-bg: #f6f1e4;
-  --color-bg-elev: #fbf7ec;
-  --color-bg-sunk: #ede5cf;
+  /* surfaces — pale sea-fog */
+  --color-bg: #e8ecee;
+  --color-bg-elev: #f2f5f6;
+  --color-bg-sunk: #d8dee2;
 
-  /* ink */
-  --color-ink: #1a1611;
-  --color-ink-muted: #5a4f3f;
-  --color-ink-faint: #8a7e6a;
+  /* ink — cold slate */
+  --color-ink: #151b22;
+  --color-ink-muted: #5a6877;
+  --color-ink-faint: #8a97a5;
 
   /* rules */
-  --color-rule: #c7bb9e;
-  --color-rule-soft: #dfd5bb;
+  --color-rule: #b8c2cc;
+  --color-rule-soft: #cdd5dc;
 
-  /* accents */
-  --color-accent: #1d3a52;
+  /* accents — deep navy water + lantern amber */
+  --color-accent: #1f3a55;
   --color-accent-hi: #2d5a7f;
-  --color-brass: #a8763e;
+  --color-brass: #c88c3a;
 
   /* shadows */
-  --shadow-tint: 24 22 16;
+  --shadow-tint: 20 28 38;
 
   color-scheme: light;
 }
 
 html.dark {
-  --color-bg: #0d1620;
-  --color-bg-elev: #131f2c;
-  --color-bg-sunk: #08111a;
+  /* surfaces — near-black hull against dim water */
+  --color-bg: #08101a;
+  --color-bg-elev: #0f1923;
+  --color-bg-sunk: #040810;
 
-  --color-ink: #ece4d0;
-  --color-ink-muted: #a9afba;
-  --color-ink-faint: #6f7682;
+  /* ink — cool pale mist (NOT warm cream) */
+  --color-ink: #d2d6dc;
+  --color-ink-muted: #8a97a5;
+  --color-ink-faint: #5a6877;
 
-  --color-rule: #23303e;
-  --color-rule-soft: #1a2530;
+  /* rules */
+  --color-rule: #1e2a38;
+  --color-rule-soft: #141c28;
 
-  --color-accent: #79b3dc;
-  --color-accent-hi: #a4cbe8;
-  --color-brass: #d4a24a;
+  /* accents — moon-blue + warm amber lantern */
+  --color-accent: #8aa4b8;
+  --color-accent-hi: #b1c5d5;
+  --color-brass: #e0a05c;
 
   --shadow-tint: 0 0 0;
 
