@@ -26,10 +26,10 @@ const labels: Record<Theme, string> = {
   'high-contrast': 'High-contrast theme',
 }
 
-const navLinks: { href: string; label: string; accent?: boolean }[] = [
+const navLinks: { href: string; label: string; accent?: boolean; disabled?: boolean }[] = [
   { href: '/#chapters', label: 'Chapters' },
   { href: '/chapters/introduction', label: 'Read' },
-  { href: '/shop', label: 'Shop', accent: true },
+  { href: '/shop', label: 'Shop', accent: true, disabled: true },
 ]
 
 export default function SiteHeader() {
@@ -68,24 +68,35 @@ export default function SiteHeader() {
           className="group flex items-baseline gap-2 text-ink hover:text-accent transition-colors"
         >
           <span className="font-display text-xl tracking-wide" style={{ fontFeatureSettings: "'ss01'" }}>
-            <span className="hidden min-[420px]:inline">A Sailor&rsquo;s Reminiscences</span>
-            <span className="min-[420px]:hidden">Reminiscences</span>
+            <span className="hidden min-[420px]:inline">Finnoybu</span>
+            <span className="min-[420px]:hidden">Finnoybu</span>
           </span>
         </Link>
 
         <nav className="ml-auto flex items-center gap-1">
           {navLinks.map((link) => (
-            <Link
-              key={link.href}
-              href={link.href as any}
-              className={`hidden md:inline-flex items-center h-9 px-3 font-sans text-sm transition-colors rounded ${
-                link.accent
-                  ? 'text-brass hover:text-accent'
-                  : 'text-ink-muted hover:text-ink'
-              }`}
-            >
-              {link.label}
-            </Link>
+            link.disabled ? (
+              <span
+                key={link.href}
+                aria-disabled="true"
+                title="Coming later"
+                className="hidden md:inline-flex items-center h-9 px-3 font-sans text-sm rounded text-ink-faint line-through cursor-not-allowed"
+              >
+                {link.label}
+              </span>
+            ) : (
+              <Link
+                key={link.href}
+                href={link.href as any}
+                className={`hidden md:inline-flex items-center h-9 px-3 font-sans text-sm transition-colors rounded ${
+                  link.accent
+                    ? 'text-brass hover:text-accent'
+                    : 'text-ink-muted hover:text-ink'
+                }`}
+              >
+                {link.label}
+              </Link>
+            )
           ))}
 
           <button
@@ -137,18 +148,28 @@ export default function SiteHeader() {
         <div className="md:hidden border-t border-rule-soft bg-bg/95 backdrop-blur-md">
           <nav className="max-w-shell mx-auto px-6 py-4 flex flex-col gap-1">
             {navLinks.map((link) => (
-              <Link
-                key={link.href}
-                href={link.href as any}
-                onClick={() => setMenuOpen(false)}
-                className={`flex items-center h-12 px-3 font-sans text-base rounded transition-colors ${
-                  link.accent
-                    ? 'text-brass hover:text-accent'
-                    : 'text-ink-muted hover:text-ink'
-                }`}
-              >
-                {link.label}
-              </Link>
+              link.disabled ? (
+                <span
+                  key={link.href}
+                  aria-disabled="true"
+                  className="flex items-center h-12 px-3 font-sans text-base rounded text-ink-faint line-through cursor-not-allowed"
+                >
+                  {link.label}
+                </span>
+              ) : (
+                <Link
+                  key={link.href}
+                  href={link.href as any}
+                  onClick={() => setMenuOpen(false)}
+                  className={`flex items-center h-12 px-3 font-sans text-base rounded transition-colors ${
+                    link.accent
+                      ? 'text-brass hover:text-accent'
+                      : 'text-ink-muted hover:text-ink'
+                  }`}
+                >
+                  {link.label}
+                </Link>
+              )
             ))}
             {user && !sessionStorage.getItem('password-reset-pending') ? (
               <div className="mt-2 pt-3 border-t border-rule-soft flex flex-col gap-1">
@@ -170,7 +191,7 @@ export default function SiteHeader() {
                   type="button"
                   onClick={async () => {
                     await supabase.auth.signOut()
-                    localStorage.removeItem('sea-reader-preferences')
+                    localStorage.removeItem('hestby-reader-preferences')
                     setMenuOpen(false)
                     window.location.href = '/'
                   }}

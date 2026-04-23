@@ -80,13 +80,11 @@ export default function Home() {
             <Arrowhead />
           </div>
           <p className="font-serif text-lg md:text-xl leading-relaxed text-ink-muted">
-            Olav Hestby is eighteen when he signs his second voyage &mdash; the first
-            that will take him past the horizon. He leaves the island of his birth on a
-            brig called the &lsquo;Sigrid,&rsquo; under a captain whose softness is not the
-            kind to trust. What he does not yet know is that the men he sails with will
-            teach him a grammar for feelings he has no words for, and that by the time he
-            comes home, the silence between what he knows and what he says will be its
-            own country.
+            A young Norwegian leaves the island of his birth at the end of the age of
+            sail. He carries a sea-chest, a confirmation Bible, a borrowed knife, and a
+            promise to the girl he means to marry. Over seven years and as many voyages
+            he will find out what the horizon takes and what it gives back &mdash; and
+            what a young man carries home that he will never, even with her, say aloud.
           </p>
         </div>
       </section>

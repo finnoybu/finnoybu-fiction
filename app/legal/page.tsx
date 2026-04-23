@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Legal',
-  description: 'Legal information, terms, and policies for A Sailor\'s Reminiscences.',
+  description: 'Legal information, terms, and policies for Finnoybu: Salt and Silence.',
 }
 
 function Section({ id, title, children }: { id: string; title: string; children: React.ReactNode }) {
@@ -47,20 +47,22 @@ export default function LegalPage() {
           <Section id="copyright" title="Copyright">
             <p>
               &copy; 2026 Finnoybu Press. All rights reserved. The text of
-              &ldquo;A Sailor&rsquo;s Reminiscences from the Days of the Sailships&rdquo;
-              and all accompanying illustrations are the property of Finnoybu Press and
-              may not be reproduced, distributed, or transmitted in any form without prior
+              &ldquo;Finnoybu: Salt and Silence&rdquo; and all accompanying
+              illustrations are the property of Finnoybu Press and may not be
+              reproduced, distributed, or transmitted in any form without prior
               written permission.
             </p>
             <p>
-              Original memoir by Olavus Vullum Bj&oslash;rnson Vestb&oslash;. Translated
-              from Norwegian by B.C. Berge. Transcribed and edited by Ken Tannenbaum.
+              &ldquo;Finnoybu: Salt and Silence&rdquo; is a work of fiction by
+              E.&nbsp;A. Westbo. Names, characters, places, and incidents are
+              the product of the author&rsquo;s imagination. Any resemblance
+              to actual persons, living or dead, is coincidental.
             </p>
           </Section>
 
           <Section id="terms-of-use" title="Terms of Use">
             <p>
-              By accessing <strong>memoirs.finnoybu.com</strong> (&ldquo;the Site&rdquo;),
+              By accessing <strong>fiction.finnoybu.com</strong> (&ldquo;the Site&rdquo;),
               operated by Finnoybu Press (&ldquo;we,&rdquo; &ldquo;us,&rdquo; &ldquo;our&rdquo;),
               you agree to be bound by these Terms of Use. If you do not agree, please do not
               use the Site. We may update these terms at any time by posting a revised version;
@@ -116,7 +118,7 @@ export default function LegalPage() {
           <Section id="privacy-policy" title="Privacy Policy">
             <p>
               Finnoybu Press (&ldquo;we,&rdquo; &ldquo;us,&rdquo; &ldquo;our&rdquo;)
-              operates <strong>memoirs.finnoybu.com</strong>. This Privacy Policy explains
+              operates <strong>fiction.finnoybu.com</strong>. This Privacy Policy explains
               what data we collect, how we use it, and your rights regarding that data.
             </p>
 
@@ -388,10 +390,13 @@ export default function LegalPage() {
 
           <Section id="disclaimer" title="Disclaimer">
             <p>
-              This digital edition has been prepared with care, but the publisher makes no
-              warranties regarding the completeness or accuracy of the transcription. The
-              views expressed in the memoir are those of the original author and reflect
-              the language and attitudes of his era.
+              &ldquo;Finnoybu: Salt and Silence&rdquo; is a work of historical
+              fiction. While the novel draws on real nineteenth-century
+              Norwegian maritime life for its setting and period detail, the
+              characters and their interior lives are inventions of the
+              author. References to named historical figures, if any, appear
+              in fictionalized form and do not purport to represent their
+              actual views or conduct.
             </p>
           </Section>
 
