@@ -22,10 +22,10 @@
   --color-rule: #b8c2cc;
   --color-rule-soft: #cdd5dc;
 
-  /* accents — deep navy water + lantern amber */
+  /* accents — deep navy water + oxide-red ember */
   --color-accent: #1f3a55;
   --color-accent-hi: #2d5a7f;
-  --color-brass: #c88c3a;
+  --color-brass: #a7381d;
 
   /* shadows */
   --shadow-tint: 20 28 38;
@@ -48,10 +48,10 @@ html.dark {
   --color-rule: #1e2a38;
   --color-rule-soft: #141c28;
 
-  /* accents — moon-blue + warm amber lantern */
+  /* accents — moon-blue + oxide-red ember */
   --color-accent: #8aa4b8;
   --color-accent-hi: #b1c5d5;
-  --color-brass: #e0a05c;
+  --color-brass: #d86240;
 
   --shadow-tint: 0 0 0;
 
