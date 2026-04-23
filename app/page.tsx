@@ -14,60 +14,62 @@ export default function Home() {
   return (
     <>
       {/* ───────── Hero ───────── */}
-      <section className="relative overflow-hidden border-b border-rule-soft">
-        <div className="absolute inset-0 -z-10">
-          {intro?.hero?.image && (
-            <Image
-              src={intro.hero.image}
-              alt=""
-              fill
-              priority
-              sizes="100vw"
-              className="object-cover opacity-25 dark:opacity-30 grayscale sepia-[.15]"
+      <section className="border-b border-rule-soft">
+        <div className="relative overflow-hidden">
+          <div className="absolute inset-0 -z-10">
+            {intro?.hero?.image && (
+              <Image
+                src={intro.hero.image}
+                alt=""
+                fill
+                priority
+                sizes="100vw"
+                className="object-cover opacity-40 dark:opacity-45 grayscale"
+              />
+            )}
+            <div
+              className="absolute inset-0"
+              style={{
+                background:
+                  'linear-gradient(to bottom, var(--color-bg) 0%, rgb(0 0 0 / 0) 25%, rgb(0 0 0 / 0) 60%, var(--color-bg) 100%)',
+              }}
             />
-          )}
-          <div
-            className="absolute inset-0"
-            style={{
-              background:
-                'linear-gradient(to bottom, var(--color-bg) 0%, rgb(0 0 0 / 0) 25%, rgb(0 0 0 / 0) 60%, var(--color-bg) 100%)',
-            }}
-          />
-        </div>
+          </div>
 
-        <div className="max-w-shell mx-auto px-6 py-24 md:py-32 lg:py-40">
-          <div className="max-w-3xl">
-            <p className="eyebrow mb-6">Finnoybu &middot; Book I</p>
-            <h1
-              className="font-display text-4xl md:text-5xl lg:text-6xl leading-[1.08] text-ink"
-              style={{ fontFeatureSettings: "'ss01'" }}
-            >
-              Salt and{' '}
-              <span className="italic text-accent">Silence</span>
-            </h1>
-            <p className="mt-8 font-serif text-xl md:text-2xl leading-relaxed text-ink-muted max-w-2xl">
-              In the last great age of sail, a young Norwegian ships out promised to a
-              girl at home &mdash; and learns, watch by watch, that the heart keeps two
-              courses at once.
-            </p>
-            <div className="mt-8 flex flex-col gap-0.5 font-serif text-sm text-ink-muted italic">
-              <p>A novel by E.&thinsp;A. Westbo</p>
-            </div>
+          <div className="max-w-shell mx-auto px-6 py-24 md:py-32 lg:py-40">
+            <div className="max-w-3xl">
+              <p className="eyebrow mb-6">Finnoybu &middot; Book I</p>
+              <h1
+                className="font-display text-4xl md:text-5xl lg:text-6xl leading-[1.08] text-ink"
+                style={{ fontFeatureSettings: "'ss01'" }}
+              >
+                Salt and{' '}
+                <span className="italic text-accent">Silence</span>
+              </h1>
+              <p className="mt-8 font-serif text-xl md:text-2xl leading-relaxed text-ink-muted max-w-2xl">
+                In the last great age of sail, a young Norwegian ships out promised to a
+                girl at home &mdash; and learns, watch by watch, that the heart keeps two
+                courses at once.
+              </p>
+              <div className="mt-8 flex flex-col gap-0.5 font-serif text-sm text-ink-muted italic">
+                <p>A novel by E.&thinsp;A. Westbo</p>
+              </div>
 
-            <div className="mt-10 flex flex-wrap items-center gap-4">
-              <Link
-                href="/chapters/introduction"
-                className="inline-flex items-center gap-2 h-12 px-6 rounded-full bg-accent text-bg font-sans text-sm tracking-wider uppercase hover:bg-accent-hi transition-colors"
-              >
-                Cast off
-                <span aria-hidden>→</span>
-              </Link>
-              <Link
-                href="#chapters"
-                className="inline-flex items-center gap-2 h-12 px-6 rounded-full border border-rule text-ink font-sans text-sm tracking-wider uppercase hover:border-accent hover:text-accent transition-colors"
-              >
-                Chapters
-              </Link>
+              <div className="mt-10 flex flex-wrap items-center gap-4">
+                <Link
+                  href="/chapters/introduction"
+                  className="inline-flex items-center gap-2 h-12 px-6 rounded-full bg-accent text-bg font-sans text-sm tracking-wider uppercase hover:bg-accent-hi transition-colors"
+                >
+                  Cast off
+                  <span aria-hidden>→</span>
+                </Link>
+                <Link
+                  href="#chapters"
+                  className="inline-flex items-center gap-2 h-12 px-6 rounded-full border border-rule text-ink font-sans text-sm tracking-wider uppercase hover:border-accent hover:text-accent transition-colors"
+                >
+                  Chapters
+                </Link>
+              </div>
             </div>
           </div>
         </div>
@@ -112,7 +114,7 @@ export default function Home() {
         {intro && (
           <Link
             href={`/chapters/${intro.slug}`}
-            className="chapter-card group relative mb-10 grid md:grid-cols-[1.25fr_1fr] overflow-hidden rounded-lg border border-rule-soft bg-bg-elev hover:border-rule"
+            className="chapter-card group relative mb-10 grid md:grid-cols-[1.5fr_1fr] overflow-hidden rounded-lg border border-rule-soft bg-bg-elev hover:border-rule"
           >
             <div className="p-8 md:p-12 flex flex-col justify-center">
               <p className="eyebrow mb-3">Prologue</p>
@@ -130,14 +132,14 @@ export default function Home() {
                 <span aria-hidden className="transition-transform duration-300 group-hover:translate-x-1">→</span>
               </div>
             </div>
-            <div className="relative aspect-[4/3] md:aspect-auto bg-bg-sunk overflow-hidden order-first md:order-last">
+            <div className="relative aspect-[3/2] bg-bg-sunk overflow-hidden order-first md:order-last">
               {intro.hero?.image && (
                 <Image
                   src={intro.hero.image}
                   alt=""
                   fill
                   sizes="(min-width: 768px) 40vw, 100vw"
-                  className="cover object-cover"
+                  className="object-contain"
                 />
               )}
             </div>

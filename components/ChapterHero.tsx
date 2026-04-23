@@ -27,22 +27,24 @@ export default function ChapterHero({
   return (
     <header className="relative border-b border-rule-soft">
       {image && (
-        <div className="relative aspect-[21/9] md:aspect-[21/8] w-full overflow-hidden bg-bg-sunk">
-          <Image
-            src={image}
-            alt=""
-            fill
-            priority
-            sizes="100vw"
-            className="object-cover grayscale sepia-[.15]"
-          />
-          <div
-            className="absolute inset-0"
-            style={{
-              background:
-                'linear-gradient(to bottom, rgb(0 0 0 / 0.15) 0%, rgb(0 0 0 / 0) 30%, rgb(0 0 0 / 0) 60%, var(--color-bg) 100%)',
-            }}
-          />
+        <div className="max-w-[60.8rem] mx-auto px-6 pt-6">
+          <div className="relative aspect-[3/2] w-full overflow-hidden">
+            <Image
+              src={image}
+              alt=""
+              fill
+              priority
+              sizes="(min-width: 1216px) 1216px, 100vw"
+              className="object-contain"
+            />
+            <div
+              className="absolute inset-x-0 bottom-0 h-1/3 pointer-events-none"
+              style={{
+                background:
+                  'linear-gradient(to bottom, rgb(0 0 0 / 0) 0%, var(--color-bg) 100%)',
+              }}
+            />
+          </div>
         </div>
       )}
       <div className="max-w-shell mx-auto px-6 pt-10 md:pt-14 pb-10">

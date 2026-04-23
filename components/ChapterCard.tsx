@@ -14,25 +14,18 @@ export default function ChapterCard({
       href={`/chapters/${chapter.slug}`}
       className="chapter-card group relative block overflow-hidden rounded-lg border border-rule-soft bg-bg-elev hover:border-rule focus-visible:border-accent"
     >
-      <div className="relative aspect-[4/3] overflow-hidden bg-bg-sunk">
+      <div className="relative aspect-[3/2] overflow-hidden bg-bg-sunk">
         {chapter.hero?.image && (
           <Image
             src={chapter.hero.image}
             alt=""
             fill
             sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
-            className="cover object-cover"
+            className="object-contain"
           />
         )}
         <div
-          className="absolute inset-0 pointer-events-none"
-          style={{
-            background:
-              'linear-gradient(to top, rgb(0 0 0 / 0.55) 0%, rgb(0 0 0 / 0.15) 35%, transparent 60%)',
-          }}
-        />
-        <div
-          className="absolute right-4 bottom-3 text-[1.5rem] text-white/75 drop-shadow-[0_1px_3px_rgb(0,0,0,0.5)]"
+          className="absolute right-4 bottom-3 text-[1.5rem] text-ink/60 drop-shadow-[0_1px_2px_rgb(255,255,255,0.6)]"
           style={{ fontFamily: 'var(--font-hand), cursive' }}
         >
           {ordinal}
