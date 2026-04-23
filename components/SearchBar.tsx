@@ -68,7 +68,7 @@ export default function SearchBar() {
         </svg>
         <input
           type="text"
-          placeholder="Search the voyage…"
+          placeholder="Search the journey…"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           onFocus={() => setIsOpen(true)}
