@@ -25,8 +25,13 @@ export default function ChapterCard({
           />
         )}
         <div
-          className="absolute right-4 bottom-3 text-[1.5rem] text-ink/60 drop-shadow-[0_1px_2px_rgb(255,255,255,0.6)]"
-          style={{ fontFamily: 'var(--font-hand), cursive' }}
+          className="absolute right-4 bottom-3 text-[1.6rem]"
+          style={{
+            fontFamily: 'var(--font-hand), cursive',
+            color: 'white',
+            textShadow:
+              '0 0 2px rgba(0,0,0,0.9), 0 1px 3px rgba(0,0,0,0.7), 0 0 8px rgba(0,0,0,0.4)',
+          }}
         >
           {ordinal}
         </div>
