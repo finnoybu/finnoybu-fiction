@@ -44,8 +44,26 @@ export const metadata: Metadata = {
   },
   description:
     "Finnoybu: Salt and Silence — Book I. A young Norwegian sailor in the age of sail, torn between the woman he has promised himself to and the men who share his watches. A period historical romance by E. A. Westbo.",
+  authors: [{ name: 'E. A. Westbo' }],
+  creator: 'E. A. Westbo',
+  publisher: 'Finnoybu Press',
+  keywords: [
+    'historical romance',
+    'queer historical fiction',
+    'age of sail',
+    'Norwegian',
+    'Norway',
+    'period fiction',
+    'maritime fiction',
+    'E. A. Westbo',
+    'Finnoybu',
+    'Salt and Silence',
+  ],
   icons: {
     icon: '/images/blue-arrowhead.svg',
+  },
+  alternates: {
+    canonical: '/',
   },
   openGraph: {
     type: 'book',
