@@ -23,7 +23,7 @@ John Stensøy had written in the hand Jens remembered from letters John had writ
 
 It was the name that had kept him four days at the letter without speaking.
 
-He had sailed out of Stavanger between 1845 and 1856 and he had worked for one season on a ship where Gjermund was second mate, and the name had been known on the quay even then. Gjermund had not been unkind in the season Jens had sailed under him; Jens had been cook's-boy and later able seaman and had kept his head down in the manner of men who are not ready yet to know what they are, and Gjermund had passed him over for worse men. But the talk on the quay had been the talk a sailor learned to hear in the years when Gjermund had his own ship. A man Jens had sailed with on the *Aase* had come off a Gjermund ship in the summer of 1854 thinner than he had gone on, and angrier, and had signed onto a Danish bark that autumn rather than make a second voyage under Gjermund for twice the pay. The talk had said also that Gjermund was a man who had been promised things as a young man and had not got them, and had taken that into his captaincy.
+He had sailed out of Stavanger between 1840 and 1856 and he had worked for one season on a ship where Gjermund was second mate, and the name had been known on the quay even then. Gjermund had not been unkind in the season Jens had sailed under him; Jens had been cook's-boy and later able seaman and had kept his head down in the manner of men who are not ready yet to know what they are, and Gjermund had passed him over for worse men. But the talk on the quay had been the talk a sailor learned to hear in the years when Gjermund had his own ship. A man Jens had sailed with on the *Aase* had come off a Gjermund ship in the summer of 1854 thinner than he had gone on, and angrier, and had signed onto a Danish bark that autumn rather than make a second voyage under Gjermund for twice the pay. The talk had said also that Gjermund was a man who had been promised things as a young man and had not got them, and had taken that into his captaincy.
 
 This was the talk. Jens had been out of the sea for twenty years. Talk aged like anything else. A captain at fifty was not the captain he had been at thirty. A man could be changed by his own unkindness in some directions and not in others, and could have become, by fifty-four or wherever Gjermund was now, a competent man whom his own crews trusted.
 
@@ -57,7 +57,7 @@ He sat down at the table. Peder brought his coffee. He took a sip of the coffee,
 
 The kitchen had not altered in the thirty years he had kept it. The stove was the one his father had put in. He had made the table himself in the year after his marriage. He did not, on this morning or on any morning he could foresee, intend to change either. All of it would be here in April when Olav was on a ship out past Tungenes and beyond the horizon where Jens himself had been at nineteen and had come home at thirty-two with a knee and a wife and a will not to go out again.
 
-Olav would come home in August of the following year. Perhaps. Olav would come home knowing whatever he would know.
+Olav would come home in August. Perhaps. Olav would come home knowing whatever he would know.
 
 Jens finished his coffee and he put the cup down on the table and he said, because it was all he had to say on the matter today, "We will go after the plow-shoe this afternoon. I have put it off long enough."
 
