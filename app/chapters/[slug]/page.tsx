@@ -23,6 +23,9 @@ export function generateMetadata({ params }: ChapterPageProps) {
   return {
     title: chapter.title,
     description: chapter.excerpt,
+    other: {
+      'x-chapter-ordinal': String(chapter.id),
+    },
     openGraph: {
       type: 'article',
       locale: 'en_US',

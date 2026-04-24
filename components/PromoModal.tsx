@@ -5,9 +5,12 @@ import { usePathname } from 'next/navigation'
 import { createPortal } from 'react-dom'
 import Link from 'next/link'
 
-const SESSION_START_KEY = 'sea-reader-session-start'
-const PROMO_SHOWN_KEY = 'sea-reader-promo-shown'
-const THRESHOLD_MS = 10 * 60 * 1000 // 10 minutes
+// Flip to true when at least a PDF/ePub is available for Salt and Silence.
+const ENABLED = false
+
+const CH2_SEEN_KEY = 'finnoybu-promo-ch2-seen'
+const CH10_SEEN_KEY = 'finnoybu-promo-ch10-seen'
+const TRIGGER_ORDINALS = new Set([2, 10])
 
 export default function PromoModal() {
   const [show, setShow] = useState(false)
@@ -15,41 +18,37 @@ export default function PromoModal() {
   const pathname = usePathname()
   const prevPathname = useRef(pathname)
 
-  // Record session start time on mount
   useEffect(() => {
     setMounted(true)
-    try {
-      if (!sessionStorage.getItem(SESSION_START_KEY)) {
-        sessionStorage.setItem(SESSION_START_KEY, String(Date.now()))
-      }
-    } catch {}
   }, [])
 
-  // Watch for chapter-to-chapter navigation
   useEffect(() => {
+    if (!ENABLED) return
     if (!mounted) return
+
     const prev = prevPathname.current
     prevPathname.current = pathname
 
-    // Only trigger on navigation TO a chapter page (not the initial load)
     if (!pathname.startsWith('/chapters/')) return
     if (prev === pathname) return
 
-    try {
-      if (sessionStorage.getItem(PROMO_SHOWN_KEY)) return
-      const start = Number(sessionStorage.getItem(SESSION_START_KEY))
-      if (!start || Date.now() - start < THRESHOLD_MS) return
+    const timer = setTimeout(() => {
+      try {
+        const meta = document.querySelector<HTMLMetaElement>('meta[name="x-chapter-ordinal"]')
+        const ordinal = meta ? Number(meta.content) : NaN
+        if (!TRIGGER_ORDINALS.has(ordinal)) return
 
-      // Delay slightly so the new chapter content loads first
-      const timer = setTimeout(() => {
+        const key = ordinal === 2 ? CH2_SEEN_KEY : CH10_SEEN_KEY
+        if (localStorage.getItem(key)) return
+
         setShow(true)
-        sessionStorage.setItem(PROMO_SHOWN_KEY, '1')
-      }, 1500)
-      return () => clearTimeout(timer)
-    } catch {}
+        localStorage.setItem(key, '1')
+      } catch {}
+    }, 1500)
+    return () => clearTimeout(timer)
   }, [pathname, mounted])
 
-  if (!mounted || !show) return null
+  if (!ENABLED || !mounted || !show) return null
 
   return createPortal(
     <div className="fixed inset-0 z-50 flex items-start justify-center pt-[12vh] p-4">
@@ -77,8 +76,8 @@ export default function PromoModal() {
 
         <div className="px-6 pb-6 pt-3 space-y-5">
           <p className="font-serif text-base text-ink-muted leading-relaxed">
-            You&rsquo;ve been reading for a while &mdash; we hope you&rsquo;re enjoying
-            the memoir. If you&rsquo;d like to take it beyond the browser, here are a
+            You&rsquo;ve started a new chapter &mdash; we hope you&rsquo;re enjoying
+            the book. If you&rsquo;d like to take it beyond the browser, here are a
             couple of ways:
           </p>
 
@@ -115,7 +114,7 @@ export default function PromoModal() {
               </div>
               <p className="font-sans text-sm font-medium text-ink mb-1">Keep it on the shelf</p>
               <p className="font-serif text-sm text-ink-muted leading-relaxed">
-                A sailor&rsquo;s memoir deserves a place on the bookshelf. Order the hardcover for posterity.
+                A novel deserves a place on the bookshelf. Order the hardcover for posterity.
               </p>
             </Link>
           </div>
