@@ -110,6 +110,21 @@ Tracking names that appear in the novel and may need to change before publicatio
 
 ---
 
+## Ch 6 plants (Stavanger) — for retrieval
+
+Items introduced or first-referenced in Ch 6 that may need consistent handling in later chapters. If Ch 6 detail is edited, mirror here.
+
+- **Captain Gjermund's wife** (unnamed) — ~40, brown hair drawn back smoothly, grey silk at throat from a dress of another purpose earlier in its life. Answers her own door (not a servant). Stavanger accent "softer" than Olav has heard. Coded-warning character: offers Olav the rescue-position at dinner (*"Please sit at my right. I will rescue you when I can."*), cuts Gjermund's port-wine monologue with the move-to-parlor coffee, gives Olav a small nod at leaving and does not say good-night. **Not named in Ch 6.** If she recurs in Act II or later (unlikely — she is a Stavanger-domestic figure, not a shipboard one), decide naming at that point. Locked 2026-04-24.
+- **John Stensøy's wife** (unnamed) — plain woman, late 50s, "hand that had been harder when it was younger." Was at Olav's baptism in Hesby when Olav was eight days old. Remembers Olav's mother wore a grey dress in which she looked tired; does not elaborate. **Not named in Ch 6.** Low recurrence risk. Locked 2026-04-24.
+- **Captain Gjermund's first command — *Elida*** (brig, out of Tvedestrand) — owned by three Arendal brothers, eldest of whom went mad the winter before Gjermund's marriage. Gjermund tells part of the mad-brother story with unexpected kindliness, which Olav does not know what to make of. Pre-*Asta*-era backstory detail. Low recurrence risk; may be referenced again in Act II if Gjermund's backstory needs depth. Locked 2026-04-24.
+- **Hogganvik boatswain reference (Haakon Berg plant)** — Ch 6 contains the first textual reference to the man who will become Haakon Berg in Act II. Gjermund names him in the dinner-table crew roll only as *"the boatswain who was from Hogganvik and had sailed with him before."* Olav does not register the name (it passes over his hearing "without lodging"). Act II first-glimpse chapter (Ch 8 per [act-I-plan.md](act-I-plan.md)) should introduce Haakon as the Hogganvik boatswain whose name Olav finally attaches to the Ch 6 reference — the reader catches the retrieval; Olav catches the person.
+- **Asta's faceless figurehead** — plain scrolled head, painted white, with no face. Carving on the gilded name-board is deep enough Olav could put his thumbnail into the belly of the *A*. Thematic plant: ship named for love (*Asta* = "love") whose ornament has no face. If any *Asta*-era chapter revisits the figurehead (Olav at the bow, the figurehead seen from a boat, the figurehead lit by lantern at anchor, etc.), the no-face detail must hold.
+- **Painting of a boy of ten in Captain Gjermund's cabin** — small oil on the bulkhead; boy "stood very straight beside a chair." Captain did not name the boy. Thematic plant: the one thing Gjermund — who has spoken of everything else — does not speak of. Potential retrieval: an Act II cabin scene (Olav alone in the cabin under punishment, or Olav glancing at the wall during an officer's errand). If retrieved, the painting should still be unnamed by the captain. If a second chapter names the boy, it should be a scene where the naming is the point.
+- **Nils (second youngman)** — Ch 6 is the first spoken reference to the Hogganvik deckhand Nils, named by Gjermund in the dinner crew roll. Olav does not meet him in Ch 6 (first meeting is at the quay on the morning of departure, Ch 8 per act-I-plan). Nils is already in the names-index above as a kept-memoir-name; Ch 6 locks the sign-on dinner as the place his name first enters the text.
+- **John Stensøy's Ch 6 note** — confirmed as "part-owner of the *Asta*" and one of four owners; cousin of Jens on their mothers' side; father (unnamed) took Jens sailing on the Stavangerfjord in the summer of 1844 and reported Jens "would want a ship of his own by seventeen." His line *"A boy is not told every letter in his father's drawer"* locks the small craft-device that Jens has been corresponding with John behind Olav's back about both Dahl and Gjermund.
+
+---
+
 ## Rules of thumb for future renaming
 
 1. Preserve the **rhythm** of the original name (syllable count, hard vs. soft consonants).
