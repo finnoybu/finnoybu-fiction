@@ -10,7 +10,7 @@
 - **Captain:** **Captain Gjermund**. Surname TBD or unused.
 - **Boatswain:** **Haakon Berg** (memoir's unnamed Hogganvik boatswain). Proulx register.
 - **Carry-over crew (memoir names kept):** Nils (Hogganvik), Karl Oberg (2nd mate), Thompson, Eliasson (Lysefjord, dies). Steward from Flekkefjord — name TBD.
-- **First mate** — still unnamed in Ch 6 (registry) and Ch 8 (gangway). **Needs a name in Act II.** Memoir: middle-aged, reddish full beard, sour, grouchy. *Provisional:* TBD; flag at Ch 9 draft.
+- **First mate:** **Anders Lønning** (locked 2026-04-25). Hardanger surname, geographic separation from Stavanger / Hogganvik / Lysefjord. Memoir: middle-aged, reddish full beard, sour, grouchy. Character note: a man whose moral architecture has been worn down — what Jens might have been if Jens hadn't come home in 1856. See [names-index.md](names-index.md) for full character synthesis.
 - **Eleventh crewman / deckhand** — memoir says 11 total; current named-cast on stage by Ch 8 = 10 (Gjermund, 1st mate, Karl Oberg, Haakon, Thompson, Nils, Eliasson, steward, Olav, + one). Verify on Ch 9 first-day-aboard pass.
 
 ## Chapter-by-chapter (Ch 9-16)
@@ -104,6 +104,7 @@ Cumulative through Ch 16: ~41K words / ~36% of Book I's 115K target.
 
 | Scene | Chapter | Reason | Remove-if |
 |---|---|---|---|
-| Ch 12 as Haakon-POV chapter | Ch 12 | Mirrors Ch 5 Jens-POV; gives the act its emotional anchor; planted in trilogy-outline as a Proulx-register Haakon arc that needs at least one full POV chapter in Book I before the *Hjemmet* reappearance question is settled. | If the Act II Olav-POV chapters carry the Haakon-recognition cleanly without a register-shift. Review at Act II close. |
 | Karsten retrieval at Ch 10 | Ch 10 | Activates the ChatGPT-flagged signal-to-signal problem. | If the retrieval reads as forced — i.e. if Olav at Eliasson's burial cannot plausibly be thinking of someone-not-there. Move to a quieter chapter (Ch 13 watch, Ch 15 last watch) if so. |
 | Closing scene at Vestbø in Ch 16 | Ch 16 | Frames Act II's homecoming against Act I's morning-of-departure (same table, same three men). | If Ch 16 customhouse climax is enough on its own and the Vestbø coda flattens the act's close. Review at draft. |
+
+**Locked 2026-04-25:** Ch 12 Haakon-POV is no longer provisional. Mirrors Ch 5 Jens-POV in Act I as the act's emotional anchor; Proulx register; the act's joyful pole.
