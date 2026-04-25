@@ -7,9 +7,9 @@ hero:
   image: "/images/1/09-below.png"
 ---
 
-The wind held from the northwest until the first dog-watch and then began to back.
+The wind held from the northwest until the afternoon watch and then began to back.
 
-The *Asta* was off Lista by then, with her courses and topsails set and the topgallants still in their gaskets, and the coast a dark line off the larboard bow that diminished by half-mile increments through the afternoon. Olav was at the foremast pin-rail with Nils. Anders Lønning, the first mate, had given them the order at four bells to overhaul the buntlines on the fore-course, and they had overhauled them once and were overhauling them a second time because the first overhaul had not pleased Lønning when he came forward to look. Lønning had looked at the buntlines, and he had looked at Nils, and he had said, in the quiet voice of a man who had decided in the first hour that Nils was the man on this ship he would not have to work to dislike, that the buntlines on a fore-course were not a thing a youngman could overhaul once and walk away from, and that he would come back at six bells. Then he had gone aft.
+The *Asta* was off Lista by then, with her courses and topsails set and the topgallants still in their gaskets, and the coast a dark line off the larboard bow that diminished by half-mile increments through the afternoon. Olav was at the foremast pin-rail with Nils. Anders Lønning, the first mate, had given them the order at four bells to overhaul the buntlines on the fore-course, and they had overhauled them once and were overhauling them a second time because the first overhaul had not pleased Lønning when he came forward to look. Lønning had looked at the buntlines, and he had looked at Nils, and he had said, in the quiet voice of a man who had taken Nils's measure at the muster and had not gone back on it, that the buntlines on a fore-course were not a thing a youngman could overhaul once and walk away from, and that he would come back at six bells. Then he had gone aft.
 
 Nils had said nothing. He stood at the pin-rail with his hands on the line and his face turned away from the quarterdeck. Olav stood beside him and worked the line through his hands the way Haakon had shown him at the morning's first work, which was to feel for the place where the line had taken a set and to ease the set out before it became a turn. Olav was good at this. He had not been good at it on the *Sigrid* in April; he was good at it now because the *Sigrid* had been a brig with brig-thick lines and the *Asta* was a schoonership with a schoonership's heavier work, and the heavier work had taught his hands what the lighter work had not. He worked. Nils worked beside him. Neither of them spoke.
 
@@ -25,11 +25,11 @@ He set the cat-falls down on the pin-rail and went aft. Nils watched him go. The
 
 "He is like that with no one in Hogganvik."
 
-Olav did not answer. Nils worked the line through his hands. The line was a line that needed to be worked through twice on a course this fresh and Olav had begun to see, in the way a man sees a fact about a ship in the first half-day under sail, that Nils would need to be told the things Haakon had told Olav at the morning's work because Haakon had had no time yet to tell Nils anything that was not the order for the next minute. Olav showed him the place to put his thumb. Nils put his thumb there. The line moved differently. Nils did not say anything but his face changed at the rail.
+Olav did not answer. Nils worked the line through his hands. The line needed to be worked through twice on a course this fresh and Olav had begun to see, in the way a man sees a fact about a ship in the first half-day under sail, that Nils would need to be told the things Haakon had told Olav at the morning's work because Haakon had had no time yet to tell Nils anything that was not the order for the next minute. Olav showed him the place to put his thumb. Nils put his thumb there. The line moved differently. Nils did not say anything but his face changed at the rail.
 
-By eight bells the buntlines were the buntlines a first mate could not look at twice. Lønning came forward at eight bells and looked at them once and went aft without speaking. Nils let his breath out. Olav had not known he was holding his.
+By eight bells the buntlines were right. Lønning came forward at eight bells and looked at them once and went aft without speaking. Nils let his breath out. Olav had not known he was holding his.
 
-The watch changed at eight bells of the first dog. The captain came up on the quarterdeck in his coat — the same dark coat he had worn at the dinner at the house in Stavanger, when he had been the man who had set down a glass and laughed at his own story about the *Elida* and the Arendal brothers — and he stood at the wheel-box with his hands behind his back and looked aloft at the topsails and looked aft at the wake and said something to Karl Oberg that Olav did not hear. Karl Oberg said something back. The captain laughed. The laugh was not the laugh of the dinner.
+The watch changed at eight bells of the afternoon. The captain came up on the quarterdeck in his coat — the same dark coat he had worn at the dinner at the house in Stavanger, when he had been the man who had set down a glass and laughed at his own story about the *Elida* — and he stood at the wheel-box with his hands behind his back and looked aloft at the topsails and looked aft at the wake and said something to Karl Oberg that Olav did not hear. Karl Oberg said something back. The captain laughed. The laugh was not the laugh of the dinner.
 
 Olav went below with Nils.
 
@@ -53,9 +53,9 @@ The steward brought the pot. He set it on a square of folded canvas in the middl
 
 "We will," the steward said.
 
-Pål said nothing. Pål put the bread in his mouth and ate it the way a man eats a thing he has eaten on five ships.
+Pål said nothing. Pål ate his bread.
 
-The steward gave them the meat from the pot. The meat had been cured in a way Olav had not seen on the *Sigrid*. The *Sigrid*'s salt meat had been salt meat. The *Asta*'s salt meat was something else. Olav put a piece in his mouth and chewed and did not say what he was thinking. Eliasson, beside him, said quietly, "The mahogany side, or the horse side?"
+The steward gave them the meat from the pot. The meat had been cured in a way Olav had not seen on the *Sigrid*. Olav put a piece in his mouth and chewed and did not say what he was thinking. Eliasson, beside him, said quietly, "The mahogany side, or the horse side?"
 
 "I do not know which is which," Olav said.
 
@@ -81,7 +81,7 @@ The steward set the pot down on the canvas. He stood at the table for a moment w
 
 Pål nodded.
 
-The steward did not say anything. He ate his bread. After a moment he got up and went back to the stove, and he stayed at the stove with his back to the table for the rest of the meal, and the men at the table ate the rest of the meat and the rest of the bread without speaking of the steward's locker again. Olav understood, by the time the plates had been cleared, that the steward's locker was a thing the men of the *Asta* had spoken of before in this forecastle, and that the captain's having gone into it before sunset on the second day out was a thing they had been waiting for and were now no longer waiting for.
+The steward did not say anything. He ate his bread. After a moment he got up and went back to the stove, and he stayed at the stove with his back to the table for the rest of the meal, and the men at the table ate the rest of the meat and the rest of the bread without speaking of the steward's locker again.
 
 He had the middle watch. He went up at midnight and came down at four. In the four hours he was on deck the wind held, the *Asta* made her seven knots, the captain was below in the cabin with the lamp on, Lønning had the deck for the first half and Karl Oberg for the second, and the moon came up over the larboard quarter at a quarter past two and laid a path on the water that ran from the ship to the line of the horizon without breaking. Olav was at the bow for the half-hour before the moon came up because Haakon had sent him forward to overhaul the gear at the forecastle-head and to have a look at the bowsprit-shrouds where they had taken a chafe in the morning's work.
 
