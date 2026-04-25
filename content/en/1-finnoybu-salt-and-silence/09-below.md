@@ -17,7 +17,7 @@ Haakon came forward at five bells with the cat-falls coiled over his shoulder. H
 
 "He said six bells," Nils said.
 
-"He said six bells because he was angry. He will not come back at six bells. He will come back at eight bells because he will be at his coffee at six bells and the coffee at six bells in the first dog-watch is the coffee a first mate does not get up from. Do them right by eight."
+"He said six bells because he was angry. He will not come back at six bells. He will come back at eight bells because he will be at his coffee at six bells and the coffee at six bells of the afternoon is the coffee a first mate does not get up from. Do them right by eight."
 
 He set the cat-falls down on the pin-rail and went aft. Nils watched him go. Then Nils turned to Olav and said, more quietly than he had said anything since they had crossed the bar at Tungenes, "Is he like that with everyone."
 
