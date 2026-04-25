@@ -55,7 +55,7 @@ The walk down took less time than the walk up. Peder was at the stove when he ca
 
 He sat down at the table. Peder brought his coffee. He took a sip of the coffee, which was good, and he looked at the cloth on the table. His wife had woven it in 1860. She had been nine years dead. He had kept the cloth folded in a chest until the morning after her funeral, and he had used it, in rotation with two others like it, every week since.
 
-The kitchen had not altered in the thirty years he had kept it. The stove was the one his father had put in. He had made the table himself in the year after his marriage. He did not, on this morning or on any morning he could foresee, intend to change either. All of it would be here in April when Olav was on a ship out past Tungenes and beyond the horizon where Jens himself had been at nineteen and had come home at thirty-two with a knee and a wife and a will not to go out again.
+The kitchen had not altered in the twenty years he had kept it. The stove was the one his father had put in. He had made the table himself in the year after his marriage. He did not, on this morning or on any morning he could foresee, intend to change either. All of it would be here in April when Olav was on a ship out past Tungenes and beyond the horizon where Jens himself had been at nineteen and had come home at thirty-two with a knee and a wife and a will not to go out again.
 
 Olav would come home in August. Perhaps. Olav would come home knowing whatever he would know.
 
