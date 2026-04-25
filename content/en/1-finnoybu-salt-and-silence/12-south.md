@@ -7,9 +7,7 @@ hero:
   image: "/images/1/12-south.png"
 ---
 
-He walked.
-
-The road from the staithes ran inland past a row of houses where the smoke from the chimneys had the colour of old iron and the doors stood open on the side that gave onto the river. A woman at the third door was beating a rug against the doorframe and did not look up at him. A dog at the fifth door looked up and decided he was not a thing the dog needed to bark at. The road bent at the end of the row and climbed a low rise toward Hebburn town, and at the bend a smaller road turned down to the right toward the slips. The smaller road had a wooden sign at the corner with the names of the yards on it. *Rutherford & Co.* was the third name from the top, in letters that had been black and were now grey.
+He walked the road from the staithes inland past a row of houses where the smoke from the chimneys had the colour of old iron and the doors stood open on the side that gave onto the river. A woman at the third door was beating a rug against the doorframe and did not look up at him. A dog at the fifth door looked up and decided he was not a thing the dog needed to bark at. The road bent at the end of the row and climbed a low rise toward Hebburn town, and at the bend a smaller road turned down to the right toward the slips. The smaller road had a wooden sign at the corner with the names of the yards on it. *Rutherford & Co.* was the third name from the top, in letters that had been black and were now grey.
 
 He did not take the smaller road.
 
