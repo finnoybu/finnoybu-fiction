@@ -49,15 +49,15 @@ Olav turned his head back to the pulpit.
 
 He did not look back across the rows.
 
-He sat at the bench at the seventh row from the front on the left side of the centre aisle with Olava at his left and the cousin from Rossøygate at Olava's left, and he kept his face at the pulpit, and he knew without looking that Karsten was at the third row from the back on the right side of the centre aisle. He knew it the way a man at sea knew without looking which point of the compass the wind was at, by the small difference at his face and at his hands. The difference at his face and at his hands was the difference of the room he was in being a room with Karsten at the third row from the back on the right side of the centre aisle.
+He sat at the bench at the seventh row from the front on the left side of the centre aisle with Olava at his left and the cousin from Rossøygate at Olava's left, and he kept his face at the pulpit. He knew without looking that Karsten was at the third row from the back on the right side of the centre aisle. He knew it at his right shoulder, where the bench at his right was empty for two seats and the rows behind him were rows he could not see, and his right shoulder knew the rows behind him without seeing them the way it had known the deck of the *Asta* on the watches when he had been at the foremast pin-rail without looking aft.
 
 The bell rang again.
 
 Mr Oftedal began.
 
-He preached on the eleventh chapter of the gospel of John, on the raising of Lazarus, in the slow plain Stavanger pietist voice that the meeting-goers had come up Klubbgata to hear. He preached for thirty minutes. The choir sang the four hymns of the meeting between the prayers and the readings. Olav stood and sat with the meeting-goers at the times they stood and sat, and he opened the hymnbook at the pages the hymn-board had announced, and he sang the hymns he had known since his confirmation, and the singing of the hall around him was the singing of two hundred meeting-goers in a Stavanger pietist hall on a Wednesday evening in July. Olava sang at his left. The cousin from Rossøygate sang at her left. He did not hear what Karsten was singing because Karsten was twelve rows back and the singing of the rows between them filled the hall, but he knew Karsten was singing because the meeting was a meeting at which men did not stand silent at the hymns.
+He preached on the eleventh chapter of the gospel of John, on the raising of Lazarus, in the slow plain Stavanger pietist voice that the meeting-goers had come up Klubbgata to hear. He preached for the better part of an hour. He read the eleventh chapter from the small book at the pulpit and he gave the words at the rate at which a man gives the words at a Wednesday evening meeting at Bethania Hall to two hundred meeting-goers who had heard him give the words on every Wednesday evening for the year and a half he had been preaching at the hall, and he did not raise his voice. The choir sang the four hymns of the meeting between the prayers and the readings. Olav stood and sat with the meeting-goers at the times they stood and sat, and he opened the hymnbook at the pages the hymn-board had announced, and he sang the hymns he had known since his confirmation, and the singing of the hall around him was the singing of two hundred meeting-goers in a Stavanger pietist hall on a Wednesday evening in July. Olava sang at his left. The cousin from Rossøygate sang at her left. He did not hear what Karsten was singing because Karsten was twelve rows back and the singing of the rows between them filled the hall, but he knew Karsten was singing because the meeting was a meeting at which men did not stand silent at the hymns.
 
-He kept his face at the pulpit through the preaching and at the hymn-board through the singing. He did not look back.
+He kept his face at the pulpit through the preaching and at the hymn-board through the singing. He did not look back. At the third hymn the meeting-goers stood, and the standing-up of the rows behind him was the small movement at his right shoulder he had been registering through the meeting, and at the standing-up he registered Karsten standing without looking. Karsten stood with the meeting-goers. Karsten stood and Olav stood and the singing of the third hymn went on between them and around them and from them and from the rows in front of them and from the rows behind, and Olav did not look back.
 
 The not-looking was a thing he did at the rate at which a man on a Wednesday evening at Bethania Hall did the not-looking that the place and the time and the woman at his left required of him, and the woman at his left was Olava, and the place was the place she had asked him to come to, and the time was the time she had asked him to come at. The not-looking was for her. He did the not-looking for her.
 
@@ -70,6 +70,8 @@ The cobbles were lit by the long light of the July evening, which had not gone y
 Karsten Tjørn came out of the hall.
 
 He came out at the rate of a man who had been at the third row from the back and who had stood and sat with the meeting-goers and who had come out at the close of a Wednesday evening meeting, and he stopped at the edge of the cobbles a few paces from Olav and Olava and the cousin from Rossøygate, and he looked at the long light at the upper end of Klubbgata where the cobbles ended, and he did not turn his head toward Olav.
+
+Olava at his left was looking up Klubbgata toward the corner. The cousin from Rossøygate was speaking to a meeting-goer at her left about a matter that did not concern the cobbles.
 
 Olav looked at Karsten.
 
@@ -110,3 +112,13 @@ He walked down Bredalmendingen to the boardinghouse.
 The light at Bredalmendingen at the close of a Wednesday evening in July at the latitude of Stavanger was the long light of the second week of July, which had not gone yet, and would not go for an hour more.
 
 He went in.
+
+The keeper was at the writing-table at the foot of the stairs. She did not say anything. He nodded to her. He went up the stairs to the second floor and up the third-floor stair to the small upper room he had been sleeping in for the seven nights of his stay. He took off the good coat and laid it on the chair by the small window. He sat at the edge of the bed.
+
+The light at the small upper window was the long light of a July evening at Stavanger.
+
+He looked at the small window for a moment. He did not light the lamp. He laid down on the bed.
+
+He thought about the next voyage. The next voyage was three weeks off and the ship had not yet been signed. He thought about Olava at Roda. He thought about his father at Vestbø.
+
+He slept.
