@@ -76,7 +76,7 @@ The mate had put out the oil-lamp and gone to his bunk. Haakon sat at the cabin 
 
 **Core discipline:** Meditative older-man reflection. Elegiac, quiet, letter-like contemplation. Possibly framed as a not-sent letter to the absent son. Lutheran undercurrent without sermon. The thing-he-learned-that-he-cannot-say-directly. Home-front counterpart to the sea-voyage narration.
 
-## Sample — Jens at 59, Vestbø, a winter evening with Olav gone on the *Hjemkomst*, Book I (late 1876)
+## Sample — Jens at 59, Vestbø, a winter evening with Olav gone on the *Dronningen*, Book I (late 1876)
 
 I walked out to the cattle-shed after supper, and Peder went with me, carrying the lantern. The frost had made a crust on the yard and the crust broke underfoot at every step, and neither of us spoke. I remember thinking, as we came to the shed door, that a man can tell a great deal about his sons by the way they carry a lantern beside him in the dark. Peder carries it in front and a little to the left, so that the light falls where his feet will be put next. Olav, when he was home last summer before he signed with Tollefson, carried the lantern in front and a little to the right, because he is handed differently from his brother, and I do not think he knew that his way meant I was walking in my own shadow the whole distance. I did not mind. It is a father's place to walk in his son's shadow for a while. The boys they send out to sea are not the men they send home — the Lord sends them home as someone else, and I have come to think we must not grieve too hard for the first of them when the second arrives, but I will confess that I grieve all the same. I came back to the house cold. I sat with his chair at the table a minute before I sat in mine.
 

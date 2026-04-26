@@ -28,9 +28,13 @@ Tracking names that appear in the novel and may need to change before publicatio
 
 | Real Name | Novel Name | Role | Proposed |
 |---|---|---|---|
-| Olava's father | — | Aging former fisherman of Lindøy | Rename |
-| Olava's mother (from Rossøy) | — | Warm matriarch, friend of Olavus's mother | Rename |
-| Gustav (Olava's brother) | Gustav | Sailor, teasing, warm | Could keep or rename |
+| Olava's father | **Bjørn Olson Lindøy** | Aging former fisherman of Lindøy. Born ~1820. Father of four living sons (Gustav, Bernhard, Leonard, Vilhelm) and one daughter (Olava). | **Locked 2026-04-25.** |
+| Olava's mother (from Rossøy) | **Bertha Nilsdattir Rossøy** | Warm matriarch, friend of Olav's mother in youth. Born Rossøy; came to Lindøy on marriage to Bjørn. | **Locked 2026-04-25.** Maiden name retained per 19th-century rural Norwegian custom; would be addressed as Bertha Lindøy in some contexts after marriage. |
+| Gustav (Olava's brother) | **Gustav** | The teasing sailor brother. Warm. Unmarried in 1876. | **Locked 2026-04-25.** Memoir name kept. |
+| *(invented — Olava's married brother)* | **Bernhard Lindøy** | One of the three married brothers on their divided pieces of Lindøy. | **Locked 2026-04-25.** |
+| *(invented — Olava's married brother)* | **Leonard Lindøy** | One of the three married brothers on their divided pieces of Lindøy. | **Locked 2026-04-25.** |
+| *(invented — Olava's married brother)* | **Vilhelm Lindøy** | One of the three married brothers on their divided pieces of Lindøy. (Norwegianized form of William per Ken 2026-04-25.) | **Locked 2026-04-25.** |
+| *(memoir-mentioned, unnamed)* | **(unnamed)** | Olava's dead brother — the one she nursed in his final illness. Pre-1876 death. Source of her quiet knowledge of what survival costs; informs the Ch 21 Tóibín-register interior. May be named later if a chapter requires it. | Unnamed 2026-04-25. |
 
 ## Finnøy locals (Vestbø neighbors and Hesby congregation)
 
@@ -101,7 +105,7 @@ Tracking names that appear in the novel and may need to change before publicatio
 |---|---|---|---|
 | *Nanna* (brig, first voyage 1875) | ***Sigrid*** | Book I Ch 1–2 — cook's first voyage, six-month Baltic/North Sea run | Norse name meaning "beautiful victory" (sig + friðr). Short, feminine, Stavanger-brig-authentic. Echoes a Norse-goddess precedent in the memoir's *Nanna* (wife of Balder) while shifting to a human name — the ship Olav's body gets its first lessons on is named for a woman he'll never meet. |
 | *Faina* (3-masted schoonership, spring 1876) | ***Asta*** | Book I Ch 9–16 — the tyrant captain, Lisbon, Eliasson's death, the Finnøybu identity forged | Short Norwegian feminine, "love." Cruel irony: the ship Captain G— runs as a slave-shop bears a name of tenderness. Fits the 19th-century pattern of ships named for an owner's daughter or wife. |
-| *Hjemmet* ("the Home"), bark | ***Hjemkomst*** | Book I Ch 21–26 — the kind-captain voyage, Archangel/Atlantic/Jamaica, proposal + acceptance letters | "Homecoming" in Norwegian. Preserves the meaningful-pun of the memoir's *Hjemmet* and deepens it: a ship named "Homecoming" that carries Olav farther from home than he has ever been, and during whose voyage Olava accepts his proposal — sealing a home he cannot yet return to. |
+| *Hjemmet* ("the Home"), bark | ***Dronningen*** | Book I Ch 25+ (Act IV) — the kind-captain voyage, Archangel/Atlantic/Jamaica, proposal + acceptance letters, Bristol-Haakon encounter | "The Queen" in Norwegian. Locked 2026-04-25 (Ken). Pairs against Captain Tollefson's good captaincy as a thematic gift (the queen-ship under the kind captain, counterweight to *Asta*-the-love-ship under Gjermund-the-tyrant). Earlier provisional lock was *Hjemkomst*; superseded. |
 | *Cito* (soft-wood bark, Dec 1877) | ***Kvik*** | Book II Ch 1–5 — the floating-coffin six-week pumping voyage to Hamburg | Norwegian "quick." Preserves the ironic-speed joke of the Latin *Cito* for the slowest, most nearly-sinking ship of the trilogy. |
 | *Allegro* (schoonerbrig, June 1879) | ***Brio*** | Book II — Vardøy disaster, tight-fist captain | Italian music term ("vigor, spirit"), preserves the ironic-music pattern of the memoir's *Allegro* (for a ship called "Satan of the Northsea"). Easier for English readers than staying on *Allegro*. |
 | *Diana* (Bergen steamer, Capt Sars) | ***Thalia*** | Book II — healing journey home with Sars | Greek Muse of pastoral poetry and blooming. Kept classical-feminine-goddess register of the memoir's *Diana* but shifted to a name with healing/bucolic resonance — the ship that brings Olav back from Vardøy's gray wastes. |
