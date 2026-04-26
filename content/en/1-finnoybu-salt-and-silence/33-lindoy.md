@@ -9,7 +9,7 @@ hero:
 
 The letter from Bristol came to Lindøy on the Wednesday of the second week of March in 1877.
 
-Bjørn had been at Stavanger from the Monday until the Wednesday morning, and he had come back on the Wednesday boat at noon with the small canvas bag he took to the Helland office at Stavanger when he went, and the bag had four letters in it and the receipt for the boat-line of nets the Helland office had got in for him, and one of the four letters had the writing-paper of a Bristol stationer at the outside and the inscription in three lines that Olava read at her father's hand at the kitchen table at Lindøy at half past one on the Wednesday afternoon.
+Bjørn had been at Stavanger from the Monday until the Wednesday morning, and he had come back on the Wednesday boat at noon with the canvas bag he took to the Helland office at Stavanger when he went, and the bag had four letters in it and the receipt for the boat-line of nets the Helland office had got in for him, and one of the four letters had the writing-paper of a Bristol stationer at the outside and the inscription in three lines that Olava read at her father's hand at the kitchen table at Lindøy at half past one on the Wednesday afternoon.
 
 She read the inscription twice.
 
@@ -29,7 +29,7 @@ Olava looked at the line for some minutes. She looked at the full stop after the
 
 She read the rest of the letter under the line. The answer was to go to Cape Verde by way of the Helland office at Stavanger. He would carry the answer at his coat-pocket from Cape Verde to wherever the *Dronningen* went after, whether the answer was the answer he was asking for or whether it was the other answer. He had signed the letter *Olav Hestby of Vestbø.*
 
-She folded the letter at the bed and put it at her apron-pocket. She sat at the bed for some minutes with the apron-pocket flat at her hand. The light at the small upper window of the second floor of the house at Lindøy at two o'clock on the Wednesday afternoon of the second week of March was the light of a March day that had not yet decided whether the rain would come. She looked at the light at the window. She looked at the small wooden chest at the foot of the bed where she had kept the photograph of Olav from the studio at Pedersgate since July. The photograph was at the chest. She did not take it out.
+She folded the letter at the bed and put it at her apron-pocket. She sat at the bed for some minutes with the apron-pocket flat at her hand. The light at the small upper window of the second floor of the house at Lindøy at two o'clock on the Wednesday afternoon of the second week of March was the light of a March day that had not yet decided whether the rain would come. She looked at the light at the window. She looked at the wooden chest at the foot of the bed where she had kept the photograph of Olav from the studio at Pedersgate since July. The photograph was at the chest. She did not take it out.
 
 She went down the stairs to her mother.
 
@@ -37,7 +37,7 @@ Bertha was at the kitchen with the bread for the Wednesday baking. The flour was
 
 Bjørn came in from the boat-house at three.
 
-Olava said the letter had come and that it had been the letter she had thought it would be and that she had not yet given the answer. Bjørn said yes. Bjørn said the youngman from Vestbø was a youngman whose father was the man Bjørn had known to be the man at Vestbø since 1845, and that whatever Olava decided would be a deciding her father would stand at. Olava said yes. Bjørn went to the small writing-desk at the wall and put the receipt for the boat-line of nets at the box and went out again to the boat-house.
+Olava said the letter had come and that it had been the letter she had thought it would be and that she had not yet given the answer. Bjørn said yes. Bjørn said the youngman from Vestbø was a youngman whose father was the man Bjørn had known to be the man at Vestbø since 1845, and that whatever Olava decided would be a deciding her father would stand at. Olava said yes. Bjørn went to the writing-desk at the wall and put the receipt for the boat-line of nets at the box and went out again to the boat-house.
 
 Gustav was at Lindøy that week between two voyages, and he had been at the upper field at one o'clock when the boat had come in with Bjørn, and he came down to the kitchen at half past three and took bread from the loaf Bertha had set on the cooling-rack. He saw the apron-pocket flat at Olava's hand. He said the youngman from Vestbø had written from Bristol. Olava said yes. Gustav said the youngman had written what Gustav had thought the youngman would write at Bristol. Olava did not say yes. Gustav said the answer was Olava's answer and not Gustav's, and he said it without the teasing he had used at Rossøygate in July, because the brother who was at Lindøy this March between voyages was a brother who had registered, at the rate at which an unmarried sailor of twenty-three registered such things, that this Wednesday afternoon was not the afternoon for the Rossøygate kind of teasing. He took the bread to the upper field.
 
@@ -45,11 +45,11 @@ Bertha said she would walk to Rossøy in the morning if Olava wanted to walk wit
 
 Olava said yes.
 
-The path from Lindøy to the chapel at Rossøy was a path Olava had walked since she was eleven. The path went from the gaard at Lindøy down to the small landing at the south side of the island, and the landing had a small boat at the post that the Lindøy and Rossøy households kept between them for the crossings, and Bertha and Olava took the small boat at half past nine on the Thursday morning and Gustav rowed it across the narrows between Lindøy and Rossøy. Gustav did not ask what the morning was for. Gustav had been at the kitchen at the supper on the Wednesday evening when Bertha had said about the walk and had not asked. The crossing was three-quarters of a mile of quiet water at the south side of the islands, and the wind on the Thursday morning was at the southeast at four knots, and the sun was through the high cloud at an angle that put the light of late winter on the small grass at the upper end of the Rossøy landing.
+The path from Lindøy to the chapel at Rossøy was a path Olava had walked since she was eleven. The path went from the gaard at Lindøy down to the landing at the south side of the island, and the landing had a boat at the post that the Lindøy and Rossøy households kept between them for the crossings, and Bertha and Olava took the boat at half past nine on the Thursday morning and Gustav rowed it across the narrows between Lindøy and Rossøy. Gustav did not ask what the morning was for. Gustav had been at the kitchen at the supper on the Wednesday evening when Bertha had said about the walk and had not asked. The crossing was three-quarters of a mile of quiet water at the south side of the islands, and the wind on the Thursday morning was at the southeast at four knots, and the sun was through the high cloud at an angle that put the light of late winter on the grass at the upper end of the Rossøy landing.
 
 Gustav said he would be at the landing at four with the boat.
 
-Bertha and Olava walked up from the landing to the path that ran along the upper side of Rossøy to the chapel. The path was a path of small stones laid in the gorse, and the gorse on the Thursday of the second week of March was not yet in flower because the gorse at Rossøy did not flower until April, but the buds were at the gorse and the gorse was the gorse. They walked at the pace Bertha set, which was the pace of a woman of fifty who had walked the path since she was a girl. They did not speak for the first quarter of a mile.
+Bertha and Olava walked up from the landing to the path that ran along the upper side of Rossøy to the chapel. The path was a path of stones laid in the gorse, and the gorse on the Thursday of the second week of March was not yet in flower because the gorse at Rossøy did not flower until April, but the buds were at the gorse and the gorse was the gorse. They walked at the pace Bertha set, which was the pace of a woman of fifty who had walked the path since she was a girl. They did not speak for the first quarter of a mile.
 
 Then Bertha said she had walked the path with Jens Hestby and Olav's mother in the year before her marriage. Olava said yes.
 
@@ -59,7 +59,7 @@ Olava said yes.
 
 Bertha said she had walked the path because the path had been a thing she had walked when she had been a young woman deciding a thing, and that the path was a path that was good for the deciding because the path was a path that was at Rossøy and not at Lindøy. Olava said yes. Bertha said she would walk on alone for a few minutes if Olava wanted to walk on alone too. Olava said yes.
 
-The path divided at the small wooden gate at the upper bend, and Bertha went on toward the chapel at the upper end of the path and Olava went down the small fork that ran along the upper side of the small bay at the southwest corner of the island, where the path came out at the headland above the bay and looked back across the narrows to Lindøy.
+The path divided at the wooden gate at the upper bend, and Bertha went on toward the chapel at the upper end of the path and Olava went down the small fork that ran along the upper side of the bay at the southwest corner of the island, where the path came out at the headland above the bay and looked back across the narrows to Lindøy.
 
 She stood at the headland.
 
@@ -79,13 +79,13 @@ She stood at the headland a while longer, because the headland was a place to st
 
 She walked back along the small fork to the wooden gate.
 
-Bertha was at the gate at the noon. Bertha did not ask. Bertha looked at her once and they walked together back down the path to the landing, and Gustav was at the landing at four as he had said, and the small boat went back across the narrows with the light of the late winter afternoon on the south side of Lindøy.
+Bertha was at the gate at the noon. Bertha did not ask. Bertha looked at her once and they walked together back down the path to the landing, and Gustav was at the landing at four as he had said, and the boat went back across the narrows with the light of the late winter afternoon on the south side of Lindøy.
 
-Olava sat at the small writing-table in the upper room at Lindøy on the Friday morning at the noon hour with the writing-paper Bertha had brought from Stavanger in the small canvas bag at Karoline's at Rossøygate two weeks before, and she wrote the answer.
+Olava sat at the writing-table in the upper room at Lindøy on the Friday morning at the noon hour with the writing-paper Bertha had brought from Stavanger in the canvas bag at Karoline's at Rossøygate two weeks before, and she wrote the answer.
 
 She wrote it slowly.
 
-She wrote the inscription at the top of the page, which was three lines: *To Olav Hestby of Vestbø, by way of the Helland office at Stavanger to Cape Verde.* She wrote the date at the upper right of the page in the small Norwegian numerals she had been writing since her confirmation, and the date was the sixteenth day of March in the year eighteen hundred and seventy-seven. She looked at the date for a moment and she thought about the date he had written at his letter, which had been the eighth of February, and the five and a half weeks between his date and her date were the five and a half weeks that the letter from Bristol had taken to come to Lindøy and that her letter from Lindøy would take to find him at Cape Verde or at wherever else the *Dronningen* was when the Helland office's forwarding caught up with her.
+She wrote the inscription at the top of the page, which was three lines: *To Olav Hestby of Vestbø, by way of the Helland office at Stavanger to Cape Verde.* She wrote the date at the upper right of the page in the Norwegian numerals she had been writing since her confirmation, and the date was the sixteenth day of March in the year eighteen hundred and seventy-seven. She looked at the date for a moment and she thought about the date he had written at his letter, which had been the eighth of February, and the five and a half weeks between his date and her date were the five and a half weeks that the letter from Bristol had taken to come to Lindøy and that her letter from Lindøy would take to find him at Cape Verde or at wherever else the *Dronningen* was when the Helland office's forwarding caught up with her.
 
 She wrote the body of the letter under the date.
 
@@ -95,15 +95,15 @@ She wrote the answer on its own line in the middle of the page.
 
 She wrote it in a single sentence in the plain Norwegian a young woman of nineteen at a writing-table at Lindøy on the sixteenth of March 1877 wrote to a young man of nineteen at sea: *Olav — yes, I will have you as my husband when you come home from this voyage.*
 
-She did not write a question-mark at the end either. She had not been going to. She wrote a small full stop after the word *voyage* and looked at the line for some minutes, and then she wrote the rest of the letter under the line.
+She did not write a question-mark at the end either. She had not been going to. She wrote a full stop after the word *voyage* and looked at the line for some minutes, and then she wrote the rest of the letter under the line.
 
 She wrote that she would be at Lindøy waiting for the *Dronningen* at the Stavanger wharf when the *Dronningen* came home, and that she would write him at every port the Helland office would forward to, and that she would think of him at the long blue light of her small upper window at Lindøy on the evenings when the light at the window was the light he had written about. She signed the letter *Olava Lindøy of Lindøy.*
 
-She folded it. She sealed it with a small piece of red wax her mother had brought from Stavanger. She addressed the outside in the three-line inscription she had written at the top of the page.
+She folded it. She sealed it with red wax her mother had brought from Stavanger. She addressed the outside in the three-line inscription she had written at the top of the page.
 
 She took the letter down to her father at the boat-house.
 
-Bjørn looked at it once. Bjørn said John Stensøy would be at Lindøy on the Saturday afternoon for the small flounder he had said he would come for, and that John Stensøy would take the letter back to the Helland office on the Saturday evening, and the letter would go on the *Aurora* of Stavanger that was leaving for the south on the Tuesday tide with the spring agents' run. Olava said yes. Bjørn put the letter at the small chest at the side of the writing-desk at the boat-house, where the letters going out from Lindøy waited for the boat that would take them.
+Bjørn looked at it once. Bjørn said John Stensøy would be at Lindøy on the Saturday afternoon for the flounder he had said he would come for, and that John Stensøy would take the letter back to the Helland office on the Saturday evening, and the letter would go on the *Aurora* of Stavanger that was leaving for the south on the Tuesday tide with the spring agents' run. Olava said yes. Bjørn put the letter at the chest at the side of the writing-desk at the boat-house, where the letters going out from Lindøy waited for the boat that would take them.
 
 John Stensøy came on the Saturday afternoon for the flounder. He took the letter when he took the flounder. He said it would go on the *Aurora* on the Tuesday. Olava said yes.
 

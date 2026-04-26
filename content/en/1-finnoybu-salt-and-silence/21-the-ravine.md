@@ -15,13 +15,13 @@ She had put her hand at his arm.
 
 The hand had stayed there for the time it had taken her to say the four words she had decided to say, and then she had taken it off because the next thing was to walk, and walking they were now doing.
 
-Peder was beside Olav at the front of the small column on the road. Olav was on Peder's left. She was on Peder's right. Inger was a few steps behind them because the road was narrow at the gate and four people did not walk easily abreast.
+Peder was beside Olav at the front of the column on the road. Olav was on Peder's left. She was on Peder's right. Inger was a few steps behind them because the road was narrow at the gate and four people did not walk easily abreast.
 
-The road went up from the gaard at the south end of the island and crossed the small valley above Østhusvik. The light at half past six was the light of a June evening with the sun south of west and the heat going out of the day. She did not say anything to Olav at the road. She had not decided what to say yet. She was looking at the road and at the back of Peder's head and at the place where Olav's coat was on his arm, and she was registering what kind of evening it was at the rate her mother had taught her to register such things. The evening was clear. It would hold its light until eleven and then go to the long blue of June at this latitude, which was not dark. The air at the road had the cooling of a June day going into a June evening. The grass at the side of the road was not yet the grass that would be cut for the haying.
+The road went up from the gaard at the south end of the island and crossed the valley above Østhusvik. The light at half past six was the light of a June evening with the sun south of west and the heat going out of the day. She did not say anything to Olav at the road. She had not decided what to say yet. She was looking at the road and at the back of Peder's head and at the place where Olav's coat was on his arm, and she was registering what kind of evening it was at the rate her mother had taught her to register such things. The evening was clear. It would hold its light until eleven and then go to the long blue of June at this latitude, which was not dark. The air at the road had the cooling of a June day going into a June evening. The grass at the side of the road was not yet the grass that would be cut for the haying.
 
 Peder spoke first.
 
-He spoke to Olav about the elder son of Landa. He had asked the elder son of Landa about the small Landa boat and the new caulking, and the elder son had told him about the new caulking, and Peder was telling Olav now what the elder son had told him. Olav listened. Olav said yes when yes was the place a man said yes. Peder went on for a few hundred yards about caulking and about a small boat someone at Landa had built in the spring, and Olava, who was on Peder's right and was listening, registered that Peder was talking because the four of them on the road had to walk for an hour and a quarter to Roda, and that Peder had decided, at the rate at which a sixteen-year-old decided such things, that he would do the talking until someone else decided to do the talking.
+He spoke to Olav about the elder son of Landa. He had asked the elder son of Landa about the Landa boat and the new caulking, and the elder son had told him about the new caulking, and Peder was telling Olav now what the elder son had told him. Olav listened. Olav said yes when yes was the place a man said yes. Peder went on for a few hundred yards about caulking and about a boat someone at Landa had built in the spring, and Olava, who was on Peder's right and was listening, registered that Peder was talking because the four of them on the road had to walk for an hour and a quarter to Roda, and that Peder had decided, at the rate at which a sixteen-year-old decided such things, that he would do the talking until someone else decided to do the talking.
 
 She was glad of it.
 
@@ -45,7 +45,7 @@ She had been thinking about her brother who had died.
 
 She had been thinking about him since they had left Landa. She had been thinking about him in a way she had not been thinking about him for some months. She had been remembering the long quiet evenings of his last year, when she had sat at his bedside in the small back room at her father's house at Lindøy with the lamp turned low, and had heard his breathing, and had read to him from the gospel of John when he had asked. He had been twenty-one years old and she had been seventeen, and he had died in March of the year before this. He had been her oldest brother. He had been the brother she had loved best.
 
-He had been called Tore. He had been the brother who had taught her, when she was eight and he was eleven, how to row a boat in the small waters between Lindøy and Sandøy on a summer morning, and the brother who had shown her, when she was twelve and he was fifteen, the way one held a fishing-line so that the line did not cut the hand. He had been a quiet boy and had become a quiet young man, and what he had said to her in the last week was that the room was warm enough and that he was glad she was there. He had said it three times. The third time he had said it she had registered that he had no other thing to say to her and that what he had wanted to say to her in his last days was the one thing.
+He had been called Tore. He had been the brother who had taught her, when she was eight and he was eleven, how to row a boat in the waters between Lindøy and Sandøy on a summer morning, and the brother who had shown her, when she was twelve and he was fifteen, the way one held a fishing-line so that the line did not cut the hand. He had been a quiet boy and had become a quiet young man, and what he had said to her in the last week was that the room was warm enough and that he was glad she was there. He had said it three times. The third time he had said it she had registered that he had no other thing to say to her and that what he had wanted to say to her in his last days was the one thing.
 
 She had been seventeen. She had not been a person who had been sat beside in such a way before. She had registered, in the months after, what it had been to be the person beside the bed, and she had registered also what it had been for him to be the person in the bed. The two were not the same registering. The one she could speak of to her mother. The other she could not speak of at all.
 
@@ -73,7 +73,7 @@ It was the smallest of the answers he could have given. It was the answer he had
 
 She did not push.
 
-She walked on past him on the small flat stone of the streambed, and he turned and walked behind her up the path, and Peder, who had got further ahead in the ravine because he had been talking to himself about a piece of caulking, slowed at the top of the ravine to wait for them, and Inger came up behind Olav at his shoulder and put her hand at his arm in the way one woman puts her hand at the arm of a young man when she has registered that a thing has just passed between the young man and the young woman in her care and the older woman wishes to stand where she might be useful.
+She walked on past him on the flat stone of the streambed, and he turned and walked behind her up the path, and Peder, who had got further ahead in the ravine because he had been talking to himself about a piece of caulking, slowed at the top of the ravine to wait for them, and Inger came up behind Olav at his shoulder and put her hand at his arm in the way one woman puts her hand at the arm of a young man when she has registered that a thing has just passed between the young man and the young woman in her care and the older woman wishes to stand where she might be useful.
 
 They came up out of the ravine.
 
@@ -95,7 +95,7 @@ She had a week, until Stavanger, to think about what she had been told.
 
 She thought she would sit at the table at Roda this evening and write to her mother. She thought her mother would understand the writing without Olava's having to explain too much of what was in it, because her mother understood writing of that kind.
 
-The gaard at Roda came up over the small rise above the bay at half past eight. The sun was low. The bay was silver at the side and dark at the middle, and the long light of the June evening was on the upper grass at Roda where the cows were at the far field. Peder slowed at the gate of the gaard.
+The gaard at Roda came up over the rise above the bay at half past eight. The sun was low. The bay was silver at the side and dark at the middle, and the long light of the June evening was on the upper grass at Roda where the cows were at the far field. Peder slowed at the gate of the gaard.
 
 "You will come in for a glass," Inger said.
 
@@ -145,9 +145,9 @@ In the kitchen at Roda her father's cousin's wife had supper on the stove. Inger
 
 Inger looked at her. Inger did not say anything. Inger put a slice of bread on the plate at the place. Inger went on cutting the bread.
 
-The cousin's wife brought the stew to the table. There was barley in the stew and a small piece of cured pork from a leg the cousin had killed in November, and the cousin's wife sat at the foot of the table and asked Olava and Inger about the day at Landa, and Inger told her, and Inger told her well, leaving out what was not for the cousin's wife to know yet, and the cousin's wife was satisfied with the telling and asked nothing more.
+The cousin's wife brought the stew to the table. There was barley in the stew and a piece of cured pork from a leg the cousin had killed in November, and the cousin's wife sat at the foot of the table and asked Olava and Inger about the day at Landa, and Inger told her, and Inger told her well, leaving out what was not for the cousin's wife to know yet, and the cousin's wife was satisfied with the telling and asked nothing more.
 
-After supper Olava and Inger walked together to the small upper room of the gaard where they slept when they were at Roda. Inger had said nothing on the walk up the stairs and said nothing now, and Olava was glad of it. She put the light blue dress on the chair at the foot of the bed and she put the yellow straw hat on the small table at the side, and she sat at the edge of the bed for a moment and looked at the small window above the table.
+After supper Olava and Inger walked together to the small upper room of the gaard where they slept when they were at Roda. Inger had said nothing on the walk up the stairs and said nothing now, and Olava was glad of it. She put the light blue dress on the chair at the foot of the bed and she put the yellow straw hat on the table at the side, and she sat at the edge of the bed for a moment and looked at the small window above the table.
 
 She would write to her mother in the morning.
 

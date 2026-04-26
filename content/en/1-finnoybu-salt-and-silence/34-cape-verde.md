@@ -17,7 +17,7 @@ The pilot was a São Vicente man of about forty in a white shirt and a wide stra
 
 The unloading began at noon.
 
-The Welsh coal from Cardiff came up out of the holds at the after pump and a small lighter the Portuguese agent at the wharf had brought to the bark for the discharge. The lighter was a thirty-foot lighter under a single mast, and the men who handled the lighter were five Cape Verdean men in white shirts and work-trousers who handled it in the way men who had worked the coaling-anchorage since they were boys handled a thirty-foot coal-lighter at a São Vicente afternoon. They worked steadily.
+The Welsh coal from Cardiff came up out of the holds at the after pump and a lighter the Portuguese agent at the wharf had brought to the bark for the discharge. The lighter was a thirty-foot lighter under a single mast, and the men who handled the lighter were five Cape Verdean men in white shirts and work-trousers who handled it in the way men who had worked the coaling-anchorage since they were boys handled a thirty-foot coal-lighter at a São Vicente afternoon. They worked steadily.
 
 Olav was at the foremast pin-rail at the third bell of the afternoon watch.
 
@@ -25,17 +25,17 @@ Bertel was at his side. Bertel said the men at the lighter were good men at a li
 
 A small boat came up to the larboard side of the bark at four bells.
 
-The small boat was a Cape Verdean fishing-boat with two men at the oars and a boy of about twelve at the bow. The boy was bare to the waist with a small cotton cloth at his hips and the lean shoulders of a boy who had been diving in this harbour since he was small, and he stood at the bow of the small boat and looked up at the rail of the *Dronningen* with the patience of a boy who had stood at the bow of a small boat at the larboard side of a foreign ship at the coaling-anchorage many times before.
+The small boat was a Cape Verdean fishing-boat with two men at the oars and a boy of about twelve at the bow. The boy was bare to the waist with a small cotton cloth at his hips and the lean shoulders of a boy who had been diving in this harbour since he was small, and he stood at the bow of the boat and looked up at the rail of the *Dronningen* with the patience of a boy who had stood at the bow of a boat at the larboard side of a foreign ship at the coaling-anchorage many times before.
 
 The 1st mate came to the rail.
 
-The 1st mate had a sixpence in his hand. He had got it from Pallesen, who had got it from Tollefson, who had said the sixpence could go to the small boat at the larboard side because the captain had seen the small boat come up and the captain had registered that the boy was the boy who dived for the small thing thrown from a foreign ship at the coaling-anchorage. The 1st mate held the sixpence at the rail. The boy at the bow of the small boat saw the sixpence. The 1st mate threw the sixpence wide of the small boat into the clear blue water at the larboard side. The boy went off the bow of the small boat without a sound.
+The 1st mate had a sixpence in his hand. He had got it from Pallesen, who had got it from Tollefson, who had said the sixpence could go to the boat at the larboard side because the captain had seen the boat come up and the captain had registered that the boy was the boy who dived for the small thing thrown from a foreign ship at the coaling-anchorage. The 1st mate held the sixpence at the rail. The boy at the bow of the boat saw the sixpence. The 1st mate threw the sixpence wide of the boat into the clear blue water at the larboard side. The boy went off the bow of the boat without a sound.
 
 He went down to the sixpence in the clear water of the inner harbour at fifteen degrees north on a May afternoon, and the going was the going of a boy who had been diving here for years.
 
 He came up with the sixpence in his hand.
 
-He came up at the side of the small boat and he climbed back into the small boat with the sixpence in his hand, and he held it up at the rail of the *Dronningen* and the 1st mate looked at it and said yes. The boy put the sixpence at a small leather pouch at his belt. The two men at the oars rowed the small boat back from the larboard side. The small boat went off toward the wharf.
+He came up at the side of the boat and he climbed back into the boat with the sixpence in his hand, and he held it up at the rail of the *Dronningen* and the 1st mate looked at it and said yes. The boy put the sixpence at a small leather pouch at his belt. The two men at the oars rowed the boat back from the larboard side. The boat went off toward the wharf.
 
 Olav had watched.
 
@@ -45,7 +45,7 @@ He went back to the work at the foremast pin-rail.
 
 The bark was at the coaling-anchorage at São Vicente for six days.
 
-The agent's boat from the Helland connection at the wharf came out on the morning of the fourth day with the mail-bag for the *Dronningen*. The mail-bag was a small canvas bag with the Helland forwarding-stamp at the seal, and the agent's boy brought the bag up over the rail at half past ten and gave it to Pallesen at the deck. Pallesen took the bag to Tollefson's cabin. The mail came out at the dinner-watch.
+The agent's boat from the Helland connection at the wharf came out on the morning of the fourth day with the mail-bag for the *Dronningen*. The mail-bag was a canvas bag with the Helland forwarding-stamp at the seal, and the agent's boy brought the bag up over the rail at half past ten and gave it to Pallesen at the deck. Pallesen took the bag to Tollefson's cabin. The mail came out at the dinner-watch.
 
 There was a letter for Olav.
 
@@ -61,11 +61,11 @@ The letter was three pages. The first page was the Wednesday of the second week 
 
 The third page had the answer.
 
-The answer was on its own line in the middle of the page. It was a single sentence in her hand, which was the hand he had read for the first time at the small upper room of the boardinghouse on Water Street at Wilmington in November and which he had read three times in the letter she had written him at Wilmington and which he held now at the foretop at São Vicente at half past one of the afternoon of the fourth day at the coaling-anchorage in May of 1877:
+The answer was on its own line in the middle of the page. It was a single sentence in her hand, which was the hand he had read for the first time at the upper room of the boardinghouse on Water Street at Wilmington in November and which he had read three times in the letter she had written him at Wilmington and which he held now at the foretop at São Vicente at half past one of the afternoon of the fourth day at the coaling-anchorage in May of 1877:
 
 *Olav — yes, I will have you as my husband when you come home from this voyage.*
 
-There was no question-mark at the end of the line. There was a small full stop. The full stop was the full stop she had laid at the page.
+There was no question-mark at the end of the line. There was a full stop. The full stop was the full stop she had laid at the page.
 
 He looked at the line for some minutes at the foretop.
 
@@ -75,7 +75,7 @@ He folded the letter at the foretop.
 
 He put the folded letter at the breast-pocket inside his coat at the place he had said at the letter from Bristol that he would put it. He sat at the foretop for a few minutes longer. The wind at the foretop was the trade at the northeast at twelve knots, and the harbour at fifteen degrees north below him was the harbour at fifteen degrees north, and the brown island of São Vicente was the brown island of São Vicente. The asking had been at the west coast of England. The answering had come at the west coast of Africa. The two coasts had been the two coasts the *Dronningen* had been at on her run from Cardiff to Madeira to São Vicente, and the question and the answer had crossed at sea.
 
-He thought about the boardinghouse-table at Bristol where he had written the question on the eighth of February. He thought about the small upper room at Water Street in Wilmington where he had first read her hand at the November letter Brinch had brought to him at the consul. He thought about the courtyard at Landa in June 1876 where Olava had put her hand at his arm and said the four words, and the ravine on the road to Roda where she had asked him whether there had been anyone at the *Asta* who was something other than the captain and he had said yes. He thought about the dinner at Rossøygate where Bertha had set down the yellow ribbon at the table, and the cobbles at Bethania where he had said goodnight to Olava at the corner of the building.
+He thought about the boardinghouse-table at Bristol where he had written the question on the eighth of February. He thought about the upper room at Water Street in Wilmington where he had first read her hand at the November letter Brinch had brought to him at the consul. He thought about the courtyard at Landa in June 1876 where Olava had put her hand at his arm and said the four words, and the ravine on the road to Roda where she had asked him whether there had been anyone at the *Asta* who was something other than the captain and he had said yes. He thought about the dinner at Rossøygate where Bertha had set down the yellow ribbon at the table, and the cobbles at Bethania where he had said goodnight to Olava at the corner of the building.
 
 He thought about the foretop of the *Asta* in March 1876.
 
@@ -87,11 +87,11 @@ He went forward to the work at the foremast pin-rail. Bertel was at the rail. Be
 
 The sixth day at São Vicente was the day the bark was to sail.
 
-The unloading had finished on the fifth day at the noon. The lighter had taken the last of the Welsh coal off at half past one, and the Portuguese agent had come aboard at three with the receipts and the small boat from the agent's wharf had taken the receipts and the agent away at four. Tollefson had given the order to set the topsails for the morning tide of the sixth day. The bark would sail for Jamaica on a course south by west to fourteen north and then west into the long run of the southerly trade.
+The unloading had finished on the fifth day at the noon. The lighter had taken the last of the Welsh coal off at half past one, and the Portuguese agent had come aboard at three with the receipts and the boat from the agent's wharf had taken the receipts and the agent away at four. Tollefson had given the order to set the topsails for the morning tide of the sixth day. The bark would sail for Jamaica on a course south by west to fourteen north and then west into the long run of the southerly trade.
 
 Olav was at the jib-guy at the eight bells of the morning watch on the sixth day.
 
-The boatswain had sent him out to the jib-guy with Theodor to look at the small splice at the upper end where the splice had begun to part on the run from Madeira and was wanting a re-laying before the bark sailed. Theodor went out first. Olav went out after. The two of them came to the upper end of the jib-boom at the second cap and they checked the splice hand over hand, and the splice was the splice that had begun to part. Theodor said the splice would have to come back to the deck for the carpenter. Olav said yes.
+The boatswain had sent him out to the jib-guy with Theodor to look at the splice at the upper end where the splice had begun to part on the run from Madeira and was wanting a re-laying before the bark sailed. Theodor went out first. Olav went out after. The two of them came to the upper end of the jib-boom at the second cap and they checked the splice hand over hand, and the splice was the splice that had begun to part. Theodor said the splice would have to come back to the deck for the carpenter. Olav said yes.
 
 He came back along the jib-boom at the foot-rope behind Theodor.
 
@@ -111,7 +111,7 @@ Pallesen said he was up. Olav said yes. The boatswain looked at him for a moment
 
 He took the letter out of the breast-pocket at the bunk.
 
-The letter was wet at the edges. The wax at the seal had held. The three pages at the inside were wet at the edges where the breast-pocket had taken the water. The writing at the centre of the pages was the writing Olava had written at the writing-table at the upper room at Lindøy on the sixteenth of March 1877, and the answer at the middle of the third page was the answer at the middle of the third page. The line at the lower edge of the third page where she had written about the long blue light at the small upper window of her room at Lindøy had bled with the water and was now a small grey shape at the page that did not give him the words. He laid the letter at the small ledge at the side of the bunk where the air at the forecastle would dry it.
+The letter was wet at the edges. The wax at the seal had held. The three pages at the inside were wet at the edges where the breast-pocket had taken the water. The writing at the centre of the pages was the writing Olava had written at the writing-table at the upper room at Lindøy on the sixteenth of March 1877, and the answer at the middle of the third page was the answer at the middle of the third page. The line at the lower edge of the third page where she had written about the long blue light at the small upper window of her room at Lindøy had bled with the water and was now a small grey shape at the page that did not give him the words. He laid the letter at the ledge at the side of the bunk where the air at the forecastle would dry it.
 
 He changed his shirt and his trousers.
 
