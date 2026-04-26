@@ -68,8 +68,8 @@ export default function SiteHeader() {
           className="group flex items-baseline gap-2 text-ink hover:text-accent transition-colors"
         >
           <span className="font-display text-xl tracking-wide" style={{ fontFeatureSettings: "'ss01'" }}>
-            <span className="hidden min-[420px]:inline">Finnoybu</span>
-            <span className="min-[420px]:hidden">Finnoybu</span>
+            <span className="hidden sm:inline">Finnoybu: Salt and Silence</span>
+            <span className="sm:hidden">Finnoybu</span>
           </span>
         </Link>
 
