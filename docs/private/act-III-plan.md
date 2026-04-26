@@ -21,7 +21,7 @@
 - **Captain Tollefson** — *Dronningen* captain (memoir-real, kept). The good-captain counterweight to Gjermund. Brief on-stage at Ch 23 sign-on.
 - **The *Dronningen*** ("the Queen") — locked Ken 2026-04-25 as the fictional name for memoir's *Hjemmet*. Replaces earlier provisional *Hjemkomst*. Bark; Captain Tollefson; bound for Archangel late July 1876. Pairs against *Asta* (love) under Gjermund (tyrant) as the queen-ship under the kind captain.
 - **Landa and Roda** — kept as memoir-real Finnøy gaard names. Per the names-index naming policy: place names stay; ships rename. Olava and her companion stay at Roda for the visit; Olav and Peder pass Roda on the road back to Vestbø.
-- **Stjernerøy spelling** — memoir-faithful (vs standard Norwegian Stjernarøy). Established in [names-index.md](names-index.md) for Thomas's home island. Trilogy uses memoir convention.
+- **Stjernarøy spelling** — resolved 2026-04-26 against NRK ordbok. Modern correct form is **Sjernarøy** (no T); previous-variant **Stjernarøy** (with T) is the documented historical form and the period-correct 1875 spelling. Memoir's **Stjernerøy** is plausibly a personal/handwriting variant; trilogy regularizes to Stjernarøy for period-authenticity. Memoir-digest and trilogy-outline source-rows retain memoir's Stjernerøy as citation; trilogy prose, names-index lock, and act plans use Stjernarøy.
 - **"youngman"** — established one-word translator-idiom across Ch 6, 8, 9, 14, 17, 18, 20. Period nautical compound (per `reference_youngman_period_term.md`). Not a typo.
 
 ## Chapter-by-chapter (Ch 19-23 firm + Ch 24 reserve)
