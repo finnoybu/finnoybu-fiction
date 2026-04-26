@@ -10,6 +10,7 @@ import PasswordRecoveryModal from '@/components/PasswordRecoveryModal'
 import PromoModal from '@/components/PromoModal'
 import CookieBanner from '@/components/CookieBanner'
 import { Analytics } from '@vercel/analytics/react'
+import { getAllChapters } from '@/lib/chapters'
 
 const fraunces = Fraunces({
   subsets: ['latin'],
@@ -100,6 +101,7 @@ const themeScript = `
 `.trim()
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
+  const totalChapters = getAllChapters().length
   return (
     <html
       lang="en"
@@ -124,7 +126,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           </RecoveryGuard>
           <WelcomeModal />
           <PasswordRecoveryModal />
-          <PromoModal />
+          <PromoModal totalChapters={totalChapters} />
           <CookieBanner />
           <Analytics />
         </ReaderProvider>

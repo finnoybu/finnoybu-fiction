@@ -5,14 +5,31 @@ import { usePathname } from 'next/navigation'
 import { createPortal } from 'react-dom'
 import Link from 'next/link'
 
-// Flip to true when at least a PDF/ePub is available for Salt and Silence.
-const ENABLED = false
+const VISITED_KEY = 'finnoybu-visited-slugs'
+const SEEN_KEY = 'finnoybu-promo-seen'
 
-const CH2_SEEN_KEY = 'finnoybu-promo-ch2-seen'
-const CH10_SEEN_KEY = 'finnoybu-promo-ch10-seen'
-const TRIGGER_ORDINALS = new Set([2, 10])
+interface PromoModalProps {
+  totalChapters: number
+}
 
-export default function PromoModal() {
+function readVisited(): Set<string> {
+  try {
+    const raw = localStorage.getItem(VISITED_KEY)
+    if (!raw) return new Set()
+    const parsed = JSON.parse(raw)
+    return new Set(Array.isArray(parsed) ? parsed : [])
+  } catch {
+    return new Set()
+  }
+}
+
+function writeVisited(set: Set<string>) {
+  try {
+    localStorage.setItem(VISITED_KEY, JSON.stringify(Array.from(set)))
+  } catch {}
+}
+
+export default function PromoModal({ totalChapters }: PromoModalProps) {
   const [show, setShow] = useState(false)
   const [mounted, setMounted] = useState(false)
   const pathname = usePathname()
@@ -23,8 +40,8 @@ export default function PromoModal() {
   }, [])
 
   useEffect(() => {
-    if (!ENABLED) return
     if (!mounted) return
+    if (totalChapters <= 0) return
 
     const prev = prevPathname.current
     prevPathname.current = pathname
@@ -32,23 +49,29 @@ export default function PromoModal() {
     if (!pathname.startsWith('/chapters/')) return
     if (prev === pathname) return
 
-    const timer = setTimeout(() => {
-      try {
-        const meta = document.querySelector<HTMLMetaElement>('meta[name="x-chapter-ordinal"]')
-        const ordinal = meta ? Number(meta.content) : NaN
-        if (!TRIGGER_ORDINALS.has(ordinal)) return
+    const slug = pathname.replace(/^\/chapters\//, '').split(/[/?#]/)[0]
+    if (!slug) return
 
-        const key = ordinal === 2 ? CH2_SEEN_KEY : CH10_SEEN_KEY
-        if (localStorage.getItem(key)) return
+    try {
+      const visited = readVisited()
+      if (!visited.has(slug)) {
+        visited.add(slug)
+        writeVisited(visited)
+      }
 
-        setShow(true)
-        localStorage.setItem(key, '1')
-      } catch {}
-    }, 1500)
-    return () => clearTimeout(timer)
-  }, [pathname, mounted])
+      const percent = visited.size / totalChapters
+      const seen = localStorage.getItem(SEEN_KEY) === '1'
 
-  if (!ENABLED || !mounted || !show) return null
+      if (percent >= 0.1 && !seen) {
+        localStorage.setItem(SEEN_KEY, '1')
+        // small delay so chapter content settles before the modal lands
+        const timer = setTimeout(() => setShow(true), 1500)
+        return () => clearTimeout(timer)
+      }
+    } catch {}
+  }, [pathname, mounted, totalChapters])
+
+  if (!mounted || !show) return null
 
   return createPortal(
     <div className="fixed inset-0 z-50 flex items-start justify-center pt-[12vh] p-4">
