@@ -28,8 +28,8 @@ Tracking names that appear in the novel and may need to change before publicatio
 
 | Real Name | Novel Name | Role | Proposed |
 |---|---|---|---|
-| Olava's father | **Bjørn Olson Lindøy** | Aging former fisherman of Lindøy. Born ~1820. Father of four living sons (Gustav, Bernhard, Leonard, Vilhelm) and one daughter (Olava). | **Locked 2026-04-25.** |
-| Olava's mother (from Rossøy) | **Bertha Nilsdattir Rossøy** | Warm matriarch, friend of Olav's mother in youth. Born Rossøy; came to Lindøy on marriage to Bjørn. | **Locked 2026-04-25.** Maiden name retained per 19th-century rural Norwegian custom; would be addressed as Bertha Lindøy in some contexts after marriage. |
+| Olava's father | **Bjørn Olsen Lindøy** | Aging former fisherman of Lindøy. Born ~1820. Father of four living sons (Gustav, Bernhard, Leonard, Vilhelm) and one daughter (Olava). | **Locked 2026-04-25.** |
+| Olava's mother (from Rossøy) | **Bertha Nilsdatter Rossøy** | Warm matriarch, friend of Olav's mother in youth. Born Rossøy; came to Lindøy on marriage to Bjørn. | **Locked 2026-04-25.** Maiden name retained per 19th-century rural Norwegian custom; would be addressed as Bertha Lindøy in some contexts after marriage. |
 | Gustav (Olava's brother) | **Gustav** | The teasing sailor brother. Warm. Unmarried in 1876. | **Locked 2026-04-25.** Memoir name kept. |
 | *(invented — Olava's married brother)* | **Bernhard Lindøy** | One of the three married brothers on their divided pieces of Lindøy. | **Locked 2026-04-25.** |
 | *(invented — Olava's married brother)* | **Leonard Lindøy** | One of the three married brothers on their divided pieces of Lindøy. | **Locked 2026-04-25.** |
