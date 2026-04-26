@@ -28,7 +28,7 @@ export default function ChapterHero({
     <header className="relative border-b border-rule-soft">
       {image && (
         <div className="max-w-[60.8rem] mx-auto px-6 pt-6">
-          <div className="relative aspect-[1200/630] w-full overflow-hidden">
+          <div className="relative aspect-[1200/630] w-full max-h-[75vh] overflow-hidden">
             <Image
               src={image}
               alt=""
