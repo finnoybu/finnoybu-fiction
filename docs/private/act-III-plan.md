@@ -20,7 +20,9 @@
 - **Cousin John Stensøy** — owner-broker who hired Olav onto *Asta* and heard the customhouse accusation. Likely on stage at the *Dronningen* sign-on (Ch 23) for continuity.
 - **Captain Tollefson** — *Dronningen* captain (memoir-real, kept). The good-captain counterweight to Gjermund. Brief on-stage at Ch 23 sign-on.
 - **The *Dronningen*** ("the Queen") — locked Ken 2026-04-25 as the fictional name for memoir's *Hjemmet*. Replaces earlier provisional *Hjemkomst*. Bark; Captain Tollefson; bound for Archangel late July 1876. Pairs against *Asta* (love) under Gjermund (tyrant) as the queen-ship under the kind captain.
-- **Landa** — kept as the gaard name for the Sunday gathering site. Real Finnøy place-name, public domain per the names-index naming policy (place names stay; ships rename).
+- **Landa and Roda** — kept as memoir-real Finnøy gaard names. Per the names-index naming policy: place names stay; ships rename. Olava and her companion stay at Roda for the visit; Olav and Peder pass Roda on the road back to Vestbø.
+- **Stjernerøy spelling** — memoir-faithful (vs standard Norwegian Stjernarøy). Established in [names-index.md](names-index.md) for Thomas's home island. Trilogy uses memoir convention.
+- **"youngman"** — established one-word translator-idiom across Ch 6, 8, 9, 14, 17, 18, 20. Period nautical compound (per `reference_youngman_period_term.md`). Not a typo.
 
 ## Chapter-by-chapter (Ch 19-23 firm + Ch 24 reserve)
 
