@@ -4,7 +4,7 @@ id: 18
 slug: "the-customhouse"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/18-the-customhouse.png"
+  image: "/images/1/18-the-customhouse.webp"
 ---
 
 He came down from the pin-rail at half past midnight and walked aft along the larboard rail to go below by the after scuttle, and at the after scuttle he stopped because there was light under the captain's cabin door and the captain was ashore. It was the steady light of the captain's own lamp on the captain's own desk in the captain's own cabin. Olav stood at the after scuttle for a moment with his hand on the rail. Then the captain's cabin door opened and the carpenter put his head out and saw Olav, and the carpenter said, in the voice a man uses when he has already had a glass of a thing he should not have had a glass of, "Come in. The steward has the cork out of the second bottle."

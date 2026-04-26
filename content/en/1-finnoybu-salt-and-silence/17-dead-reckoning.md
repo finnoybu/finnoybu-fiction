@@ -4,7 +4,7 @@ id: 17
 slug: "dead-reckoning"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/17-dead-reckoning.png"
+  image: "/images/1/17-dead-reckoning.webp"
 ---
 
 The *Asta* came out from Setúbal on the twenty-fourth of April with the tide at four in the afternoon and the wind out of the south-west at a force that wanted reefing in her topgallants by the second day at sea, and she made the run north up the Iberian coast and across the bay in fourteen days that ran from the warm haze of the Portuguese coast through the colder rain of Biscay to the grey weather of the Channel and the still colder grey weather of the North Sea, and through the fourteen days the captain came up at the morning watch and at the afternoon watch and at no other watch, and Lønning had the deck for the rest of the day and most of the night, and Haakon had the foredeck under Lønning, and the *Asta* worked herself north under a system of orders that did not pass through the captain's cabin door because the orders did not need to.

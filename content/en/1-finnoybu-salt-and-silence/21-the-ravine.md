@@ -4,7 +4,7 @@ id: 21
 slug: "the-ravine"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/21-the-ravine.png"
+  image: "/images/1/21-the-ravine.webp"
 ---
 
 The road from Landa to Roda was a road Olava had walked twice before this evening. She was eighteen, and she was walking it for the third time in her life with the youngman from Vestbø beside her.

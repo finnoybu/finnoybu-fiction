@@ -4,7 +4,7 @@ id: 23
 slug: "the-yellow-ribbon"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/23-the-yellow-ribbon.png"
+  image: "/images/1/23-the-yellow-ribbon.webp"
 ---
 
 The studio at the corner of Pedersgate and Asylgata was open at half past eleven on the Saturday morning when Olav came up the stairs to the second floor. The photographer Augustsen was at the small table at the south end of the room with a small stack of envelopes in front of him and a thin paper of accounts beside the envelopes. He looked up when Olav came in. He said good day. He said the cards had come out clean from the plates and that he was satisfied with the work. He gave Olav an envelope.

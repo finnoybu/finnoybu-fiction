@@ -4,7 +4,7 @@ id: 14
 slug: "haakon"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/14-haakon.png"
+  image: "/images/1/14-haakon.webp"
 ---
 
 The morning after the captain's night the sun came up over the hills above Lisbon at a quarter past six and laid a yellow stripe across the river that reached the *Asta* at her anchor at twenty past the hour. Haakon Berg of Hogganvik was at the foremast pin-rail at twenty past, with a coil of three-strand manila in his hands that the boy from the foretop had laid down wrong the day before, and he was laying it down right. He laid it down right because that was the work, and because the captain had not come up at four bells, and because the boy from the foretop had not come down from the rigging.

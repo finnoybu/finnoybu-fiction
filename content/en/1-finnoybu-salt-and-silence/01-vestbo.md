@@ -4,7 +4,7 @@ id: 1
 slug: "vestbo"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/01-vestbo.png"
+  image: "/images/1/01-vestbo.webp"
 ---
 
 The morning he left home, the sea was a line without weather at the far end of his father's fields.

@@ -4,7 +4,7 @@ id: 2
 slug: "hebburn"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/02-hebburn.png"
+  image: "/images/1/02-hebburn.webp"
 ---
 
 A tug brought them up the Tyne on a Thursday forenoon, with the city showing itself by slow degrees through the coal-smoke.

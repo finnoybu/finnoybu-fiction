@@ -75,9 +75,9 @@ export const metadata: Metadata = {
       'In the last great age of sail, a young Norwegian ships out promised to a girl at home — and learns, watch by watch, that the heart keeps two courses at once. A period historical romance by E. A. Westbo.',
     images: [
       {
-        url: '/images/1/00-introduction.png',
-        width: 1536,
-        height: 1024,
+        url: '/images/1/00-introduction.webp',
+        width: 1200,
+        height: 630,
         alt: 'Salt and Silence — cover',
       },
     ],
@@ -87,7 +87,7 @@ export const metadata: Metadata = {
     title: 'Finnoybu: Salt and Silence — Book I',
     description:
       'A young Norwegian ships out promised to a girl at home — and learns, watch by watch, that the heart keeps two courses at once.',
-    images: ['/images/1/00-introduction.png'],
+    images: ['/images/1/00-introduction.webp'],
   },
 }
 

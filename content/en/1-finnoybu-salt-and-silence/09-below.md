@@ -4,7 +4,7 @@ id: 9
 slug: "below"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/09-below.png"
+  image: "/images/1/09-below.webp"
 ---
 
 The wind held from the northwest until the afternoon watch and then began to back.

@@ -4,7 +4,7 @@ id: 7
 slug: "two-weeks"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/07-two-weeks.png"
+  image: "/images/1/07-two-weeks.webp"
 ---
 
 The two weeks between the articles and the sailing began with a boat-shed day. The rain was on the roof and Peder was running the plane down a length of pine his father had brought up from the landing the afternoon before. The plane was old and the iron had been set three times in Olav's memory. Peder held it at an angle Olav would not have held it at, and it took the shaving the way it would not have taken it from Olav. Olav had learned in six months at sea to know when a man had a tool in his own hand rather than his father's hand. Peder had the plane in his own hand. He had come into it in the winter while Olav had been beside him in the winter and had not noticed him coming into it.

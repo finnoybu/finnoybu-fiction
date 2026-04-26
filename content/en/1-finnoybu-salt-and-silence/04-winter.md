@@ -4,7 +4,7 @@ id: 4
 slug: "winter"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/04-winter.png"
+  image: "/images/1/04-winter.webp"
 ---
 
 Christmas passed quietly at Vestbø, with only the three of them at the table and the weather closing in from the northwest.

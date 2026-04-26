@@ -4,7 +4,7 @@ id: 22
 slug: "bredalmendingen"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/22-bredalmendingen.png"
+  image: "/images/1/22-bredalmendingen.webp"
 ---
 
 The boardinghouse on Bredalmendingen was a tall building with three windows on each floor and a door that had been painted blue in the autumn and was still blue, and Olav came up to the door from the corner of Bredalmendingen and Pedersgate at half past two on the Thursday afternoon of the first week of July. He had come up from the wharf at half past one on the Stavanger coast-steamer that had left Judaberg at noon, and he had walked up from the wharf with his small leather bag in his right hand and his good coat over his left arm, and he had not stopped at any of the chandlers' or any of the agents' offices on the way up because the boat had been a quarter of an hour late at the wharf and he had wanted to get to the door of the boardinghouse before three.

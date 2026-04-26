@@ -4,7 +4,7 @@ id: 20
 slug: "landa"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/20-landa.png"
+  image: "/images/1/20-landa.webp"
 ---
 
 On the third Sunday of June Olav and Peder walked the road from Vestbø in the early morning. They wore their clean shirts and their clean coats and the boots they had cleaned the night before. The light came up behind them off the bay. The hawthorn at the lower gate had set its fruit and the petals had gone down into the verge, and the grass at the side of the road was the height of an old man's hand laid flat, and the air had the small heat of a June day getting ready to be warm.

@@ -4,7 +4,7 @@ id: 19
 slug: "vestbo-in-june"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/19-vestbo-in-june.png"
+  image: "/images/1/19-vestbo-in-june.webp"
 ---
 
 The lamp at the kitchen table had gone out in the night and the bread was on the board at the side of the stove and the stove had been laid by the aunt the evening before. The aunt had crossed back over the hill at first light. Olav came down the stairs in the gray of half past four on the morning of the second day at Vestbø and stood at the foot of the stairs with his hand on the post and registered the kitchen as the kitchen he had stood in on every spring morning of his sixteenth year and his seventeenth year and on the morning he had got up to leave for the *Asta* in March. The kitchen was the kitchen. The chair at the foot was the chair the aunt had sat at the previous afternoon, and the chair at the side was the chair Peder had sat at, and the chair at the head was the chair his father had sat at, and the chair at the place at the table that had been Olav's place since he was five years old was empty.
