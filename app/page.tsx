@@ -132,7 +132,7 @@ export default function Home() {
                 <span aria-hidden className="transition-transform duration-300 group-hover:translate-x-1">→</span>
               </div>
             </div>
-            <div className="relative aspect-[3/2] bg-bg-sunk overflow-hidden order-first md:order-last">
+            <div className="relative aspect-[1200/630] bg-bg-sunk overflow-hidden order-first md:order-last">
               {intro.hero?.image && (
                 <Image
                   src={intro.hero.image}
@@ -153,7 +153,7 @@ export default function Home() {
 
           {/* ─── Coming Soon placeholder card ─── */}
           <div className="chapter-card relative block overflow-hidden rounded-lg border border-dashed border-rule bg-bg-elev">
-            <div className="relative aspect-[3/2] overflow-hidden bg-bg-sunk flex items-center justify-center">
+            <div className="relative aspect-[1200/630] overflow-hidden bg-bg-sunk flex items-center justify-center">
               <p
                 className="font-display text-2xl md:text-3xl tracking-[0.22em] uppercase text-brass"
                 style={{ fontFeatureSettings: "'ss01'" }}
