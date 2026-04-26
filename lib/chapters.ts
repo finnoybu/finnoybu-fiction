@@ -81,6 +81,7 @@ export function getChapterBySlug(slug: string): Chapter | null {
         slug: data.slug,
         book: data.book,
         hero: data.hero,
+        excerpt: makeExcerpt(markdown),
         content: marked.parse(markdown) as string,
       } as Chapter
     }

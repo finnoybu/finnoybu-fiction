@@ -4,7 +4,7 @@ id: 16
 slug: "tar"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/16-tar.png"
+  image: "/images/1/16-tar.webp"
 ---
 
 The captain came up from his cabin on the Tuesday after the dropping of the anchor and gave the order for the *Asta* to be warped in to the salt-wharf at Setúbal — which was a thing the captain could not give the order for because the *Asta* was at Lisbon and not at Setúbal, and the salt-wharf at Setúbal was forty miles south by the inside passage and a day's run with a fair wind, and the captain at the wheel-box at six bells of the morning watch in his coat with the wrong button back on the wrong hole gave the order anyway, and Lønning, who had the deck, said *yes* in the voice Lønning had used for *yes* since Palm Sunday morning, and went forward to the bow without looking at the captain again. The Portuguese harbour-pilot came aboard at noon. The pilot took the *Asta* out from the Lisbon anchorage at one o'clock and ran her down the inside passage in a wind that backed twice and held the third time, and by dusk the *Asta* was at the salt-wharf at Setúbal with her bow to the south and the salt-pans of the marshes behind the wharf running away in white squares to the limit of what Olav could see in the failing light. The salt-pans were a thing he had not seen anywhere before. The white had the colour of a substance laid out by men in shallow trays so that the sun would do to it what the sun would not do to it in any harbour Olav had been to.

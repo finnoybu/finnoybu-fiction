@@ -4,7 +4,7 @@ id: 6
 slug: "stavanger"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/06-stavanger.png"
+  image: "/images/1/06-stavanger.webp"
 ---
 
 They crossed to Stavanger on a Tuesday in the first week of March.

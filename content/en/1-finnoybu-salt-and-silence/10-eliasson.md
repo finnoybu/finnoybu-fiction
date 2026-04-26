@@ -4,7 +4,7 @@ id: 10
 slug: "eliasson"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/10-eliasson.png"
+  image: "/images/1/10-eliasson.webp"
 ---
 
 The wind backed into the southwest on the third day and held there.

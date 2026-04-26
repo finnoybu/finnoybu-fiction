@@ -4,7 +4,7 @@ id: 13
 slug: "the-tagus"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/13-the-tagus.png"
+  image: "/images/1/13-the-tagus.webp"
 ---
 
 The pilot took the *Asta* up the Tagus on the morning of the fourteenth day at sea, with the river-fort showing white at the south side of the entrance and the white-tiled buildings of Lisbon climbing the hills on the north side from the water to the high ground above the city. The pilot was a Portuguese in a black coat with brass buttons and a white shirt that had been pressed at a place ashore that pressed pilots' shirts, and he stood at the wheel and gave his orders in an English that was not the English of Hebburn or the English of any place Olav had heard, but that the captain understood and that Lønning understood enough of, and the *Asta* came up the river under topsails and a jib at the slow walk of a deep-loaded ship coming into a harbour she did not know. The hills of Lisbon rose white above the river and the bells of a church Olav could not see were ringing for a service that was not the Lutheran service of any morning he could remember and that was not, by the sound of them, the bells of any service at all but the bells of a place that rang its bells for the hours and not for the souls. The *Asta* came to her anchor at half past eleven off a long wharf on the north shore where four other ships were already lying, and the captain went ashore in the boat with the pilot at noon and did not come back until the sun was halfway down the western sky.

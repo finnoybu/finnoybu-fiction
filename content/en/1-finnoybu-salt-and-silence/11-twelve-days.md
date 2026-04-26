@@ -4,7 +4,7 @@ id: 11
 slug: "twelve-days"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/11-twelve-days.png"
+  image: "/images/1/11-twelve-days.webp"
 ---
 
 Twelve days.

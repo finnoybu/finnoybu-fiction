@@ -4,7 +4,7 @@ id: 15
 slug: "palm-sunday"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/15-palm-sunday.png"
+  image: "/images/1/15-palm-sunday.webp"
 ---
 
 The English came up the Tagus on the Friday before Easter at one bell of the afternoon watch with a flagship that was the largest ship Olav had ever seen on water and four others behind her in the order of a squadron that had run down from Portsmouth to arrive at a place at the time it had said it would arrive. The flagship was a five-masted iron ship with yards on her four forward masts and a fore-and-aft sail at her after mast and a hull the colour of wet slate, and she had the white ensign at her gaff and the rear-admiral's flag at her mizzen, and Pål, who was at the foremast head when the call came down from the lookout, said her name down to the deck and said the names of the four others after her without consulting any chart. Olav was at the main deck. He was at the wash-bucket at the after end with a coil of cordage that had taken a tar-stain at the foremast pin-rail and that he was rinsing in cold water before it set. He looked up when Pål called the names down. He saw the flagship come round the bend in the river under tow of two steam launches and slow at the place she had marked for her anchorage off the north shore, and he saw the four others come up after her at the half-cable interval of warships that knew their own line.

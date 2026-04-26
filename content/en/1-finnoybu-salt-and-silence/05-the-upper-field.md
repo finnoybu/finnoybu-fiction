@@ -4,7 +4,7 @@ id: 5
 slug: "the-upper-field"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/05-the-upper-field.png"
+  image: "/images/1/05-the-upper-field.webp"
 ---
 
 The letter had come on a Thursday and he had not opened it until his sons were both out of the house. He had learned in thirty-six years as a father that the thinking he needed to do about his sons was best done at first without their faces in the room.

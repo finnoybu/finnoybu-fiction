@@ -4,7 +4,7 @@ id: 8
 slug: "away-again"
 book: "salt-and-silence"
 hero:
-  image: "/images/1/08-away-again.png"
+  image: "/images/1/08-away-again.webp"
 ---
 
 Lars came in before the light.
