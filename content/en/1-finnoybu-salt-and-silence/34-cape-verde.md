@@ -121,8 +121,6 @@ The *Dronningen* sailed for Jamaica at the noon tide of the sixth day.
 
 The pilot took her out of the inner harbour under topsails. The trade was at northeast at twelve knots, and the bark went down to the open Atlantic at six knots with the trade on her quarter, and the brown island of São Vicente fell behind at the larboard quarter. Olav was at the foremast pin-rail. He had the letter at the breast-pocket inside the dry coat that he had laid at the chest after the morning's dry-out and had put on again at the change of the watch.
 
-The letter was the letter he carried now.
-
 Bertel came up to the pin-rail at the third bell of the afternoon watch and laid a coil at the cat-falls in the figure-eight beside Olav. Bertel said the trade would hold for the run to the Caribbean. Olav said yes.
 
 The bark went down to fourteen north and turned west at the noon of the third day, and the trade carried her west across the long run to the latitude of Jamaica.
