@@ -150,31 +150,6 @@ export default function Home() {
           {chapters.map((chapter, i) => (
             <ChapterCard key={chapter.slug} chapter={chapter} ordinal={i + 1} />
           ))}
-
-          {/* ─── Coming Soon placeholder card ─── */}
-          <div className="chapter-card relative block overflow-hidden rounded-lg border border-dashed border-rule bg-bg-elev">
-            <div className="relative aspect-[1200/630] overflow-hidden bg-bg-sunk flex items-center justify-center">
-              <p
-                className="font-display text-2xl md:text-3xl tracking-[0.22em] uppercase text-brass"
-                style={{ fontFeatureSettings: "'ss01'" }}
-              >
-                Coming Soon
-              </p>
-            </div>
-            <div className="p-5">
-              <h3
-                className="font-display text-xl leading-tight text-ink"
-                style={{ fontFeatureSettings: "'ss01'" }}
-              >
-                More watches, coming in
-              </h3>
-              <p className="mt-2 font-serif text-sm leading-relaxed text-ink-muted">
-                New chapters are added as they are drafted and reviewed. Check
-                back, or sign in to bookmark your place and be ready when the
-                next one arrives.
-              </p>
-            </div>
-          </div>
         </div>
       </section>
 
